@@ -1,6 +1,6 @@
 # Natural Language Processing Models for Robust Document Categorization
 
-**arXiv ID:** 2602.20336  
+**ArXiv ID:** 2602.20336  
 **Submitted:** February 23, 2026  
 **Authors:** Radoslaw Roszczyk, Pawel Tecza, Maciej Stodolski, Krzysztof Siwek  
 **Field:** Natural Language Processing, Machine Learning

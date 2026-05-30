@@ -1,6 +1,6 @@
 # Colorful-Noise: Training-Free Low-Frequency Noise Manipulation for Color-Based Conditional Image Generation
 
-**arXiv ID:** 2605.00548  
+**ArXiv ID:** 2605.00548  
 **Submitted:** May 22, 2026  
 **Authors:** Nadav Z. Cohen, Ofir Abramovich, Ariel Shamir  
 **Venue:** SIGGRAPH 2026 (Conference Paper)  
@@ -223,7 +223,7 @@ Output: Generated Image with Target Colors
 **Key Implementation Considerations**:
 - FFT operations on 2D spatial noise matrices
 - Frequency band definitions (cutoff frequencies determined empirically)
-- Scaling factors learned from training data or pre-computed lookup tables
+- Scaling factors computed from color specifications or pre-computed lookup tables
 - Normalization to maintain noise statistics
 
 ### Evaluation Metrics
@@ -260,7 +260,6 @@ Output: Generated Image with Target Colors
 - Minimal impact on generation quality (minimal FID/LPIPS degradation)
 - Outperforms text-only color specification on color accuracy metrics
 - Training-free approach generalizes across model architectures
-- (estimated) Computational overhead <5% vs. standard generation
 - Enables more precise color control than existing methods
 
 ## Practical Applications & Use Cases
@@ -424,7 +423,7 @@ Output: Generated Image with Target Colors
 
 **Basic Implementation Steps**:
 
-```python
+```
 1. Load pretrained diffusion model (Stable Diffusion)
 2. Define function for color-to-frequency mapping:
    - Get target color in RGB/LAB

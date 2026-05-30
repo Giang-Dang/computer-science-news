@@ -1,7 +1,7 @@
 # V2V-LLM: Vehicle-to-Vehicle Cooperative Autonomous Driving with Multimodal Large Language Models
 
-**arXiv ID:** 2502.09980  
-**Submitted:** February 16, 2026  
+**ArXiv ID:** 2502.09980  
+**Submitted:** February 16, 2025  
 **Authors:** Hsu-kuang Chiu et al.  
 **Field:** Autonomous Driving, Robotics, Multimodal AI, Vehicle Communication
 
@@ -149,9 +149,10 @@ Multiple Vehicles + Sensor Data → Multimodal LLM → Natural Language Reasonin
   - Coordination: "Should vehicles execute coordinated maneuvers?"
 
 **Data Collection**:
-- Likely built on simulated environments (CARLA, Waymo Open Dataset) or real driving footage
+- Multi-vehicle sensor data from simulated or real driving scenarios
 - Multi-camera synchronization from multiple vehicles
 - Natural language annotation of questions and answers
+- [Specific dataset details available in full paper]
 
 ### Model Architecture Details
 
@@ -194,7 +195,6 @@ Multiple Vehicles + Sensor Data → Multimodal LLM → Natural Language Reasonin
 - Effective handling of occlusion scenarios through cooperative reasoning
 - Demonstrates value of language-based V2V communication
 - Competitive or superior performance vs. traditional fusion approaches
-- (estimated) Latency overhead manageable for real-time driving
 
 ## Practical Applications & Use Cases
 
