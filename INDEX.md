@@ -21,6 +21,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 ## Computer Vision
 
 - [Adversarial Evasion Attacks on Computer Vision using SHAP Values](computer-vision/2026-01-15-adversarial-evasion-attacks-shap.md)
+- [NeoVerse: Enhancing 4D World Model with in-the-Wild Monocular Videos](computer-vision/2026-01-15-neoverse-4d-world-model-monocular-video.md)
 - [Think, Act, Build: An Agentic Framework with Vision Language Models for Zero-Shot 3D Visual Grounding](computer-vision/2026-04-01-think-act-build-agentic-framework-3d-visual-grounding.md)
 - [DiffSparse: Accelerating Diffusion Transformers with Learned Token Sparsity](computer-vision/2026-04-04-diffsparse-accelerating-diffusion-transformers-token-sparsity.md)
 - [Efficient Inference for Large Vision-Language Models: Bottlenecks, Techniques, and Prospects](computer-vision/2026-04-07-efficient-inference-large-vision-language-models.md)
@@ -141,6 +142,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [MemAgent: Reshaping Long-Context LLM with Multi-Conv RL-based Memory Agent](natural-language-processing/2025-07-02-memagent-reshaping-long-context-llm.md)
 - [Natural Language Processing Models for Robust Document Categorization](natural-language-processing/2026-02-23-nlp-document-categorization-robust-models.md)
 - [Sparser, Faster, Lighter Transformer Language Models](natural-language-processing/2026-03-25-sparser-faster-lighter-transformers.md)
+- [Toward Culturally Grounded Natural Language Processing](natural-language-processing/2026-03-27-toward-culturally-grounded-nlp.md)
 - [Revisiting Anisotropy in Language Transformers: The Geometry of Learning Dynamics](natural-language-processing/2026-04-09-anisotropy-language-transformers-geometry-learning-dynamics.md)
 - [Revisiting Anisotropy in Language Transformers: The Geometry of Learning Dynamics](natural-language-processing/2026-04-09-anisotropy-language-transformers.md)
 - [SUPERNOVA: Eliciting General Reasoning in LLMs with Reinforcement Learning on Natural Instructions](natural-language-processing/2026-04-09-supernova-general-reasoning-llms-rl-natural-instructions.md)
@@ -174,6 +176,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 ## Systems
 
 - [Securing Retrieval-Augmented Generation: A Taxonomy of Attacks, Defenses, and Future Directions](systems/2026-04-09-securing-rag-taxonomy-attacks-defenses.md)
+- [Cloud-Native and Distributed Systems for Efficient and Scalable Large Language Models: A Research Agenda](systems/2026-04-19-cloud-native-distributed-systems-llm.md)
 - [BloomBee: Distributed Generative Inference of LLM at Internet Scales with Multi-Dimensional Communication Optimization](systems/2026-04-27-bloomber-distributed-generative-inference-internet-scale.md)
 - [MCAP: Deployment-Time Layer Profiling for Memory-Constrained LLM Inference](systems/2026-04-27-mcap-deployment-time-layer-profiling-memory-constrained-llm.md)
 - [Cloud Is Closer Than It Appears: Revisiting the Tradeoffs of Distributed Real-Time Inference](systems/2026-05-01-distributed-inference-real-time-tradeoffs.md)
