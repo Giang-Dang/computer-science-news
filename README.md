@@ -2,6 +2,10 @@
 
 A curated collection of summaries and analyses of recent computer science research papers, organized by field. This repository tracks cutting-edge developments in AI, machine learning, computer vision, natural language processing, and systems research.
 
+## 🧭 Paper Index
+
+Browse the full navigable list of summaries in [INDEX.md](INDEX.md).
+
 ## 📚 Repository Structure
 
 The repository is organized into four main categories:
