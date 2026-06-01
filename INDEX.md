@@ -56,12 +56,14 @@ A navigable index of paper summaries in this repository, organized by topic.
 
 - [MACOG: Multi-Agent Code-Orchestrated Generation for Reliable Infrastructure-as-Code](llm-agents-dev/agent-orchestration/2025-10-04-macog-multi-agent-code-orchestrated-generation-infrastructure.md)
 - [ABSTRAL: Automated Multi-Agent System Design via Skill-Referenced Adaptive Search](llm-agents-dev/agent-orchestration/2026-03-24-abstral-automated-multi-agent-system-design.md)
+- [AgentForge: Execution-Grounded Multi-Agent LLM Framework for Autonomous Software Engineering](llm-agents-dev/agent-orchestration/2026-04-06-agentforge-execution-grounded-multi-agent-framework.md)
 - [EvoAgent: An Evolvable Agent Framework with Skill Learning and Multi-Agent Delegation](llm-agents-dev/agent-orchestration/2026-04-22-evoagent-evolvable-agent-framework-skill-learning.md)
 - [Code as Agent Harness: Toward Executable, Verifiable, and Stateful Agent Systems](llm-agents-dev/agent-orchestration/2026-05-18-code-as-agent-harness.md)
 - [TDD Governance for Multi-Agent Code Generation via Prompt Engineering](llm-agents-dev/agent-orchestration/2026-05-27-tdd-governance-multi-agent-code-generation.md)
 
 ### Multi Agent Topologies
 
+- [GoAgent: Group-of-Agents Communication Topology Generation for LLM-based Multi-Agent Systems](llm-agents-dev/multi-agent-topologies/2026-03-17-goagent-group-of-agents-communication-topology.md)
 - [Self-Organizing Multi-Agent Systems for Continuous Software Development](llm-agents-dev/multi-agent-topologies/2026-05-27-self-organizing-multi-agent-continuous-software-development.md)
 - [CodeCRDT: Observation-Driven Coordination for Multi-Agent LLM Code Generation](llm-agents-dev/multi-agent-topologies/2026-10-18-codecrdt-observation-driven-coordination.md)
 
@@ -82,6 +84,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 
 ### Tool Use
 
+- [SoK: Agentic Skills -- Beyond Tool Use in LLM Agents](llm-agents-dev/tool-use/2026-02-24-sok-agentic-skills-beyond-tool-use.md)
 - [The Evolution of Tool Use in LLM Agents: From Single-Tool Call to Multi-Tool Orchestration](llm-agents-dev/tool-use/2026-03-24-evolution-tool-use-multi-tool-orchestration.md)
 - [AutoTool: Dynamic Tool Selection and Integration for Agentic Reasoning](llm-agents-dev/tool-use/2026-05-27-autotool-dynamic-tool-selection-agentic-reasoning.md)
 
