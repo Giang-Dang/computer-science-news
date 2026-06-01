@@ -248,6 +248,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 
 - [A Survey on Sparse Autoencoders: Interpreting the Internal Mechanisms of Large Language Models](xai/mechanistic-interpretability/2025-03-07-survey-sparse-autoencoders-llm-mechanisms.md)
 - [Mechanistic Interpretability of Code Correctness in LLMs via Sparse Autoencoders](xai/mechanistic-interpretability/2025-10-09-mechanistic-interp-code-correctness-llm-saes.md)
+- [Weight-Sparse Transformers Have Interpretable Circuits](xai/mechanistic-interpretability/2025-11-17-weight-sparse-transformers-interpretable-circuits.md)
 - [nnterp: A Standardized Interface for Mechanistic Interpretability of Transformers](xai/mechanistic-interpretability/2025-12-14-nnterp-standardized-interface-mechanistic-interpretability.md)
 - [Interpreting Transformers Through Attention Head Intervention](xai/mechanistic-interpretability/2026-01-07-interpreting-transformers-attention-head-intervention.md)
 - [AudioSAE: Towards Understanding of Audio-Processing Models with Sparse AutoEncoders](xai/mechanistic-interpretability/2026-02-06-audiosae-sparse-autoencoders-audio-models.md)
