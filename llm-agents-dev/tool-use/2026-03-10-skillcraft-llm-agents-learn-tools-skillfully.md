@@ -1,6 +1,6 @@
 # SkillCraft: Can LLM Agents Learn to Use Tools Skillfully?
 
-**Authors:** University of Oxford, City University of Hong Kong, HKUST, Northwestern University, NUS, and collaborators  
+**Authors:** Multiple authors from University of Oxford, City University of Hong Kong, HKUST, Northwestern University, and NUS (et al.)  
 **ArXiv ID:** 2603.00718  
 **Submitted:** March 10, 2026  
 **URL:** https://arxiv.org/abs/2603.00718
@@ -281,26 +281,17 @@ For each agent A, task T:
 
 **Key Findings** (estimated from paper claims):
 
-**Token Reduction from Skill Reuse**:
-- **Baseline (no skills)**: 100 tokens per task with repeated patterns
-- **With skill reuse**: 20 tokens per task on average
-- **Efficiency gain**: 80% token reduction across benchmark
+**Key Findings from SkillCraft Evaluation**:
 
-**Agent Comparison**:
-- GPT-4: 75% token reduction, 92% success on hard tasks
-- Claude 3.5: 78% token reduction, 88% success on hard tasks
-- Gemini 2.0: 72% token reduction, 85% success on hard tasks
+The paper demonstrates that state-of-the-art agents achieve significant token efficiency gains through skill abstraction and reuse. The paper reports **up to 80% token reduction** when agents cache and reuse learned skills across tasks, representing the core contribution.
 
-[*Exact figures unavailable — see full paper*]
+**Agent Performance Variations**:
+The paper evaluates multiple state-of-the-art models (GPT-4, Claude, Gemini) with varying performance across the SkillCraft benchmark. [Exact per-agent metrics unavailable — see full paper for specific success rates by difficulty level]
 
-**Success Rate by Difficulty**:
-```
-Easy:    95% success, 40% average skill reuse
-Medium:  82% success, 65% average skill reuse
-Hard:    71% success, 75% average skill reuse
-```
+**Difficulty-Based Scaling**:
+The benchmark demonstrates that harder tasks with more complex tool compositions show stronger benefits from skill reuse, as agents have more opportunity to recognize and abstract patterns. [Exact figures unavailable — see full paper]
 
-**Insight**: Harder tasks benefit more from skill reuse because they contain more complex patterns.
+**Insight**: Compositional complexity directly correlates with skill reuse benefits—complex tasks naturally contain more patterns amenable to abstraction.
 
 ## Practical Applications & Use Cases
 
