@@ -20,6 +20,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 
 ## Computer Vision
 
+- [From Sight to Insight: Improving Visual Reasoning Capabilities of Multimodal Models via Reinforcement Learning](computer-vision/2026-01-01-from-sight-to-insight-visual-reasoning-rl.md)
 - [Adversarial Evasion Attacks on Computer Vision using SHAP Values](computer-vision/2026-01-15-adversarial-evasion-attacks-shap.md)
 - [NeoVerse: Enhancing 4D World Model with in-the-Wild Monocular Videos](computer-vision/2026-01-15-neoverse-4d-world-model-monocular-video.md)
 - [Think, Act, Build: An Agentic Framework with Vision Language Models for Zero-Shot 3D Visual Grounding](computer-vision/2026-04-01-think-act-build-agentic-framework-3d-visual-grounding.md)
@@ -94,6 +95,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [Unleash Graph Neural Networks from Heavy Tuning: GNN-Diff Framework](machine-learning/2024-05-13-gnn-diff-unleash-graph-neural-networks.md)
 - [Coding Agents with Multimodal Browsing are Generalist Problem Solvers](machine-learning/2025-06-03-openhands-versa-coding-agents-multimodal-browsing.md)
 - [Hidden Breakthroughs in Language Model Training](machine-learning/2025-06-18-hidden-breakthroughs-language-model-training.md)
+- [Preconditioned Attention: Enhancing Efficiency in Transformers](machine-learning/2026-03-28-preconditioned-attention-transformers.md)
 - [The Expert Strikes Back: Interpreting Mixture-of-Experts Language Models at Expert Level](machine-learning/2026-04-02-expert-strikes-back-interpreting-moe-language-models.md)
 - [REAM: Merging Improves Pruning of Experts in LLMs](machine-learning/2026-04-06-ream-merging-improves-pruning-experts-llms.md)
 - [AgentGL: Towards Agentic Graph Learning with LLMs via Reinforcement Learning](machine-learning/2026-04-08-agentgl-agentic-graph-learning-llms-reinforcement-learning.md)
@@ -162,6 +164,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [How Language Models Process Out-of-Distribution Inputs: A Two-Pathway Framework](natural-language-processing/2026-05-01-ood-detection-two-pathway-language-models.md)
 - [ClinicBot: A Guideline-Grounded Clinical Chatbot with Prioritized Evidence RAG and Verifiable Citations](natural-language-processing/2026-05-05-clinicbot-guideline-grounded-clinical-chatbot.md)
 - [A Multimodal Dataset for Visually Grounded Ambiguity in Machine Translation](natural-language-processing/2026-05-05-vida-multimodal-machine-translation.md)
+- [Natural Language Processing: A Comprehensive Practical Guide from Tokenisation to RLHF](natural-language-processing/2026-05-05-nlp-comprehensive-guide-tokenisation-rlhf.md)
 - [STALE: Can LLM Agents Know When Their Memories Are No Longer Valid?](natural-language-processing/2026-05-07-stale-llm-agent-memory-validity.md)
 - [UniSD: Towards a Unified Self-Distillation Framework for Large Language Models](natural-language-processing/2026-05-07-unisd-unified-self-distillation-llm.md)
 - [Solve the Loop: Attractor Models for Language and Reasoning](natural-language-processing/2026-05-12-attractor-models-language-reasoning.md)
