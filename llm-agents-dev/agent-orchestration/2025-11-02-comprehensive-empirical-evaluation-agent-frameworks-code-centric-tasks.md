@@ -120,28 +120,11 @@ Frameworks evaluated along two axes:
 
 ### 2. Effectiveness-Efficiency-Overhead Trade-off Analysis
 
-**Key Finding**: Frameworks exhibit distinct trade-off profiles:
+**Key Finding**: Frameworks exhibit distinct trade-off profiles between effectiveness, efficiency, and overhead. The paper systematically analyzes these dimensions across multiple frameworks.
 
-```
-Framework Trade-off Profiles:
+The paper demonstrates that **no single framework dominates all three dimensions**—frameworks optimizing for flexibility and expressiveness often require more careful orchestration design, while simpler frameworks may sacrifice some effectiveness.
 
-AutoGen:
-  Effectiveness: ★★★☆☆ (Moderate)
-  Efficiency:    ★★★★☆ (Good)
-  Overhead:      ★★☆☆☆ (High token usage)
-
-MetaGPT:
-  Effectiveness: ★★★★☆ (High)
-  Efficiency:    ★★☆☆☆ (Slower convergence)
-  Overhead:      ★★★★☆ (High planning overhead)
-
-LangGraph:
-  Effectiveness: ★★★★★ (Highest)
-  Efficiency:    ★★★★★ (Excellent)
-  Overhead:      ★★★☆☆ (Moderate)
-```
-
-**Insight**: Frameworks optimizing for flexibility/expressiveness (LangGraph) tend to have higher effectiveness but require more careful orchestration design.
+[Exact per-framework ratings and comparative metrics unavailable — see full paper for detailed performance profiles across effectiveness, efficiency, and overhead dimensions]
 
 ### 3. Framework Capability Gaps and Limitations
 
@@ -223,21 +206,15 @@ The evaluation reveals systematic limitations in current frameworks:
 
 **Aggregated Performance Results:**
 
-| Framework | Dev Success | Vuln Detect | Repair Success | Avg Tokens | Cost Efficiency |
-|-----------|------------|------------|---|---|---|
-| LangGraph | ~85% | ~78% | ~72% | 8500 | High |
-| MetaGPT | ~80% | ~81% | ~68% | 12000 | Medium |
-| AutoGen | ~78% | ~75% | ~70% | 7200 | High |
-| CrewAI | ~82% | ~77% | ~65% | 9800 | Medium |
-| OpenDevin | ~76% | ~72% | ~68% | 8900 | Medium |
+The paper provides comprehensive comparative analysis of the 7 frameworks across the three code-centric tasks (software development, vulnerability detection, program repair), measuring effectiveness, efficiency, and overhead for each framework-task combination.
 
-[*Note: Exact figures unavailable — see full paper for detailed results*]
+**Key Findings**:
+- Task type significantly impacts framework capability rankings
+- Token efficiency varies substantially across frameworks based on design approach
+- Overhead patterns are non-linear with respect to task complexity
+- No single framework achieves superior performance across all three evaluation dimensions
 
-**Key Statistical Findings**:
-- Task type significantly impacts framework ranking (ANOVA p < 0.001)
-- Token efficiency correlates with framework expressiveness (r = -0.72)
-- Overhead scales non-linearly with task complexity
-- No single framework dominates all three dimensions
+[*Exact per-framework success rates, token usage, and statistical metrics unavailable — see full paper for detailed quantitative results and comparative analysis*]
 
 ## Practical Applications & Use Cases
 
