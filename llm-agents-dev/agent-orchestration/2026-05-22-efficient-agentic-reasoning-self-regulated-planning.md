@@ -1,5 +1,13 @@
 # Efficient Agentic Reasoning Through Self-Regulated Simulative Planning
 
+**ArXiv ID:** [2605.22138](https://arxiv.org/abs/2605.22138)  
+**Authors:** Mingkai Deng, Jinyu Hou, Lara Sá Neves, Varad Pimpalkhute, Taylor W. Killian, Zhengzhong Liu, Eric P. Xing  
+**Affiliations:** Carnegie Mellon University, Institute of Foundation Models (IFM)  
+**Submitted:** May 2026  
+**Field:** Agents / AI Systems / Machine Learning
+
+---
+
 ## Executive Summary
 
 This work introduces a novel three-system architecture for agentic reasoning that achieves competitive performance with systems 120-355× larger while using 25-95% fewer reasoning tokens. The key insight is decomposing agent decision-making into simulative reasoning (System II for planning), self-regulation (System III for deciding when to plan), and reactive execution (System I for action), enabling efficient and generalizable reasoning across diverse tasks without per-domain engineering.
