@@ -197,6 +197,10 @@ A navigable index of paper summaries in this repository, organized by topic.
 
 ## XAI
 
+### Actionable Interpretability
+
+- [Interpretability Can Be Actionable: Shifting Evaluation Criteria in Explainable AI Research](xai/actionable-interpretability/2026-06-03-interpretability-can-be-actionable.md)
+
 ### Algorithmic Contestability
 
 - [Explainable AI Isn't Enough! Rethinking Algorithmic Contestability](xai/algorithmic-contestability/2026-05-15-explainable-ai-algorithmic-contestability.md)
