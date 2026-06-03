@@ -1,5 +1,13 @@
 # Critique-GRPO: Advancing LLM Reasoning with Natural Language and Numerical Feedback
 
+**ArXiv ID:** [2506.03106](https://arxiv.org/abs/2506.03106)  
+**Authors:** Xiaoying Zhang, Yipeng Zhang, Hao Sun, Kaituo Feng, Chaochao Lu, Chao Yang, Helen Meng  
+**Affiliations:** The Chinese University of Hong Kong, University of Cambridge, Shanghai Artificial Intelligence Laboratory  
+**Submitted:** June 2025  
+**Field:** Natural Language Processing / Machine Learning
+
+---
+
 ## Executive Summary
 
 Critique-GRPO is an online reinforcement learning framework that significantly improves LLM reasoning by integrating both natural language critiques and numerical rewards. The approach addresses fundamental limitations of purely numerical feedback in RL-based LLM training, enabling models to achieve 15-21% improvements on reasoning benchmarks through learning from both initial responses and critique-guided refinements.

@@ -1,5 +1,13 @@
 # Large Language Models are Universal Reasoners for Visual Generation (UniReasoner)
 
+**ArXiv ID:** [2605.04040](https://arxiv.org/abs/2605.04040)  
+**Authors:** Sucheng Ren, Chen Chen, Zhenbang Wang, Liangchen Song, Xiangxin Zhu, Alan Yuille, Liang-Chieh Chen, Jiasen Lu  
+**Affiliations:** Johns Hopkins University, Apple  
+**Submitted:** May 2026  
+**Field:** Computer Vision / Natural Language Processing
+
+---
+
 ## Executive Summary
 
 UniReasoner is a framework that leverages large language models as universal reasoners to bridge the understanding-generation gap in visual generation systems. By using LLMs to perform self-critique on coarse visual drafts, the system generates actionable, grounded feedback that guides diffusion models to produce images faithfully aligned with complex textual prompts. This approach achieves improved compositional alignment and semantic faithfulness while maintaining image quality, addressing a fundamental limitation where systems can verify image-prompt alignment but fail to generate faithfully aligned images.
@@ -275,4 +283,4 @@ Implementation pipeline:
 - arXiv: https://arxiv.org/abs/2605.04040
 - Authors: Sucheng Ren, Chen Chen, Zhenbang Wang, Liangchen Song, Xiangxin Zhu, Alan Yuille, Liang-Chieh Chen, Jiasen Lu
 - Institutions: Johns Hopkins University, Apple
-- Submission: June 2026
+- Submission: May 2026
