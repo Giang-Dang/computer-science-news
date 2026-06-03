@@ -1,9 +1,10 @@
 # Interpretability Can Be Actionable: Shifting Evaluation Criteria in Explainable AI Research
 
-**arXiv ID:** 2605.11161  
+**[ArXiv ID](https://arxiv.org/abs/2605.11161):** 2605.11161  
 **Authors:** Hadas Orgad, Fazl Barez, Tal Haklay, Isabelle Lee, Marius Mosbach, Anja Reusch, Naomi Saphra, Byron Wallace, Sarah Wiegreffe, Eric Wong, Ian Tenney, Mor Geva  
 **Submitted:** May 11, 2026  
-**Topic:** Actionable Interpretability, Evaluation Criteria for Explainable AI, Real-World Impact
+**Subfield:** Actionable Interpretability  
+**Keywords:** Evaluation Criteria for Explainable AI, Real-World Impact
 
 ---
 
@@ -418,7 +419,7 @@ Just as software engineering is distinct from computer science, there's a need f
 
 **"Actionable Interpretability Must Be Defined in Terms of Symmetries" (arXiv:2601.12913)**
 - Proposes that actionability should be mathematically grounded in symmetry principles
-- Suggests frameworks for systematically identifying interverable components
+- Suggests frameworks for systematically identifying intervenable components
 
 **"Locate, Steer, and Improve" (arXiv:2601.14004)**
 - Practical survey of current actionable mechanistic interpretability methods
