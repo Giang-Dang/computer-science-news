@@ -70,11 +70,13 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [Agentic AI Frameworks: Architectures, Protocols, and Design Challenges](llm-agents-dev/agent-orchestration/2025-08-13-agentic-ai-frameworks-architectures-protocols-design-challenges.md)
 - [Towards Adaptive, Scalable, and Robust Coordination of LLM Agents: A Dynamic Ad-Hoc Networking Perspective](llm-agents-dev/agent-orchestration/2026-02-08-raps-adaptive-coordination-llm-agents.md)
 - [DeepCode: Open Agentic Coding](llm-agents-dev/agent-orchestration/2025-12-08-deepcode-open-agentic-coding.md)
+- [The Orchestration of Multi-Agent Systems: Architectures, Protocols, and Enterprise Adoption](llm-agents-dev/agent-orchestration/2026-01-20-orchestration-multi-agent-systems-architectures.md)
 - [ABSTRAL: Automated Multi-Agent System Design via Skill-Referenced Adaptive Search](llm-agents-dev/agent-orchestration/2026-03-24-abstral-automated-multi-agent-system-design.md)
 - [AgentForge: Execution-Grounded Multi-Agent LLM Framework for Autonomous Software Engineering](llm-agents-dev/agent-orchestration/2026-04-06-agentforge-execution-grounded-multi-agent-framework.md)
 - [EvoAgent: An Evolvable Agent Framework with Skill Learning and Multi-Agent Delegation](llm-agents-dev/agent-orchestration/2026-04-22-evoagent-evolvable-agent-framework-skill-learning.md)
 - [Reinforcement Learning for LLM-based Multi-Agent Systems through Orchestration Traces](llm-agents-dev/agent-orchestration/2026-05-04-reinforcement-learning-multi-agent-orchestration-traces.md)
 - [Code as Agent Harness: Toward Executable, Verifiable, and Stateful Agent Systems](llm-agents-dev/agent-orchestration/2026-05-18-code-as-agent-harness.md)
+- [A Two-Dimensional Framework for AI Agent Design Patterns: Cognitive Function × Execution Topology](llm-agents-dev/agent-orchestration/2026-05-26-two-dimensional-framework-agent-design-patterns.md)
 - [TDD Governance for Multi-Agent Code Generation via Prompt Engineering](llm-agents-dev/agent-orchestration/2026-05-27-tdd-governance-multi-agent-code-generation.md)
 - [Code as Agent Harness: Toward Executable, Verifiable, and Stateful Agent Systems](llm-agents-dev/agent-orchestration/2026-05-18-code-as-agent-harness.md)
 - [Reinforcement Learning for LLM-based Multi-Agent Systems through Orchestration Traces](llm-agents-dev/agent-orchestration/2026-05-04-reinforcement-learning-multi-agent-orchestration-traces.md)
@@ -94,6 +96,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 
 ### Multi Agent Topologies
 
+- [A Taxonomy of Hierarchical Multi-Agent Systems: Design Patterns, Coordination Mechanisms, and Industrial Applications](llm-agents-dev/multi-agent-topologies/2025-08-18-taxonomy-hierarchical-multi-agent-systems-design.md)
 - [GoAgent: Group-of-Agents Communication Topology Generation for LLM-based Multi-Agent Systems](llm-agents-dev/multi-agent-topologies/2026-03-17-goagent-group-of-agents-communication-topology.md)
 - [Self-Organized Agents: A LLM Multi-Agent Framework toward Ultra Large-Scale Code Generation and Optimization](llm-agents-dev/multi-agent-topologies/2026-04-02-self-organized-agents-ultra-large-scale-code-generation.md)
 - [Self-Organizing Multi-Agent Systems for Continuous Software Development](llm-agents-dev/multi-agent-topologies/2026-05-27-self-organizing-multi-agent-continuous-software-development.md)
