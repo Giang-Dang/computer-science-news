@@ -7,7 +7,7 @@
 
 ## Executive Summary
 
-This paper introduces a two-dimensional taxonomy for AI agent design patterns, orthogonally combining **Cognitive Function** (what agents do: perception, reasoning, action, reflection, collaboration, governance) and **Execution Topology** (how agents are organized: chain, route, parallel, orchestrate, loop, hierarchy). It directly addresses the chaos of agent architecture design by showing that systems with identical topologies can implement fundamentally different patterns with different failure modes—enabling practitioners to design autonomous software engineering systems with explicit awareness of cognitive capabilities and failure semantics.
+This paper introduces a two-dimensional taxonomy for AI agent design patterns, orthogonally combining **Cognitive Function** (what agents do: perception, memory, reasoning, action, reflection, collaboration, governance) and **Execution Topology** (how agents are organized: chain, route, parallel, orchestrate, loop, hierarchy). It directly addresses the chaos of agent architecture design by showing that systems with identical topologies can implement fundamentally different patterns with different failure modes—enabling practitioners to design autonomous software engineering systems with explicit awareness of cognitive capabilities and failure semantics.
 
 ## Problem Statement
 
