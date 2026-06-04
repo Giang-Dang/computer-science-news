@@ -1,7 +1,7 @@
 # ReaComp: Compiling LLM Reasoning into Symbolic Solvers for Efficient Program Synthesis
 
 **Authors:** (Research team — see full paper for complete authorship)  
-**ArXiv ID:** 2605.05485  
+**ArXiv ID:** [2605.05485](https://arxiv.org/abs/2605.05485)  
 **Submitted:** May 5, 2026  
 **Research Focus:** Neuro-symbolic program synthesis, LLM reasoning compilation, efficient code generation
 

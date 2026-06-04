@@ -1,7 +1,7 @@
 # Reinforcement Learning for LLM-based Multi-Agent Systems through Orchestration Traces
 
 **Authors:** Chenchen Zhang  
-**ArXiv ID:** 2605.02801  
+**ArXiv ID:** [2605.02801](https://arxiv.org/abs/2605.02801)  
 **Submitted:** May 4, 2026  
 **Research Focus:** Multi-agent orchestration, RL-based agent coordination, reward design for complex team workflows
 

@@ -1,7 +1,7 @@
 # Empowering Autonomous Debugging Agents with Efficient Dynamic Analysis
 
 **Authors:** Jiahong Xiang, Xiaoyang Xu, Xiaopan Chu, Hongliang Tian, Yuqun Zhang  
-**ArXiv ID:** 2604.24212  
+**ArXiv ID:** [2604.24212](https://arxiv.org/abs/2604.24212)  
 **Submitted:** April 27, 2026  
 **Research Focus:** Autonomous program repair, debugging agents, efficient dynamic analysis, developer tool automation
 
