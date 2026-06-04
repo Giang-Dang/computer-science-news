@@ -271,6 +271,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [AudioSAE: Towards Understanding of Audio-Processing Models with Sparse AutoEncoders](xai/mechanistic-interpretability/2026-02-06-audiosae-sparse-autoencoders-audio-models.md)
 - [Finding Highly Interpretable Prompt-Specific Circuits in Language Models](xai/mechanistic-interpretability/2026-02-13-prompt-specific-circuits-language-models.md)
 - [Circuit Insights: Towards Interpretability Beyond Activations](xai/mechanistic-interpretability/2026-03-04-circuit-insights-beyond-activations.md)
+- [Causally Grounded Mechanistic Interpretability for LLMs with Faithful Natural-Language Explanations](xai/mechanistic-interpretability/2026-03-13-causally-grounded-mechanistic-interpretability-llms-natural-language-explanations.md)
 - [Interpretability without Actionability: Mechanistic Methods Cannot Correct Language Model Errors Despite Near-Perfect Internal Representations](xai/mechanistic-interpretability/2026-03-18-interpretability-without-actionability.md)
 - [Counting Circuits: Mechanistic Interpretability of Visual Reasoning in Large Vision-Language Models](xai/mechanistic-interpretability/2026-03-19-counting-circuits-mechanistic-interpretability-visual-reasoning-vlms.md)
 - [Sparse Autoencoders Reveal Interpretable and Steerable Features in VLA Models](xai/mechanistic-interpretability/2026-03-19-saes-vla-models-steerable-features.md)
