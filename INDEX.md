@@ -149,6 +149,9 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [ARISE: Agent Reasoning with Intrinsic Skill Evolution in Hierarchical Reinforcement Learning](machine-learning/2026-03-17-arise-agent-reasoning-intrinsic-skill-evolution.md)
 - [T²PO: Uncertainty-Guided Exploration Control for Stable Multi-Turn Agentic Reinforcement Learning](machine-learning/2026-05-19-t2po-uncertainty-guided-exploration-stable-multi-turn-agentic-rl.md)
 - [LongTraceRL: Learning Long-Context Reasoning from Search Agent Trajectories with Rubric Rewards](machine-learning/2026-05-29-longtrace-rl-long-context-reasoning-search-agent-trajectories.md)
+- [Energy-Gated Attention and Wavelet Positional Encoding: Complementary Inductive Biases for Transformer Attention](machine-learning/2026-05-25-energy-gated-attention-wavelet-positional-encoding.md)
+- [Building The Ph(ysical)AI Layer Of Machine Intelligence](machine-learning/2026-06-02-physical-ai-layer-machine-intelligence.md)
+- [AugMask: Training Diffusion Models on Incomplete Tabular Data via Stochastic Augmentation and Masking](machine-learning/2026-06-02-augmask-diffusion-incomplete-tabular-data.md)
 
 ## Natural Language Processing
 
