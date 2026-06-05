@@ -91,8 +91,11 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [AdaptOrch: Task-Adaptive Multi-Agent Orchestration in the Era of LLM Performance Convergence](llm-agents-dev/agent-orchestration/2026-06-15-adaptorch-task-adaptive-multi-agent-orchestration.md)
 - [A Two-Dimensional Framework for AI Agent Design Patterns: Cognitive Function × Execution Topology](llm-agents-dev/agent-orchestration/2026-06-15-two-dimensional-framework-agent-design-patterns.md)
 - [Reinforcement Learning for LLM-based Multi-Agent Systems through Orchestration Traces](llm-agents-dev/agent-orchestration/2026-05-04-rl-multi-agent-orchestration-traces.md)
-- [A Two-Dimensional Framework for AI Agent Design Patterns: Cognitive Function and Execution Topology](llm-agents-dev/agent-orchestration/2026-05-27-two-dimensional-framework-agent-design-patterns.md)
+- [Reinforcement Learning for LLM-based Multi-Agent Systems through Orchestration Traces](llm-agents-dev/agent-orchestration/2026-05-04-rl-multi-agent-orchestration-traces.md)
 - [Learning and Reusing Policy Decompositions for Hierarchical Generalized Planning with LLM Agents](llm-agents-dev/agent-orchestration/2026-05-07-hierarchical-policy-decomposition-llm-agents.md)
+- [Code as Agent Harness: Toward Executable, Verifiable, and Stateful Agent Systems](llm-agents-dev/agent-orchestration/2026-05-18-code-as-agent-harness.md)
+- [TDD Governance for Multi-Agent Code Generation via Prompt Engineering](llm-agents-dev/agent-orchestration/2026-05-27-tdd-governance-multi-agent-code-generation.md)
+- [A Two-Dimensional Framework for AI Agent Design Patterns: Cognitive Function and Execution Topology](llm-agents-dev/agent-orchestration/2026-05-27-two-dimensional-framework-agent-design-patterns.md)
 
 ### Multi Agent Topologies
 
