@@ -181,6 +181,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [Position: Agentic AI Orchestration Should Be Bayes-Consistent](machine-learning/2026-05-01-agentic-ai-orchestration-bayes-consistent.md)
 - [Characterizing the Expressivity of Local Attention in Transformers](machine-learning/2026-05-01-characterizing-expressivity-local-attention-transformers.md)
 - [Token Arena: A Continuous Benchmark Unifying Energy and Cognition in AI Inference](machine-learning/2026-05-01-token-arena-energy-cognition-ai-inference.md)
+- [A Theory of Generalization in Deep Learning](machine-learning/2026-05-02-a-theory-of-generalization-in-deep-learning.md)
 - [Less is More: Geometric Unlearning for LLMs with Minimal Data Disclosure](machine-learning/2026-05-03-geometric-unlearning-llms-minimal-data-disclosure.md)
 - [MIRA: A Score for Conditional Distribution Accuracy and Model Comparison](machine-learning/2026-05-03-mira-conditional-distribution-model-comparison.md)
 - [Single-Position Intervention Fails: Distributed Output Templates Drive In-Context Learning](machine-learning/2026-05-05-in-context-learning-distributed-templates.md)
@@ -195,6 +196,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [A Comparative Study of Machine Learning and Deep Learning for Out-of-Distribution Detection](machine-learning/2026-05-11-ml-vs-dl-ood-detection-medical-imaging.md)
 - [Deep Reasoning in General Purpose Agents via Structured Meta-Cognition](machine-learning/2026-05-12-deep-reasoning-agents-structured-meta-cognition.md)
 - [How to Scale Mixture-of-Experts: From muP to the Maximally Scale-Stable Parameterization](machine-learning/2026-05-13-scaling-mixture-of-experts.md)
+- [Self-Distilled Agentic Reinforcement Learning](machine-learning/2026-05-14-self-distilled-agentic-reinforcement-learning.md)
 - [Reasoning Models Don't Just Think Longer, They Move Differently](machine-learning/2026-05-14-reasoning-models-move-differently.md)
 - [Don't Stop Me Yet: Sampling Loss Minima via Dissipative Riemannian Mechanics](machine-learning/2026-05-14-sampling-loss-minima-riemannian-mechanics.md)
 - [Breaking Global Self-Attention Bottlenecks in Transformer-based Spiking Neural Networks with Local Structure-Aware Self-Attention](machine-learning/2026-05-15-efficient-spiking-transformers-attention.md)
@@ -214,6 +216,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [Energy-Gated Attention and Wavelet Positional Encoding: Complementary Inductive Biases for Transformer Attention](machine-learning/2026-05-25-energy-gated-attention-wavelet-positional-encoding.md)
 - [Building The Ph(ysical)AI Layer Of Machine Intelligence](machine-learning/2026-06-02-physical-ai-layer-machine-intelligence.md)
 - [AugMask: Training Diffusion Models on Incomplete Tabular Data via Stochastic Augmentation and Masking](machine-learning/2026-06-02-augmask-diffusion-incomplete-tabular-data.md)
+- [Do Transformers Need Three Projections? Systematic Study of QKV Variants](machine-learning/2026-06-04-do-transformers-need-three-projections.md)
 
 ## Natural Language Processing
 
