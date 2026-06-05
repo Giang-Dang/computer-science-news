@@ -3,7 +3,7 @@
 **Authors:** Jia Huang, Joey Tianyi Zhou  
 **Affiliations:** Agency for Science, Technology and Research (A*STAR), Centre for Frontier AI Research (CFAR), Singapore  
 **ArXiv ID:** 2605.13850  
-**Submission Date:** May 2026  
+**Submission Date:** May 27, 2026 (v2)  
 **Focus Area:** Agent architecture design, design patterns, multi-agent topologies
 
 ## Executive Summary
@@ -455,9 +455,9 @@ The paper includes a design pattern reference guide (28+ patterns) organized by:
 
 ### Related Papers in This Repository
 
-- [ABSTRAL: Automated Multi-Agent System Design via Skill-Referenced Adaptive Search](llm-agents-dev/agent-orchestration/2026-03-24-abstral-automated-multi-agent-system-design.md)
-- [EvoAgent: Evolvable Agent Framework with Skill Learning](llm-agents-dev/agent-orchestration/2026-04-22-evoagent-evolvable-agent-framework-skill-learning.md)
-- [GoAgent: Group-of-Agents Communication Topology Generation](llm-agents-dev/multi-agent-topologies/2026-03-17-goagent-group-of-agents-communication-topology.md)
+- [ABSTRAL: Automated Multi-Agent System Design via Skill-Referenced Adaptive Search](./2026-03-24-abstral-automated-multi-agent-system-design.md)
+- [EvoAgent: Evolvable Agent Framework with Skill Learning](./2026-04-22-evoagent-evolvable-agent-framework-skill-learning.md)
+- [GoAgent: Group-of-Agents Communication Topology Generation](../multi-agent-topologies/2026-03-17-goagent-group-of-agents-communication-topology.md)
 
 ### Future Directions
 

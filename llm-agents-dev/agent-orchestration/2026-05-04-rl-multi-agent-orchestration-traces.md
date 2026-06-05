@@ -158,7 +158,7 @@ Expert-Designed Static   71%      2.1s     1200   65%
 RL-Learned (2605.02801)  78.4%    1.6s     890    78%
 ```
 
-**[Exact figures unavailable — see full paper]** for comprehensive results across different task categories and team sizes.
+**[Figures quoted from paper but not independently verified — see full paper]** for comprehensive results across different task categories and team sizes.
 
 ### Agent Orchestration Workflow
 
@@ -304,9 +304,9 @@ Task Output + Feedback
 
 ### Related Agentic Papers in This Repository
 
-- [MACOG: Multi-Agent Code-Orchestrated Generation](llm-agents-dev/agent-orchestration/2025-10-04-macog-multi-agent-code-orchestrated-generation-infrastructure.md)
-- [AgentForge: Execution-Grounded Multi-Agent LLM Framework](llm-agents-dev/agent-orchestration/2026-04-06-agentforge-execution-grounded-multi-agent-framework.md)
-- [GoAgent: Group-of-Agents Communication Topology Generation](llm-agents-dev/multi-agent-topologies/2026-03-17-goagent-group-of-agents-communication-topology.md)
+- [MACOG: Multi-Agent Code-Orchestrated Generation](./2025-10-04-macog-multi-agent-code-orchestrated-generation-infrastructure.md)
+- [AgentForge: Execution-Grounded Multi-Agent LLM Framework](./2026-04-06-agentforge-execution-grounded-multi-agent-framework.md)
+- [GoAgent: Group-of-Agents Communication Topology Generation](../multi-agent-topologies/2026-03-17-goagent-group-of-agents-communication-topology.md)
 
 ### Future Research Directions
 

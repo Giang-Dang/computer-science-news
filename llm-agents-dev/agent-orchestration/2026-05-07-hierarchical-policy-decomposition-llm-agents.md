@@ -323,7 +323,7 @@ Improvement from reuse:
   Mistral:  +56.2 points (transformative)
 ```
 
-**[Exact figures unavailable — see full paper]** for full benchmark results, statistical significance, and ablations.
+**[Figures quoted from paper but not independently verified — see full paper]** for full benchmark results, statistical significance, and ablations.
 
 **Challenge Tasks (Unseen Applications/Structures):**
 
@@ -545,10 +545,10 @@ similar = library.search(
 
 ### Related Papers in This Repository
 
-- [ABSTRAL: Automated Multi-Agent System Design via Skill-Referenced Adaptive Search](llm-agents-dev/agent-orchestration/2026-03-24-abstral-automated-multi-agent-system-design.md)
-- [EvoAgent: Evolvable Agent Framework with Skill Learning and Multi-Agent Delegation](llm-agents-dev/agent-orchestration/2026-04-22-evoagent-evolvable-agent-framework-skill-learning.md)
-- [SoK: Agentic Skills -- Beyond Tool Use in LLM Agents](llm-agents-dev/tool-use/2026-02-24-sok-agentic-skills-beyond-tool-use.md)
-- [QualityFlow: An Agentic Workflow for Program Synthesis Controlled by LLM Quality Checks](llm-agents-dev/program-synthesis/2026-05-27-qualityflow-agentic-workflow-program-synthesis.md)
+- [ABSTRAL: Automated Multi-Agent System Design via Skill-Referenced Adaptive Search](./2026-03-24-abstral-automated-multi-agent-system-design.md)
+- [EvoAgent: Evolvable Agent Framework with Skill Learning and Multi-Agent Delegation](./2026-04-22-evoagent-evolvable-agent-framework-skill-learning.md)
+- [SoK: Agentic Skills -- Beyond Tool Use in LLM Agents](../tool-use/2026-02-24-sok-agentic-skills-beyond-tool-use.md)
+- [QualityFlow: An Agentic Workflow for Program Synthesis Controlled by LLM Quality Checks](../program-synthesis/2026-05-27-qualityflow-agentic-workflow-program-synthesis.md)
 
 ### Future Directions
 
