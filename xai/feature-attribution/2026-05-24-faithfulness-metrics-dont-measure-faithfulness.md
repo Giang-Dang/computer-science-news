@@ -1,14 +1,17 @@
 # Faithfulness Metrics Don't Measure Faithfulness: A Meta-Evaluation with Ground Truth
 
-**Authors:** Yoav Gur-Arieh (Tel Aviv University), Ana Marasović (University of Utah), Mor Geva (Tel Aviv University)
+**ArXiv ID:** [2605.25052](https://arxiv.org/abs/2605.25052)  
+**Authors:** Yoav Gur-Arieh (Tel Aviv University), Ana Marasović (University of Utah), Mor Geva (Tel Aviv University)  
+**Date:** May 24, 2026  
+**Subfield:** Feature Attribution
 
-**ArXiv ID:** 2605.25052
-
-**Submitted:** May 24, 2026
+---
 
 ## Executive Summary
 
 This paper delivers a critical wake-up call to the xAI community by conducting the first systematic evaluation of faithfulness metrics using ground-truth labels. The authors demonstrate that most widely-used faithfulness metrics for chain-of-thought (CoT) explanations perform near chance, exhibiting strong prediction biases and poor generalization across settings. They introduce BonaFide, a benchmark of 3,066 labeled CoTs across 13 diverse tasks and 10 language models, establishing a foundation for future work in developing reliable faithfulness evaluation methods.
+
+---
 
 ## Problem Statement
 
