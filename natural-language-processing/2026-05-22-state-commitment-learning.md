@@ -1,8 +1,9 @@
 # State Commitment Learning: Training Language Models to Distinguish Computation from Memory
 
-**ArXiv ID:** 2606.05201  
+**ArXiv ID:** [2606.05201](https://arxiv.org/abs/2606.05201)  
+**Field:** Natural Language Processing  
 **Submitted:** May 22, 2026  
-**Authors:** Fei Ding, Hongying Liu, and colleagues from Alibaba Group and Tsinghua University
+**Authors:** Fei Ding, Hongying Liu, et al. (Alibaba Group, Tsinghua University)
 
 ## Executive Summary
 

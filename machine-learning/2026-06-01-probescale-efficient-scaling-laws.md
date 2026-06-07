@@ -1,9 +1,9 @@
 # ProbeScale: Probing Analysis to Optimize Neural Scaling Laws for Efficient Small Language Model Inference
 
-**ArXiv ID:** 2606.01806  
+**ArXiv ID:** [2606.01806](https://arxiv.org/abs/2606.01806)  
+**Field:** Machine Learning  
 **Submitted:** June 1, 2026  
-**Venue:** ACL (Association for Computational Linguistics)  
-**Authors:** [Research team focusing on parameter-efficient NLP]
+**Venue:** ACL (Association for Computational Linguistics)
 
 ## Executive Summary
 
@@ -155,8 +155,8 @@ Where:
 - Additional small models (ALBERT, DistilBERT)
 
 **Task Categories:**
-- **NLU Tasks:** GLUE benchmark (8 tasks)
-- **NLG Tasks:** SQuAD v2, CoNLL-2003 NER
+- **NLU Tasks:** GLUE benchmark (8 tasks), CoNLL-2003 NER (sequence labeling)
+- **NLG Tasks:** SQuAD v2 (question answering)
 - **Cross-Domain Transfer:** Probing on OOD test sets
 
 **Baseline Comparisons:**
@@ -392,6 +392,6 @@ Research expected to be open-sourced; likely hosted on GitHub in association wit
 ---
 
 **Citation:**  
-[Authors]. (2026). ProbeScale: Probing Analysis to Optimize Neural Scaling Laws for Efficient Small Language Model Inference. *In Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics (ACL)*.
+ProbeScale: Probing Analysis to Optimize Neural Scaling Laws for Efficient Small Language Model Inference. *In Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics (ACL)*, 2026.
 
-**ArXiv:** arXiv:2606.01806
+**ArXiv:** [2606.01806](https://arxiv.org/abs/2606.01806)
