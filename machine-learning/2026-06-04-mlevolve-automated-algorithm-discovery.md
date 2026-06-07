@@ -1,6 +1,7 @@
 # MLEvolve: A Self-Evolving Framework for Automated Machine Learning Algorithm Discovery
 
-**ArXiv ID:** 2606.06473  
+**ArXiv ID:** [2606.06473](https://arxiv.org/abs/2606.06473)  
+**Field:** Machine Learning  
 **Submitted:** June 4, 2026  
 **Authors:** Shangheng Du, Xiangchao Yan, Jinxin Shi, Zongsheng Cao, Shiyang Feng, Zichen Liang, Boyuan Sun, Tianshuo Peng, Yifan Zhou, Xin Li, Jie Zhou, Liang He, Bo Zhang, Lei Bai
 
