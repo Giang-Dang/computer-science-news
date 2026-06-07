@@ -9,7 +9,7 @@
 
 ## Executive Summary
 
-MechRL introduces a revolutionary paradigm shift in mechanistic interpretability by recasting circuit discovery—the process of identifying sparse, interpretable subgraphs of neural network connections that implement specific behaviors—as a reinforcement learning problem. Rather than requiring hand-crafted analysis pipelines for each task, an RL agent autonomously discovers circuits in transformer models, achieving oracle-level performance across multiple tasks while achieving alignment with established interpretability literature.
+MechRL introduces a revolutionary paradigm shift in mechanistic interpretability by recasting circuit discovery—the process of identifying sparse, interpretable subgraphs of neural network connections that implement specific behaviors—as a reinforcement learning problem. Rather than requiring hand-crafted analysis pipelines for each task, an RL agent autonomously discovers circuits in transformer models, achieving oracle-level performance across multiple tasks while maintaining alignment with established interpretability literature.
 
 ---
 
@@ -74,8 +74,8 @@ This mapping enables using standard RL algorithms (PPO, DQN) to solve the circui
 **Technical Approach:**
 - The agent operates over a discrete action space of 144 attention heads (GPT-2 small)
 - At each step, the agent selects heads to ablate
-- Reward = (Damage to general next-token prediction) - (Damage to target task)
-  - This contrastive design isolates task-specific circuits from general language modeling capabilities
+- Reward = (Post-ablation general task performance) - (Post-ablation target task performance)
+  - The reward is maximized when ablating a head causes minimal damage to general language modeling but maximal damage to the target task, isolating task-specific circuits
 - Uses PPO (Proximal Policy Optimization) for policy optimization
 - Multi-task training enables the agent to generalize across different circuit discovery tasks
 
@@ -140,9 +140,9 @@ This mapping enables using standard RL algorithms (PPO, DQN) to solve the circui
 reward = (performance_ablated_model_on_general_task) - (performance_ablated_model_on_target_task)
 ```
 Where:
-- Higher general task performance with ablation = less damage to general capabilities
-- Higher target task performance = more damage to target circuit
-- Contrastive comparison isolates task-specific components
+- Higher general task performance with ablation = less damage to general capabilities (good for reward)
+- Lower target task performance after ablation = more damage to target circuit (good for reward)
+- Contrastive comparison isolates task-specific components by preferring heads whose ablation hurts the target task while sparing general performance
 
 **Multi-Task Training:**
 - Vectorized environment: Simultaneously optimizes circuit discovery for induction and IOI
