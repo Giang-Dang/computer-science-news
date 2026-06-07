@@ -217,6 +217,8 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [Building The Ph(ysical)AI Layer Of Machine Intelligence](machine-learning/2026-06-02-physical-ai-layer-machine-intelligence.md)
 - [AugMask: Training Diffusion Models on Incomplete Tabular Data via Stochastic Augmentation and Masking](machine-learning/2026-06-02-augmask-diffusion-incomplete-tabular-data.md)
 - [Do Transformers Need Three Projections? Systematic Study of QKV Variants](machine-learning/2026-06-04-do-transformers-need-three-projections.md)
+- [ProbeScale: Probing Analysis to Optimize Neural Scaling Laws for Efficient Small Language Model Inference](machine-learning/2026-06-01-probescale-efficient-scaling-laws.md)
+- [MLEvolve: A Self-Evolving Framework for Automated Machine Learning Algorithm Discovery](machine-learning/2026-06-04-mlevolve-automated-algorithm-discovery.md)
 
 ## Natural Language Processing
 
@@ -250,6 +252,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [MeMo: Memory as a Model](natural-language-processing/2026-05-14-memo-memory-as-a-model.md)
 - [Roll Out and Roll Back: Diffusion LLMs are Their Own Efficiency Teachers](natural-language-processing/2026-05-16-roll-out-and-roll-back-diffusion-llms.md)
 - [Lost in State Space: Probing Frozen Mamba Representations](natural-language-processing/2026-05-20-lost-state-space-mamba-representations.md)
+- [State Commitment Learning: Training Language Models to Distinguish Computation from Memory](natural-language-processing/2026-05-22-state-commitment-learning.md)
 - [Logic-Enhanced Prompting: Structured Reasoning in Large Language Models via Symbolic Integration](natural-language-processing/2026-05-26-logic-enhanced-prompting-structured-reasoning.md)
 - [When New Generators Arrive: Lifelong Machine-Generated Text Attribution via Ridge Feature Transfer](natural-language-processing/2026-06-04-when-new-generators-arrive-lifelong-mgt-attribution.md)
 - [Reducing Hallucinations in Complex Question Answering using Simple Graph-based Retrieval-Augmented Generation](natural-language-processing/2026-06-04-reducing-hallucinations-graph-based-rag.md)
