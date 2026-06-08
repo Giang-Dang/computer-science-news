@@ -308,7 +308,7 @@ Implications for production coding agents:
 ### Related Agent Frameworks & Tools
 
 **Agents analyzed in the study:**
-- [SWE-agent](https://github.com/aider-ai/aider) - Specialized for software engineering tasks
+- [SWE-agent](https://github.com/princeton-nlp/SWE-agent) - Specialized for software engineering tasks
 - [OpenHands (formerly OHand)](https://github.com/All-Hands-AI/OpenHands) - General-purpose coding agent
 - [AutoCodeRover](https://github.com/nus-apr/auto-code-rover) - Autonomous code repository understanding and repair
 - [GPT-Engineer](https://github.com/gpt-engineer-org/gpt-engineer) - High-level code generation
