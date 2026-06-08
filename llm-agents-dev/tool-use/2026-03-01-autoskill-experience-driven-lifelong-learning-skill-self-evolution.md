@@ -102,7 +102,7 @@ def abstract_skill_from_interaction(interaction_trace):
     
     # 4. Extract constraints & preferences
     constraints = extract_constraints(interaction_trace)
-    preferences = extract_preferences(user_feedback)
+    preferences = extract_preferences(interaction_trace)
     
     # 5. Determine applicability
     applicable_domains = infer_applicable_domains(pattern)
