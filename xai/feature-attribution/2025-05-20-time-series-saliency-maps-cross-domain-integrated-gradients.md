@@ -1,16 +1,16 @@
 # Time Series Saliency Maps: Explaining Models Across Multiple Domains
 
-**Paper ID:** ArXiv:2505.13100  
+**ArXiv ID:** 2505.13100  
 **Authors:** Christodoulos Kechris, Jonathan Dan, David Atienza  
 **Affiliation:** École Polytechnique Fédérale de Lausanne (EPFL)  
-**Publication Date:** May 2025  
-**Repository:** Open-source TensorFlow/PyTorch library (implementation details in supplementary materials)
+**Submitted:** May 2025  
+**Implementation:** Open-source TensorFlow/PyTorch library (see supplementary materials)
 
 ---
 
 ## Executive Summary
 
-This paper introduces **Cross-domain Integrated Gradients**, a generalization of the Integrated Gradients attribution method that enables meaningful feature explanations across multiple domain representations (temporal, frequency, wavelet, complex) for time-series models. The key insight is that semantically meaningful features for time-series prediction often reside in non-temporal domains rather than raw time-domain representations, and the paper provides theoretical guarantees (path independence and completeness) for attributions computed across invertible domain transformations.
+This paper introduces **Cross-domain Integrated Gradients**, a generalization of the Integrated Gradients attribution method that enables meaningful feature explanations across multiple domain representations (temporal, frequency, wavelet, complex) for time-series models. The key insight is that semantically meaningful features for time-series prediction often reside in non-temporal domains rather than raw time-domain representations, and the paper provides theoretical guarantees (completeness and principled domain transformation) for attributions computed across invertible domain transformations.
 
 ---
 
@@ -51,10 +51,12 @@ Where:
 - The integral approximates via summation in practice
 
 **Key Properties:**
-1. **Path Independence**: The integral result doesn't depend on the specific interpolation path, only endpoints
-2. **Completeness**: The sum of all feature attributions equals the difference between prediction and baseline: Σ IG_i(x) = f(x) - f(x')
+1. **Completeness**: The sum of all feature attributions equals the difference between prediction and baseline, regardless of interpolation path: Σ IG_i(x) = f(x) - f(x')
+2. **Linearity**: Attributions are linear functions of the model's output
 3. **Sensitivity**: Non-zero gradients indicate feature importance
 4. **Implementation-Agnostic**: Works with any differentiable model
+
+Note: Individual feature attributions are path-dependent; the completeness property and sum are path-independent.
 
 ### Cross-Domain Integrated Gradients: The Extension
 
@@ -395,9 +397,9 @@ Comparison with alternative time-series attribution methods:
 ## Code & Resources
 
 ### Official Implementation
-- **GitHub Repository**: Open-source TensorFlow/PyTorch library (link in ArXiv paper supplementary materials)
-- **Library Name**: Likely something like `tscale` or `tsig` (time-series interpretability)
+- **GitHub Repository**: Check ArXiv paper supplementary materials for official implementation link
 - **Language**: Python (3.8+)
+- **Frameworks**: TensorFlow 2.10+ and PyTorch 1.9+
 
 ### Dependencies
 - NumPy, SciPy (signal processing)
