@@ -23,6 +23,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [UniCanvas: A Diffusion-based Unified Model for Text-in-Image Joint Generation](computer-vision/2026-06-02-unicanvas-unified-text-in-image-generation.md)
 - [YOLO26: An Analysis of NMS-Free End-to-End Framework for Real-Time Object Detection](computer-vision/2026-01-19-yolo26-nms-free-object-detection.md)
 - [Efficient Training-Free Single-Image Diffusion Models](computer-vision/2026-06-03-efficient-training-free-single-image-diffusion.md)
+- [Vision Inference Former: Sustaining Visual Consistency in Multimodal Large Language Models](computer-vision/2026-05-28-vision-inference-former-visual-consistency-multimodal-llms.md)
 - [From Sight to Insight: Improving Visual Reasoning Capabilities of Multimodal Models via Reinforcement Learning](computer-vision/2026-01-01-from-sight-to-insight-visual-reasoning-rl.md)
 - [Large Language Models are Universal Reasoners for Visual Generation](computer-vision/2026-05-04-universal-reasoners-llm-visual-generation.md)
 - [Adversarial Evasion Attacks on Computer Vision using SHAP Values](computer-vision/2026-01-15-adversarial-evasion-attacks-shap.md)
@@ -160,6 +161,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [CATPO: Critique-Augmented Tree Policy Optimization](machine-learning/2026-06-06-catpo-critique-augmented-tree-policy-optimization.md)
 - [World Models: A Comprehensive Survey of Architectures, Methodologies, Reasoning Paradigms, and Applications](machine-learning/2026-06-06-world-models-comprehensive-survey.md)
 - [Representation Learning Enables Scalable Multitask Deep Reinforcement Learning](machine-learning/2026-06-04-representation-learning-multitask-deep-rl.md)
+- [ProbeScale: Probing Analysis to Optimize Neural Scaling Laws for Efficient Small Language Model Inference](machine-learning/2026-06-01-probescale-neural-scaling-laws-efficient-inference.md)
 - [Agentic Monte Carlo: Simulating Reinforcement Learning for Black-Box Agents](machine-learning/2026-06-03-agentic-monte-carlo-black-box-agents-rl.md)
 - [Rethinking Agentic Reinforcement Learning In Large Language Models](machine-learning/2026-04-30-agentic-reinforcement-learning-llms.md)
 - [Harness-1: Reinforcement Learning for Search Agents with State-Externalizing Harnesses](machine-learning/2026-06-02-harness-1-rl-search-agents-state-externalizing.md)
@@ -227,6 +229,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 
 - [Brain-Guided Language Models for Robust Reasoning](natural-language-processing/2026-06-10-brain-guided-language-models-robust-reasoning.md)
 - [Critique-GRPO: Advancing LLM Reasoning with Natural Language and Numerical Feedback](natural-language-processing/2025-06-03-critique-grpo-advancing-llm-reasoning.md)
+- [SciVQR: A Multidisciplinary Multimodal Benchmark for Advanced Scientific Reasoning Evaluation](natural-language-processing/2026-05-11-scivqr-multidisciplinary-scientific-reasoning-benchmark.md)
 - [LENS: Multi-level Evaluation of Multimodal Reasoning with Large Language Models](natural-language-processing/2025-05-21-lens-multimodal-reasoning-evaluation.md)
 - [MemAgent: Reshaping Long-Context LLM with Multi-Conv RL-based Memory Agent](natural-language-processing/2025-07-02-memagent-reshaping-long-context-llm.md)
 - [Natural Language Processing Models for Robust Document Categorization](natural-language-processing/2026-02-23-nlp-document-categorization-robust-models.md)
