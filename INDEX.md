@@ -20,6 +20,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 
 ## Computer Vision
 
+- [UniCanvas: A Diffusion-based Unified Model for Text-in-Image Joint Generation](computer-vision/2026-06-02-unicanvas-unified-text-in-image-generation.md)
 - [From Sight to Insight: Improving Visual Reasoning Capabilities of Multimodal Models via Reinforcement Learning](computer-vision/2026-01-01-from-sight-to-insight-visual-reasoning-rl.md)
 - [Adversarial Evasion Attacks on Computer Vision using SHAP Values](computer-vision/2026-01-15-adversarial-evasion-attacks-shap.md)
 - [NeoVerse: Enhancing 4D World Model with in-the-Wild Monocular Videos](computer-vision/2026-01-15-neoverse-4d-world-model-monocular-video.md)
@@ -104,6 +105,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 
 ## Machine Learning
 
+- [CATPO: Critique-Augmented Tree Policy Optimization](machine-learning/2026-06-06-catpo-critique-augmented-tree-policy-optimization.md)
 - [Agentic Monte Carlo: Simulating Reinforcement Learning for Black-Box Agents](machine-learning/2026-06-03-agentic-monte-carlo-black-box-agents-rl.md)
 - [Harness-1: Reinforcement Learning for Search Agents with State-Externalizing Harnesses](machine-learning/2026-06-02-harness-1-rl-search-agents-state-externalizing.md)
 - [Unleash Graph Neural Networks from Heavy Tuning: GNN-Diff Framework](machine-learning/2024-05-13-gnn-diff-unleash-graph-neural-networks.md)
@@ -201,6 +203,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 
 ## Systems
 
+- [EnergyMamba: An Uncertainty-Aware Graph-Enhanced Selective State Space Model for Energy Consumption Prediction](systems/2026-06-05-energymamba-uncertainty-aware-energy-prediction.md)
 - [Federation of Experts: Communication Efficient Distributed Inference for Large Language Models](systems/2026-05-07-federation-of-experts-distributed-inference-moe.md)
 - [Securing Retrieval-Augmented Generation: A Taxonomy of Attacks, Defenses, and Future Directions](systems/2026-04-09-securing-rag-taxonomy-attacks-defenses.md)
 - [Cloud-Native and Distributed Systems for Efficient and Scalable Large Language Models: A Research Agenda](systems/2026-04-19-cloud-native-distributed-systems-llm.md)
