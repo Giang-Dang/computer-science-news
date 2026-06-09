@@ -203,7 +203,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 
 ## Systems
 
-- [EnergyMamba: An Uncertainty-Aware Graph-Enhanced Selective State Space Model for Energy Consumption Prediction](systems/2026-06-05-energymamba-uncertainty-aware-energy-prediction.md)
+- [EnergyMamba: An Uncertainty-Aware Graph-Enhanced Selective State Space Model for Energy Consumption Prediction](systems/2026-05-30-energymamba-uncertainty-aware-energy-prediction.md)
 - [Federation of Experts: Communication Efficient Distributed Inference for Large Language Models](systems/2026-05-07-federation-of-experts-distributed-inference-moe.md)
 - [Securing Retrieval-Augmented Generation: A Taxonomy of Attacks, Defenses, and Future Directions](systems/2026-04-09-securing-rag-taxonomy-attacks-defenses.md)
 - [Cloud-Native and Distributed Systems for Efficient and Scalable Large Language Models: A Research Agenda](systems/2026-04-19-cloud-native-distributed-systems-llm.md)
