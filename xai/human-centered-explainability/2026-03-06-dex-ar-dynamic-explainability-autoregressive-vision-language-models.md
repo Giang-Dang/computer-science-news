@@ -1,5 +1,12 @@
 # DEX-AR: A Dynamic Explainability Method for Autoregressive Vision-Language Models
 
+**ArXiv ID:** [2603.06302](https://arxiv.org/abs/2603.06302)  
+**Authors:** Walid Bousselham, Angie Boggust, Hendrik Strobelt, Hilde Kuehne  
+**Submitted:** March 6, 2026  
+**Subfield:** Human-Centered Explainability  
+
+---
+
 ## Executive Summary
 
 DEX-AR introduces a novel explainability method that generates per-token and sequence-level heatmaps for autoregressive vision-language models (VLMs) by computing layer-wise gradients during token-by-token generation. This addresses a critical gap in VLM interpretability, where traditional explainability methods fail to account for the complex token-by-token generation process and interactions between visual and textual modalities. The work demonstrates substantial improvements over existing methods on standard benchmarks (ImageNet, VQAv2, PascalVOC), enabling researchers and practitioners to better understand how modern autoregressive VLMs ground their textual responses in visual information.
