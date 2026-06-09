@@ -299,7 +299,7 @@ def route_task_to_model(task_type: str, complexity_score: float) -> str:
 
 # Usage in agent
 agent = CodeAnalysisAgent()
-agent.model = route_task_to_model("bug_detection", complexity=0.6)
+agent.model = route_task_to_model("bug_detection", complexity_score=0.6)
 result = agent.analyze(code)
 ```
 
@@ -475,6 +475,7 @@ services:
 from enum import Enum
 from typing import Any, Callable, Dict, List
 import json
+import hashlib
 
 class ExecutionMode(Enum):
     DETERMINISTIC = "deterministic"  # Fixed order, no parallelization
@@ -498,8 +499,9 @@ class DeterministicWorkflow:
         # Execute
         result = agent.execute(**inputs)
         
-        # Log
-        exec_record["output_hash"] = hash(str(result))
+        # Log (use stable SHA256 hash for deterministic hashing across processes)
+        result_str = json.dumps(result, sort_keys=True, default=str)
+        exec_record["output_hash"] = hashlib.sha256(result_str.encode()).hexdigest()
         self.execution_log.append(exec_record)
         
         return result
@@ -547,6 +549,7 @@ class DeterministicWorkflow:
     
     def _run_optimized(self, inputs: Dict) -> Dict:
         """Parallel execution where dependencies allow."""
+        from concurrent.futures import ThreadPoolExecutor
         results = {}
         
         # Step 1: Sequential (requirements before everything)
@@ -557,23 +560,22 @@ class DeterministicWorkflow:
         )
         
         # Step 2: Parallel (both depend only on requirements)
-        architecture_task = asyncio.create_task(
-            self.execute_step(
+        with ThreadPoolExecutor(max_workers=2) as executor:
+            architecture_future = executor.submit(
+                self.execute_step,
                 "design_architecture",
                 self.architect_agent,
                 {"requirements": results['requirements']}
             )
-        )
-        documentation_task = asyncio.create_task(
-            self.execute_step(
+            documentation_future = executor.submit(
+                self.execute_step,
                 "generate_docs",
                 self.doc_writer,
                 {"requirements": results['requirements']}
             )
-        )
-        
-        results['architecture'] = asyncio.run(architecture_task)
-        results['documentation'] = asyncio.run(documentation_task)
+            
+            results['architecture'] = architecture_future.result()
+            results['documentation'] = documentation_future.result()
         
         # Step 3: Code generation (requires architecture)
         results['code'] = self.execute_step(
