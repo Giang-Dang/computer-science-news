@@ -58,13 +58,13 @@ A navigable index of paper summaries in this repository, organized by topic.
 
 - [MACOG: Multi-Agent Code-Orchestrated Generation for Reliable Infrastructure-as-Code](llm-agents-dev/agent-orchestration/2025-10-04-macog-multi-agent-code-orchestrated-generation-infrastructure.md)
 - [A Comprehensive Empirical Evaluation of Agent Frameworks on Code-Centric Software Engineering Tasks](llm-agents-dev/agent-orchestration/2025-11-02-comprehensive-empirical-evaluation-agent-frameworks-code-centric-tasks.md)
+- [Agentic AI Frameworks: Architectures, Protocols, and Design Challenges](llm-agents-dev/agent-orchestration/2025-08-13-agentic-ai-frameworks-architectures-protocols-design-challenges.md)
 - [ABSTRAL: Automated Multi-Agent System Design via Skill-Referenced Adaptive Search](llm-agents-dev/agent-orchestration/2026-03-24-abstral-automated-multi-agent-system-design.md)
 - [AgentForge: Execution-Grounded Multi-Agent LLM Framework for Autonomous Software Engineering](llm-agents-dev/agent-orchestration/2026-04-06-agentforge-execution-grounded-multi-agent-framework.md)
 - [EvoAgent: An Evolvable Agent Framework with Skill Learning and Multi-Agent Delegation](llm-agents-dev/agent-orchestration/2026-04-22-evoagent-evolvable-agent-framework-skill-learning.md)
 - [Reinforcement Learning for LLM-based Multi-Agent Systems through Orchestration Traces](llm-agents-dev/agent-orchestration/2026-05-04-reinforcement-learning-multi-agent-orchestration-traces.md)
 - [Code as Agent Harness: Toward Executable, Verifiable, and Stateful Agent Systems](llm-agents-dev/agent-orchestration/2026-05-18-code-as-agent-harness.md)
 - [TDD Governance for Multi-Agent Code Generation via Prompt Engineering](llm-agents-dev/agent-orchestration/2026-05-27-tdd-governance-multi-agent-code-generation.md)
-- [Agentic AI Frameworks: Architectures, Protocols, and Design Challenges](llm-agents-dev/agent-orchestration/2026-01-13-agentic-ai-frameworks-architectures-protocols-design-challenges.md)
 
 ### Multi Agent Topologies
 
@@ -80,15 +80,15 @@ A navigable index of paper summaries in this repository, organized by topic.
 
 ### Code Generation
 
-- [AI Agentic Programming: A Survey of Techniques, Challenges, and Opportunities](llm-agents-dev/code-generation/2026-01-13-ai-agentic-programming-survey-techniques-opportunities.md)
+- [AI Agentic Programming: A Survey of Techniques, Challenges, and Opportunities](llm-agents-dev/code-generation/2025-08-15-ai-agentic-programming-survey-techniques-opportunities.md)
 
 ### Software Development
 
 - [AgentMesh: A Cooperative Multi-Agent Generative AI Framework for Software Development Automation](llm-agents-dev/software-development/2025-07-29-agentmesh-cooperative-multi-agent-dev-automation.md)
+- [A Practical Guide for Designing, Developing, and Deploying Production-Grade Agentic AI Workflows](llm-agents-dev/software-development/2025-12-09-practical-guide-production-grade-agentic-workflows.md)
 - [Agyn: A Multi-Agent System for Team-Based Autonomous Software Engineering](llm-agents-dev/software-development/2026-02-01-agyn-team-based-autonomous-software-engineering.md)
 - [Agentic AI in the Software Development Lifecycle: Architecture, Empirical Evidence, and the Reshaping of Software Engineering](llm-agents-dev/software-development/2026-04-29-agentic-ai-sdlc.md)
 - [Confucius Code Agent: Scalable Agent Scaffolding for Real-World Codebases](llm-agents-dev/software-development/2026-05-27-confucius-code-agent-scalable-real-world-codebases.md)
-- [A Practical Guide for Designing, Developing, and Deploying Production-Grade Agentic AI Workflows](llm-agents-dev/software-development/2026-01-13-practical-guide-production-grade-agentic-workflows.md)
 
 ### Testing Debugging
 
