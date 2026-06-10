@@ -1,8 +1,9 @@
 # MetaPoint: Unlocking Precise Spatial Control in Agentic Visual Generation
 
-**Paper ID:** 2606.05031  
+**ArXiv ID:** [2606.05031](https://arxiv.org/abs/2606.05031)  
 **Authors:** Dewei Zhou, Xinyu Huang, Xun Wang, and others  
 **Submitted:** June 3, 2026  
+**Field:** Computer Vision  
 **Institutions:** Zhejiang University, ByteDance Seed, Harvard University
 
 ## Executive Summary
@@ -83,13 +84,13 @@ The gap lies in finding a **simple, unified approach** that:
 - Hierarchical spaces: canvas, regions, objects
 
 **4. Special Tokens in Language Models**
-- <bos>, <eos>, <pad> tokens with special meanings
+- `<bos>`, `<eos>`, `<pad>` tokens with special meanings
 - Can add custom tokens for spatial control
 - The model learns interpretation during training/fine-tuning
 
 ### The MetaPoint Approach
 
-**Core Insight:** Use special tokens (<mp>) whose positional encoding encodes spatial coordinates
+**Core Insight:** Use special tokens (`<mp>`) whose positional encoding encodes spatial coordinates
 
 **Two-Part Token Design:**
 
@@ -99,7 +100,7 @@ MetaPoint Token = Word Embedding + Positional Embedding
 ```
 
 **Word Embedding Component:**
-- Special token <mp> conveys "I control spatial position"
+- Special token `<mp>` conveys "I control spatial position"
 - Learned embedding that stands out from regular tokens
 - Signals to model to interpret positional encoding specially
 
@@ -116,11 +117,11 @@ MetaPoint Token = Word Embedding + Positional Embedding
 **Single Point Control:**
 - One MetaPoint token → place object at specific location
 - Token position in sequence determines context
-- E.g., "A dog <mp_x=100,y=150>" generates dog at (100, 150)
+- E.g., "A dog `<mp_x=100,y=150>`" generates dog at (100, 150)
 
 **Bounding Box Control:**
 - Two MetaPoint tokens → specify rectangle
-- <mp_x1=50,y1=100> and <mp_x2=200,y2=250>
+- `<mp_x1=50,y1=100>` and `<mp_x2=200,y2=250>`
 - Model understands these bound the generated object
 
 **Multiple Objects:**

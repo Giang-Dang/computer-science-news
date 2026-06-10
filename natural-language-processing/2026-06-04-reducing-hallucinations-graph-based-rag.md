@@ -1,9 +1,9 @@
 # Reducing Hallucinations in Complex Question Answering using Simple Graph-based Retrieval-Augmented Generation
 
-**Paper ID:** 2606.05901  
+**ArXiv ID:** [2606.05901](https://arxiv.org/abs/2606.05901)  
 **Authors:** Christopher J. Wedge, Joshua Stutter, Danny Dixon, Jacek Cała  
 **Submitted:** June 4, 2026  
-**Extended Version:** arxiv 2606.05901
+**Field:** Natural Language Processing
 
 ## Executive Summary
 

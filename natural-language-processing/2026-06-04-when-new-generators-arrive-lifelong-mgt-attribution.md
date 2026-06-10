@@ -1,8 +1,9 @@
 # When New Generators Arrive: Lifelong Machine-Generated Text Attribution via Ridge Feature Transfer
 
-**Paper ID:** 2606.05626  
+**ArXiv ID:** [2606.05626](https://arxiv.org/abs/2606.05626)  
 **Authors:** Zhen Sun, Yifan Liao, Zhicong Huang, Jiaheng Wei, Cheng Hong, Yutao Yue, Xinlei He  
 **Submitted:** June 4, 2026  
+**Field:** Natural Language Processing  
 **Institutions:** Wuhan University, Ant Group, The Hong Kong University of Science and Technology (Guangzhou)
 
 ## Executive Summary
