@@ -5,6 +5,8 @@
 **Affiliation:** Department of Computer Science, The University of Texas at El Paso  
 **Submission Date:** May 20, 2026
 
+---
+
 ## Executive Summary
 
 This paper presents a novel explainable AI (XAI) method that bridges causal discovery with abstract argumentation frameworks to provide structured, interpretable explanations of why machine learning models make their predictions. Unlike traditional XAI methods that identify which features are relevant, this approach clarifies why certain features lead to specific outcomes by representing causal relationships through a Bipolar Argumentation Framework (BAF), offering a complementary perspective in the landscape of interpretable machine learning.
@@ -364,5 +366,5 @@ This work bridges multiple communities:
 
 ---
 
-**Paper Documentation Date**: 2026-06-10  
-**Status**: Primary research paper on causal argumentation for model explainability
+**Paper Documentation Date:** 2026-06-10  
+**Status:** Primary research paper on causal argumentation for model explainability
