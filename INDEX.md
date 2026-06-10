@@ -204,7 +204,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [Roll Out and Roll Back: Diffusion LLMs are Their Own Efficiency Teachers](natural-language-processing/2026-05-16-roll-out-and-roll-back-diffusion-llms.md)
 - [Lost in State Space: Probing Frozen Mamba Representations](natural-language-processing/2026-05-20-lost-state-space-mamba-representations.md)
 - [Logic-Enhanced Prompting: Structured Reasoning in Large Language Models via Symbolic Integration](natural-language-processing/2026-05-26-logic-enhanced-prompting-structured-reasoning.md)
-- [When New Generators Arrive: Lifelong Machine-Generated Text Attribution via Ridge Feature Transfer](natural-language-processing/2026-06-04-when-new-generators-arrive-lifelong-mgmt-attribution.md)
+- [When New Generators Arrive: Lifelong Machine-Generated Text Attribution via Ridge Feature Transfer](natural-language-processing/2026-06-04-when-new-generators-arrive-lifelong-mgt-attribution.md)
 - [Reducing Hallucinations in Complex Question Answering using Simple Graph-based Retrieval-Augmented Generation](natural-language-processing/2026-06-04-reducing-hallucinations-graph-based-rag.md)
 
 ## Robotics
