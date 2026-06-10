@@ -244,6 +244,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [From Signals to Causes: A Causal Signal Processing Framework for Robust and Interpretable Clinical Risk Prediction](xai/causal-interpretability/2026-02-27-signals-to-causes-causal-signal-processing-clinical-risk.md)
 - [Position: Explainable AI is Causality in Disguise](xai/causal-interpretability/2026-03-30-xai-causality-in-disguise.md)
 - [Beyond Semantic Relevance: Counterfactual Risk Minimization for Robust Retrieval-Augmented Generation](xai/causal-interpretability/2026-05-02-counterfactual-risk-minimization-robust-rag.md)
+- [A Causal Argumentation Method for Explainability of Machine Learning Models](xai/causal-interpretability/2026-05-20-causal-argumentation-explainability-machine-learning.md)
 
 ### Concept Based Explanations
 
