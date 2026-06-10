@@ -52,6 +52,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [Generative 3D Gaussians with Learned Density Control](computer-vision/2026-05-25-generative-3d-gaussians-density-control.md)
 - [Adaptive Multimodal Compression: Efficient Vision-Language Models with Dynamic Token Pruning](computer-vision/2026-05-26-adaptive-multimodal-compression-vision-language-models.md)
 - [From Pixels to Words: Towards Native One-Vision Models at Scale](computer-vision/2026-05-27-from-pixels-to-words-native-one-vision-models.md)
+- [MetaPoint: Unlocking Precise Spatial Control in Agentic Visual Generation](computer-vision/2026-06-03-metapoint-spatial-control-agentic-visual-generation.md)
 
 ## LLM Agents & Development
 
@@ -203,6 +204,8 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [Roll Out and Roll Back: Diffusion LLMs are Their Own Efficiency Teachers](natural-language-processing/2026-05-16-roll-out-and-roll-back-diffusion-llms.md)
 - [Lost in State Space: Probing Frozen Mamba Representations](natural-language-processing/2026-05-20-lost-state-space-mamba-representations.md)
 - [Logic-Enhanced Prompting: Structured Reasoning in Large Language Models via Symbolic Integration](natural-language-processing/2026-05-26-logic-enhanced-prompting-structured-reasoning.md)
+- [When New Generators Arrive: Lifelong Machine-Generated Text Attribution via Ridge Feature Transfer](natural-language-processing/2026-06-04-when-new-generators-arrive-lifelong-mgmt-attribution.md)
+- [Reducing Hallucinations in Complex Question Answering using Simple Graph-based Retrieval-Augmented Generation](natural-language-processing/2026-06-04-reducing-hallucinations-graph-based-rag.md)
 
 ## Robotics
 
