@@ -2,7 +2,7 @@
 
 **ArXiv ID:** [2605.14089](https://arxiv.org/abs/2605.14089)  
 **Authors:** [Authors available at arXiv]  
-**Submitted:** May 27, 2026  
+**Submitted:** May 13, 2026  
 **Subcategory:** `agent-orchestration`
 
 ---
