@@ -99,7 +99,7 @@ ALMAS is designed for modular, human-in-the-loop operation:
 
 2. **Dynamic Task Routing for Cost Efficiency**: The Supervisor Agent dynamically selects optimal LLMs for each task considering specialization, model size, and cost. Combined with codebase compression techniques, this enables cost-effective long-horizon development without sacrificing performance.
 
-3. **Modular Framework for Human Integration**: ALMAS is designed for seamless integration into human-centric development environments. Agents operate modularity, allowing teams to adopt agents for specific phases (e.g., just code review) or end-to-end workflows, maintaining human oversight throughout.
+3. **Modular Framework for Human Integration**: ALMAS is designed for seamless integration into human-centric development environments. Agents operate modularly, allowing teams to adopt agents for specific phases (e.g., just code review) or end-to-end workflows, maintaining human oversight throughout.
 
 4. **Addressing SDLC Breadth**: While prior work focuses on code generation or bug fixing, ALMAS tackles the full SDLC—from requirement refinement through testing and review—mirroring real-world software teams.
 
@@ -215,7 +215,7 @@ ALMAS represents a maturation from narrow-task agents to team-based autonomous d
 
 ### Official Repository
 
-**ALMAS Framework**: [GitHub Repository](https://github.com/computer-science-news) (check for official release)
+**ALMAS Framework**: Check the arXiv page and official sources for code releases and implementation details.
 
 ### Dependencies
 
