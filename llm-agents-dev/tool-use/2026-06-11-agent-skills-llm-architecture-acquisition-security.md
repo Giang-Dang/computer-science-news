@@ -211,7 +211,7 @@ Each pathway has different scalability, quality, and human-labor tradeoffs.
 ### Skill Ecosystem Survey
 
 The paper synthesizes findings from:
-- **Industry Practice**: Anthropic Skills (Oct 2025 launch, 62,000+ GitHub stars by Apr 2026), partner implementations (Atlassian, Figma, Canva, Stripe, Notion)
+- **Industry Practice**: Anthropic Skills with partner implementations (Atlassian, Figma, Canva, Stripe, Notion)
 - **Research Systems**: SEAgent, skill mining frameworks, autonomous skill discovery
 - **Community Evolution**: SKILL.md adoption across frontier model providers
 
@@ -234,13 +234,11 @@ The paper synthesizes findings from:
 
 ### Key Findings
 
-**Architectural Efficiency**: [Exact figures unavailable — see full paper]  
-Progressive disclosure reduces skill-loading overhead to sub-100ms while enabling skill discovery across thousand-skill repositories.
+**Architectural Efficiency**: Progressive disclosure architecture significantly reduces skill-loading overhead compared to full-content approaches, enabling skill discovery across large skill repositories. [Exact figures unavailable — see full paper for detailed latency measurements]
 
 **Ecosystem Growth**: Within four months of Anthropic's October 2025 launch of Agent Skills, 62,000 GitHub stars accumulated, indicating rapid adoption signal. Partner-built skills from major platforms (Atlassian, Figma, etc.) entered curated registries.
 
-**Governance Effectiveness**: [Specific metrics unavailable — see full paper]  
-The four-gate governance framework effectively identifies common failure modes: static analysis catches 60-70% of known vulnerability signatures; semantic classification detects 40-50% of intent mismatches; functional testing eliminates nearly all integration failures.
+**Governance Effectiveness**: The four-gate governance framework effectively identifies common failure modes across static analysis, semantic classification, and functional testing phases. [Specific metrics and effectiveness percentages unavailable — see full paper for detailed evaluation results]
 
 **Skill Acquisition Tradeoffs**: 
 - Autonomous discovery is fastest but requires seed skills and careful validation

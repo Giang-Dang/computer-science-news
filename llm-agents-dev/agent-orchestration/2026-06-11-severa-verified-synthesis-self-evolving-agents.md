@@ -1,7 +1,7 @@
 # SEVerA: Verified Synthesis of Self-Evolving Agents
 
 **ArXiv ID:** [2603.25111](https://arxiv.org/abs/2603.25111)  
-**Authors:** [Research Team at Leading AI Lab]  
+**Authors:** See [arXiv page](https://arxiv.org/abs/2603.25111) for complete author list  
 **Submitted:** March 26, 2026 (Revised April 24, 2026)  
 **Research Focus:** Formal verification framework for self-evolving LLM agents with constraint satisfaction guarantees
 
@@ -89,11 +89,10 @@ SEVerA decomposes agent synthesis into three coordinated stages:
 
 The planner LLM synthesizes candidate parametric programs:
 
-```python
+```
 # Example: Agent for policy-compliant tool use
 # The planner generates a program like:
 
-candidate_program = """
 function solve_task(input_request, available_tools):
     # LLM-generated helper function
     goal = parse_objective(input_request)
@@ -116,7 +115,6 @@ function solve_task(input_request, available_tools):
         postprocess(result),
         contract="result ⊨ policy_constraint(request)"
     )
-"""
 ```
 
 The planner generates multiple candidate programs, each with embedded FGGM calls.
@@ -308,7 +306,7 @@ The key difference from standard RL: gradient updates only apply to verified pro
 
 ### Framework & Implementation
 
-**SEVerA Framework**: [GitHub Repository] (official release pending)
+**SEVerA Framework**: Check the arXiv page for official code releases and implementation details.
 
 ### Verification Infrastructure
 
@@ -373,6 +371,6 @@ The key difference from standard RL: gradient updates only apply to verified pro
 
 ---
 
-**Citation**: [Author names to be filled in], "SEVerA: Verified Synthesis of Self-Evolving Agents," arXiv:2603.25111, 2026.
+**Citation**: "SEVerA: Verified Synthesis of Self-Evolving Agents," arXiv:2603.25111, 2026. See [arXiv page](https://arxiv.org/abs/2603.25111) for complete author list and citation details.
 
 **Related**: This work bridges autonomous agents with formal methods, enabling deployment of agents in safety-critical domains where correctness guarantees are essential.
