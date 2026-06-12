@@ -56,6 +56,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 
 ### Agent Orchestration
 
+- [A Two-Dimensional Framework for AI Agent Design Patterns: Cognitive Function × Execution Topology](llm-agents-dev/agent-orchestration/2026-05-24-two-dimensional-framework-agent-design-patterns.md)
 - [MACOG: Multi-Agent Code-Orchestrated Generation for Reliable Infrastructure-as-Code](llm-agents-dev/agent-orchestration/2025-10-04-macog-multi-agent-code-orchestrated-generation-infrastructure.md)
 - [A Comprehensive Empirical Evaluation of Agent Frameworks on Code-Centric Software Engineering Tasks](llm-agents-dev/agent-orchestration/2025-11-02-comprehensive-empirical-evaluation-agent-frameworks-code-centric-tasks.md)
 - [ABSTRAL: Automated Multi-Agent System Design via Skill-Referenced Adaptive Search](llm-agents-dev/agent-orchestration/2026-03-24-abstral-automated-multi-agent-system-design.md)
@@ -77,6 +78,10 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [ReaComp: Compiling LLM Reasoning into Symbolic Solvers for Efficient Program Synthesis](llm-agents-dev/program-synthesis/2026-05-05-reacomp-llm-reasoning-symbolic-solvers-program-synthesis.md)
 - [QualityFlow: An Agentic Workflow for Program Synthesis Controlled by LLM Quality Checks](llm-agents-dev/program-synthesis/2026-05-27-qualityflow-agentic-workflow-program-synthesis.md)
 
+### Code Generation
+
+- [LLM-Based Multi-Agent Systems for Code Generation: A Multi-Vocal Literature Review](llm-agents-dev/code-generation/2026-02-04-llm-based-multi-agent-code-generation-survey.md)
+
 ### Software Development
 
 - [AgentMesh: A Cooperative Multi-Agent Generative AI Framework for Software Development Automation](llm-agents-dev/software-development/2025-07-29-agentmesh-cooperative-multi-agent-dev-automation.md)
@@ -91,6 +96,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 
 ### Tool Use
 
+- [Agentic Tool Use in Large Language Models](llm-agents-dev/tool-use/2026-04-01-agentic-tool-use-large-language-models.md)
 - [SoK: Agentic Skills -- Beyond Tool Use in LLM Agents](llm-agents-dev/tool-use/2026-02-24-sok-agentic-skills-beyond-tool-use.md)
 - [SkillCraft: Can LLM Agents Learn to Use Tools Skillfully?](llm-agents-dev/tool-use/2026-03-10-skillcraft-llm-agents-learn-tools-skillfully.md)
 - [The Evolution of Tool Use in LLM Agents: From Single-Tool Call to Multi-Tool Orchestration](llm-agents-dev/tool-use/2026-03-24-evolution-tool-use-multi-tool-orchestration.md)
