@@ -276,6 +276,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [Towards Unified Attribution in Explainable AI, Data-Centric AI, and Mechanistic Interpretability](xai/feature-attribution/2025-01-31-towards-unified-attribution-xai-dcai-mi.md)
 - [Which LIME should I trust? Concepts, Challenges, and Solutions](xai/feature-attribution/2025-03-31-which-lime-should-i-trust-survey.md)
 - [Time Series Saliency Maps: Explaining Models Across Multiple Domains](xai/feature-attribution/2025-05-20-time-series-saliency-maps-cross-domain-integrated-gradients.md)
+- [Distribution-Based Feature Attribution for Explaining the Predictions of Any Classifier](xai/feature-attribution/2025-11-09-distribution-based-feature-attribution-dfax.md)
 - [Explainability of Complex AI Models with Correlation Impact Ratio (ExCIR)](xai/feature-attribution/2026-01-10-excir-correlation-impact-ratio.md)
 - [FreqLens: Interpretable Frequency Attribution for Time Series Forecasting](xai/feature-attribution/2026-02-09-freqlens-interpretable-frequency-attribution-time-series.md)
 - [Statistical Inference and Learning for Shapley Additive Explanations (SHAP)](xai/feature-attribution/2026-02-11-statistical-inference-learning-shap.md)
