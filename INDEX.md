@@ -55,6 +55,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [Adaptive Multimodal Compression: Efficient Vision-Language Models with Dynamic Token Pruning](computer-vision/2026-05-26-adaptive-multimodal-compression-vision-language-models.md)
 - [From Pixels to Words: Towards Native One-Vision Models at Scale](computer-vision/2026-05-27-from-pixels-to-words-native-one-vision-models.md)
 - [MetaPoint: Unlocking Precise Spatial Control in Agentic Visual Generation](computer-vision/2026-06-03-metapoint-spatial-control-agentic-visual-generation.md)
+- [Watch, Remember, Reason: Human-View Video Understanding with MLLMs](computer-vision/2026-06-05-watch-remember-reason-video-understanding-mlms.md)
 
 ## LLM Agents & Development
 
@@ -229,8 +230,10 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [BloomBee: Distributed Generative Inference of LLM at Internet Scales with Multi-Dimensional Communication Optimization](systems/2026-04-27-bloomber-distributed-generative-inference-internet-scale.md)
 - [MCAP: Deployment-Time Layer Profiling for Memory-Constrained LLM Inference](systems/2026-04-27-mcap-deployment-time-layer-profiling-memory-constrained-llm.md)
 - [Cloud Is Closer Than It Appears: Revisiting the Tradeoffs of Distributed Real-Time Inference](systems/2026-05-01-distributed-inference-real-time-tradeoffs.md)
+- [Position: LLM Serving Needs Mathematical Optimization and Algorithmic Foundations, Not Just Heuristics](systems/2026-05-02-llm-serving-mathematical-optimization-algorithmic-foundations.md)
 - [ARIS: Autonomous Research via Adversarial Multi-Agent Collaboration](systems/2026-05-04-aris-autonomous-research-adversarial-collaboration.md)
 - [Redefining AI Red Teaming in the Agentic Era: From Weeks to Hours](systems/2026-05-05-redefining-ai-red-teaming-agentic.md)
+- [Brief Announcement: Generative Markov Model for Distributed Computing Systems](systems/2026-06-02-generative-markov-model-distributed-computing.md)
 
 ## XAI
 
