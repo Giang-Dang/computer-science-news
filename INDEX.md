@@ -29,6 +29,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [Think, Act, Build: An Agentic Framework with Vision Language Models for Zero-Shot 3D Visual Grounding](computer-vision/2026-04-01-think-act-build-agentic-framework-3d-visual-grounding.md)
 - [DiffSparse: Accelerating Diffusion Transformers with Learned Token Sparsity](computer-vision/2026-04-04-diffsparse-accelerating-diffusion-transformers-token-sparsity.md)
 - [Efficient Inference for Large Vision-Language Models: Bottlenecks, Techniques, and Prospects](computer-vision/2026-04-07-efficient-inference-large-vision-language-models.md)
+- [WildDet3D: Scaling Promptable 3D Detection in the Wild](computer-vision/2026-04-08-wilddet3d-promptable-3d-detection.md)
 - [LiVER: Lighting-Grounded Video Generation with Renderer-Based Agent Reasoning](computer-vision/2026-04-10-liver-lighting-grounded-video-generation-renderer-agent-reasoning.md)
 - [MultiWorld: Scalable Multi-Agent Multi-View Video World Models](computer-vision/2026-04-20-multiworld-scalable-multi-agent-multi-view-video-world-models.md)
 - [Image Generators are Generalist Vision Learners](computer-vision/2026-04-23-image-generators-generalist-vision-learners.md)
@@ -220,6 +221,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 
 - [V2V-LLM: Vehicle-to-Vehicle Cooperative Autonomous Driving with Multimodal Large Language Models](robotics/2025-02-16-v2v-llm-cooperative-autonomous-driving-multimodal.md)
 - [UniVLA: Unified Vision-Language-Action Model](robotics/2025-06-24-univla-unified-vision-language-action-model.md)
+- [UniDriveVLA: Unifying Understanding, Perception, and Action Planning for Autonomous Driving](robotics/2026-04-02-unidrivevla-unified-autonomous-driving-perception-action.md)
 - [Vision-Language-Action in Robotics: A Survey of Datasets, Benchmarks, and Data Engines](robotics/2026-04-24-vla-robotics-survey-datasets-benchmarks-data-engines.md)
 - [NavRL++: A System-Level Framework for Improving Sim-to-Real Transfer in Reinforcement Learning-Based Robot Navigation](robotics/2026-05-25-navrl-plus-plus-sim-to-real.md)
 
@@ -237,6 +239,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [ARIS: Autonomous Research via Adversarial Multi-Agent Collaboration](systems/2026-05-04-aris-autonomous-research-adversarial-collaboration.md)
 - [Redefining AI Red Teaming in the Agentic Era: From Weeks to Hours](systems/2026-05-05-redefining-ai-red-teaming-agentic.md)
 - [Brief Announcement: Generative Markov Model for Distributed Computing Systems](systems/2026-06-02-generative-markov-model-distributed-computing.md)
+- [Post-Deterministic Distributed Systems: A New Foundation for Trustworthy Autonomous Infrastructure](systems/2026-06-06-post-deterministic-distributed-systems-autonomous-infrastructure.md)
 
 ## XAI
 
