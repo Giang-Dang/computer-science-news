@@ -81,6 +81,8 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [A Comprehensive Empirical Evaluation of Agent Frameworks on Code-Centric Software Engineering Tasks](llm-agents-dev/agent-orchestration/2025-11-02-comprehensive-empirical-evaluation-agent-frameworks-code-centric-tasks.md)
 - [MACOG: Multi-Agent Code-Orchestrated Generation for Reliable Infrastructure-as-Code](llm-agents-dev/agent-orchestration/2025-10-04-macog-multi-agent-code-orchestrated-generation-infrastructure.md)
 - [SEVerA: Verified Synthesis of Self-Evolving Agents](llm-agents-dev/agent-orchestration/2026-06-11-severa-verified-synthesis-self-evolving-agents.md)
+- [AdaptOrch: Task-Adaptive Multi-Agent Orchestration in the Era of LLM Performance Convergence](llm-agents-dev/agent-orchestration/2026-06-15-adaptorch-task-adaptive-multi-agent-orchestration.md)
+- [A Two-Dimensional Framework for AI Agent Design Patterns: Cognitive Function × Execution Topology](llm-agents-dev/agent-orchestration/2026-06-15-two-dimensional-framework-agent-design-patterns.md)
 
 ### Multi Agent Topologies
 
@@ -89,6 +91,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [Self-Organized Agents: A LLM Multi-Agent Framework toward Ultra Large-Scale Code Generation and Optimization](llm-agents-dev/multi-agent-topologies/2026-04-02-self-organized-agents-ultra-large-scale-code-generation.md)
 - [Experience as a Compass: Multi-Agent RAG with Evolving Orchestration and Agent Prompts](llm-agents-dev/multi-agent-topologies/2026-04-01-experience-as-compass-multi-agent-rag.md)
 - [GoAgent: Group-of-Agents Communication Topology Generation for LLM-based Multi-Agent Systems](llm-agents-dev/multi-agent-topologies/2026-03-17-goagent-group-of-agents-communication-topology.md)
+- [Understanding Multi-Agent LLM Frameworks: A Unified Benchmark and Experimental Analysis](llm-agents-dev/multi-agent-topologies/2026-06-15-understanding-multi-agent-llm-frameworks-benchmark.md)
 
 ### Program Synthesis
 
