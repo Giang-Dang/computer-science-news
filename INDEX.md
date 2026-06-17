@@ -59,6 +59,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [From Pixels to Words: Towards Native One-Vision Models at Scale](computer-vision/2026-05-27-from-pixels-to-words-native-one-vision-models.md)
 - [MetaPoint: Unlocking Precise Spatial Control in Agentic Visual Generation](computer-vision/2026-06-03-metapoint-spatial-control-agentic-visual-generation.md)
 - [Watch, Remember, Reason: Human-View Video Understanding with MLLMs](computer-vision/2026-06-05-watch-remember-reason-video-understanding-mlms.md)
+- [Stream3D-VLM: Online 3D Spatial Understanding with Incremental Geometry Priors](computer-vision/2026-06-17-stream3d-vlm-online-3d-spatial-understanding.md)
 
 ## LLM Agents & Development
 
@@ -201,6 +202,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [Energy-Gated Attention and Wavelet Positional Encoding: Complementary Inductive Biases for Transformer Attention](machine-learning/2026-05-25-energy-gated-attention-wavelet-positional-encoding.md)
 - [Building The Ph(ysical)AI Layer Of Machine Intelligence](machine-learning/2026-06-02-physical-ai-layer-machine-intelligence.md)
 - [AugMask: Training Diffusion Models on Incomplete Tabular Data via Stochastic Augmentation and Masking](machine-learning/2026-06-02-augmask-diffusion-incomplete-tabular-data.md)
+- [EnergyMamba: An Uncertainty-Aware Graph-Enhanced Selective State Space Model for Energy Consumption Prediction](machine-learning/2026-06-17-energymamba-spatiotemporal-energy-prediction.md)
 
 ## Natural Language Processing
 
@@ -236,6 +238,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [Logic-Enhanced Prompting: Structured Reasoning in Large Language Models via Symbolic Integration](natural-language-processing/2026-05-26-logic-enhanced-prompting-structured-reasoning.md)
 - [When New Generators Arrive: Lifelong Machine-Generated Text Attribution via Ridge Feature Transfer](natural-language-processing/2026-06-04-when-new-generators-arrive-lifelong-mgt-attribution.md)
 - [Reducing Hallucinations in Complex Question Answering using Simple Graph-based Retrieval-Augmented Generation](natural-language-processing/2026-06-04-reducing-hallucinations-graph-based-rag.md)
+- [The Periodic Table of LLM Reasoning: A Structured Survey of Reasoning Paradigms, Methods, and Failure Modes](natural-language-processing/2026-06-17-periodic-table-llm-reasoning.md)
 
 ## Robotics
 
