@@ -310,6 +310,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [Statistical Inference and Learning for Shapley Additive Explanations (SHAP)](xai/feature-attribution/2026-02-11-statistical-inference-learning-shap.md)
 - [Explainable AI: Context-Aware Layer-Wise Integrated Gradients for Explaining Transformer Models](xai/feature-attribution/2026-02-18-context-aware-layer-wise-ig-transformers.md)
 - [GRAFT: Auditing Graph Neural Networks via Global Feature Attribution](xai/feature-attribution/2026-05-05-graft-gnn-global-feature-attribution.md)
+- [Why AI-Generated Text Detection Fails: Evidence from Explainable AI Beyond Benchmark Accuracy](xai/feature-attribution/2026-03-24-why-ai-text-detection-fails-explainable-ai-beyond-benchmark.md)
 - [Attributions All the Way Down? The Metagame of Interpretability](xai/feature-attribution/2026-05-23-attributions-all-the-way-down-metagame.md)
 - [Faithfulness Metrics Don't Measure Faithfulness: A Meta-Evaluation with Ground Truth](xai/feature-attribution/2026-05-24-faithfulness-metrics-dont-measure-faithfulness.md)
 
