@@ -149,6 +149,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [World Models: A Comprehensive Survey of Architectures, Methodologies, Reasoning Paradigms, and Applications](machine-learning/2026-06-06-world-models-comprehensive-survey.md)
 - [Representation Learning Enables Scalable Multitask Deep Reinforcement Learning](machine-learning/2026-06-04-representation-learning-multitask-deep-rl.md)
 - [Agentic Monte Carlo: Simulating Reinforcement Learning for Black-Box Agents](machine-learning/2026-06-03-agentic-monte-carlo-black-box-agents-rl.md)
+- [Rethinking Agentic Reinforcement Learning In Large Language Models](machine-learning/2026-04-30-agentic-reinforcement-learning-llms.md)
 - [Harness-1: Reinforcement Learning for Search Agents with State-Externalizing Harnesses](machine-learning/2026-06-02-harness-1-rl-search-agents-state-externalizing.md)
 - [Unleash Graph Neural Networks from Heavy Tuning: GNN-Diff Framework](machine-learning/2024-05-13-gnn-diff-unleash-graph-neural-networks.md)
 - [Coding Agents with Multimodal Browsing are Generalist Problem Solvers](machine-learning/2025-06-03-openhands-versa-coding-agents-multimodal-browsing.md)
@@ -208,6 +209,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 ## Natural Language Processing
 
 - [Brain-Guided Language Models for Robust Reasoning](natural-language-processing/2026-06-10-brain-guided-language-models-robust-reasoning.md)
+- [The Periodic Table of LLM Reasoning: A Structured Survey of Reasoning Paradigms, Methods, and Failure Modes](natural-language-processing/2026-06-09-periodic-table-llm-reasoning.md)
 - [LENS: Multi-level Evaluation of Multimodal Reasoning with Large Language Models](natural-language-processing/2025-05-21-lens-multimodal-reasoning-evaluation.md)
 - [MemAgent: Reshaping Long-Context LLM with Multi-Conv RL-based Memory Agent](natural-language-processing/2025-07-02-memagent-reshaping-long-context-llm.md)
 - [Natural Language Processing Models for Robust Document Categorization](natural-language-processing/2026-02-23-nlp-document-categorization-robust-models.md)
@@ -254,6 +256,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [EnergyMamba: An Uncertainty-Aware Graph-Enhanced Selective State Space Model for Energy Consumption Prediction](systems/2026-05-30-energymamba-uncertainty-aware-energy-prediction.md)
 - [Data Driven Optimization of GPU Efficiency for Distributed LLM Adapter Serving](systems/2026-02-27-gpu-optimization-distributed-llm-adapter-serving.md)
 - [Federation of Experts: Communication Efficient Distributed Inference for Large Language Models](systems/2026-05-07-federation-of-experts-distributed-inference-moe.md)
+- [Federation of Experts: Communication Efficient Distributed Inference for Large Language Models](systems/2026-05-07-federation-of-experts-distributed-inference.md)
 - [Securing Retrieval-Augmented Generation: A Taxonomy of Attacks, Defenses, and Future Directions](systems/2026-04-09-securing-rag-taxonomy-attacks-defenses.md)
 - [Cloud-Native and Distributed Systems for Efficient and Scalable Large Language Models: A Research Agenda](systems/2026-04-19-cloud-native-distributed-systems-llm.md)
 - [BloomBee: Distributed Generative Inference of LLM at Internet Scales with Multi-Dimensional Communication Optimization](systems/2026-04-27-bloomber-distributed-generative-inference-internet-scale.md)
