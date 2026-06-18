@@ -89,6 +89,8 @@ A navigable index of paper summaries in this repository, organized by topic.
 
 ### Multi Agent Topologies
 
+- [PerfOrch: Multi-LLM Orchestration for High-Quality Code Generation](llm-agents-dev/agent-orchestration/2026-05-28-perfororch-multi-llm-orchestration-code-generation.md)
+- [AdaptOrch: Task-Adaptive Multi-Agent Orchestration in the Era of LLM Performance Convergence](llm-agents-dev/agent-orchestration/2026-05-29-adaptorch-task-adaptive-topology-routing.md)
 
 ### Multi Agent Topologies
 
@@ -125,6 +127,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 
 ### Testing Debugging
 
+- [The Rise of Agentic Testing: Multi-Agent Systems for Robust Software Quality Assurance](llm-agents-dev/testing-debugging/2026-01-05-agentic-testing-multi-agent-quality-assurance.md)
 - [Empowering Autonomous Debugging Agents with Efficient Dynamic Analysis](llm-agents-dev/testing-debugging/2026-04-27-empowering-autonomous-debugging-agents-dynamic-analysis.md)
 - [TraceCoder: A Trace-Driven Multi-Agent Framework for Automated Debugging of LLM-Generated Code](llm-agents-dev/testing-debugging/2026-05-27-tracecoder-trace-driven-multi-agent-debugging.md)
 
