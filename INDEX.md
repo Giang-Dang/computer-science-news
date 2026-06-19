@@ -243,6 +243,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [When New Generators Arrive: Lifelong Machine-Generated Text Attribution via Ridge Feature Transfer](natural-language-processing/2026-06-04-when-new-generators-arrive-lifelong-mgt-attribution.md)
 - [Reducing Hallucinations in Complex Question Answering using Simple Graph-based Retrieval-Augmented Generation](natural-language-processing/2026-06-04-reducing-hallucinations-graph-based-rag.md)
 - [The Periodic Table of LLM Reasoning: A Structured Survey of Reasoning Paradigms, Methods, and Failure Modes](natural-language-processing/2026-06-17-periodic-table-llm-reasoning.md)
+- [Long-Context Modeling via GSS-Transformer Hybrid Architecture with Learnable Mixing](natural-language-processing/2026-06-16-long-context-gss-transformer-hybrid.md)
 
 ## Robotics
 
@@ -267,6 +268,9 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [Redefining AI Red Teaming in the Agentic Era: From Weeks to Hours](systems/2026-05-05-redefining-ai-red-teaming-agentic.md)
 - [Brief Announcement: Generative Markov Model for Distributed Computing Systems](systems/2026-06-02-generative-markov-model-distributed-computing.md)
 - [Post-Deterministic Distributed Systems: A New Foundation for Trustworthy Autonomous Infrastructure](systems/2026-06-06-post-deterministic-distributed-systems-autonomous-infrastructure.md)
+- [Federation of Experts: Communication Efficient Distributed Inference for Large Language Models](systems/2026-05-07-federation-of-experts-distributed-inference-moe.md)
+- [SparDA: Sparse Decoupled Attention for Efficient Long-Context LLM Inference](systems/2026-06-04-sparda-sparse-attention-efficient-inference.md)
+- [End-to-End Context Compression at Scale](systems/2026-06-09-context-compression-scale.md)
 
 ## XAI
 
