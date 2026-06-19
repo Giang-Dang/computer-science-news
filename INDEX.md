@@ -291,6 +291,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [Neuron-Anchored Rule Extraction for Large Language Models via Contrastive Hierarchical Ablation](xai/mechanistic-interpretability/2026-05-05-neuron-anchored-rule-extraction-llm-circuits.md)
 - [From Mechanistic to Compositional Interpretability: A Category-Theoretic Framework](xai/mechanistic-interpretability/2026-05-07-compositional-interpretability-category-theoretic.md)
 - [Mechanistic Interpretability of EEG Foundation Models via Sparse Autoencoders](xai/mechanistic-interpretability/2026-05-13-mechanistic-interpretability-eeg-foundation-models-sparse-autoencoders.md)
+- [Subspace-Aware Sparse Autoencoders for Effective Mechanistic Interpretability](xai/mechanistic-interpretability/2026-06-04-subspace-aware-sparse-autoencoders-mechanistic-interpretability.md)
 
 ### Self Explaining Models
 
