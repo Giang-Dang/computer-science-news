@@ -65,10 +65,12 @@ A navigable index of paper summaries in this repository, organized by topic.
 
 ### Agent Orchestration
 
+- [Multi-LLM Orchestration for High-Quality Code Generation: Exploiting Complementary Model Strengths](llm-agents-dev/agent-orchestration/2025-10-01-performch-multi-llm-orchestration-code-generation.md)
 - [MACOG: Multi-Agent Code-Orchestrated Generation for Reliable Infrastructure-as-Code](llm-agents-dev/agent-orchestration/2025-10-04-macog-multi-agent-code-orchestrated-generation-infrastructure.md)
 - [A Comprehensive Empirical Evaluation of Agent Frameworks on Code-Centric Software Engineering Tasks](llm-agents-dev/agent-orchestration/2025-11-02-comprehensive-empirical-evaluation-agent-frameworks-code-centric-tasks.md)
 - [Agentic AI Frameworks: Architectures, Protocols, and Design Challenges](llm-agents-dev/agent-orchestration/2025-08-13-agentic-ai-frameworks-architectures-protocols-design-challenges.md)
 - [Towards Adaptive, Scalable, and Robust Coordination of LLM Agents: A Dynamic Ad-Hoc Networking Perspective](llm-agents-dev/agent-orchestration/2026-02-08-raps-adaptive-coordination-llm-agents.md)
+- [DeepCode: Open Agentic Coding](llm-agents-dev/agent-orchestration/2025-12-08-deepcode-open-agentic-coding.md)
 - [ABSTRAL: Automated Multi-Agent System Design via Skill-Referenced Adaptive Search](llm-agents-dev/agent-orchestration/2026-03-24-abstral-automated-multi-agent-system-design.md)
 - [AgentForge: Execution-Grounded Multi-Agent LLM Framework for Autonomous Software Engineering](llm-agents-dev/agent-orchestration/2026-04-06-agentforge-execution-grounded-multi-agent-framework.md)
 - [EvoAgent: An Evolvable Agent Framework with Skill Learning and Multi-Agent Delegation](llm-agents-dev/agent-orchestration/2026-04-22-evoagent-evolvable-agent-framework-skill-learning.md)
@@ -107,6 +109,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 ### Program Synthesis
 
 - [ReaComp: Compiling LLM Reasoning into Symbolic Solvers for Efficient Program Synthesis](llm-agents-dev/program-synthesis/2026-05-05-reacomp-llm-reasoning-symbolic-solvers-program-synthesis.md)
+- [A-ProS: Towards Reliable Autonomous Programming Through Multi-Model Feedback](llm-agents-dev/program-synthesis/2026-05-18-apros-reliable-autonomous-programming-multi-model-feedback.md)
 - [QualityFlow: An Agentic Workflow for Program Synthesis Controlled by LLM Quality Checks](llm-agents-dev/program-synthesis/2026-05-27-qualityflow-agentic-workflow-program-synthesis.md)
 
 ### Code Generation
