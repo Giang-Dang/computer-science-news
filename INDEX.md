@@ -161,7 +161,6 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [CATPO: Critique-Augmented Tree Policy Optimization](machine-learning/2026-06-06-catpo-critique-augmented-tree-policy-optimization.md)
 - [World Models: A Comprehensive Survey of Architectures, Methodologies, Reasoning Paradigms, and Applications](machine-learning/2026-06-06-world-models-comprehensive-survey.md)
 - [Representation Learning Enables Scalable Multitask Deep Reinforcement Learning](machine-learning/2026-06-04-representation-learning-multitask-deep-rl.md)
-- [ProbeScale: Probing Analysis to Optimize Neural Scaling Laws for Efficient Small Language Model Inference](machine-learning/2026-06-01-probescale-neural-scaling-laws-efficient-inference.md)
 - [Agentic Monte Carlo: Simulating Reinforcement Learning for Black-Box Agents](machine-learning/2026-06-03-agentic-monte-carlo-black-box-agents-rl.md)
 - [Rethinking Agentic Reinforcement Learning In Large Language Models](machine-learning/2026-04-30-agentic-reinforcement-learning-llms.md)
 - [Harness-1: Reinforcement Learning for Search Agents with State-Externalizing Harnesses](machine-learning/2026-06-02-harness-1-rl-search-agents-state-externalizing.md)
