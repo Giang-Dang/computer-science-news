@@ -80,20 +80,11 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [Reinforcement Learning for LLM-based Multi-Agent Systems through Orchestration Traces](llm-agents-dev/agent-orchestration/2026-05-04-reinforcement-learning-multi-agent-orchestration-traces.md)
 - [Code as Agent Harness: Toward Executable, Verifiable, and Stateful Agent Systems](llm-agents-dev/agent-orchestration/2026-05-18-code-as-agent-harness.md)
 - [TDD Governance for Multi-Agent Code Generation via Prompt Engineering](llm-agents-dev/agent-orchestration/2026-05-27-tdd-governance-multi-agent-code-generation.md)
-- [Code as Agent Harness: Toward Executable, Verifiable, and Stateful Agent Systems](llm-agents-dev/agent-orchestration/2026-05-18-code-as-agent-harness.md)
-- [Reinforcement Learning for LLM-based Multi-Agent Systems through Orchestration Traces](llm-agents-dev/agent-orchestration/2026-05-04-reinforcement-learning-multi-agent-orchestration-traces.md)
-- [EvoAgent: An Evolvable Agent Framework with Skill Learning and Multi-Agent Delegation](llm-agents-dev/agent-orchestration/2026-04-22-evoagent-evolvable-agent-framework-skill-learning.md)
-- [AgentForge: Execution-Grounded Multi-Agent LLM Framework for Autonomous Software Engineering](llm-agents-dev/agent-orchestration/2026-04-06-agentforge-execution-grounded-multi-agent-framework.md)
-- [ABSTRAL: Automated Multi-Agent System Design via Skill-Referenced Adaptive Search](llm-agents-dev/agent-orchestration/2026-03-24-abstral-automated-multi-agent-system-design.md)
 - [SkillFlow: Flow-Driven Recursive Skill Evolution for Agentic Orchestration](llm-agents-dev/agent-orchestration/2026-05-13-skillflow-recursive-skill-evolution.md)
-- [A Comprehensive Empirical Evaluation of Agent Frameworks on Code-Centric Software Engineering Tasks](llm-agents-dev/agent-orchestration/2025-11-02-comprehensive-empirical-evaluation-agent-frameworks-code-centric-tasks.md)
-- [MACOG: Multi-Agent Code-Orchestrated Generation for Reliable Infrastructure-as-Code](llm-agents-dev/agent-orchestration/2025-10-04-macog-multi-agent-code-orchestrated-generation-infrastructure.md)
 - [SEVerA: Verified Synthesis of Self-Evolving Agents](llm-agents-dev/agent-orchestration/2026-06-11-severa-verified-synthesis-self-evolving-agents.md)
 - [AdaptOrch: Task-Adaptive Multi-Agent Orchestration in the Era of LLM Performance Convergence](llm-agents-dev/agent-orchestration/2026-06-15-adaptorch-task-adaptive-multi-agent-orchestration.md)
 - [A Two-Dimensional Framework for AI Agent Design Patterns: Cognitive Function × Execution Topology](llm-agents-dev/agent-orchestration/2026-06-15-two-dimensional-framework-agent-design-patterns.md)
 - [Learning and Reusing Policy Decompositions for Hierarchical Generalized Planning with LLM Agents](llm-agents-dev/agent-orchestration/2026-05-07-hierarchical-policy-decomposition-llm-agents.md)
-- [Code as Agent Harness: Toward Executable, Verifiable, and Stateful Agent Systems](llm-agents-dev/agent-orchestration/2026-05-18-code-as-agent-harness.md)
-- [TDD Governance for Multi-Agent Code Generation via Prompt Engineering](llm-agents-dev/agent-orchestration/2026-05-27-tdd-governance-multi-agent-code-generation.md)
 - [Bridging Requirements and Architecture: Multi-Agent Orchestration with External Knowledge and Hierarchical Memory](llm-agents-dev/agent-orchestration/2026-06-08-bridging-requirements-architecture-multi-agent-orchestration.md)
 
 ### Multi Agent Topologies
@@ -108,10 +99,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [Self-Organizing Multi-Agent Systems for Continuous Software Development](llm-agents-dev/multi-agent-topologies/2026-05-27-self-organizing-multi-agent-continuous-software-development.md)
 - [From Prompt-Response to Goal-Directed Systems: The Evolution of Agentic AI Software Architecture](llm-agents-dev/multi-agent-topologies/2026-06-16-agentic-ai-evolution-software-architecture.md)
 - [CodeCRDT: Observation-Driven Coordination for Multi-Agent LLM Code Generation](llm-agents-dev/multi-agent-topologies/2026-10-18-codecrdt-observation-driven-coordination.md)
-- [Self-Organizing Multi-Agent Systems for Continuous Software Development](llm-agents-dev/multi-agent-topologies/2026-05-27-self-organizing-multi-agent-continuous-software-development.md)
-- [Self-Organized Agents: A LLM Multi-Agent Framework toward Ultra Large-Scale Code Generation and Optimization](llm-agents-dev/multi-agent-topologies/2026-04-02-self-organized-agents-ultra-large-scale-code-generation.md)
 - [Experience as a Compass: Multi-Agent RAG with Evolving Orchestration and Agent Prompts](llm-agents-dev/multi-agent-topologies/2026-04-01-experience-as-compass-multi-agent-rag.md)
-- [GoAgent: Group-of-Agents Communication Topology Generation for LLM-based Multi-Agent Systems](llm-agents-dev/multi-agent-topologies/2026-03-17-goagent-group-of-agents-communication-topology.md)
 - [Understanding Multi-Agent LLM Frameworks: A Unified Benchmark and Experimental Analysis](llm-agents-dev/multi-agent-topologies/2026-06-15-understanding-multi-agent-llm-frameworks-benchmark.md)
 
 ### Program Synthesis
@@ -150,10 +138,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [Knowledge Activation: AI Skills as the Institutional Knowledge Primitive for Agentic Software Development](llm-agents-dev/tool-use/2026-03-16-knowledge-activation-ai-skills-institutional-knowledge.md)
 - [The Evolution of Tool Use in LLM Agents: From Single-Tool Call to Multi-Tool Orchestration](llm-agents-dev/tool-use/2026-03-24-evolution-tool-use-multi-tool-orchestration.md)
 - [AutoTool: Dynamic Tool Selection and Integration for Agentic Reasoning](llm-agents-dev/tool-use/2026-05-27-autotool-dynamic-tool-selection-agentic-reasoning.md)
-- [The Evolution of Tool Use in LLM Agents: From Single-Tool Call to Multi-Tool Orchestration](llm-agents-dev/tool-use/2026-03-24-evolution-tool-use-multi-tool-orchestration.md)
 - [Trace2Skill: Distill Trajectory-Local Lessons into Transferable Agent Skills](llm-agents-dev/tool-use/2026-03-26-trace2skill-distill-trajectory-lessons.md)
-- [SkillCraft: Can LLM Agents Learn to Use Tools Skillfully?](llm-agents-dev/tool-use/2026-03-10-skillcraft-llm-agents-learn-tools-skillfully.md)
-- [SoK: Agentic Skills -- Beyond Tool Use in LLM Agents](llm-agents-dev/tool-use/2026-02-24-sok-agentic-skills-beyond-tool-use.md)
 - [Agent Skills for Large Language Models: Architecture, Acquisition, Security, and the Path Forward](llm-agents-dev/tool-use/2026-06-11-agent-skills-llm-architecture-acquisition-security.md)
 
 ## Machine Learning
@@ -388,6 +373,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [Mechanistic Interpretability of EEG Foundation Models via Sparse Autoencoders](xai/mechanistic-interpretability/2026-05-13-mechanistic-interpretability-eeg-foundation-models-sparse-autoencoders.md)
 - [Beyond Linear Superposition: Discovering Climate Features in AI Weather Models with KAN-SAE](xai/mechanistic-interpretability/2026-05-20-kan-sae-climate-features-weather-models.md)
 - [MechRL: Reinforcement Learning Agents Perform Circuit Discovery for Mechanistic Interpretability](xai/mechanistic-interpretability/2026-05-26-mechrl-circuit-discovery-reinforcement-learning.md)
+- [Subspace-Aware Sparse Autoencoders for Effective Mechanistic Interpretability](xai/mechanistic-interpretability/2026-06-06-subspace-aware-sparse-autoencoders-mechanistic-interpretability.md)
 
 ### Self Explaining Models
 
