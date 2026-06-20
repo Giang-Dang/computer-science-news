@@ -20,6 +20,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 
 ## Computer Vision
 
+- [Video Analysis and Generation via a Semantic Progress Function](computer-vision/2026-04-24-video-analysis-generation-semantic-progress-function.md)
 - [UniCanvas: A Diffusion-based Unified Model for Text-in-Image Joint Generation](computer-vision/2026-06-02-unicanvas-unified-text-in-image-generation.md)
 - [YOLO26: An Analysis of NMS-Free End-to-End Framework for Real-Time Object Detection](computer-vision/2026-01-19-yolo26-nms-free-object-detection.md)
 - [Efficient Training-Free Single-Image Diffusion Models](computer-vision/2026-06-03-efficient-training-free-single-image-diffusion.md)
@@ -143,6 +144,8 @@ A navigable index of paper summaries in this repository, organized by topic.
 
 ## Machine Learning
 
+- [Protein Dynamics Beyond Structure Prediction](machine-learning/2026-06-08-protein-dynamics-beyond-structure-prediction.md)
+- [Log-Linear Attention](machine-learning/2026-05-06-log-linear-attention.md)
 - [CATPO: Critique-Augmented Tree Policy Optimization](machine-learning/2026-06-06-catpo-critique-augmented-tree-policy-optimization.md)
 - [World Models: A Comprehensive Survey of Architectures, Methodologies, Reasoning Paradigms, and Applications](machine-learning/2026-06-06-world-models-comprehensive-survey.md)
 - [Representation Learning Enables Scalable Multitask Deep Reinforcement Learning](machine-learning/2026-06-04-representation-learning-multitask-deep-rl.md)
