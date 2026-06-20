@@ -24,7 +24,6 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [YOLO26: An Analysis of NMS-Free End-to-End Framework for Real-Time Object Detection](computer-vision/2026-01-19-yolo26-nms-free-object-detection.md)
 - [Efficient Training-Free Single-Image Diffusion Models](computer-vision/2026-06-03-efficient-training-free-single-image-diffusion.md)
 - [From Sight to Insight: Improving Visual Reasoning Capabilities of Multimodal Models via Reinforcement Learning](computer-vision/2026-01-01-from-sight-to-insight-visual-reasoning-rl.md)
-- [Large Language Models are Universal Reasoners for Visual Generation](computer-vision/2026-06-01-universal-reasoners-llm-visual-generation.md)
 - [Large Language Models are Universal Reasoners for Visual Generation](computer-vision/2026-05-04-universal-reasoners-llm-visual-generation.md)
 - [Adversarial Evasion Attacks on Computer Vision using SHAP Values](computer-vision/2026-01-15-adversarial-evasion-attacks-shap.md)
 - [NeoVerse: Enhancing 4D World Model with in-the-Wild Monocular Videos](computer-vision/2026-01-15-neoverse-4d-world-model-monocular-video.md)
@@ -216,7 +215,6 @@ A navigable index of paper summaries in this repository, organized by topic.
 ## Natural Language Processing
 
 - [Brain-Guided Language Models for Robust Reasoning](natural-language-processing/2026-06-10-brain-guided-language-models-robust-reasoning.md)
-- [Critique-GRPO: Advancing LLM Reasoning with Natural Language and Numerical Feedback](natural-language-processing/2026-06-01-critique-grpo-advancing-llm-reasoning.md)
 - [Critique-GRPO: Advancing LLM Reasoning with Natural Language and Numerical Feedback](natural-language-processing/2025-06-03-critique-grpo-advancing-llm-reasoning.md)
 - [LENS: Multi-level Evaluation of Multimodal Reasoning with Large Language Models](natural-language-processing/2025-05-21-lens-multimodal-reasoning-evaluation.md)
 - [MemAgent: Reshaping Long-Context LLM with Multi-Conv RL-based Memory Agent](natural-language-processing/2025-07-02-memagent-reshaping-long-context-llm.md)
