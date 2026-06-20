@@ -90,7 +90,6 @@ A navigable index of paper summaries in this repository, organized by topic.
 ### Multi Agent Topologies
 
 - [PerfOrch: Multi-LLM Orchestration for High-Quality Code Generation](llm-agents-dev/agent-orchestration/2026-05-28-perfororch-multi-llm-orchestration-code-generation.md)
-- [AdaptOrch: Task-Adaptive Multi-Agent Orchestration in the Era of LLM Performance Convergence](llm-agents-dev/agent-orchestration/2026-05-29-adaptorch-task-adaptive-topology-routing.md)
 
 ### Multi Agent Topologies
 
