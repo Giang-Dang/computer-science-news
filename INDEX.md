@@ -65,7 +65,6 @@ A navigable index of paper summaries in this repository, organized by topic.
 
 ### Agent Orchestration
 
-- [Multi-LLM Orchestration for High-Quality Code Generation: Exploiting Complementary Model Strengths](llm-agents-dev/agent-orchestration/2025-10-01-performch-multi-llm-orchestration-code-generation.md)
 - [MACOG: Multi-Agent Code-Orchestrated Generation for Reliable Infrastructure-as-Code](llm-agents-dev/agent-orchestration/2025-10-04-macog-multi-agent-code-orchestrated-generation-infrastructure.md)
 - [A Comprehensive Empirical Evaluation of Agent Frameworks on Code-Centric Software Engineering Tasks](llm-agents-dev/agent-orchestration/2025-11-02-comprehensive-empirical-evaluation-agent-frameworks-code-centric-tasks.md)
 - [Agentic AI Frameworks: Architectures, Protocols, and Design Challenges](llm-agents-dev/agent-orchestration/2025-08-13-agentic-ai-frameworks-architectures-protocols-design-challenges.md)
