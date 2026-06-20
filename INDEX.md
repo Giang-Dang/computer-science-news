@@ -87,7 +87,6 @@ A navigable index of paper summaries in this repository, organized by topic.
 
 ### Multi Agent Topologies
 
-- [A Two-Dimensional Framework for AI Agent Design Patterns: Cognitive Function × Execution Topology](llm-agents-dev/agent-orchestration/2026-06-16-two-dimensional-framework-agent-design-patterns.md)
 
 ### Multi Agent Topologies
 
