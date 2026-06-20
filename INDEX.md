@@ -202,7 +202,6 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [Energy-Gated Attention and Wavelet Positional Encoding: Complementary Inductive Biases for Transformer Attention](machine-learning/2026-05-25-energy-gated-attention-wavelet-positional-encoding.md)
 - [Building The Ph(ysical)AI Layer Of Machine Intelligence](machine-learning/2026-06-02-physical-ai-layer-machine-intelligence.md)
 - [AugMask: Training Diffusion Models on Incomplete Tabular Data via Stochastic Augmentation and Masking](machine-learning/2026-06-02-augmask-diffusion-incomplete-tabular-data.md)
-- [EnergyMamba: An Uncertainty-Aware Graph-Enhanced Selective State Space Model for Energy Consumption Prediction](machine-learning/2026-06-17-energymamba-spatiotemporal-energy-prediction.md)
 
 ## Natural Language Processing
 
