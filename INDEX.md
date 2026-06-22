@@ -235,6 +235,8 @@ A navigable index of paper summaries in this repository, organized by topic.
 
 - [Brain-Guided Language Models for Robust Reasoning](natural-language-processing/2026-06-10-brain-guided-language-models-robust-reasoning.md)
 - [FeynmanBench: Benchmarking Multimodal LLMs on Diagrammatic Physics Reasoning](natural-language-processing/2026-04-04-feynmanbench-multimodal-llms-physics-reasoning.md)
+- [Can RL Teach Long-Horizon Reasoning to LLMs? Expressiveness Is Key](natural-language-processing/2026-05-20-can-rl-teach-long-horizon-reasoning-scalelogic.md)
+- [Enhanced LLM Reasoning by Optimizing Reward Functions with Search-Driven Reinforcement Learning](natural-language-processing/2026-05-08-enhanced-llm-reasoning-search-driven-reinforcement-learning.md)
 - [Critique-GRPO: Advancing LLM Reasoning with Natural Language and Numerical Feedback](natural-language-processing/2025-06-03-critique-grpo-advancing-llm-reasoning.md)
 - [SciVQR: A Multidisciplinary Multimodal Benchmark for Advanced Scientific Reasoning Evaluation](natural-language-processing/2026-05-11-scivqr-multidisciplinary-scientific-reasoning-benchmark.md)
 - [LENS: Multi-level Evaluation of Multimodal Reasoning with Large Language Models](natural-language-processing/2025-05-21-lens-multimodal-reasoning-evaluation.md)
