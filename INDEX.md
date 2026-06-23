@@ -24,6 +24,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [HAViT: Historical Attention Vision Transformer](computer-vision/2026-03-19-havit-historical-attention-vision-transformer.md)
 - [Video Analysis and Generation via a Semantic Progress Function](computer-vision/2026-04-24-video-analysis-generation-semantic-progress-function.md)
 - [UniCanvas: A Diffusion-based Unified Model for Text-in-Image Joint Generation](computer-vision/2026-06-02-unicanvas-unified-text-in-image-generation.md)
+- [YOLOv12: Attention-Centric Real-Time Object Detectors](computer-vision/2025-02-18-yolov12-attention-centric-object-detectors.md)
 - [YOLO26: An Analysis of NMS-Free End-to-End Framework for Real-Time Object Detection](computer-vision/2026-01-19-yolo26-nms-free-object-detection.md)
 - [Efficient Training-Free Single-Image Diffusion Models](computer-vision/2026-06-03-efficient-training-free-single-image-diffusion.md)
 - [Vision Inference Former: Sustaining Visual Consistency in Multimodal Large Language Models](computer-vision/2026-05-28-vision-inference-former-visual-consistency-multimodal-llms.md)
@@ -159,6 +160,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [Coding Agents with Multimodal Browsing are Generalist Problem Solvers](machine-learning/2025-06-03-openhands-versa-coding-agents-multimodal-browsing.md)
 - [Hidden Breakthroughs in Language Model Training](machine-learning/2025-06-18-hidden-breakthroughs-language-model-training.md)
 - [Preconditioned Attention: Enhancing Efficiency in Transformers](machine-learning/2026-03-28-preconditioned-attention-transformers.md)
+- [Policy Improvement Reinforcement Learning](machine-learning/2026-04-01-policy-improvement-reinforcement-learning.md)
 - [The Expert Strikes Back: Interpreting Mixture-of-Experts Language Models at Expert Level](machine-learning/2026-04-02-expert-strikes-back-interpreting-moe-language-models.md)
 - [REAM: Merging Improves Pruning of Experts in LLMs](machine-learning/2026-04-06-ream-merging-improves-pruning-experts-llms.md)
 - [AgentGL: Towards Agentic Graph Learning with LLMs via Reinforcement Learning](machine-learning/2026-04-08-agentgl-agentic-graph-learning-llms-reinforcement-learning.md)
@@ -265,6 +267,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 
 ## Systems
 
+- [OrbitFlow: SLO-Aware Long-Context LLM Serving with Fine-Grained KV Cache Reconfiguration](systems/2026-01-10-orbitflow-slo-aware-llm-serving-kv-cache.md)
 - [EnergyMamba: An Uncertainty-Aware Graph-Enhanced Selective State Space Model for Energy Consumption Prediction](systems/2026-05-30-energymamba-uncertainty-aware-energy-prediction.md)
 - [Data Driven Optimization of GPU Efficiency for Distributed LLM Adapter Serving](systems/2026-02-27-gpu-optimization-distributed-llm-adapter-serving.md)
 - [Federation of Experts: Communication Efficient Distributed Inference for Large Language Models](systems/2026-05-07-federation-of-experts-distributed-inference.md)
