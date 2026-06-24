@@ -69,6 +69,8 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [Watch, Remember, Reason: Human-View Video Understanding with MLLMs](computer-vision/2026-06-05-watch-remember-reason-video-understanding-mlms.md)
 - [Stream3D-VLM: Online 3D Spatial Understanding with Incremental Geometry Priors](computer-vision/2026-06-17-stream3d-vlm-online-3d-spatial-understanding.md)
 - [Wan-Streamer v0.1: End-to-end Real-time Interactive Foundation Models](computer-vision/2026-06-23-wan-streamer-interactive-foundation-models.md)
+- [OrbitForge: Text-to-3D Scene Generation via Reconstruction-Anchored Video Synthesis](computer-vision/2026-06-23-orbitforge-3d-scene-generation-video-synthesis.md)
+- [GeoT2V-Bench: Benchmarking 3D Consistency in Text-to-Video Models via 3D Reconstruction](computer-vision/2026-06-24-geot2v-bench-3d-consistency-video-generation.md)
 
 ## LLM Agents & Development
 
@@ -233,6 +235,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [ProbeScale: Probing Analysis to Optimize Neural Scaling Laws for Efficient Small Language Model Inference](machine-learning/2026-06-01-probescale-efficient-scaling-laws.md)
 - [MLEvolve: A Self-Evolving Framework for Automated Machine Learning Algorithm Discovery](machine-learning/2026-06-04-mlevolve-automated-algorithm-discovery.md)
 - [Tapered Language Models](machine-learning/2026-06-22-tapered-language-models.md)
+- [Quantized Reasoning Models Think They Need to Think Longer, but They Do Not](machine-learning/2026-06-24-quantized-reasoning-overthinking-fix.md)
 
 ## Natural Language Processing
 
