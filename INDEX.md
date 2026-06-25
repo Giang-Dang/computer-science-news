@@ -70,6 +70,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 
 ### Agent Orchestration
 
+- [ALMAS: An Autonomous LLM-Based Multi-Agent Software Engineering Framework](llm-agents-dev/agent-orchestration/2026-06-25-almas-autonomous-llm-multi-agent-software-engineering-framework.md)
 - [Efficient Agentic Reasoning Through Self-Regulated Simulative Planning](llm-agents-dev/agent-orchestration/2026-05-22-efficient-agentic-reasoning-self-regulated-planning.md)
 - [MACOG: Multi-Agent Code-Orchestrated Generation for Reliable Infrastructure-as-Code](llm-agents-dev/agent-orchestration/2025-10-04-macog-multi-agent-code-orchestrated-generation-infrastructure.md)
 - [A Comprehensive Empirical Evaluation of Agent Frameworks on Code-Centric Software Engineering Tasks](llm-agents-dev/agent-orchestration/2025-11-02-comprehensive-empirical-evaluation-agent-frameworks-code-centric-tasks.md)
@@ -116,6 +117,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 ### Code Generation
 
 - [AI Agentic Programming: A Survey of Techniques, Challenges, and Opportunities](llm-agents-dev/code-generation/2025-08-15-ai-agentic-programming-survey-techniques-opportunities.md)
+- [CODESIM: Multi-Agent Code Generation and Problem Solving through Simulation-Driven Planning and Debugging](llm-agents-dev/code-generation/2026-06-25-codesim-multi-agent-simulation-driven-planning-debugging.md)
 - [Understanding and Bridging the Planner-Coder Gap: A Systematic Study on the Robustness of Multi-Agent Systems for Code Generation](llm-agents-dev/code-generation/2026-06-16-planner-coder-gap-robust-multi-agent-code.md)
 
 ### Software Development
@@ -132,6 +134,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 
 - [The Rise of Agentic Testing: Multi-Agent Systems for Robust Software Quality Assurance](llm-agents-dev/testing-debugging/2026-01-05-agentic-testing-multi-agent-quality-assurance.md)
 - [Beyond Resolution Rates: Behavioral Drivers of Coding Agent Success and Failure](llm-agents-dev/testing-debugging/2026-04-02-behavioral-drivers-coding-agent-success-failure.md)
+- [SWE-EVO: Benchmarking Coding Agents in Long-Horizon Software Evolution Scenarios](llm-agents-dev/testing-debugging/2026-06-25-swe-evo-benchmarking-long-horizon-software-evolution.md)
 - [Empowering Autonomous Debugging Agents with Efficient Dynamic Analysis](llm-agents-dev/testing-debugging/2026-04-27-empowering-autonomous-debugging-agents-dynamic-analysis.md)
 - [TraceCoder: A Trace-Driven Multi-Agent Framework for Automated Debugging of LLM-Generated Code](llm-agents-dev/testing-debugging/2026-05-27-tracecoder-trace-driven-multi-agent-debugging.md)
 
