@@ -67,6 +67,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [MetaPoint: Unlocking Precise Spatial Control in Agentic Visual Generation](computer-vision/2026-06-03-metapoint-spatial-control-agentic-visual-generation.md)
 - [Watch, Remember, Reason: Human-View Video Understanding with MLLMs](computer-vision/2026-06-05-watch-remember-reason-video-understanding-mlms.md)
 - [Stream3D-VLM: Online 3D Spatial Understanding with Incremental Geometry Priors](computer-vision/2026-06-17-stream3d-vlm-online-3d-spatial-understanding.md)
+- [Wan-Streamer v0.1: End-to-end Real-time Interactive Foundation Models](computer-vision/2026-06-23-wan-streamer-interactive-foundation-models.md)
 
 ## LLM Agents & Development
 
@@ -221,6 +222,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [Do Transformers Need Three Projections? Systematic Study of QKV Variants](machine-learning/2026-06-04-do-transformers-need-three-projections.md)
 - [ProbeScale: Probing Analysis to Optimize Neural Scaling Laws for Efficient Small Language Model Inference](machine-learning/2026-06-01-probescale-efficient-scaling-laws.md)
 - [MLEvolve: A Self-Evolving Framework for Automated Machine Learning Algorithm Discovery](machine-learning/2026-06-04-mlevolve-automated-algorithm-discovery.md)
+- [Tapered Language Models](machine-learning/2026-06-22-tapered-language-models.md)
 
 ## Natural Language Processing
 
@@ -288,6 +290,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [Post-Deterministic Distributed Systems: A New Foundation for Trustworthy Autonomous Infrastructure](systems/2026-06-06-post-deterministic-distributed-systems-autonomous-infrastructure.md)
 - [SparDA: Sparse Decoupled Attention for Efficient Long-Context LLM Inference](systems/2026-06-04-sparda-sparse-attention-efficient-inference.md)
 - [End-to-End Context Compression at Scale](systems/2026-06-09-context-compression-scale.md)
+- [JetSpec: Breaking the Scaling Ceiling of Speculative Decoding with Parallel Tree Drafting](systems/2026-06-16-jetspec-speculative-decoding-tree-drafting.md)
 
 ## XAI
 
