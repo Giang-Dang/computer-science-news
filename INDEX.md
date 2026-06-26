@@ -89,6 +89,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [EvoAgent: An Evolvable Agent Framework with Skill Learning and Multi-Agent Delegation](llm-agents-dev/agent-orchestration/2026-04-22-evoagent-evolvable-agent-framework-skill-learning.md)
 - [Reinforcement Learning for LLM-based Multi-Agent Systems through Orchestration Traces](llm-agents-dev/agent-orchestration/2026-05-04-reinforcement-learning-multi-agent-orchestration-traces.md)
 - [Code as Agent Harness: Toward Executable, Verifiable, and Stateful Agent Systems](llm-agents-dev/agent-orchestration/2026-05-18-code-as-agent-harness.md)
+- [From Agent Loops to Structured Graphs: A Scheduler-Theoretic Framework for LLM Agent Execution](llm-agents-dev/agent-orchestration/2026-04-13-from-agent-loops-structured-graphs.md)
 - [TDD Governance for Multi-Agent Code Generation via Prompt Engineering](llm-agents-dev/agent-orchestration/2026-05-27-tdd-governance-multi-agent-code-generation.md)
 - [SkillFlow: Flow-Driven Recursive Skill Evolution for Agentic Orchestration](llm-agents-dev/agent-orchestration/2026-05-13-skillflow-recursive-skill-evolution.md)
 - [SEVerA: Verified Synthesis of Self-Evolving Agents](llm-agents-dev/agent-orchestration/2026-06-11-severa-verified-synthesis-self-evolving-agents.md)
@@ -145,6 +146,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [The Rise of Agentic Testing: Multi-Agent Systems for Robust Software Quality Assurance](llm-agents-dev/testing-debugging/2026-01-05-agentic-testing-multi-agent-quality-assurance.md)
 - [Beyond Resolution Rates: Behavioral Drivers of Coding Agent Success and Failure](llm-agents-dev/testing-debugging/2026-04-02-behavioral-drivers-coding-agent-success-failure.md)
 - [SWE-EVO: Benchmarking Coding Agents in Long-Horizon Software Evolution Scenarios](llm-agents-dev/testing-debugging/2026-06-25-swe-evo-benchmarking-long-horizon-software-evolution.md)
+- [Debugging the Debuggers: Failure-Anchored Structured Recovery for Software Engineering Agents](llm-agents-dev/testing-debugging/2026-05-09-debugging-debuggers-failure-recovery-software-agents.md)
 - [Empowering Autonomous Debugging Agents with Efficient Dynamic Analysis](llm-agents-dev/testing-debugging/2026-04-27-empowering-autonomous-debugging-agents-dynamic-analysis.md)
 - [TraceCoder: A Trace-Driven Multi-Agent Framework for Automated Debugging of LLM-Generated Code](llm-agents-dev/testing-debugging/2026-05-27-tracecoder-trace-driven-multi-agent-debugging.md)
 
@@ -159,6 +161,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [How Well Do Agentic Skills Work in the Wild: Benchmarking LLM Skill Usage in Realistic Settings](llm-agents-dev/tool-use/2026-04-06-how-well-agentic-skills-work-in-wild-benchmarking-realistic.md)
 - [AutoTool: Dynamic Tool Selection and Integration for Agentic Reasoning](llm-agents-dev/tool-use/2026-05-27-autotool-dynamic-tool-selection-agentic-reasoning.md)
 - [Trace2Skill: Distill Trajectory-Local Lessons into Transferable Agent Skills](llm-agents-dev/tool-use/2026-03-26-trace2skill-distill-trajectory-lessons.md)
+- [CODESKILL: Learning Self-Evolving Skills for Coding Agents](llm-agents-dev/tool-use/2026-05-25-codeskill-learning-self-evolving-skills-coding-agents.md)
 - [Agent Skills for Large Language Models: Architecture, Acquisition, Security, and the Path Forward](llm-agents-dev/tool-use/2026-06-11-agent-skills-llm-architecture-acquisition-security.md)
 - [SkillCAT: Contrastive Assessment and Topology-Aware Skill Self-Evolution for LLM Agents](llm-agents-dev/tool-use/2026-06-11-skillcat-skill-self-evolution-topology-aware.md)
 - [State-Grounded Multi-Agent Synthetic Data Generation for Tool-Augmented LLMs](llm-agents-dev/tool-use/2026-06-16-state-grounded-synthetic-data-tool-augmented-llms.md)
