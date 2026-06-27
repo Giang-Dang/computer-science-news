@@ -74,6 +74,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 ### Agent Orchestration
 
 - [Efficient Agentic Reasoning Through Self-Regulated Simulative Planning](llm-agents-dev/agent-orchestration/2026-05-22-efficient-agentic-reasoning-self-regulated-planning.md)
+- [A Technical Taxonomy of LLM Agent Communication Protocols](llm-agents-dev/agent-orchestration/2026-06-17-technical-taxonomy-llm-agent-communication-protocols.md)
 - [MACOG: Multi-Agent Code-Orchestrated Generation for Reliable Infrastructure-as-Code](llm-agents-dev/agent-orchestration/2025-10-04-macog-multi-agent-code-orchestrated-generation-infrastructure.md)
 - [A Comprehensive Empirical Evaluation of Agent Frameworks on Code-Centric Software Engineering Tasks](llm-agents-dev/agent-orchestration/2025-11-02-comprehensive-empirical-evaluation-agent-frameworks-code-centric-tasks.md)
 - [Agentic AI Frameworks: Architectures, Protocols, and Design Challenges](llm-agents-dev/agent-orchestration/2025-08-13-agentic-ai-frameworks-architectures-protocols-design-challenges.md)
@@ -100,6 +101,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 
 ### Multi Agent Topologies
 
+- [Usable Agent Discovery for Decentralized AI Systems](llm-agents-dev/multi-agent-topologies/2026-04-25-usable-agent-discovery-decentralized-ai-systems.md)
 - [A Taxonomy of Hierarchical Multi-Agent Systems: Design Patterns, Coordination Mechanisms, and Industrial Applications](llm-agents-dev/multi-agent-topologies/2025-08-18-taxonomy-hierarchical-multi-agent-systems-design.md)
 - [GoAgent: Group-of-Agents Communication Topology Generation for LLM-based Multi-Agent Systems](llm-agents-dev/multi-agent-topologies/2026-03-17-goagent-group-of-agents-communication-topology.md)
 - [Self-Organized Agents: A LLM Multi-Agent Framework toward Ultra Large-Scale Code Generation and Optimization](llm-agents-dev/multi-agent-topologies/2026-04-02-self-organized-agents-ultra-large-scale-code-generation.md)
@@ -227,6 +229,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 ## Natural Language Processing
 
 - [Brain-Guided Language Models for Robust Reasoning](natural-language-processing/2026-06-10-brain-guided-language-models-robust-reasoning.md)
+- [FeynmanBench: Benchmarking Multimodal LLMs on Diagrammatic Physics Reasoning](natural-language-processing/2026-04-04-feynmanbench-multimodal-llms-physics-reasoning.md)
 - [Critique-GRPO: Advancing LLM Reasoning with Natural Language and Numerical Feedback](natural-language-processing/2025-06-03-critique-grpo-advancing-llm-reasoning.md)
 - [SciVQR: A Multidisciplinary Multimodal Benchmark for Advanced Scientific Reasoning Evaluation](natural-language-processing/2026-05-11-scivqr-multidisciplinary-scientific-reasoning-benchmark.md)
 - [LENS: Multi-level Evaluation of Multimodal Reasoning with Large Language Models](natural-language-processing/2025-05-21-lens-multimodal-reasoning-evaluation.md)
