@@ -373,6 +373,8 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [Unboxing the Black Box: Mechanistic Interpretability for Algorithmic Understanding of Neural Networks](xai/mechanistic-interpretability/2025-11-24-unboxing-black-box-mechanistic-interpretability-taxonomy.md)
 - [Sparse Attention Post-Training for Mechanistic Interpretability](xai/mechanistic-interpretability/2025-12-20-sparse-attention-post-training-mechanistic-interpretability.md)
 - [nnterp: A Standardized Interface for Mechanistic Interpretability of Transformers](xai/mechanistic-interpretability/2025-12-14-nnterp-standardized-interface-mechanistic-interpretability.md)
+- [Faithful and Stable Neuron Explanations for Trustworthy Mechanistic Interpretability](xai/mechanistic-interpretability/2025-12-19-faithful-stable-neuron-explanations-trustworthy-mi.md)
+- [Sparse Attention Post-Training for Mechanistic Interpretability](xai/mechanistic-interpretability/2025-12-20-sparse-attention-post-training-mechanistic-interpretability.md)
 - [Interpreting Transformers Through Attention Head Intervention](xai/mechanistic-interpretability/2026-01-07-interpreting-transformers-attention-head-intervention.md)
 - [Mechanistic Data Attribution: Tracing the Training Origins of Interpretable LLM Units](xai/mechanistic-interpretability/2026-01-29-mechanistic-data-attribution-training-origins.md)
 - [AudioSAE: Towards Understanding of Audio-Processing Models with Sparse AutoEncoders](xai/mechanistic-interpretability/2026-02-06-audiosae-sparse-autoencoders-audio-models.md)
