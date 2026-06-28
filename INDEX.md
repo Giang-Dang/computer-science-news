@@ -218,14 +218,11 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [Reasoning Models Don't Just Think Longer, They Move Differently](machine-learning/2026-05-14-reasoning-models-move-differently.md)
 - [Don't Stop Me Yet: Sampling Loss Minima via Dissipative Riemannian Mechanics](machine-learning/2026-05-14-sampling-loss-minima-riemannian-mechanics.md)
 - [Breaking Global Self-Attention Bottlenecks in Transformer-based Spiking Neural Networks with Local Structure-Aware Self-Attention](machine-learning/2026-05-15-efficient-spiking-transformers-attention.md)
-- [Code as Agent Harness: Toward Executable, Verifiable, and Stateful Agent Systems](machine-learning/2026-05-18-code-as-agent-harness.md)
 - [DashAttention: Differentiable and Adaptive Sparse Hierarchical Attention](machine-learning/2026-05-18-dashattention-sparse-hierarchical-attention.md)
-- [Generative Recursive Reasoning](machine-learning/2026-05-19-generative-recursive-reasoning-gram.md)
 - [Generative Recursive Reasoning Models (GRAM)](machine-learning/2026-05-19-gram-generative-recursive-reasoning-models.md)
 - [What Do Agents Communicate? Characterizing Information Exchange in Multi-Agent Systems](machine-learning/2026-05-19-what-do-agents-communicate-multi-agent-systems.md)
 - [LT2: Linear-Time Looped Transformers](machine-learning/2026-05-20-lt2-linear-time-looped-transformers.md)
 - [Retrieval-Augmented Reasoning for Chartered Accountancy](machine-learning/2026-05-20-retrieval-augmented-reasoning-chartered-accountancy.md)
-- [MOSS: Self-Evolution through Source-Level Rewriting in Autonomous Agent Systems](machine-learning/2026-05-21-moss-self-evolution-source-level-rewriting-agents.md)
 - [Tokenisation via Convex Relaxations: ConvexTok](machine-learning/2026-05-25-tokenisation-convex-relaxations.md)
 - [Kernel-Based Attention: Achieving Linear Complexity Transformers with Feature Maps](machine-learning/2026-05-26-kernel-attention-efficient-transformers.md)
 - [ARISE: Agent Reasoning with Intrinsic Skill Evolution in Hierarchical Reinforcement Learning](machine-learning/2026-03-17-arise-agent-reasoning-intrinsic-skill-evolution.md)
@@ -255,7 +252,6 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [Sparser, Faster, Lighter Transformer Language Models](natural-language-processing/2026-03-25-sparser-faster-lighter-transformers.md)
 - [Toward Culturally Grounded Natural Language Processing](natural-language-processing/2026-03-27-toward-culturally-grounded-nlp.md)
 - [Revisiting Anisotropy in Language Transformers: The Geometry of Learning Dynamics](natural-language-processing/2026-04-09-anisotropy-language-transformers-geometry-learning-dynamics.md)
-- [Revisiting Anisotropy in Language Transformers: The Geometry of Learning Dynamics](natural-language-processing/2026-04-09-anisotropy-language-transformers.md)
 - [SUPERNOVA: Eliciting General Reasoning in LLMs with Reinforcement Learning on Natural Instructions](natural-language-processing/2026-04-09-supernova-general-reasoning-llms-rl-natural-instructions.md)
 - [General365: Benchmarking General Reasoning in Large Language Models Across Diverse and Challenging Tasks](natural-language-processing/2026-04-13-general365-benchmarking-general-reasoning-llms.md)
 - [LASA: Language-Agnostic Semantic Alignment at the Semantic Bottleneck for LLM Safety](natural-language-processing/2026-04-14-lasa-language-agnostic-semantic-alignment-llm-safety.md)
@@ -317,10 +313,6 @@ A navigable index of paper summaries in this repository, organized by topic.
 ### Actionable Interpretability
 
 - [Interpretability Can Be Actionable: Shifting Evaluation Criteria in Explainable AI Research](xai/actionable-interpretability/2026-05-11-interpretability-can-be-actionable.md)
-
-### Algorithmic Contestability
-
-- [Explainable AI Isn't Enough! Rethinking Algorithmic Contestability](xai/algorithmic-contestability/2026-05-15-explainable-ai-algorithmic-contestability.md)
 
 ### Causal Interpretability
 
@@ -406,12 +398,10 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [Automated Attention Pattern Discovery at Scale in Large Language Models](xai/mechanistic-interpretability/2026-04-04-automated-attention-pattern-discovery-llms.md)
 - [AIPsy-Affect: A Keyword-Free Clinical Stimulus Battery for Mechanistic Interpretability of Emotion in Language Models](xai/mechanistic-interpretability/2026-04-09-aipsy-affect-keyword-free-clinical-stimulus-emotion.md)
 - [Seeing Through Circuits: Faithful Mechanistic Interpretability for Vision Transformers](xai/mechanistic-interpretability/2026-04-14-seeing-through-circuits-vision-transformers.md)
-- [Seeing Through Circuits: Faithful Mechanistic Interpretability for Vision Transformers](xai/mechanistic-interpretability/2026-04-15-seeing-through-circuits-faithful-mechanistic-interpretability-vision-transformers.md)
 - [Are LLM Uncertainty and Correctness Encoded by the Same Features? A Functional Dissociation via Sparse Autoencoders](xai/mechanistic-interpretability/2026-04-21-llm-uncertainty-correctness-saes.md)
 - [Why Does Reinforcement Learning Generalize? A Feature-Level Mechanistic Study of Post-Training in Large Language Models](xai/mechanistic-interpretability/2026-04-27-rl-generalization-feature-level-mechanistic-study-llms.md)
 - [Automated Interpretability and Feature Discovery in Language Models with Agents](xai/mechanistic-interpretability/2026-05-02-automated-interpretability-feature-discovery-llms-agents.md)
 - [Neuron-Anchored Rule Extraction for Large Language Models via Contrastive Hierarchical Ablation](xai/mechanistic-interpretability/2026-05-04-neuron-anchored-rule-extraction-llms.md)
-- [Neuron-Anchored Rule Extraction for Large Language Models via Contrastive Hierarchical Ablation](xai/mechanistic-interpretability/2026-05-05-neuron-anchored-rule-extraction-llm-circuits.md)
 - [From Mechanistic to Compositional Interpretability: A Category-Theoretic Framework](xai/mechanistic-interpretability/2026-05-07-compositional-interpretability-category-theoretic.md)
 - [Mechanistic Interpretability of EEG Foundation Models via Sparse Autoencoders](xai/mechanistic-interpretability/2026-05-13-mechanistic-interpretability-eeg-foundation-models-sparse-autoencoders.md)
 - [Beyond Linear Superposition: Discovering Climate Features in AI Weather Models with KAN-SAE](xai/mechanistic-interpretability/2026-05-20-kan-sae-climate-features-weather-models.md)
