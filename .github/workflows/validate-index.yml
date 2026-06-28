@@ -1,0 +1,64 @@
+name: validate-index
+
+# Lightweight guard for this markdown-only repo. Runs on every PR and on pushes
+# to main. Checks three invariants:
+#   1. Every .md link in INDEX.md resolves to a tracked file.
+#   2. Every paper .md file is linked exactly once in INDEX.md.
+#   3. No two papers share the same primary **ArXiv ID** (duplicate detection).
+
+on:
+  pull_request:
+  push:
+    branches: [main]
+
+permissions:
+  contents: read
+
+jobs:
+  validate-index:
+    name: validate-index
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Validate INDEX.md and detect duplicate papers
+        shell: bash
+        run: |
+          status=0
+
+          # Links targeting .md files inside INDEX.md, and all tracked paper files.
+          grep -oE '\]\([^)]+\.md\)' INDEX.md | sed -E 's/^\]\(//; s/\)$//' | sort -u > links.txt
+          git ls-files '*.md' | grep -vE '^(INDEX|README|CLAUDE)\.md$' | sort -u > files.txt
+
+          missing=$(comm -23 links.txt files.txt)
+          if [ -n "$missing" ]; then
+            echo "::error::INDEX.md links to files that do not exist:"
+            echo "$missing"
+            status=1
+          fi
+
+          unlinked=$(comm -13 links.txt files.txt)
+          if [ -n "$unlinked" ]; then
+            echo "::error::Paper files not linked in INDEX.md:"
+            echo "$unlinked"
+            status=1
+          fi
+
+          # Primary ArXiv ID = first '**ArXiv ID:**' header line per file.
+          : > ids.txt
+          while IFS= read -r f; do
+            line=$(grep -m1 -iE '^\*\*ArXiv ID:\*\*' "$f" || true)
+            id=$(printf '%s' "$line" | grep -oiE '[0-9]{4}\.[0-9]{4,5}' | head -n1 || true)
+            [ -n "$id" ] && echo "$id" >> ids.txt
+          done < files.txt
+
+          dups=$(sort ids.txt | uniq -d)
+          if [ -n "$dups" ]; then
+            echo "::error::Duplicate primary ArXiv IDs (same paper added twice):"
+            echo "$dups"
+            status=1
+          fi
+
+          if [ "$status" -eq 0 ]; then
+            echo "OK: $(wc -l < links.txt) INDEX links = $(wc -l < files.txt) paper files, no duplicate ArXiv IDs."
+          fi
+          exit $status
