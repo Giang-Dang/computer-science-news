@@ -70,7 +70,6 @@ A navigable index of paper summaries in this repository, organized by topic.
 
 ### Agent Orchestration
 
-- [ALMAS: An Autonomous LLM-Based Multi-Agent Software Engineering Framework](llm-agents-dev/agent-orchestration/2026-06-25-almas-autonomous-llm-multi-agent-software-engineering-framework.md)
 - [Efficient Agentic Reasoning Through Self-Regulated Simulative Planning](llm-agents-dev/agent-orchestration/2026-05-22-efficient-agentic-reasoning-self-regulated-planning.md)
 - [MACOG: Multi-Agent Code-Orchestrated Generation for Reliable Infrastructure-as-Code](llm-agents-dev/agent-orchestration/2025-10-04-macog-multi-agent-code-orchestrated-generation-infrastructure.md)
 - [A Comprehensive Empirical Evaluation of Agent Frameworks on Code-Centric Software Engineering Tasks](llm-agents-dev/agent-orchestration/2025-11-02-comprehensive-empirical-evaluation-agent-frameworks-code-centric-tasks.md)
