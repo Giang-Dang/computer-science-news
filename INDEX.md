@@ -23,6 +23,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 ## Computer Vision
 
 - [DynaTok: Token-Based 4D Reconstruction from Partial Point Clouds](computer-vision/2026-06-06-dynatoks-token-based-4d-reconstruction.md)
+- [Making Time Editable in Video Diffusion Transformers: Temporal Control without Architectural Redesign](computer-vision/2026-06-08-making-time-editable-video-diffusion-transformers.md)
 - [HAViT: Historical Attention Vision Transformer](computer-vision/2026-03-19-havit-historical-attention-vision-transformer.md)
 - [Video Analysis and Generation via a Semantic Progress Function](computer-vision/2026-04-24-video-analysis-generation-semantic-progress-function.md)
 - [UniCanvas: A Diffusion-based Unified Model for Text-in-Image Joint Generation](computer-vision/2026-06-02-unicanvas-unified-text-in-image-generation.md)
@@ -169,6 +170,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 ## Machine Learning
 
 - [Neuro-Relational Programs: Unifying Queries and Neural Computation over Structured Data](machine-learning/2026-06-21-neuro-relational-programs-neural-structured-data.md)
+- [Reversal Q-Learning: Off-Policy RL via Flow Matching and Virtual Trajectory Generation](machine-learning/2026-06-16-reversal-q-learning.md)
 - [Protein Dynamics Beyond Structure Prediction](machine-learning/2026-06-08-protein-dynamics-beyond-structure-prediction.md)
 - [Log-Linear Attention](machine-learning/2026-05-06-log-linear-attention.md)
 - [CATPO: Critique-Augmented Tree Policy Optimization](machine-learning/2026-06-06-catpo-critique-augmented-tree-policy-optimization.md)
@@ -279,6 +281,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [The Periodic Table of LLM Reasoning: A Structured Survey of Reasoning Paradigms, Methods, and Failure Modes](natural-language-processing/2026-06-17-periodic-table-llm-reasoning.md)
 - [Long-Context Modeling via GSS-Transformer Hybrid Architecture with Learnable Mixing](natural-language-processing/2026-06-16-long-context-gss-transformer-hybrid.md)
 - [FlowTTS-GRPO: Online Reinforcement Learning with Multi-Objective Reward Optimization for Flow-Matching Based Text-to-Speech](natural-language-processing/2026-06-22-flowtts-grpo-online-reinforcement-learning-flow-matching-tts.md)
+- [Transformer-Based Language Models Across Domain Verticals: Architectures, Applications and Critical Assessment](natural-language-processing/2026-06-24-transformer-based-language-models-domain-verticals.md)
 
 ## Robotics
 
