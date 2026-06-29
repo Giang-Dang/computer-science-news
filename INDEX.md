@@ -99,6 +99,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [Bridging Requirements and Architecture: Multi-Agent Orchestration with External Knowledge and Hierarchical Memory](llm-agents-dev/agent-orchestration/2026-06-08-bridging-requirements-architecture-multi-agent-orchestration.md)
 - [What Should Agents Say? Action-state Communication for Efficient Multi-Agent Systems](llm-agents-dev/agent-orchestration/2026-06-03-action-state-communication-efficient-multi-agent.md)
 - [Agents-K1: Towards Agent-Native Knowledge Orchestration](llm-agents-dev/agent-orchestration/2026-06-13-agents-k1-agent-native-knowledge-orchestration.md)
+- [The Hitchhiker's Guide to Agentic AI: From Foundations to Systems](llm-agents-dev/agent-orchestration/2026-06-22-hitchhikers-guide-agentic-ai-foundations-to-systems.md)
 
 ### Multi Agent Topologies
 
@@ -116,6 +117,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [Experience as a Compass: Multi-Agent RAG with Evolving Orchestration and Agent Prompts](llm-agents-dev/multi-agent-topologies/2026-04-01-experience-as-compass-multi-agent-rag.md)
 - [Understanding Multi-Agent LLM Frameworks: A Unified Benchmark and Experimental Analysis](llm-agents-dev/multi-agent-topologies/2026-06-15-understanding-multi-agent-llm-frameworks-benchmark.md)
 - [LLM Consortium for Software Design Refinement: A Controlled Experiment on Multi-Agent Collaboration Topologies](llm-agents-dev/multi-agent-topologies/2026-06-01-llm-consortium-software-design-collaboration-topologies.md)
+- [Skill-MAS: Evolving Meta-Skill for Automatic Multi-Agent Systems](llm-agents-dev/multi-agent-topologies/2026-06-17-skill-mas-evolving-meta-skill-automatic-multi-agent-systems.md)
 
 ### Program Synthesis
 
@@ -149,9 +151,11 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [Debugging the Debuggers: Failure-Anchored Structured Recovery for Software Engineering Agents](llm-agents-dev/testing-debugging/2026-05-09-debugging-debuggers-failure-recovery-software-agents.md)
 - [Empowering Autonomous Debugging Agents with Efficient Dynamic Analysis](llm-agents-dev/testing-debugging/2026-04-27-empowering-autonomous-debugging-agents-dynamic-analysis.md)
 - [TraceCoder: A Trace-Driven Multi-Agent Framework for Automated Debugging of LLM-Generated Code](llm-agents-dev/testing-debugging/2026-05-27-tracecoder-trace-driven-multi-agent-debugging.md)
+- [Agora: Toward Autonomous Bug Detection in Production-Level Consensus Protocols with LLM Agents](llm-agents-dev/testing-debugging/2026-05-28-agora-autonomous-bug-detection-consensus-protocols-llm-agents.md)
 
 ### Tool Use
 
+- [Towards Secure Agent Skills: Architecture, Threat Taxonomy, and Security Analysis](llm-agents-dev/tool-use/2026-04-03-secure-agent-skills-architecture-threat-taxonomy-security-analysis.md)
 - [SoK: Agentic Skills -- Beyond Tool Use in LLM Agents](llm-agents-dev/tool-use/2026-02-24-sok-agentic-skills-beyond-tool-use.md)
 - [AutoSkill: Experience-Driven Lifelong Learning via Skill Self-Evolution](llm-agents-dev/tool-use/2026-03-01-autoskill-experience-driven-lifelong-learning-skill-self-evolution.md)
 - [SkillCraft: Can LLM Agents Learn to Use Tools Skillfully?](llm-agents-dev/tool-use/2026-03-10-skillcraft-llm-agents-learn-tools-skillfully.md)
