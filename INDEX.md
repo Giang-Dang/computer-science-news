@@ -319,6 +319,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 
 ### Causal Interpretability
 
+- [Tagged for Direction: Pinning Down Causal Edge Directions with Precision](xai/causal-interpretability/2025-06-24-tagged-for-direction-causal-edge-directions.md)
 - [Causal SHAP: Feature Attribution with Dependency Awareness through Causal Discovery](xai/causal-interpretability/2025-08-31-causal-shap-feature-attribution-dependency-awareness.md)
 - [DANCE: Actionable and Diverse Counterfactual Explanations Incorporating Domain Knowledge and Causal Constraints](xai/causal-interpretability/2025-11-25-dance-counterfactual-explanations-causal-constraints.md)
 - [Position: Causality is Key for Interpretability Claims to Generalise](xai/causal-interpretability/2026-02-18-causality-key-interpretability-claims.md)
