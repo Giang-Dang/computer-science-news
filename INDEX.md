@@ -119,12 +119,14 @@ A navigable index of paper summaries in this repository, organized by topic.
 
 ### Program Synthesis
 
+- [Structured Program Synthesis using LLMs: Results and Insights from the IPARC Challenge](llm-agents-dev/program-synthesis/2026-06-15-structured-program-synthesis-llm-iparc.md)
 - [ReaComp: Compiling LLM Reasoning into Symbolic Solvers for Efficient Program Synthesis](llm-agents-dev/program-synthesis/2026-05-05-reacomp-llm-reasoning-symbolic-solvers-program-synthesis.md)
 - [A-ProS: Towards Reliable Autonomous Programming Through Multi-Model Feedback](llm-agents-dev/program-synthesis/2026-05-18-apros-reliable-autonomous-programming-multi-model-feedback.md)
 - [QualityFlow: An Agentic Workflow for Program Synthesis Controlled by LLM Quality Checks](llm-agents-dev/program-synthesis/2026-05-27-qualityflow-agentic-workflow-program-synthesis.md)
 
 ### Code Generation
 
+- [Think Anywhere in Code Generation: Interleaved Reasoning for Adaptive LLM Problem-Solving](llm-agents-dev/code-generation/2026-03-26-think-anywhere-interleaved-reasoning-code-generation.md)
 - [Code to Think, Think to Code: A Survey on Code-Enhanced Reasoning and Reasoning-Driven Code Intelligence in LLMs](llm-agents-dev/code-generation/2025-02-26-code-to-think-think-to-code-survey-reasoning-code-intelligence.md)
 - [AI Agentic Programming: A Survey of Techniques, Challenges, and Opportunities](llm-agents-dev/code-generation/2025-08-15-ai-agentic-programming-survey-techniques-opportunities.md)
 - [CODESIM: Multi-Agent Code Generation and Problem Solving through Simulation-Driven Planning and Debugging](llm-agents-dev/code-generation/2026-06-25-codesim-multi-agent-simulation-driven-planning-debugging.md)
@@ -133,6 +135,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 
 ### Software Development
 
+- [Terminal Agents Suffice for Enterprise Automation: Simplifying Complexity Through Direct API Access](llm-agents-dev/software-development/2026-04-03-terminal-agents-enterprise-automation.md)
 - [AgentMesh: A Cooperative Multi-Agent Generative AI Framework for Software Development Automation](llm-agents-dev/software-development/2025-07-29-agentmesh-cooperative-multi-agent-dev-automation.md)
 - [A Practical Guide for Designing, Developing, and Deploying Production-Grade Agentic AI Workflows](llm-agents-dev/software-development/2025-12-09-practical-guide-production-grade-agentic-workflows.md)
 - [Agyn: A Multi-Agent System for Team-Based Autonomous Software Engineering](llm-agents-dev/software-development/2026-02-01-agyn-team-based-autonomous-software-engineering.md)
