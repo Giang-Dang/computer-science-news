@@ -15,6 +15,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 
 ## Artificial Intelligence
 
+- [Agentic Software: How AI Agents Are Restructuring the Software Paradigm](artificial-intelligence/2026-06-04-agentic-software-restructuring-paradigm.md)
 - [AI Co-Mathematician: Accelerating Mathematicians with Agentic AI](artificial-intelligence/2026-05-07-ai-co-mathematician-accelerating-mathematicians-with-agentic-ai.md)
 - [From AGI to ASI: Pathways to Artificial Superintelligence](artificial-intelligence/2026-06-10-from-agi-to-asi-pathways-superintelligence.md)
 - [AI Index Report 2026: Governance, Evaluation, and Safety in the Age of Rapid AI Progress](artificial-intelligence/2026-06-14-ai-index-report-2026-governance-evaluation-safety.md)
@@ -170,6 +171,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 ## Machine Learning
 
 - [Neuro-Relational Programs: Unifying Queries and Neural Computation over Structured Data](machine-learning/2026-06-21-neuro-relational-programs-neural-structured-data.md)
+- [Looped Transformers with Layer Normalization Provably Learn the Power Method](machine-learning/2026-05-30-looped-transformers-layer-normalization-power-method.md)
 - [Reversal Q-Learning: Off-Policy RL via Flow Matching and Virtual Trajectory Generation](machine-learning/2026-06-16-reversal-q-learning.md)
 - [Protein Dynamics Beyond Structure Prediction](machine-learning/2026-06-08-protein-dynamics-beyond-structure-prediction.md)
 - [Log-Linear Attention](machine-learning/2026-05-06-log-linear-attention.md)
@@ -293,6 +295,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 
 ## Systems
 
+- [AlignedServe: Orchestrating Prefix-Aware Batching to Build a High-Throughput and Computing-Efficient LLM Serving System](systems/2026-06-01-alignedserve-prefix-aware-batching-llm-serving.md)
 - [OrbitFlow: SLO-Aware Long-Context LLM Serving with Fine-Grained KV Cache Reconfiguration](systems/2026-01-10-orbitflow-slo-aware-llm-serving-kv-cache.md)
 - [EnergyMamba: An Uncertainty-Aware Graph-Enhanced Selective State Space Model for Energy Consumption Prediction](systems/2026-05-30-energymamba-uncertainty-aware-energy-prediction.md)
 - [Data Driven Optimization of GPU Efficiency for Distributed LLM Adapter Serving](systems/2026-02-27-gpu-optimization-distributed-llm-adapter-serving.md)
