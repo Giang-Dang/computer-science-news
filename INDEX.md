@@ -75,6 +75,10 @@ A navigable index of paper summaries in this repository, organized by topic.
 
 ## LLM Agents & Development
 
+### Software Engineering Design
+
+- [Designing LLM-based Multi-Agent Systems for Software Engineering Tasks: Quality Attributes, Design Patterns and Rationale](llm-agents-dev/software-engineering-design/2025-11-02-designing-llm-multi-agent-systems-se-tasks.md)
+
 ### Agent Orchestration
 
 - [Efficient Agentic Reasoning Through Self-Regulated Simulative Planning](llm-agents-dev/agent-orchestration/2026-05-22-efficient-agentic-reasoning-self-regulated-planning.md)
@@ -104,6 +108,10 @@ A navigable index of paper summaries in this repository, organized by topic.
 ### Multi Agent Topologies
 
 - [PerfOrch: Multi-LLM Orchestration for High-Quality Code Generation](llm-agents-dev/agent-orchestration/2026-05-28-perfororch-multi-llm-orchestration-code-generation.md)
+
+### Multi-Modal Orchestration
+
+- [Orchestra-o1: Omnimodal Agent Orchestration](llm-agents-dev/multi-modal-orchestration/2026-06-10-orchestra-o1-omnimodal-agent-orchestration.md)
 
 ### Multi Agent Topologies
 
@@ -150,6 +158,10 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [Debugging the Debuggers: Failure-Anchored Structured Recovery for Software Engineering Agents](llm-agents-dev/testing-debugging/2026-05-09-debugging-debuggers-failure-recovery-software-agents.md)
 - [Empowering Autonomous Debugging Agents with Efficient Dynamic Analysis](llm-agents-dev/testing-debugging/2026-04-27-empowering-autonomous-debugging-agents-dynamic-analysis.md)
 - [TraceCoder: A Trace-Driven Multi-Agent Framework for Automated Debugging of LLM-Generated Code](llm-agents-dev/testing-debugging/2026-05-27-tracecoder-trace-driven-multi-agent-debugging.md)
+
+### Skill Refinement
+
+- [SkillAxe: Sharpening LLM-Authored Agent Skills Through Evaluation-Guided Self-Refinement](llm-agents-dev/skill-refinement/2026-06-14-skillaxe-evaluation-guided-skill-refinement.md)
 
 ### Tool Use
 
