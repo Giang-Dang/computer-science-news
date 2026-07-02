@@ -22,6 +22,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 
 ## Computer Vision
 
+- [MambaVision: A Hybrid Mamba-Transformer Vision Backbone](computer-vision/2026-07-10-mambavision-hybrid-mamba-transformer.md)
 - [DynaTok: Token-Based 4D Reconstruction from Partial Point Clouds](computer-vision/2026-06-06-dynatoks-token-based-4d-reconstruction.md)
 - [Making Time Editable in Video Diffusion Transformers: Temporal Control without Architectural Redesign](computer-vision/2026-06-08-making-time-editable-video-diffusion-transformers.md)
 - [HAViT: Historical Attention Vision Transformer](computer-vision/2026-03-19-havit-historical-attention-vision-transformer.md)
@@ -170,6 +171,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 ## Machine Learning
 
 - [Neuro-Relational Programs: Unifying Queries and Neural Computation over Structured Data](machine-learning/2026-06-21-neuro-relational-programs-neural-structured-data.md)
+- [Kolmogorov-Arnold Graph Neural Networks (GKAN)](machine-learning/2026-06-26-gkan-graph-kolmogorov-arnold-networks.md)
 - [Reversal Q-Learning: Off-Policy RL via Flow Matching and Virtual Trajectory Generation](machine-learning/2026-06-16-reversal-q-learning.md)
 - [Protein Dynamics Beyond Structure Prediction](machine-learning/2026-06-08-protein-dynamics-beyond-structure-prediction.md)
 - [Log-Linear Attention](machine-learning/2026-05-06-log-linear-attention.md)
@@ -285,6 +287,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 
 ## Robotics
 
+- [Robotic Control via Embodied Chain-of-Thought Reasoning](robotics/2026-07-11-robotic-control-embodied-chain-of-thought.md)
 - [V2V-LLM: Vehicle-to-Vehicle Cooperative Autonomous Driving with Multimodal Large Language Models](robotics/2025-02-16-v2v-llm-cooperative-autonomous-driving-multimodal.md)
 - [UniVLA: Unified Vision-Language-Action Model](robotics/2025-06-24-univla-unified-vision-language-action-model.md)
 - [UniDriveVLA: Unifying Understanding, Perception, and Action Planning for Autonomous Driving](robotics/2026-04-02-unidrivevla-unified-autonomous-driving-perception-action.md)
