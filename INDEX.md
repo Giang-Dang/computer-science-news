@@ -24,6 +24,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 
 - [DynaTok: Token-Based 4D Reconstruction from Partial Point Clouds](computer-vision/2026-06-06-dynatoks-token-based-4d-reconstruction.md)
 - [Making Time Editable in Video Diffusion Transformers: Temporal Control without Architectural Redesign](computer-vision/2026-06-08-making-time-editable-video-diffusion-transformers.md)
+- [VideoWeave: Unlocking Geometric Consistency in Video Generation via Joint Geometry-Video Modeling](computer-vision/2026-06-14-videoweave-geometric-consistency-video-generation.md)
 - [HAViT: Historical Attention Vision Transformer](computer-vision/2026-03-19-havit-historical-attention-vision-transformer.md)
 - [Video Analysis and Generation via a Semantic Progress Function](computer-vision/2026-04-24-video-analysis-generation-semantic-progress-function.md)
 - [UniCanvas: A Diffusion-based Unified Model for Text-in-Image Joint Generation](computer-vision/2026-06-02-unicanvas-unified-text-in-image-generation.md)
@@ -169,6 +170,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 
 ## Machine Learning
 
+- [Physics-Guided Convolutional Neural Network for Domain Growth Prediction in Systems with Conserved Kinetics](machine-learning/2026-06-09-physics-guided-cnn-domain-growth-prediction.md)
 - [Neuro-Relational Programs: Unifying Queries and Neural Computation over Structured Data](machine-learning/2026-06-21-neuro-relational-programs-neural-structured-data.md)
 - [Reversal Q-Learning: Off-Policy RL via Flow Matching and Virtual Trajectory Generation](machine-learning/2026-06-16-reversal-q-learning.md)
 - [Protein Dynamics Beyond Structure Prediction](machine-learning/2026-06-08-protein-dynamics-beyond-structure-prediction.md)
@@ -282,6 +284,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [Long-Context Modeling via GSS-Transformer Hybrid Architecture with Learnable Mixing](natural-language-processing/2026-06-16-long-context-gss-transformer-hybrid.md)
 - [FlowTTS-GRPO: Online Reinforcement Learning with Multi-Objective Reward Optimization for Flow-Matching Based Text-to-Speech](natural-language-processing/2026-06-22-flowtts-grpo-online-reinforcement-learning-flow-matching-tts.md)
 - [Transformer-Based Language Models Across Domain Verticals: Architectures, Applications and Critical Assessment](natural-language-processing/2026-06-24-transformer-based-language-models-domain-verticals.md)
+- [Continual Learning for Sequential Personalization of Small Language Models: A Stability Monitoring Analysis](natural-language-processing/2026-06-29-continual-learning-sequential-personalization-small-language-models.md)
 
 ## Robotics
 
