@@ -345,6 +345,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [Towards Unified Attribution in Explainable AI, Data-Centric AI, and Mechanistic Interpretability](xai/feature-attribution/2025-01-31-towards-unified-attribution-xai-dcai-mi.md)
 - [Which LIME should I trust? Concepts, Challenges, and Solutions](xai/feature-attribution/2025-03-31-which-lime-should-i-trust-survey.md)
 - [Time Series Saliency Maps: Explaining Models Across Multiple Domains](xai/feature-attribution/2025-05-20-time-series-saliency-maps-cross-domain-integrated-gradients.md)
+- [Feature Attribution from First Principles](xai/feature-attribution/2025-05-30-feature-attribution-first-principles.md)
 - [SHLIME: Foiling Adversarial Attacks Fooling SHAP and LIME](xai/feature-attribution/2025-08-14-shlime-adversarial-robustness-shap-lime.md)
 - [Distribution-Based Feature Attribution for Explaining the Predictions of Any Classifier](xai/feature-attribution/2025-11-09-distribution-based-feature-attribution-dfax.md)
 - [Explainability of Complex AI Models with Correlation Impact Ratio (ExCIR)](xai/feature-attribution/2026-01-10-excir-correlation-impact-ratio.md)
