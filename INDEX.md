@@ -16,9 +16,10 @@ A navigable index of paper summaries in this repository, organized by topic.
 ## Artificial Intelligence
 
 - [AI Co-Mathematician: Accelerating Mathematicians with Agentic AI](artificial-intelligence/2026-05-07-ai-co-mathematician-accelerating-mathematicians-with-agentic-ai.md)
+- [MOSS: Self-Evolution through Source-Level Rewriting in Autonomous Agent Systems](artificial-intelligence/2026-05-21-moss-self-evolution-through-source-level-rewriting-in-autonomous-agent-systems.md)
+- [Large Language Models Hack Rewards, and Society](artificial-intelligence/2026-06-04-large-language-models-hack-rewards-and-society.md)
 - [From AGI to ASI: Pathways to Artificial Superintelligence](artificial-intelligence/2026-06-10-from-agi-to-asi-pathways-superintelligence.md)
 - [AI Index Report 2026: Governance, Evaluation, and Safety in the Age of Rapid AI Progress](artificial-intelligence/2026-06-14-ai-index-report-2026-governance-evaluation-safety.md)
-- [MOSS: Self-Evolution through Source-Level Rewriting in Autonomous Agent Systems](artificial-intelligence/2026-05-21-moss-self-evolution-through-source-level-rewriting-in-autonomous-agent-systems.md)
 
 ## Computer Vision
 
@@ -241,8 +242,10 @@ A navigable index of paper summaries in this repository, organized by topic.
 
 ## Natural Language Processing
 
+- [Understanding Large Language Models](natural-language-processing/2026-07-01-understanding-large-language-models.md)
 - [Brain-Guided Language Models for Robust Reasoning](natural-language-processing/2026-06-10-brain-guided-language-models-robust-reasoning.md)
 - [FeynmanBench: Benchmarking Multimodal LLMs on Diagrammatic Physics Reasoning](natural-language-processing/2026-04-04-feynmanbench-multimodal-llms-physics-reasoning.md)
+- [Memory Dial: A Training Framework for Controllable Memorization in Language Models](natural-language-processing/2026-04-04-memory-dial-controllable-memorization-language-models.md)
 - [Can RL Teach Long-Horizon Reasoning to LLMs? Expressiveness Is Key](natural-language-processing/2026-05-20-can-rl-teach-long-horizon-reasoning-scalelogic.md)
 - [Enhanced LLM Reasoning by Optimizing Reward Functions with Search-Driven Reinforcement Learning](natural-language-processing/2026-05-08-enhanced-llm-reasoning-search-driven-reinforcement-learning.md)
 - [Critique-GRPO: Advancing LLM Reasoning with Natural Language and Numerical Feedback](natural-language-processing/2025-06-03-critique-grpo-advancing-llm-reasoning.md)
