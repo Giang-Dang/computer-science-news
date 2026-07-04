@@ -372,6 +372,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [Assessing Model-Agnostic XAI Methods against EU AI Act Explainability Requirements](xai/human-centered-explainability/2026-04-18-xai-methods-eu-ai-act-requirements.md)
 - [Understanding Annotator Safety Policy with Interpretability](xai/human-centered-explainability/2026-05-06-understanding-annotator-safety-policy-interpretability.md)
 - [Explainable AI Isn't Enough! Rethinking Algorithmic Contestability](xai/human-centered-explainability/2026-05-15-algorithmic-contestability-xai-beyond-recourse.md)
+- [Radical AI Interpretability: A Philosophical Framework for Understanding AI Agents](xai/human-centered-explainability/2026-06-25-radical-ai-interpretability.md)
 
 ### Inherently Interpretable Models
 
