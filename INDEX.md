@@ -22,6 +22,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 
 ## Computer Vision
 
+- [A Study on Real-time Object Detection using Deep Learning](computer-vision/2026-02-17-real-time-object-detection-deep-learning.md)
 - [DynaTok: Token-Based 4D Reconstruction from Partial Point Clouds](computer-vision/2026-06-06-dynatoks-token-based-4d-reconstruction.md)
 - [Making Time Editable in Video Diffusion Transformers: Temporal Control without Architectural Redesign](computer-vision/2026-06-08-making-time-editable-video-diffusion-transformers.md)
 - [HAViT: Historical Attention Vision Transformer](computer-vision/2026-03-19-havit-historical-attention-vision-transformer.md)
@@ -238,6 +239,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [MLEvolve: A Self-Evolving Framework for Automated Machine Learning Algorithm Discovery](machine-learning/2026-06-04-mlevolve-automated-algorithm-discovery.md)
 - [Tapered Language Models](machine-learning/2026-06-22-tapered-language-models.md)
 - [Quantized Reasoning Models Think They Need to Think Longer, but They Do Not](machine-learning/2026-06-24-quantized-reasoning-overthinking-fix.md)
+- [REVES: REvision and VErification-Augmented Training for Test-Time Scaling](machine-learning/2026-06-18-reves-test-time-scaling-revision-verification.md)
 
 ## Natural Language Processing
 
@@ -293,6 +295,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 
 ## Systems
 
+- [Towards Effective Orchestration of AI x DB Workloads](systems/2026-03-04-ai-db-workload-orchestration.md)
 - [OrbitFlow: SLO-Aware Long-Context LLM Serving with Fine-Grained KV Cache Reconfiguration](systems/2026-01-10-orbitflow-slo-aware-llm-serving-kv-cache.md)
 - [EnergyMamba: An Uncertainty-Aware Graph-Enhanced Selective State Space Model for Energy Consumption Prediction](systems/2026-05-30-energymamba-uncertainty-aware-energy-prediction.md)
 - [Data Driven Optimization of GPU Efficiency for Distributed LLM Adapter Serving](systems/2026-02-27-gpu-optimization-distributed-llm-adapter-serving.md)
