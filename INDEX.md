@@ -329,6 +329,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 
 ### Concept Based Explanations
 
+- [A Comprehensive Survey on the Risks and Limitations of Concept-based Models](xai/concept-based-explanations/2025-06-25-comprehensive-survey-risks-limitations-concept-based-models.md)
 - [Concept-Based Mechanistic Interpretability Using Structured Knowledge Graphs](xai/concept-based-explanations/2025-07-08-concept-based-mechanistic-interpretability-knowledge-graphs.md)
 - [GCAV: A Global Concept Activation Vector Framework for Cross-Layer Consistency in Interpretability](xai/concept-based-explanations/2025-08-28-gcav-global-concept-activation-vectors-cross-layer-consistency.md)
 - [Atlas-Alignment: Making Interpretability Transferable Across Language Models](xai/concept-based-explanations/2025-10-27-atlas-alignment-interpretability-transfer-language-models.md)
