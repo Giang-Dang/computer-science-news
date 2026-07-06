@@ -100,6 +100,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [Bridging Requirements and Architecture: Multi-Agent Orchestration with External Knowledge and Hierarchical Memory](llm-agents-dev/agent-orchestration/2026-06-08-bridging-requirements-architecture-multi-agent-orchestration.md)
 - [What Should Agents Say? Action-state Communication for Efficient Multi-Agent Systems](llm-agents-dev/agent-orchestration/2026-06-03-action-state-communication-efficient-multi-agent.md)
 - [Agents-K1: Towards Agent-Native Knowledge Orchestration](llm-agents-dev/agent-orchestration/2026-06-13-agents-k1-agent-native-knowledge-orchestration.md)
+- [A Deterministic Control Plane for LLM Coding Agents](llm-agents-dev/agent-orchestration/2026-06-26-deterministic-control-plane-llm-coding-agents.md)
 
 ### Multi Agent Topologies
 
@@ -166,6 +167,8 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [Agent Skills for Large Language Models: Architecture, Acquisition, Security, and the Path Forward](llm-agents-dev/tool-use/2026-06-11-agent-skills-llm-architecture-acquisition-security.md)
 - [SkillCAT: Contrastive Assessment and Topology-Aware Skill Self-Evolution for LLM Agents](llm-agents-dev/tool-use/2026-06-11-skillcat-skill-self-evolution-topology-aware.md)
 - [State-Grounded Multi-Agent Synthetic Data Generation for Tool-Augmented LLMs](llm-agents-dev/tool-use/2026-06-16-state-grounded-synthetic-data-tool-augmented-llms.md)
+- [Self-Compacting Language Model Agents](llm-agents-dev/tool-use/2026-06-23-self-compacting-language-model-agents.md)
+- [Generative Skill Composition for LLM Agents](llm-agents-dev/tool-use/2026-07-01-generative-skill-composition-llm-agents.md)
 
 ## Machine Learning
 
