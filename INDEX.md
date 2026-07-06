@@ -45,6 +45,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [Image Generators are Generalist Vision Learners](computer-vision/2026-04-23-image-generators-generalist-vision-learners.md)
 - [Tuna-2: Pixel Embeddings Beat Vision Encoders for Multimodal Understanding and Generation](computer-vision/2026-04-27-tuna-2-pixel-embeddings-beat-vision-encoders-multimodal.md)
 - [A Systematic Post-Train Framework for Video Generation](computer-vision/2026-04-30-systematic-post-train-framework-video-generation.md)
+- [VTok: A Unified Video Tokenizer with Decoupled Spatial-Temporal Latents](computer-vision/2026-02-04-vtok-unified-video-tokenizer-decoupled-spatial-temporal.md)
 - [WILD SAM: A Simulated-and-Real Data Augmentation for Autonomous Driving Perception under Challenging Weather](computer-vision/2026-05-01-wild-sam-autonomous-driving-challenging-weather.md)
 - [Mamoda2.5: Enhancing Unified Multimodal Model with DiT-MoE](computer-vision/2026-05-04-mamoda2-5-unified-multimodal-dit-moe.md)
 - [Erase Persona, Forget Lore: Benchmarking Multimodal Copyright Unlearning in Large Vision Language Models](computer-vision/2026-05-05-erase-persona-copyright-unlearning-vlm.md)
@@ -169,6 +170,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 
 ## Machine Learning
 
+- [Discovering Interpretable Algorithms by Decompiling Transformers to RASP](machine-learning/2026-02-04-discovering-interpretable-algorithms-decompiling-transformers-rasp.md)
 - [Neuro-Relational Programs: Unifying Queries and Neural Computation over Structured Data](machine-learning/2026-06-21-neuro-relational-programs-neural-structured-data.md)
 - [Reversal Q-Learning: Off-Policy RL via Flow Matching and Virtual Trajectory Generation](machine-learning/2026-06-16-reversal-q-learning.md)
 - [Protein Dynamics Beyond Structure Prediction](machine-learning/2026-06-08-protein-dynamics-beyond-structure-prediction.md)
@@ -285,6 +287,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 
 ## Robotics
 
+- [Kairos: A Native World Model Stack for Physical AI](robotics/2026-06-15-kairos-native-world-model-stack-physical-ai.md)
 - [V2V-LLM: Vehicle-to-Vehicle Cooperative Autonomous Driving with Multimodal Large Language Models](robotics/2025-02-16-v2v-llm-cooperative-autonomous-driving-multimodal.md)
 - [UniVLA: Unified Vision-Language-Action Model](robotics/2025-06-24-univla-unified-vision-language-action-model.md)
 - [UniDriveVLA: Unifying Understanding, Perception, and Action Planning for Autonomous Driving](robotics/2026-04-02-unidrivevla-unified-autonomous-driving-perception-action.md)
