@@ -382,6 +382,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 
 - [A Survey on Sparse Autoencoders: Interpreting the Internal Mechanisms of Large Language Models](xai/mechanistic-interpretability/2025-03-07-survey-sparse-autoencoders-llm-mechanisms.md)
 - [Mechanistic Interpretability of Fine-Tuned Vision Transformers on Distorted Images: Decoding Attention Head Behavior for Transparent and Trustworthy AI](xai/mechanistic-interpretability/2025-03-24-mechanistic-interpretability-vision-transformers-distorted-images.md)
+- [Signal in the Noise: Polysemantic Interference Transfers and Predicts Cross-Model Influence](xai/mechanistic-interpretability/2025-05-01-signal-in-noise-polysemantic-interference.md)
 - [Mechanistic Interpretability of Code Correctness in LLMs via Sparse Autoencoders](xai/mechanistic-interpretability/2025-10-09-mechanistic-interp-code-correctness-llm-saes.md)
 - [Weight-Sparse Transformers Have Interpretable Circuits](xai/mechanistic-interpretability/2025-11-17-weight-sparse-transformers-interpretable-circuits.md)
 - [Unboxing the Black Box: Mechanistic Interpretability for Algorithmic Understanding of Neural Networks](xai/mechanistic-interpretability/2025-11-24-unboxing-black-box-mechanistic-interpretability-taxonomy.md)
