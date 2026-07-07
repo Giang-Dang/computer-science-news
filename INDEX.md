@@ -85,6 +85,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [Towards Adaptive, Scalable, and Robust Coordination of LLM Agents: A Dynamic Ad-Hoc Networking Perspective](llm-agents-dev/agent-orchestration/2026-02-08-raps-adaptive-coordination-llm-agents.md)
 - [DeepCode: Open Agentic Coding](llm-agents-dev/agent-orchestration/2025-12-08-deepcode-open-agentic-coding.md)
 - [The Orchestration of Multi-Agent Systems: Architectures, Protocols, and Enterprise Adoption](llm-agents-dev/agent-orchestration/2026-01-20-orchestration-multi-agent-systems-architectures.md)
+- [From Static Templates to Dynamic Runtime Graphs: A Survey of Workflow Optimization for LLM Agents](llm-agents-dev/agent-orchestration/2026-03-23-static-templates-dynamic-runtime-graphs-workflow-optimization.md)
 - [ABSTRAL: Automated Multi-Agent System Design via Skill-Referenced Adaptive Search](llm-agents-dev/agent-orchestration/2026-03-24-abstral-automated-multi-agent-system-design.md)
 - [AgentForge: Execution-Grounded Multi-Agent LLM Framework for Autonomous Software Engineering](llm-agents-dev/agent-orchestration/2026-04-06-agentforge-execution-grounded-multi-agent-framework.md)
 - [EvoAgent: An Evolvable Agent Framework with Skill Learning and Multi-Agent Delegation](llm-agents-dev/agent-orchestration/2026-04-22-evoagent-evolvable-agent-framework-skill-learning.md)
@@ -112,11 +113,12 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [GoAgent: Group-of-Agents Communication Topology Generation for LLM-based Multi-Agent Systems](llm-agents-dev/multi-agent-topologies/2026-03-17-goagent-group-of-agents-communication-topology.md)
 - [Self-Organized Agents: A LLM Multi-Agent Framework toward Ultra Large-Scale Code Generation and Optimization](llm-agents-dev/multi-agent-topologies/2026-04-02-self-organized-agents-ultra-large-scale-code-generation.md)
 - [Self-Organizing Multi-Agent Systems for Continuous Software Development](llm-agents-dev/multi-agent-topologies/2026-05-27-self-organizing-multi-agent-continuous-software-development.md)
+- [Evolve as a Team: Collaborative Self-Evolution for LLM-based Multi-Agent Systems](llm-agents-dev/multi-agent-topologies/2026-05-28-evolve-team-collaborative-self-evolution-multi-agent.md)
+- [LLM Consortium for Software Design Refinement: A Controlled Experiment on Multi-Agent Collaboration Topologies](llm-agents-dev/multi-agent-topologies/2026-06-01-llm-consortium-software-design-collaboration-topologies.md)
 - [From Prompt-Response to Goal-Directed Systems: The Evolution of Agentic AI Software Architecture](llm-agents-dev/multi-agent-topologies/2026-06-16-agentic-ai-evolution-software-architecture.md)
 - [CodeCRDT: Observation-Driven Coordination for Multi-Agent LLM Code Generation](llm-agents-dev/multi-agent-topologies/2026-10-18-codecrdt-observation-driven-coordination.md)
 - [Experience as a Compass: Multi-Agent RAG with Evolving Orchestration and Agent Prompts](llm-agents-dev/multi-agent-topologies/2026-04-01-experience-as-compass-multi-agent-rag.md)
 - [Understanding Multi-Agent LLM Frameworks: A Unified Benchmark and Experimental Analysis](llm-agents-dev/multi-agent-topologies/2026-06-15-understanding-multi-agent-llm-frameworks-benchmark.md)
-- [LLM Consortium for Software Design Refinement: A Controlled Experiment on Multi-Agent Collaboration Topologies](llm-agents-dev/multi-agent-topologies/2026-06-01-llm-consortium-software-design-collaboration-topologies.md)
 
 ### Program Synthesis
 
@@ -139,6 +141,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [Agyn: A Multi-Agent System for Team-Based Autonomous Software Engineering](llm-agents-dev/software-development/2026-02-01-agyn-team-based-autonomous-software-engineering.md)
 - [Agentic AI in the Software Development Lifecycle: Architecture, Empirical Evidence, and the Reshaping of Software Engineering](llm-agents-dev/software-development/2026-04-29-agentic-ai-sdlc.md)
 - [Confucius Code Agent: Scalable Agent Scaffolding for Real-World Codebases](llm-agents-dev/software-development/2026-05-27-confucius-code-agent-scalable-real-world-codebases.md)
+- [Agentic Environment Engineering for Large Language Models: A Survey of Environment Modeling, Synthesis, Evaluation, and Application](llm-agents-dev/software-development/2026-06-10-agentic-environment-engineering-large-language-models-survey.md)
 - [ALMAS: An Autonomous LLM-based Multi-Agent Software Engineering Framework](llm-agents-dev/software-development/2026-06-11-almas-autonomous-multi-agent-software-engineering.md)
 - [The End of Software Engineering: How AI Agents Are Fundamentally Restructuring the Software Paradigm](llm-agents-dev/software-development/2026-06-04-end-of-software-engineering-agentic-paradigm.md)
 
