@@ -100,6 +100,8 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [Bridging Requirements and Architecture: Multi-Agent Orchestration with External Knowledge and Hierarchical Memory](llm-agents-dev/agent-orchestration/2026-06-08-bridging-requirements-architecture-multi-agent-orchestration.md)
 - [What Should Agents Say? Action-state Communication for Efficient Multi-Agent Systems](llm-agents-dev/agent-orchestration/2026-06-03-action-state-communication-efficient-multi-agent.md)
 - [Agents-K1: Towards Agent-Native Knowledge Orchestration](llm-agents-dev/agent-orchestration/2026-06-13-agents-k1-agent-native-knowledge-orchestration.md)
+- [AgentOrchestra: Orchestrating Multi-Agent Intelligence with the Tool-Environment-Agent (TEA) Protocol](llm-agents-dev/agent-orchestration/2026-05-28-agenorchestra-tea-protocol-hierarchical-coordination.md)
+- [Bridging Requirements and Architecture: Multi-Agent Orchestration with External Knowledge and Hierarchical Memory (MAAD)](llm-agents-dev/agent-orchestration/2026-06-01-maad-multi-agent-architecture-design.md)
 
 ### Multi Agent Topologies
 
@@ -112,6 +114,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [GoAgent: Group-of-Agents Communication Topology Generation for LLM-based Multi-Agent Systems](llm-agents-dev/multi-agent-topologies/2026-03-17-goagent-group-of-agents-communication-topology.md)
 - [Self-Organized Agents: A LLM Multi-Agent Framework toward Ultra Large-Scale Code Generation and Optimization](llm-agents-dev/multi-agent-topologies/2026-04-02-self-organized-agents-ultra-large-scale-code-generation.md)
 - [Self-Organizing Multi-Agent Systems for Continuous Software Development](llm-agents-dev/multi-agent-topologies/2026-05-27-self-organizing-multi-agent-continuous-software-development.md)
+- [Self-Organizing Multi-Agent Systems for Continuous Software Development (TheBotCompany)](llm-agents-dev/multi-agent-topologies/2026-03-26-self-organizing-multi-agent-systems-continuous-development.md)
 - [From Prompt-Response to Goal-Directed Systems: The Evolution of Agentic AI Software Architecture](llm-agents-dev/multi-agent-topologies/2026-06-16-agentic-ai-evolution-software-architecture.md)
 - [CodeCRDT: Observation-Driven Coordination for Multi-Agent LLM Code Generation](llm-agents-dev/multi-agent-topologies/2026-10-18-codecrdt-observation-driven-coordination.md)
 - [Experience as a Compass: Multi-Agent RAG with Evolving Orchestration and Agent Prompts](llm-agents-dev/multi-agent-topologies/2026-04-01-experience-as-compass-multi-agent-rag.md)
