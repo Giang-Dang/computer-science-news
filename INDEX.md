@@ -72,6 +72,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [Wan-Streamer v0.1: End-to-end Real-time Interactive Foundation Models](computer-vision/2026-06-23-wan-streamer-interactive-foundation-models.md)
 - [OrbitForge: Text-to-3D Scene Generation via Reconstruction-Anchored Video Synthesis](computer-vision/2026-06-23-orbitforge-3d-scene-generation-video-synthesis.md)
 - [GeoT2V-Bench: Benchmarking 3D Consistency in Text-to-Video Models via 3D Reconstruction](computer-vision/2026-06-24-geot2v-bench-3d-consistency-video-generation.md)
+- [Towards Robustness against Typographic Attack with Training-free Concept Localization](computer-vision/2026-07-02-robustness-typographic-attack-training-free-concept-localization.md)
 
 ## LLM Agents & Development
 
@@ -282,6 +283,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [Long-Context Modeling via GSS-Transformer Hybrid Architecture with Learnable Mixing](natural-language-processing/2026-06-16-long-context-gss-transformer-hybrid.md)
 - [FlowTTS-GRPO: Online Reinforcement Learning with Multi-Objective Reward Optimization for Flow-Matching Based Text-to-Speech](natural-language-processing/2026-06-22-flowtts-grpo-online-reinforcement-learning-flow-matching-tts.md)
 - [Transformer-Based Language Models Across Domain Verticals: Architectures, Applications and Critical Assessment](natural-language-processing/2026-06-24-transformer-based-language-models-domain-verticals.md)
+- [The Future of NLP may not be at NLP Conferences: Scholarly Migration Patterns in Natural Language Processing](natural-language-processing/2026-07-02-future-of-nlp-scholarly-migration-patterns.md)
 
 ## Robotics
 
@@ -290,6 +292,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [UniDriveVLA: Unifying Understanding, Perception, and Action Planning for Autonomous Driving](robotics/2026-04-02-unidrivevla-unified-autonomous-driving-perception-action.md)
 - [Vision-Language-Action in Robotics: A Survey of Datasets, Benchmarks, and Data Engines](robotics/2026-04-24-vla-robotics-survey-datasets-benchmarks-data-engines.md)
 - [NavRL++: A System-Level Framework for Improving Sim-to-Real Transfer in Reinforcement Learning-Based Robot Navigation](robotics/2026-05-25-navrl-plus-plus-sim-to-real.md)
+- [RoboVista: Evaluating Vision Language Models for Diverse Robot Applications](robotics/2026-07-06-robovista-evaluating-vision-language-models-robot-applications.md)
 
 ## Systems
 
