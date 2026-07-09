@@ -89,6 +89,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [AgentForge: Execution-Grounded Multi-Agent LLM Framework for Autonomous Software Engineering](llm-agents-dev/agent-orchestration/2026-04-06-agentforge-execution-grounded-multi-agent-framework.md)
 - [EvoAgent: An Evolvable Agent Framework with Skill Learning and Multi-Agent Delegation](llm-agents-dev/agent-orchestration/2026-04-22-evoagent-evolvable-agent-framework-skill-learning.md)
 - [Reinforcement Learning for LLM-based Multi-Agent Systems through Orchestration Traces](llm-agents-dev/agent-orchestration/2026-05-04-reinforcement-learning-multi-agent-orchestration-traces.md)
+- [Uno-Orchestra: Parsimonious Agent Routing via Selective Delegation](llm-agents-dev/agent-orchestration/2026-05-06-uno-orchestra-agent-routing-selective-delegation.md)
 - [Code as Agent Harness: Toward Executable, Verifiable, and Stateful Agent Systems](llm-agents-dev/agent-orchestration/2026-05-18-code-as-agent-harness.md)
 - [From Agent Loops to Structured Graphs: A Scheduler-Theoretic Framework for LLM Agent Execution](llm-agents-dev/agent-orchestration/2026-04-13-from-agent-loops-structured-graphs.md)
 - [TDD Governance for Multi-Agent Code Generation via Prompt Engineering](llm-agents-dev/agent-orchestration/2026-05-27-tdd-governance-multi-agent-code-generation.md)
@@ -100,6 +101,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [Bridging Requirements and Architecture: Multi-Agent Orchestration with External Knowledge and Hierarchical Memory](llm-agents-dev/agent-orchestration/2026-06-08-bridging-requirements-architecture-multi-agent-orchestration.md)
 - [What Should Agents Say? Action-state Communication for Efficient Multi-Agent Systems](llm-agents-dev/agent-orchestration/2026-06-03-action-state-communication-efficient-multi-agent.md)
 - [Agents-K1: Towards Agent-Native Knowledge Orchestration](llm-agents-dev/agent-orchestration/2026-06-13-agents-k1-agent-native-knowledge-orchestration.md)
+- [Harness-MU: A Safe, Governed, and Effective Harness for Multi-User LLM Agents](llm-agents-dev/agent-orchestration/2026-06-20-harness-mu-safe-multi-user-llm-agents.md)
 
 ### Multi Agent Topologies
 
@@ -153,6 +155,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 
 ### Tool Use
 
+- [SkillCoach: Self-Evolving Rubrics for Evaluating and Enhancing Agentic Skill-Use](llm-agents-dev/tool-use/2026-07-01-skillcoach-self-evolving-rubrics-skill-evaluation.md)
 - [SoK: Agentic Skills -- Beyond Tool Use in LLM Agents](llm-agents-dev/tool-use/2026-02-24-sok-agentic-skills-beyond-tool-use.md)
 - [AutoSkill: Experience-Driven Lifelong Learning via Skill Self-Evolution](llm-agents-dev/tool-use/2026-03-01-autoskill-experience-driven-lifelong-learning-skill-self-evolution.md)
 - [SkillCraft: Can LLM Agents Learn to Use Tools Skillfully?](llm-agents-dev/tool-use/2026-03-10-skillcraft-llm-agents-learn-tools-skillfully.md)
