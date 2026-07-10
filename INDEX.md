@@ -72,6 +72,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [Wan-Streamer v0.1: End-to-end Real-time Interactive Foundation Models](computer-vision/2026-06-23-wan-streamer-interactive-foundation-models.md)
 - [OrbitForge: Text-to-3D Scene Generation via Reconstruction-Anchored Video Synthesis](computer-vision/2026-06-23-orbitforge-3d-scene-generation-video-synthesis.md)
 - [GeoT2V-Bench: Benchmarking 3D Consistency in Text-to-Video Models via 3D Reconstruction](computer-vision/2026-06-24-geot2v-bench-3d-consistency-video-generation.md)
+- [OrbitQuant: Data-Agnostic Quantization for Image and Video Diffusion Transformers](computer-vision/2026-07-08-orbitquant-quantization-diffusion-transformers.md)
 
 ## LLM Agents & Development
 
@@ -169,6 +170,8 @@ A navigable index of paper summaries in this repository, organized by topic.
 
 ## Machine Learning
 
+- [FourierQK: Spectral Preprocessing of Query-Key Projections Improves Transformer Attention](machine-learning/2026-07-08-fourier-qk-spectral-preprocessing-transformer-attention.md)
+- [Ghost in the Kernel: In-Context Learning with Efficient Transformers via Domain Generalization](machine-learning/2026-07-01-ghost-in-kernel-linear-transformers-domain-generalization.md)
 - [Neuro-Relational Programs: Unifying Queries and Neural Computation over Structured Data](machine-learning/2026-06-21-neuro-relational-programs-neural-structured-data.md)
 - [Reversal Q-Learning: Off-Policy RL via Flow Matching and Virtual Trajectory Generation](machine-learning/2026-06-16-reversal-q-learning.md)
 - [Protein Dynamics Beyond Structure Prediction](machine-learning/2026-06-08-protein-dynamics-beyond-structure-prediction.md)
