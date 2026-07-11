@@ -238,6 +238,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [MLEvolve: A Self-Evolving Framework for Automated Machine Learning Algorithm Discovery](machine-learning/2026-06-04-mlevolve-automated-algorithm-discovery.md)
 - [Tapered Language Models](machine-learning/2026-06-22-tapered-language-models.md)
 - [Quantized Reasoning Models Think They Need to Think Longer, but They Do Not](machine-learning/2026-06-24-quantized-reasoning-overthinking-fix.md)
+- [The Universal Weight Subspace Hypothesis](machine-learning/2025-12-03-the-universal-weight-subspace-hypothesis.md)
 
 ## Natural Language Processing
 
@@ -299,6 +300,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [Federation of Experts: Communication Efficient Distributed Inference for Large Language Models](systems/2026-05-07-federation-of-experts-distributed-inference.md)
 - [Securing Retrieval-Augmented Generation: A Taxonomy of Attacks, Defenses, and Future Directions](systems/2026-04-09-securing-rag-taxonomy-attacks-defenses.md)
 - [Cloud-Native and Distributed Systems for Efficient and Scalable Large Language Models: A Research Agenda](systems/2026-04-19-cloud-native-distributed-systems-llm.md)
+- [SAW-INT4: System-Aware 4-Bit KV-Cache Quantization for Real-World LLM Serving](systems/2026-04-03-saw-int4-kv-cache-quantization-real-world-llm-serving.md)
 - [BloomBee: Distributed Generative Inference of LLM at Internet Scales with Multi-Dimensional Communication Optimization](systems/2026-04-27-bloomber-distributed-generative-inference-internet-scale.md)
 - [MCAP: Deployment-Time Layer Profiling for Memory-Constrained LLM Inference](systems/2026-04-27-mcap-deployment-time-layer-profiling-memory-constrained-llm.md)
 - [Cloud Is Closer Than It Appears: Revisiting the Tradeoffs of Distributed Real-Time Inference](systems/2026-05-01-distributed-inference-real-time-tradeoffs.md)
@@ -307,6 +309,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [Redefining AI Red Teaming in the Agentic Era: From Weeks to Hours](systems/2026-05-05-redefining-ai-red-teaming-agentic.md)
 - [Brief Announcement: Generative Markov Model for Distributed Computing Systems](systems/2026-06-02-generative-markov-model-distributed-computing.md)
 - [Post-Deterministic Distributed Systems: A New Foundation for Trustworthy Autonomous Infrastructure](systems/2026-06-06-post-deterministic-distributed-systems-autonomous-infrastructure.md)
+- [EnerInfer: Energy-Aware On-Device LLM Inference](systems/2026-06-06-enerinfer-energy-aware-on-device-llm-inference.md)
 - [SparDA: Sparse Decoupled Attention for Efficient Long-Context LLM Inference](systems/2026-06-04-sparda-sparse-attention-efficient-inference.md)
 - [End-to-End Context Compression at Scale](systems/2026-06-09-context-compression-scale.md)
 - [JetSpec: Breaking the Scaling Ceiling of Speculative Decoding with Parallel Tree Drafting](systems/2026-06-16-jetspec-speculative-decoding-tree-drafting.md)
