@@ -326,6 +326,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [Position: Explainable AI is Causality in Disguise](xai/causal-interpretability/2026-03-30-xai-causality-in-disguise.md)
 - [Beyond Semantic Relevance: Counterfactual Risk Minimization for Robust Retrieval-Augmented Generation](xai/causal-interpretability/2026-05-02-counterfactual-risk-minimization-robust-rag.md)
 - [A Causal Argumentation Method for Explainability of Machine Learning Models](xai/causal-interpretability/2026-05-20-causal-argumentation-explainability-machine-learning.md)
+- [LLM Explainability with Counterfactual Chains and Causal Graphs](xai/causal-interpretability/2026-06-04-llm-explainability-counterfactual-chains-causal-graphs.md)
 
 ### Concept Based Explanations
 
