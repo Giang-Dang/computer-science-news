@@ -19,11 +19,13 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [From AGI to ASI: Pathways to Artificial Superintelligence](artificial-intelligence/2026-06-10-from-agi-to-asi-pathways-superintelligence.md)
 - [AI Index Report 2026: Governance, Evaluation, and Safety in the Age of Rapid AI Progress](artificial-intelligence/2026-06-14-ai-index-report-2026-governance-evaluation-safety.md)
 - [MOSS: Self-Evolution through Source-Level Rewriting in Autonomous Agent Systems](artificial-intelligence/2026-05-21-moss-self-evolution-through-source-level-rewriting-in-autonomous-agent-systems.md)
+- [Agentic Artificial Intelligence: Architectures, Taxonomies, and Evaluation of Large Language Model Agents](artificial-intelligence/2026-06-01-agentic-ai-architectures-taxonomies-evaluation.md)
 
 ## Computer Vision
 
 - [DynaTok: Token-Based 4D Reconstruction from Partial Point Clouds](computer-vision/2026-06-06-dynatoks-token-based-4d-reconstruction.md)
 - [Making Time Editable in Video Diffusion Transformers: Temporal Control without Architectural Redesign](computer-vision/2026-06-08-making-time-editable-video-diffusion-transformers.md)
+- [MORPHOS: Autoregressive 4D Generation with Temporal Structured Latents](computer-vision/2026-06-01-morphos-autoregressive-4d-generation-temporal-latents.md)
 - [HAViT: Historical Attention Vision Transformer](computer-vision/2026-03-19-havit-historical-attention-vision-transformer.md)
 - [Video Analysis and Generation via a Semantic Progress Function](computer-vision/2026-04-24-video-analysis-generation-semantic-progress-function.md)
 - [UniCanvas: A Diffusion-based Unified Model for Text-in-Image Joint Generation](computer-vision/2026-06-02-unicanvas-unified-text-in-image-generation.md)
@@ -243,6 +245,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 
 - [Brain-Guided Language Models for Robust Reasoning](natural-language-processing/2026-06-10-brain-guided-language-models-robust-reasoning.md)
 - [FeynmanBench: Benchmarking Multimodal LLMs on Diagrammatic Physics Reasoning](natural-language-processing/2026-04-04-feynmanbench-multimodal-llms-physics-reasoning.md)
+- [Reasoning Emerges from Constrained Inference Manifolds in Large Language Models](natural-language-processing/2026-05-15-reasoning-emerges-constrained-inference-manifolds.md)
 - [Can RL Teach Long-Horizon Reasoning to LLMs? Expressiveness Is Key](natural-language-processing/2026-05-20-can-rl-teach-long-horizon-reasoning-scalelogic.md)
 - [Enhanced LLM Reasoning by Optimizing Reward Functions with Search-Driven Reinforcement Learning](natural-language-processing/2026-05-08-enhanced-llm-reasoning-search-driven-reinforcement-learning.md)
 - [Critique-GRPO: Advancing LLM Reasoning with Natural Language and Numerical Feedback](natural-language-processing/2025-06-03-critique-grpo-advancing-llm-reasoning.md)
