@@ -364,6 +364,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 
 - [Fewer Than 1% of Explainable AI Papers Validate Explainability with Humans: Addressing the Critical Gap in XAI Research](xai/human-centered-explainability/2025-03-13-human-validation-gap-explainable-ai.md)
 - [LLMs for Explainable AI: A Comprehensive Survey](xai/human-centered-explainability/2025-04-01-llms-explainable-ai-comprehensive-survey.md)
+- [Transparent AI: The Case for Interpretability and Explainability](xai/human-centered-explainability/2025-07-31-transparent-ai-practical-interpretability-implementation.md)
 - [Explaining AI Without Code: A User Study on Explainable AI in No-Code ML Platforms](xai/human-centered-explainability/2026-02-01-explaining-ai-without-code-user-study-xai.md)
 - [Beyond Explainable AI (XAI): An Overdue Paradigm Shift and Post-XAI Research Directions](xai/human-centered-explainability/2026-02-27-beyond-xai-paradigm-shift-post-xai-research-directions.md)
 - [Do Metrics for Counterfactual Explanations Align with User Perception?](xai/human-centered-explainability/2026-03-16-do-metrics-align-user-perception.md)
