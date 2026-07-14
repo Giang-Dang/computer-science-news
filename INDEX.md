@@ -16,9 +16,10 @@ A navigable index of paper summaries in this repository, organized by topic.
 ## Artificial Intelligence
 
 - [AI Co-Mathematician: Accelerating Mathematicians with Agentic AI](artificial-intelligence/2026-05-07-ai-co-mathematician-accelerating-mathematicians-with-agentic-ai.md)
+- [MOSS: Self-Evolution through Source-Level Rewriting in Autonomous Agent Systems](artificial-intelligence/2026-05-21-moss-self-evolution-through-source-level-rewriting-in-autonomous-agent-systems.md)
 - [From AGI to ASI: Pathways to Artificial Superintelligence](artificial-intelligence/2026-06-10-from-agi-to-asi-pathways-superintelligence.md)
 - [AI Index Report 2026: Governance, Evaluation, and Safety in the Age of Rapid AI Progress](artificial-intelligence/2026-06-14-ai-index-report-2026-governance-evaluation-safety.md)
-- [MOSS: Self-Evolution through Source-Level Rewriting in Autonomous Agent Systems](artificial-intelligence/2026-05-21-moss-self-evolution-through-source-level-rewriting-in-autonomous-agent-systems.md)
+- [Towards Automating Scientific Review with Google's Paper Assistant Tool](artificial-intelligence/2026-06-28-automating-scientific-review-paper-assistant-tool.md)
 
 ## Computer Vision
 
@@ -72,6 +73,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [Wan-Streamer v0.1: End-to-end Real-time Interactive Foundation Models](computer-vision/2026-06-23-wan-streamer-interactive-foundation-models.md)
 - [OrbitForge: Text-to-3D Scene Generation via Reconstruction-Anchored Video Synthesis](computer-vision/2026-06-23-orbitforge-3d-scene-generation-video-synthesis.md)
 - [GeoT2V-Bench: Benchmarking 3D Consistency in Text-to-Video Models via 3D Reconstruction](computer-vision/2026-06-24-geot2v-bench-3d-consistency-video-generation.md)
+- [SenseNova-U1: Unifying Multimodal Understanding and Generation with NEO-unify Architecture](computer-vision/2026-05-12-sensenova-u1-unified-multimodal-architecture.md)
 
 ## LLM Agents & Development
 
@@ -171,6 +173,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 
 - [Neuro-Relational Programs: Unifying Queries and Neural Computation over Structured Data](machine-learning/2026-06-21-neuro-relational-programs-neural-structured-data.md)
 - [Reversal Q-Learning: Off-Policy RL via Flow Matching and Virtual Trajectory Generation](machine-learning/2026-06-16-reversal-q-learning.md)
+- [VibeThinker-3B: Exploring the Frontier of Verifiable Reasoning in Small Language Models](machine-learning/2026-06-16-vibethinker-3b-verifiable-reasoning-small-models.md)
 - [Protein Dynamics Beyond Structure Prediction](machine-learning/2026-06-08-protein-dynamics-beyond-structure-prediction.md)
 - [Log-Linear Attention](machine-learning/2026-05-06-log-linear-attention.md)
 - [CATPO: Critique-Augmented Tree Policy Optimization](machine-learning/2026-06-06-catpo-critique-augmented-tree-policy-optimization.md)
