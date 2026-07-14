@@ -77,6 +77,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 
 ### Agent Orchestration
 
+- [OrchDAG: Complex Tool Orchestration in Multi-Turn Interactions with Plan DAGs](llm-agents-dev/agent-orchestration/2025-10-28-orchdag-complex-tool-orchestration.md)
 - [Efficient Agentic Reasoning Through Self-Regulated Simulative Planning](llm-agents-dev/agent-orchestration/2026-05-22-efficient-agentic-reasoning-self-regulated-planning.md)
 - [A Technical Taxonomy of LLM Agent Communication Protocols](llm-agents-dev/agent-orchestration/2026-06-17-technical-taxonomy-llm-agent-communication-protocols.md)
 - [MACOG: Multi-Agent Code-Orchestrated Generation for Reliable Infrastructure-as-Code](llm-agents-dev/agent-orchestration/2025-10-04-macog-multi-agent-code-orchestrated-generation-infrastructure.md)
@@ -107,6 +108,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 
 ### Multi Agent Topologies
 
+- [LLM-Based Multi-Agent Systems for Code Generation: A Multi-Vocal Literature Review](llm-agents-dev/multi-agent-topologies/2026-04-16-llm-based-multi-agent-code-generation-literature-review.md)
 - [Usable Agent Discovery for Decentralized AI Systems](llm-agents-dev/multi-agent-topologies/2026-04-25-usable-agent-discovery-decentralized-ai-systems.md)
 - [A Taxonomy of Hierarchical Multi-Agent Systems: Design Patterns, Coordination Mechanisms, and Industrial Applications](llm-agents-dev/multi-agent-topologies/2025-08-18-taxonomy-hierarchical-multi-agent-systems-design.md)
 - [GoAgent: Group-of-Agents Communication Topology Generation for LLM-based Multi-Agent Systems](llm-agents-dev/multi-agent-topologies/2026-03-17-goagent-group-of-agents-communication-topology.md)
@@ -134,6 +136,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 
 ### Software Development
 
+- [Agent Laboratory: Using LLM Agents as Research Assistants](llm-agents-dev/software-development/2025-01-08-agent-laboratory-autonomous-research-assistant.md)
 - [AgentMesh: A Cooperative Multi-Agent Generative AI Framework for Software Development Automation](llm-agents-dev/software-development/2025-07-29-agentmesh-cooperative-multi-agent-dev-automation.md)
 - [A Practical Guide for Designing, Developing, and Deploying Production-Grade Agentic AI Workflows](llm-agents-dev/software-development/2025-12-09-practical-guide-production-grade-agentic-workflows.md)
 - [Agyn: A Multi-Agent System for Team-Based Autonomous Software Engineering](llm-agents-dev/software-development/2026-02-01-agyn-team-based-autonomous-software-engineering.md)
