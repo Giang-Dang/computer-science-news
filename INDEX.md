@@ -412,6 +412,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [Transformer Field Theory: A Response-Theoretic Approach to Mechanistic Interpretability](xai/mechanistic-interpretability/2026-05-25-transformer-field-theory-response-theoretic-mechanistic-interpretability.md)
 - [MechRL: Reinforcement Learning Agents Perform Circuit Discovery for Mechanistic Interpretability](xai/mechanistic-interpretability/2026-05-26-mechrl-circuit-discovery-reinforcement-learning.md)
 - [Subspace-Aware Sparse Autoencoders for Effective Mechanistic Interpretability](xai/mechanistic-interpretability/2026-06-06-subspace-aware-sparse-autoencoders-mechanistic-interpretability.md)
+- [Mechanistic Interpretability for Neural Networks: Circuits, Sparse Features and Symbolic Reasoning](xai/mechanistic-interpretability/2026-07-14-mechanistic-interpretability-circuits-sparse-features-symbolic-reasoning.md)
 
 ### Self Explaining Models
 
