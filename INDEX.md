@@ -133,6 +133,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 
 ### Multi Agent Topologies
 
+- [MapCoder-Lite: Distilling Multi-Agent Coding into a Single Small LLM](llm-agents-dev/multi-agent-topologies/2025-09-20-mapcoder-lite-distilling-multi-agent-coding.md)
 - [Usable Agent Discovery for Decentralized AI Systems](llm-agents-dev/multi-agent-topologies/2026-04-25-usable-agent-discovery-decentralized-ai-systems.md)
 - [A Taxonomy of Hierarchical Multi-Agent Systems: Design Patterns, Coordination Mechanisms, and Industrial Applications](llm-agents-dev/multi-agent-topologies/2025-08-18-taxonomy-hierarchical-multi-agent-systems-design.md)
 - [GoAgent: Group-of-Agents Communication Topology Generation for LLM-based Multi-Agent Systems](llm-agents-dev/multi-agent-topologies/2026-03-17-goagent-group-of-agents-communication-topology.md)
@@ -160,6 +161,14 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [Constraint Decay: The Fragility of LLM Agents in Backend Code Generation](llm-agents-dev/code-generation/2026-05-06-constraint-decay-fragility-backend-code-generation.md)
 - [SEW: Self-Evolving Agentic Workflows for Automated Code Generation](llm-agents-dev/code-generation/2025-05-18-sew-self-evolving-agentic-workflows.md)
 - [Think Anywhere in Code Generation: Interleaved Reasoning for Adaptive LLM Problem-Solving](llm-agents-dev/code-generation/2026-03-26-think-anywhere-interleaved-reasoning-code-generation.md)
+
+### Code Reasoning
+
+- [From Laboratory to Real-World Applications: Benchmarking Agentic Code Reasoning at the Repository Level](llm-agents-dev/code-reasoning/2026-05-03-repo-reason-repository-level-code-reasoning.md)
+
+### Planning Reasoning
+
+- [CodeARC: Benchmarking Reasoning Capabilities of LLM Agents for Inductive Program Synthesis](llm-agents-dev/planning-reasoning/2025-03-29-codearc-inductive-program-synthesis.md)
 
 ### Software Development
 
