@@ -21,10 +21,13 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [MOSS: Self-Evolution through Source-Level Rewriting in Autonomous Agent Systems](artificial-intelligence/2026-05-21-moss-self-evolution-through-source-level-rewriting-in-autonomous-agent-systems.md)
 - [Agentic Artificial Intelligence: Architectures, Taxonomies, and Evaluation of Large Language Model Agents](artificial-intelligence/2026-06-01-agentic-ai-architectures-taxonomies-evaluation.md)
 - [Towards Automating Scientific Review with Google's Paper Assistant Tool](artificial-intelligence/2026-06-28-automating-scientific-review-paper-assistant-tool.md)
+- [Internalizing the Future: A Unified Agentic Training Paradigm for World Model Planning](artificial-intelligence/2026-06-25-internalizing-future-unified-agentic-training-paradigm-world-model-planning.md)
+- [Self-Evolving World Models for LLM Agent Planning](artificial-intelligence/2026-06-29-self-evolving-world-models-llm-agent-planning.md)
 - [Cognitive-structured Multimodal Agent for Multimodal Understanding, Generation, and Editing](artificial-intelligence/2026-07-09-cognitive-structured-multimodal-agent.md)
 
 ## Computer Vision
 
+- [Vision-TTT: Efficient and Expressive Visual Representation Learning with Test-Time Training](computer-vision/2026-02-28-vision-ttt-efficient-visual-representation-learning.md)
 - [DynaTok: Token-Based 4D Reconstruction from Partial Point Clouds](computer-vision/2026-06-06-dynatoks-token-based-4d-reconstruction.md)
 - [Making Time Editable in Video Diffusion Transformers: Temporal Control without Architectural Redesign](computer-vision/2026-06-08-making-time-editable-video-diffusion-transformers.md)
 - [HAViT: Historical Attention Vision Transformer](computer-vision/2026-03-19-havit-historical-attention-vision-transformer.md)
