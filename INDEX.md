@@ -392,6 +392,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 ### Actionable Interpretability
 
 - [Interpretability Can Be Actionable: Shifting Evaluation Criteria in Explainable AI Research](xai/actionable-interpretability/2026-05-11-interpretability-can-be-actionable.md)
+- [Anatomy of Post-Training: Using Interpretability to Characterize Data and Shape the Learning Signal](xai/actionable-interpretability/2026-06-11-anatomy-post-training-interpretability-learning-signal.md)
 
 ### Causal Interpretability
 
