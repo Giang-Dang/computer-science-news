@@ -88,6 +88,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [PixWorld: Unifying 3D Scene Generation and Reconstruction in Pixel Space](computer-vision/2026-07-06-pixworld-unified-3d-generation-reconstruction.md)
 - [OrbitQuant: Data-Agnostic Quantization for Image and Video Diffusion Transformers](computer-vision/2026-07-08-orbitquant-quantization-diffusion-transformers.md)
 - [MambaVision: A Hybrid Mamba-Transformer Vision Backbone](computer-vision/2026-07-10-mambavision-hybrid-mamba-transformer.md)
+- [Perceptual Flow Matching for Few-Step Generative Modeling](computer-vision/2026-07-03-perceptual-flow-matching.md)
 
 ## LLM Agents & Development
 
@@ -301,6 +302,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [FourierQK: Spectral Preprocessing of Query-Key Projections Improves Transformer Attention](machine-learning/2026-07-08-fourier-qk-spectral-preprocessing-transformer-attention.md)
 - [Multimodal Unlearning Across Vision, Language, Video, and Audio: Survey of Methods, Datasets, and Benchmarks](machine-learning/2026-07-08-multimodal-unlearning-survey.md)
 - [Statistically Undetectable Backdoors in Deep Neural Networks](machine-learning/2026-07-18-statistically-undetectable-backdoors.md)
+- [How Well Can Frontier Large Language Models Generate Structures? High Quality Prediction of Molecular Geometries with Help from Fine-Tuning](machine-learning/2026-07-15-molecular-geometry-prediction-llms.md)
 
 ## Natural Language Processing
 
@@ -351,6 +353,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [Continual Learning for Sequential Personalization of Small Language Models: A Stability Monitoring Analysis](natural-language-processing/2026-06-29-continual-learning-sequential-personalization-small-language-models.md)
 - [The Future of NLP may not be at NLP Conferences: Scholarly Migration Patterns in Natural Language Processing](natural-language-processing/2026-07-02-future-of-nlp-scholarly-migration-patterns.md)
 - [Nemotron-Labs-Diffusion: A Tri-Mode Language Model Unifying Autoregressive, Diffusion, and Self-Speculation Decoding](natural-language-processing/2026-07-07-nemotron-labs-diffusion-tri-mode-language-model.md)
+- [Understanding Large Language Models](natural-language-processing/2026-07-01-understanding-large-language-models.md)
 
 ## Robotics
 
