@@ -123,6 +123,8 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [Harness-MU: A Safe, Governed, and Effective Harness for Multi-User LLM Agents](llm-agents-dev/agent-orchestration/2026-06-20-harness-mu-safe-multi-user-llm-agents.md)
 - [AgentJet: A Flexible Swarm Training Framework for Agentic Reinforcement Learning](llm-agents-dev/agent-orchestration/2026-06-26-agentjet-swarm-training-reinforcement-learning.md)
 - [A Deterministic Control Plane for LLM Coding Agents](llm-agents-dev/agent-orchestration/2026-06-26-deterministic-control-plane-llm-coding-agents.md)
+- [ClawArena-Team: Benchmarking Subagent Orchestration and Dynamic Workflows in Language-Model Agents](llm-agents-dev/agent-orchestration/2026-06-30-clawarena-team-subagent-orchestration-dynamic-workflows.md)
+- [AgentScope 1.0: A Developer-Centric Framework for Building Agentic Applications](llm-agents-dev/agent-orchestration/2026-08-25-agentscope-1-0-developer-centric-agentic-framework.md)
 
 ### Multi Agent Topologies
 
@@ -183,6 +185,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [Empowering Autonomous Debugging Agents with Efficient Dynamic Analysis](llm-agents-dev/testing-debugging/2026-04-27-empowering-autonomous-debugging-agents-dynamic-analysis.md)
 - [TraceCoder: A Trace-Driven Multi-Agent Framework for Automated Debugging of LLM-Generated Code](llm-agents-dev/testing-debugging/2026-05-27-tracecoder-trace-driven-multi-agent-debugging.md)
 - [LLM-Based Automated Diagnosis Of Integration Test Failures At Google](llm-agents-dev/testing-debugging/2026-04-12-auto-diagnose-llm-test-failure-diagnosis.md)
+- [ABTest: Behavior-Driven Testing for AI Coding Agents](llm-agents-dev/testing-debugging/2026-04-03-abtest-behavior-driven-testing-ai-coding-agents.md)
 
 ### Tool Use
 
