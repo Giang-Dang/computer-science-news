@@ -113,6 +113,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [AdaptOrch: Task-Adaptive Multi-Agent Orchestration in the Era of LLM Performance Convergence](llm-agents-dev/agent-orchestration/2026-06-15-adaptorch-task-adaptive-multi-agent-orchestration.md)
 - [A Two-Dimensional Framework for AI Agent Design Patterns: Cognitive Function × Execution Topology](llm-agents-dev/agent-orchestration/2026-06-15-two-dimensional-framework-agent-design-patterns.md)
 - [Learning and Reusing Policy Decompositions for Hierarchical Generalized Planning with LLM Agents](llm-agents-dev/agent-orchestration/2026-05-07-hierarchical-policy-decomposition-llm-agents.md)
+- [Multi-Agent Collaboration via Evolving Orchestration](llm-agents-dev/agent-orchestration/2026-05-26-multi-agent-collaboration-evolving-orchestration.md)
 - [Bridging Requirements and Architecture: Multi-Agent Orchestration with External Knowledge and Hierarchical Memory](llm-agents-dev/agent-orchestration/2026-06-08-bridging-requirements-architecture-multi-agent-orchestration.md)
 - [What Should Agents Say? Action-state Communication for Efficient Multi-Agent Systems](llm-agents-dev/agent-orchestration/2026-06-03-action-state-communication-efficient-multi-agent.md)
 - [Agents-K1: Towards Agent-Native Knowledge Orchestration](llm-agents-dev/agent-orchestration/2026-06-13-agents-k1-agent-native-knowledge-orchestration.md)
@@ -123,6 +124,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [Harness-MU: A Safe, Governed, and Effective Harness for Multi-User LLM Agents](llm-agents-dev/agent-orchestration/2026-06-20-harness-mu-safe-multi-user-llm-agents.md)
 - [AgentJet: A Flexible Swarm Training Framework for Agentic Reinforcement Learning](llm-agents-dev/agent-orchestration/2026-06-26-agentjet-swarm-training-reinforcement-learning.md)
 - [A Deterministic Control Plane for LLM Coding Agents](llm-agents-dev/agent-orchestration/2026-06-26-deterministic-control-plane-llm-coding-agents.md)
+- [Difficulty-Aware Agentic Orchestration for Query-Specific Multi-Agent Workflows](llm-agents-dev/agent-orchestration/2026-09-11-difficulty-aware-agentic-orchestration-query-workflows.md)
 
 ### Multi Agent Topologies
 
@@ -133,6 +135,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 
 ### Multi Agent Topologies
 
+- [AgentConductor: Topology Evolution for Multi-Agent Competition-Level Code Generation](llm-agents-dev/multi-agent-topologies/2026-02-21-agentconductor-topology-evolution-multi-agent-code.md)
 - [Usable Agent Discovery for Decentralized AI Systems](llm-agents-dev/multi-agent-topologies/2026-04-25-usable-agent-discovery-decentralized-ai-systems.md)
 - [A Taxonomy of Hierarchical Multi-Agent Systems: Design Patterns, Coordination Mechanisms, and Industrial Applications](llm-agents-dev/multi-agent-topologies/2025-08-18-taxonomy-hierarchical-multi-agent-systems-design.md)
 - [GoAgent: Group-of-Agents Communication Topology Generation for LLM-based Multi-Agent Systems](llm-agents-dev/multi-agent-topologies/2026-03-17-goagent-group-of-agents-communication-topology.md)
