@@ -507,3 +507,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 ### Self Explaining Models
 
 - [Self-Interpretability: LLMs Can Describe Complex Internal Processes that Drive Their Decisions](xai/self-explaining-models/2025-05-21-self-interpretability-llms-internal-processes.md)
+
+### Theoretical Foundations
+
+- [The Limits of AI Explainability: An Algorithmic Information Theory Approach](xai/theoretical-foundations/2025-04-29-the-limits-of-ai-explainability-algorithmic-information-theory.md)
