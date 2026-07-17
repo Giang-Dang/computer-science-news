@@ -35,6 +35,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [Efficient Training-Free Single-Image Diffusion Models](computer-vision/2026-06-03-efficient-training-free-single-image-diffusion.md)
 - [Vision Inference Former: Sustaining Visual Consistency in Multimodal Large Language Models](computer-vision/2026-05-28-vision-inference-former-visual-consistency-multimodal-llms.md)
 - [From Sight to Insight: Improving Visual Reasoning Capabilities of Multimodal Models via Reinforcement Learning](computer-vision/2026-01-01-from-sight-to-insight-visual-reasoning-rl.md)
+- [BabyVision: Visual Reasoning Beyond Language](computer-vision/2026-01-07-babyvision-visual-reasoning-benchmark.md)
 - [Large Language Models are Universal Reasoners for Visual Generation](computer-vision/2026-05-04-universal-reasoners-llm-visual-generation.md)
 - [Adversarial Evasion Attacks on Computer Vision using SHAP Values](computer-vision/2026-01-15-adversarial-evasion-attacks-shap.md)
 - [NeoVerse: Enhancing 4D World Model with in-the-Wild Monocular Videos](computer-vision/2026-01-15-neoverse-4d-world-model-monocular-video.md)
@@ -223,6 +224,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [Neuro-Relational Programs: Unifying Queries and Neural Computation over Structured Data](machine-learning/2026-06-21-neuro-relational-programs-neural-structured-data.md)
 - [Reversal Q-Learning: Off-Policy RL via Flow Matching and Virtual Trajectory Generation](machine-learning/2026-06-16-reversal-q-learning.md)
 - [Protein Dynamics Beyond Structure Prediction](machine-learning/2026-06-08-protein-dynamics-beyond-structure-prediction.md)
+- [APPO: Agentic Procedural Policy Optimization](machine-learning/2026-06-10-appo-agentic-procedural-policy-optimization.md)
 - [Log-Linear Attention](machine-learning/2026-05-06-log-linear-attention.md)
 - [CATPO: Critique-Augmented Tree Policy Optimization](machine-learning/2026-06-06-catpo-critique-augmented-tree-policy-optimization.md)
 - [World Models: A Comprehensive Survey of Architectures, Methodologies, Reasoning Paradigms, and Applications](machine-learning/2026-06-06-world-models-comprehensive-survey.md)
@@ -386,6 +388,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [SAW-INT4: System-Aware 4-Bit KV-Cache Quantization for Real-World LLM Serving](systems/2026-04-03-saw-int4-kv-cache-quantization-real-world-llm-serving.md)
 - [AlignedServe: Orchestrating Prefix-Aware Batching to Build a High-Throughput and Computing-Efficient LLM Serving System](systems/2026-06-01-alignedserve-prefix-aware-batching-llm-serving.md)
 - [EnerInfer: Energy-Aware On-Device LLM Inference](systems/2026-06-06-enerinfer-energy-aware-on-device-llm-inference.md)
+- [Memory Scarcity, Open Models, and the Restructuring of the AI Industry, 2026-2030](systems/2026-07-08-memory-scarcity-ai-industry-restructuring.md)
 
 ## XAI
 
