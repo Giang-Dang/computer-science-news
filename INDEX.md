@@ -84,6 +84,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [VideoWeave: Unlocking Geometric Consistency in Video Generation via Joint Geometry-Video Modeling](computer-vision/2026-06-14-videoweave-geometric-consistency-video-generation.md)
 - [PerceptionDLM: Parallel Region Perception with Multimodal Diffusion Language Models](computer-vision/2026-06-25-perceptiondlm-parallel-region-perception-diffusion-language-models.md)
 - [Scaling Generative Foundation Models for Chest Radiography with Rectified Flow Transformers](computer-vision/2026-06-26-scaling-generative-models-chest-radiography.md)
+- [S1-Omni-Image: A Unified Model for Scientific Image Understanding, Generation, and Editing](computer-vision/2026-06-23-s1-omni-image-unified-scientific-image-model.md)
 - [Towards Robustness against Typographic Attack with Training-free Concept Localization](computer-vision/2026-07-02-robustness-typographic-attack-training-free-concept-localization.md)
 - [PixWorld: Unifying 3D Scene Generation and Reconstruction in Pixel Space](computer-vision/2026-07-06-pixworld-unified-3d-generation-reconstruction.md)
 - [OrbitQuant: Data-Agnostic Quantization for Image and Video Diffusion Transformers](computer-vision/2026-07-08-orbitquant-quantization-diffusion-transformers.md)
@@ -301,6 +302,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [FourierQK: Spectral Preprocessing of Query-Key Projections Improves Transformer Attention](machine-learning/2026-07-08-fourier-qk-spectral-preprocessing-transformer-attention.md)
 - [Multimodal Unlearning Across Vision, Language, Video, and Audio: Survey of Methods, Datasets, and Benchmarks](machine-learning/2026-07-08-multimodal-unlearning-survey.md)
 - [Statistically Undetectable Backdoors in Deep Neural Networks](machine-learning/2026-07-18-statistically-undetectable-backdoors.md)
+- [Induction Heads Interpolate N-Grams: Connecting Mechanistic Interpretability with Classical Statistical Smoothing](machine-learning/2026-07-01-induction-heads-interpolate-n-grams.md)
 
 ## Natural Language Processing
 
@@ -349,6 +351,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [On the Representational Capacity of Neural Language Models with Chain-of-Thought Reasoning](natural-language-processing/2026-06-20-representational-capacity-chain-of-thought.md)
 - [DeepSeek-V4: Towards Highly Efficient Million-Token Context Intelligence](natural-language-processing/2026-06-26-deepseek-v4-efficient-million-token-context.md)
 - [Continual Learning for Sequential Personalization of Small Language Models: A Stability Monitoring Analysis](natural-language-processing/2026-06-29-continual-learning-sequential-personalization-small-language-models.md)
+- [Understanding Large Language Models](natural-language-processing/2026-07-01-understanding-large-language-models.md)
 - [The Future of NLP may not be at NLP Conferences: Scholarly Migration Patterns in Natural Language Processing](natural-language-processing/2026-07-02-future-of-nlp-scholarly-migration-patterns.md)
 - [Nemotron-Labs-Diffusion: A Tri-Mode Language Model Unifying Autoregressive, Diffusion, and Self-Speculation Decoding](natural-language-processing/2026-07-07-nemotron-labs-diffusion-tri-mode-language-model.md)
 
