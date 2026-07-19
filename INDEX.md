@@ -88,6 +88,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [PixWorld: Unifying 3D Scene Generation and Reconstruction in Pixel Space](computer-vision/2026-07-06-pixworld-unified-3d-generation-reconstruction.md)
 - [OrbitQuant: Data-Agnostic Quantization for Image and Video Diffusion Transformers](computer-vision/2026-07-08-orbitquant-quantization-diffusion-transformers.md)
 - [MambaVision: A Hybrid Mamba-Transformer Vision Backbone](computer-vision/2026-07-10-mambavision-hybrid-mamba-transformer.md)
+- [Video = World + Event Stream: Real-time Interactive Foundation Models for Embodied AI](computer-vision/2026-07-16-video-world-event-stream-embodied-ai.md)
 
 ## LLM Agents & Development
 
@@ -298,7 +299,9 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [Kolmogorov-Arnold Graph Neural Networks (GKAN)](machine-learning/2026-06-26-gkan-graph-kolmogorov-arnold-networks.md)
 - [Ghost in the Kernel: In-Context Learning with Efficient Transformers via Domain Generalization](machine-learning/2026-07-01-ghost-in-kernel-linear-transformers-domain-generalization.md)
 - [Scaling Inference for Vision Transformers with Adaptive Computation](machine-learning/2026-07-02-scaling-inference-vision-transformers-adaptive-computation.md)
+- [Hierarchical Sparse Attention Done Right: Toward Infinite Context Modeling](machine-learning/2026-07-02-hierarchical-sparse-attention-context-extension.md)
 - [FourierQK: Spectral Preprocessing of Query-Key Projections Improves Transformer Attention](machine-learning/2026-07-08-fourier-qk-spectral-preprocessing-transformer-attention.md)
+- [Linear Attention Architectures: Mechanisms, Trade-offs, and Cross-Layer Routing](machine-learning/2026-07-08-linear-attention-architectures-efficient-transformers.md)
 - [Multimodal Unlearning Across Vision, Language, Video, and Audio: Survey of Methods, Datasets, and Benchmarks](machine-learning/2026-07-08-multimodal-unlearning-survey.md)
 - [Statistically Undetectable Backdoors in Deep Neural Networks](machine-learning/2026-07-18-statistically-undetectable-backdoors.md)
 
