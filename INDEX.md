@@ -123,6 +123,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [Harness-MU: A Safe, Governed, and Effective Harness for Multi-User LLM Agents](llm-agents-dev/agent-orchestration/2026-06-20-harness-mu-safe-multi-user-llm-agents.md)
 - [AgentJet: A Flexible Swarm Training Framework for Agentic Reinforcement Learning](llm-agents-dev/agent-orchestration/2026-06-26-agentjet-swarm-training-reinforcement-learning.md)
 - [A Deterministic Control Plane for LLM Coding Agents](llm-agents-dev/agent-orchestration/2026-06-26-deterministic-control-plane-llm-coding-agents.md)
+- [Prometheus: Repository-Level Codebase Reasoning and Multilingual Code Intelligence](llm-agents-dev/agent-orchestration/2025-07-26-prometheus-repository-level-codebase-reasoning.md)
 
 ### Multi Agent Topologies
 
@@ -173,6 +174,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [Agent Laboratory: Using LLM Agents as Research Assistants](llm-agents-dev/software-development/2025-01-08-agent-laboratory-autonomous-research-assistant.md)
 - [Terminal Agents Suffice for Enterprise Automation: Simplifying Complexity Through Direct API Access](llm-agents-dev/software-development/2026-04-03-terminal-agents-enterprise-automation.md)
 - [Agentic Environment Engineering for Large Language Models: A Survey of Environment Modeling, Synthesis, Evaluation, and Application](llm-agents-dev/software-development/2026-06-10-agentic-environment-engineering-large-language-models-survey.md)
+- [Agentic Software Engineering: Foundational Pillars and Paradigm Shift to SE 3.0](llm-agents-dev/software-development/2026-06-24-agentic-software-engineering-foundational-pillars.md)
 
 ### Testing Debugging
 
