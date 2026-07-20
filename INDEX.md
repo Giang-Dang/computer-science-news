@@ -22,6 +22,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [Agentic Artificial Intelligence: Architectures, Taxonomies, and Evaluation of Large Language Model Agents](artificial-intelligence/2026-06-01-agentic-ai-architectures-taxonomies-evaluation.md)
 - [Towards Automating Scientific Review with Google's Paper Assistant Tool](artificial-intelligence/2026-06-28-automating-scientific-review-paper-assistant-tool.md)
 - [Cognitive-structured Multimodal Agent for Multimodal Understanding, Generation, and Editing](artificial-intelligence/2026-07-09-cognitive-structured-multimodal-agent.md)
+- [Grounded Scaling: Why Agentic AI Needs Deterministic Environments](artificial-intelligence/2026-06-20-grounded-scaling-deterministic-environments-agentic-ai.md)
 
 ## Computer Vision
 
@@ -259,6 +260,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [OpenSeeker-v2: Pushing the Limits of Search Agents with Informative and High-Difficulty Trajectories](machine-learning/2026-05-05-openSeeker-v2-search-agents.md)
 - [The Scaling Properties of Implicit Deductive Reasoning in Transformers](machine-learning/2026-05-05-scaling-properties-implicit-deductive-reasoning-transformers.md)
 - [Balancing Stability and Plasticity in Sequentially Trained Early-Exiting Neural Networks](machine-learning/2026-05-06-balancing-stability-plasticity-early-exiting-networks.md)
+- [Efficient Pre-Training with Token Superposition](machine-learning/2026-05-07-efficient-pretraining-token-superposition.md)
 - [Cola DLM: Continuous Latent Diffusion Language Model](machine-learning/2026-05-07-cola-dlm-continuous-latent-diffusion-language-model.md)
 - [Transformers Provably Implement In-Context Reinforcement Learning with Policy Improvement](machine-learning/2026-05-07-transformers-icrl-policy-improvement.md)
 - [Continuous Latent Contexts Enable Efficient Online Learning in Transformers](machine-learning/2026-05-09-continuous-latent-contexts-efficient-online-learning-transformers.md)
@@ -386,6 +388,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [SAW-INT4: System-Aware 4-Bit KV-Cache Quantization for Real-World LLM Serving](systems/2026-04-03-saw-int4-kv-cache-quantization-real-world-llm-serving.md)
 - [AlignedServe: Orchestrating Prefix-Aware Batching to Build a High-Throughput and Computing-Efficient LLM Serving System](systems/2026-06-01-alignedserve-prefix-aware-batching-llm-serving.md)
 - [EnerInfer: Energy-Aware On-Device LLM Inference](systems/2026-06-06-enerinfer-energy-aware-on-device-llm-inference.md)
+- [Memory Scarcity, Open Models, and the Restructuring of the AI Industry, 2026-2030](systems/2026-07-08-memory-scarcity-restructuring-ai-industry.md)
 
 ## XAI
 
