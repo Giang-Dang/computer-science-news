@@ -93,6 +93,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 
 ### Agent Orchestration
 
+- [Agentic Design Patterns: A System-Theoretic Framework](llm-agents-dev/agent-orchestration/2026-01-27-agentic-design-patterns-system-theoretic-framework.md)
 - [Efficient Agentic Reasoning Through Self-Regulated Simulative Planning](llm-agents-dev/agent-orchestration/2026-05-22-efficient-agentic-reasoning-self-regulated-planning.md)
 - [A Technical Taxonomy of LLM Agent Communication Protocols](llm-agents-dev/agent-orchestration/2026-06-17-technical-taxonomy-llm-agent-communication-protocols.md)
 - [MACOG: Multi-Agent Code-Orchestrated Generation for Reliable Infrastructure-as-Code](llm-agents-dev/agent-orchestration/2025-10-04-macog-multi-agent-code-orchestrated-generation-infrastructure.md)
@@ -138,6 +139,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [GoAgent: Group-of-Agents Communication Topology Generation for LLM-based Multi-Agent Systems](llm-agents-dev/multi-agent-topologies/2026-03-17-goagent-group-of-agents-communication-topology.md)
 - [Self-Organized Agents: A LLM Multi-Agent Framework toward Ultra Large-Scale Code Generation and Optimization](llm-agents-dev/multi-agent-topologies/2026-04-02-self-organized-agents-ultra-large-scale-code-generation.md)
 - [Self-Organizing Multi-Agent Systems for Continuous Software Development](llm-agents-dev/multi-agent-topologies/2026-05-27-self-organizing-multi-agent-continuous-software-development.md)
+- [SPOQ: Specialist Orchestrated Queuing for Multi-Agent Software Engineering](llm-agents-dev/multi-agent-topologies/2026-06-02-spoq-specialist-orchestrated-queuing-multi-agent-software-engineering.md)
 - [From Prompt-Response to Goal-Directed Systems: The Evolution of Agentic AI Software Architecture](llm-agents-dev/multi-agent-topologies/2026-06-16-agentic-ai-evolution-software-architecture.md)
 - [CodeCRDT: Observation-Driven Coordination for Multi-Agent LLM Code Generation](llm-agents-dev/multi-agent-topologies/2026-10-18-codecrdt-observation-driven-coordination.md)
 - [Experience as a Compass: Multi-Agent RAG with Evolving Orchestration and Agent Prompts](llm-agents-dev/multi-agent-topologies/2026-04-01-experience-as-compass-multi-agent-rag.md)
@@ -154,6 +156,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 ### Code Generation
 
 - [Code to Think, Think to Code: A Survey on Code-Enhanced Reasoning and Reasoning-Driven Code Intelligence in LLMs](llm-agents-dev/code-generation/2025-02-26-code-to-think-think-to-code-survey-reasoning-code-intelligence.md)
+- [CodeARC: Benchmarking Reasoning Capabilities of LLM Agents for Inductive Program Synthesis](llm-agents-dev/code-generation/2025-03-23-codearc-benchmarking-reasoning-capabilities-program-synthesis.md)
 - [AI Agentic Programming: A Survey of Techniques, Challenges, and Opportunities](llm-agents-dev/code-generation/2025-08-15-ai-agentic-programming-survey-techniques-opportunities.md)
 - [CODESIM: Multi-Agent Code Generation and Problem Solving through Simulation-Driven Planning and Debugging](llm-agents-dev/code-generation/2026-06-25-codesim-multi-agent-simulation-driven-planning-debugging.md)
 - [Understanding and Bridging the Planner-Coder Gap: A Systematic Study on the Robustness of Multi-Agent Systems for Code Generation](llm-agents-dev/code-generation/2026-06-16-planner-coder-gap-robust-multi-agent-code.md)
