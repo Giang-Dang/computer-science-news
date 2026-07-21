@@ -93,6 +93,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 
 ### Agent Orchestration
 
+- [Next-Generation Agentic Reinforcement Learning Systems Enable Self-Evolving Agents](llm-agents-dev/agent-orchestration/2026-07-01-next-generation-agentic-reinforcement-learning-systems-self-evolving-agents.md)
 - [Efficient Agentic Reasoning Through Self-Regulated Simulative Planning](llm-agents-dev/agent-orchestration/2026-05-22-efficient-agentic-reasoning-self-regulated-planning.md)
 - [A Technical Taxonomy of LLM Agent Communication Protocols](llm-agents-dev/agent-orchestration/2026-06-17-technical-taxonomy-llm-agent-communication-protocols.md)
 - [MACOG: Multi-Agent Code-Orchestrated Generation for Reliable Infrastructure-as-Code](llm-agents-dev/agent-orchestration/2025-10-04-macog-multi-agent-code-orchestrated-generation-infrastructure.md)
@@ -163,6 +164,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 
 ### Software Development
 
+- [GUI Agents with Reinforcement Learning: Toward Digital Inhabitants](llm-agents-dev/software-development/2026-04-30-gui-agents-with-reinforcement-learning-toward-digital-inhabitants.md)
 - [AgentMesh: A Cooperative Multi-Agent Generative AI Framework for Software Development Automation](llm-agents-dev/software-development/2025-07-29-agentmesh-cooperative-multi-agent-dev-automation.md)
 - [A Practical Guide for Designing, Developing, and Deploying Production-Grade Agentic AI Workflows](llm-agents-dev/software-development/2025-12-09-practical-guide-production-grade-agentic-workflows.md)
 - [Agyn: A Multi-Agent System for Team-Based Autonomous Software Engineering](llm-agents-dev/software-development/2026-02-01-agyn-team-based-autonomous-software-engineering.md)
@@ -186,6 +188,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 
 ### Tool Use
 
+- [SEARL: Joint Optimization of Policy and Tool Graph Memory for Self-Evolving Agents](llm-agents-dev/tool-use/2026-04-09-searl-joint-optimization-policy-tool-graph-memory-self-evolving-agents.md)
 - [SoK: Agentic Skills -- Beyond Tool Use in LLM Agents](llm-agents-dev/tool-use/2026-02-24-sok-agentic-skills-beyond-tool-use.md)
 - [AutoSkill: Experience-Driven Lifelong Learning via Skill Self-Evolution](llm-agents-dev/tool-use/2026-03-01-autoskill-experience-driven-lifelong-learning-skill-self-evolution.md)
 - [SkillCraft: Can LLM Agents Learn to Use Tools Skillfully?](llm-agents-dev/tool-use/2026-03-10-skillcraft-llm-agents-learn-tools-skillfully.md)
