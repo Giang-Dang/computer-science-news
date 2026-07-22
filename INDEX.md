@@ -15,6 +15,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 
 ## Artificial Intelligence
 
+- [Multi-Agent AI Control: Distributed Attacks Hamper Per-Instance Monitors](artificial-intelligence/2026-07-08-multi-agent-ai-control-distributed-attacks.md)
 - [AI Co-Mathematician: Accelerating Mathematicians with Agentic AI](artificial-intelligence/2026-05-07-ai-co-mathematician-accelerating-mathematicians-with-agentic-ai.md)
 - [From AGI to ASI: Pathways to Artificial Superintelligence](artificial-intelligence/2026-06-10-from-agi-to-asi-pathways-superintelligence.md)
 - [AI Index Report 2026: Governance, Evaluation, and Safety in the Age of Rapid AI Progress](artificial-intelligence/2026-06-14-ai-index-report-2026-governance-evaluation-safety.md)
@@ -25,6 +26,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 
 ## Computer Vision
 
+- [MAGiSt3R: Multi-Agent Feed-forward 3D Reconstruction from Monocular RGB Videos](computer-vision/2026-07-16-magist3r-multi-agent-3d-reconstruction.md)
 - [DynaTok: Token-Based 4D Reconstruction from Partial Point Clouds](computer-vision/2026-06-06-dynatoks-token-based-4d-reconstruction.md)
 - [Making Time Editable in Video Diffusion Transformers: Temporal Control without Architectural Redesign](computer-vision/2026-06-08-making-time-editable-video-diffusion-transformers.md)
 - [HAViT: Historical Attention Vision Transformer](computer-vision/2026-03-19-havit-historical-attention-vision-transformer.md)
@@ -220,6 +222,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 
 ## Machine Learning
 
+- [The Illusion of Multi-Agent Advantage](machine-learning/2026-06-11-illusion-multi-agent-advantage.md)
 - [Neuro-Relational Programs: Unifying Queries and Neural Computation over Structured Data](machine-learning/2026-06-21-neuro-relational-programs-neural-structured-data.md)
 - [Reversal Q-Learning: Off-Policy RL via Flow Matching and Virtual Trajectory Generation](machine-learning/2026-06-16-reversal-q-learning.md)
 - [Protein Dynamics Beyond Structure Prediction](machine-learning/2026-06-08-protein-dynamics-beyond-structure-prediction.md)
