@@ -393,6 +393,10 @@ A navigable index of paper summaries in this repository, organized by topic.
 
 - [Interpretability Can Be Actionable: Shifting Evaluation Criteria in Explainable AI Research](xai/actionable-interpretability/2026-05-11-interpretability-can-be-actionable.md)
 
+### Agentic Interpretability
+
+- [Agentic Explainable Artificial Intelligence (Agentic XAI): LLM-Driven Iterative Refinement for Enhanced Explanations](xai/agentic-interpretability/2025-12-24-agentic-xai-llm-driven-explanation-refinement.md)
+
 ### Causal Interpretability
 
 - [Causal SHAP: Feature Attribution with Dependency Awareness through Causal Discovery](xai/causal-interpretability/2025-08-31-causal-shap-feature-attribution-dependency-awareness.md)
