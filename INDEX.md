@@ -101,6 +101,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [Towards Adaptive, Scalable, and Robust Coordination of LLM Agents: A Dynamic Ad-Hoc Networking Perspective](llm-agents-dev/agent-orchestration/2026-02-08-raps-adaptive-coordination-llm-agents.md)
 - [DeepCode: Open Agentic Coding](llm-agents-dev/agent-orchestration/2025-12-08-deepcode-open-agentic-coding.md)
 - [The Orchestration of Multi-Agent Systems: Architectures, Protocols, and Enterprise Adoption](llm-agents-dev/agent-orchestration/2026-01-20-orchestration-multi-agent-systems-architectures.md)
+- [Optimizing Agentic Workflows using Meta-tools](llm-agents-dev/agent-orchestration/2026-01-29-optimizing-agentic-workflows-meta-tools.md)
 - [ABSTRAL: Automated Multi-Agent System Design via Skill-Referenced Adaptive Search](llm-agents-dev/agent-orchestration/2026-03-24-abstral-automated-multi-agent-system-design.md)
 - [AgentForge: Execution-Grounded Multi-Agent LLM Framework for Autonomous Software Engineering](llm-agents-dev/agent-orchestration/2026-04-06-agentforge-execution-grounded-multi-agent-framework.md)
 - [EvoAgent: An Evolvable Agent Framework with Skill Learning and Multi-Agent Delegation](llm-agents-dev/agent-orchestration/2026-04-22-evoagent-evolvable-agent-framework-skill-learning.md)
@@ -151,6 +152,10 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [QualityFlow: An Agentic Workflow for Program Synthesis Controlled by LLM Quality Checks](llm-agents-dev/program-synthesis/2026-05-27-qualityflow-agentic-workflow-program-synthesis.md)
 - [Structured Program Synthesis using LLMs: Results and Insights from the IPARC Challenge](llm-agents-dev/program-synthesis/2026-06-15-structured-program-synthesis-llm-iparc.md)
 
+### Code Reasoning
+
+- [CodeARC: Benchmarking Reasoning Capabilities of LLM Agents for Inductive Program Synthesis](llm-agents-dev/code-reasoning/2025-03-23-codearc-inductive-program-synthesis.md)
+
 ### Code Generation
 
 - [Code to Think, Think to Code: A Survey on Code-Enhanced Reasoning and Reasoning-Driven Code Intelligence in LLMs](llm-agents-dev/code-generation/2025-02-26-code-to-think-think-to-code-survey-reasoning-code-intelligence.md)
@@ -183,6 +188,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [Empowering Autonomous Debugging Agents with Efficient Dynamic Analysis](llm-agents-dev/testing-debugging/2026-04-27-empowering-autonomous-debugging-agents-dynamic-analysis.md)
 - [TraceCoder: A Trace-Driven Multi-Agent Framework for Automated Debugging of LLM-Generated Code](llm-agents-dev/testing-debugging/2026-05-27-tracecoder-trace-driven-multi-agent-debugging.md)
 - [LLM-Based Automated Diagnosis Of Integration Test Failures At Google](llm-agents-dev/testing-debugging/2026-04-12-auto-diagnose-llm-test-failure-diagnosis.md)
+- [LogicHunter: Testing LLM Agent Frameworks with an Agentic Oracle](llm-agents-dev/testing-debugging/2026-07-06-logichunter-testing-agent-frameworks-agentic-oracle.md)
 
 ### Tool Use
 
