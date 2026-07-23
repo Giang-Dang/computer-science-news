@@ -98,6 +98,8 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [MACOG: Multi-Agent Code-Orchestrated Generation for Reliable Infrastructure-as-Code](llm-agents-dev/agent-orchestration/2025-10-04-macog-multi-agent-code-orchestrated-generation-infrastructure.md)
 - [A Comprehensive Empirical Evaluation of Agent Frameworks on Code-Centric Software Engineering Tasks](llm-agents-dev/agent-orchestration/2025-11-02-comprehensive-empirical-evaluation-agent-frameworks-code-centric-tasks.md)
 - [Agentic AI Frameworks: Architectures, Protocols, and Design Challenges](llm-agents-dev/agent-orchestration/2025-08-13-agentic-ai-frameworks-architectures-protocols-design-challenges.md)
+- [Multi-Agent LLM Orchestration Achieves Deterministic, High-Quality Decision Support for Incident Response](llm-agents-dev/agent-orchestration/2026-01-07-multi-agent-llm-orchestration-deterministic-incident-response.md)
+- [LLM-Based Agentic Systems for Software Engineering: Challenges and Opportunities](llm-agents-dev/agent-orchestration/2026-01-14-llm-based-agentic-systems-software-engineering-challenges-opportunities.md)
 - [Towards Adaptive, Scalable, and Robust Coordination of LLM Agents: A Dynamic Ad-Hoc Networking Perspective](llm-agents-dev/agent-orchestration/2026-02-08-raps-adaptive-coordination-llm-agents.md)
 - [DeepCode: Open Agentic Coding](llm-agents-dev/agent-orchestration/2025-12-08-deepcode-open-agentic-coding.md)
 - [The Orchestration of Multi-Agent Systems: Architectures, Protocols, and Enterprise Adoption](llm-agents-dev/agent-orchestration/2026-01-20-orchestration-multi-agent-systems-architectures.md)
@@ -176,6 +178,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 
 ### Testing Debugging
 
+- [AgentStepper: Interactive Debugging of Software Development Agents](llm-agents-dev/testing-debugging/2026-02-06-agentstepper-interactive-debugging-software-development-agents.md)
 - [The Rise of Agentic Testing: Multi-Agent Systems for Robust Software Quality Assurance](llm-agents-dev/testing-debugging/2026-01-05-agentic-testing-multi-agent-quality-assurance.md)
 - [Beyond Resolution Rates: Behavioral Drivers of Coding Agent Success and Failure](llm-agents-dev/testing-debugging/2026-04-02-behavioral-drivers-coding-agent-success-failure.md)
 - [SWE-EVO: Benchmarking Coding Agents in Long-Horizon Software Evolution Scenarios](llm-agents-dev/testing-debugging/2026-06-25-swe-evo-benchmarking-long-horizon-software-evolution.md)
