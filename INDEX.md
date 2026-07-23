@@ -220,6 +220,8 @@ A navigable index of paper summaries in this repository, organized by topic.
 
 ## Machine Learning
 
+- [Trajectory Geometry of Transformer Representations Across Layers](machine-learning/2026-06-10-trajectory-geometry-transformer-representations.md)
+- [Attention Sink in Transformers: A Survey on Utilization, Interpretation, and Mitigation](machine-learning/2026-04-10-attention-sink-transformers-survey.md)
 - [Neuro-Relational Programs: Unifying Queries and Neural Computation over Structured Data](machine-learning/2026-06-21-neuro-relational-programs-neural-structured-data.md)
 - [Reversal Q-Learning: Off-Policy RL via Flow Matching and Virtual Trajectory Generation](machine-learning/2026-06-16-reversal-q-learning.md)
 - [Protein Dynamics Beyond Structure Prediction](machine-learning/2026-06-08-protein-dynamics-beyond-structure-prediction.md)
@@ -304,6 +306,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 
 ## Natural Language Processing
 
+- [Understanding Large Language Models](natural-language-processing/2026-07-01-understanding-large-language-models.md)
 - [Brain-Guided Language Models for Robust Reasoning](natural-language-processing/2026-06-10-brain-guided-language-models-robust-reasoning.md)
 - [FeynmanBench: Benchmarking Multimodal LLMs on Diagrammatic Physics Reasoning](natural-language-processing/2026-04-04-feynmanbench-multimodal-llms-physics-reasoning.md)
 - [Can RL Teach Long-Horizon Reasoning to LLMs? Expressiveness Is Key](natural-language-processing/2026-05-20-can-rl-teach-long-horizon-reasoning-scalelogic.md)
