@@ -98,6 +98,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [Perceptual Flow Matching for Few-Step Generative Modeling](computer-vision/2026-07-03-perceptual-flow-matching.md)
 - [MAGiSt3R: Multi-Agent Feed-forward 3D Reconstruction from Monocular RGB Videos](computer-vision/2026-07-16-magist3r-multi-agent-3d-reconstruction.md)
 - [Video = World + Event Stream: Real-time Interactive Foundation Models for Embodied AI](computer-vision/2026-07-16-video-world-event-stream-embodied-ai.md)
+- [Opto-ViT-v2: Noise-Resilient On-Chip Fine-Tuning for Photonic Near-Sensor Vision Transformer Accelerators](computer-vision/2026-07-20-opto-vit-v2-photonic-vision-transformer.md)
 
 ## LLM Agents & Development
 
@@ -397,6 +398,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [The Future of NLP may not be at NLP Conferences: Scholarly Migration Patterns in Natural Language Processing](natural-language-processing/2026-07-02-future-of-nlp-scholarly-migration-patterns.md)
 - [Nemotron-Labs-Diffusion: A Tri-Mode Language Model Unifying Autoregressive, Diffusion, and Self-Speculation Decoding](natural-language-processing/2026-07-07-nemotron-labs-diffusion-tri-mode-language-model.md)
 - [Understanding Large Language Models](natural-language-processing/2026-07-01-understanding-large-language-models.md)
+- [Benchmarking Multimodal Large Language Models for Scientific Visualization Literacy](natural-language-processing/2026-07-16-benchmarking-multimodal-llms-scientific-visualization.md)
 
 ## Robotics
 
