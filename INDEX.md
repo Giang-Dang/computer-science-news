@@ -123,6 +123,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [Harness-MU: A Safe, Governed, and Effective Harness for Multi-User LLM Agents](llm-agents-dev/agent-orchestration/2026-06-20-harness-mu-safe-multi-user-llm-agents.md)
 - [AgentJet: A Flexible Swarm Training Framework for Agentic Reinforcement Learning](llm-agents-dev/agent-orchestration/2026-06-26-agentjet-swarm-training-reinforcement-learning.md)
 - [A Deterministic Control Plane for LLM Coding Agents](llm-agents-dev/agent-orchestration/2026-06-26-deterministic-control-plane-llm-coding-agents.md)
+- [Retrieval-Conditioned Topology Selection with Provable Budget Conservation for Multi-Agent Code Generation](llm-agents-dev/agent-orchestration/2026-06-18-retrieval-conditioned-topology-selection-multi-agent-code.md)
 
 ### Multi Agent Topologies
 
@@ -143,6 +144,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [Experience as a Compass: Multi-Agent RAG with Evolving Orchestration and Agent Prompts](llm-agents-dev/multi-agent-topologies/2026-04-01-experience-as-compass-multi-agent-rag.md)
 - [Understanding Multi-Agent LLM Frameworks: A Unified Benchmark and Experimental Analysis](llm-agents-dev/multi-agent-topologies/2026-06-15-understanding-multi-agent-llm-frameworks-benchmark.md)
 - [LLM Consortium for Software Design Refinement: A Controlled Experiment on Multi-Agent Collaboration Topologies](llm-agents-dev/multi-agent-topologies/2026-06-01-llm-consortium-software-design-collaboration-topologies.md)
+- [ClawArena-Team: Benchmarking Subagent Orchestration and Dynamic Workflows in Language-Model Agents](llm-agents-dev/multi-agent-topologies/2026-06-18-clawargena-team-benchmarking-subagent-orchestration.md)
 
 ### Program Synthesis
 
@@ -213,6 +215,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 
 - [MIND-Skill: Quality-Guaranteed Skill Generation via Multi-Agent Induction and Deduction](llm-agents-dev/skill-based-agents/2026-05-26-mind-skill-quality-guaranteed-generation.md)
 - [SkillAxe: Sharpening LLM-Authored Agent Skills Through Evaluation-Guided Self-Refinement](llm-agents-dev/skill-based-agents/2026-06-10-skillaxe-evaluation-guided-agent-skills.md)
+- [EffiSkill: Agent Skill Based Automated Code Efficiency Optimization](llm-agents-dev/skill-based-agents/2026-06-18-effiskill-agent-skill-code-efficiency-optimization.md)
 
 ### Multi Modal Orchestration
 
