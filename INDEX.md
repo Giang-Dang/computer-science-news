@@ -60,6 +60,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [Proxy3D: Efficient 3D Representations for Vision-Language Models via Semantic Clustering and Alignment](computer-vision/2026-05-08-proxy3d-efficient-3d-representations-vision-language.md)
 - [PermuQuant: Lowering Per-Group Quantization Error by Reordering Channels for Diffusion Models](computer-vision/2026-05-10-permquant-quantization-diffusion-models.md)
 - [Few-Shot Synthetic Data Generation with Diffusion Models for Downstream Vision Tasks](computer-vision/2026-05-12-few-shot-synthetic-data-diffusion.md)
+- [SenseNova-U1: Unifying Multimodal Understanding and Generation with NEO-unify Architecture](computer-vision/2026-05-12-sensenova-u1-unified-multimodal-architecture.md)
 - [SceneGraphVLM: Dynamic Scene Graph Generation from Video with Vision-Language Models](computer-vision/2026-05-13-scenegraphvlm-dynamic-scene-graph-generation.md)
 - [Spectral Progressive Diffusion for Efficient Image and Video Generation](computer-vision/2026-05-18-spectral-progressive-diffusion-efficient-generation.md)
 - [PiG-Avatar: Hierarchical Neural-Field-Guided Gaussian Avatars](computer-vision/2026-05-21-pig-avatar-neural-field-gaussian.md)
@@ -73,7 +74,6 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [Wan-Streamer v0.1: End-to-end Real-time Interactive Foundation Models](computer-vision/2026-06-23-wan-streamer-interactive-foundation-models.md)
 - [OrbitForge: Text-to-3D Scene Generation via Reconstruction-Anchored Video Synthesis](computer-vision/2026-06-23-orbitforge-3d-scene-generation-video-synthesis.md)
 - [GeoT2V-Bench: Benchmarking 3D Consistency in Text-to-Video Models via 3D Reconstruction](computer-vision/2026-06-24-geot2v-bench-3d-consistency-video-generation.md)
-- [SenseNova-U1: Unifying Multimodal Understanding and Generation with NEO-unify Architecture](computer-vision/2026-05-12-sensenova-u1-unified-multimodal-architecture.md)
 
 ## LLM Agents & Development
 
