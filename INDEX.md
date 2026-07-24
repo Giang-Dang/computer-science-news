@@ -22,6 +22,10 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [Agentic Artificial Intelligence: Architectures, Taxonomies, and Evaluation of Large Language Model Agents](artificial-intelligence/2026-06-01-agentic-ai-architectures-taxonomies-evaluation.md)
 - [Towards Automating Scientific Review with Google's Paper Assistant Tool](artificial-intelligence/2026-06-28-automating-scientific-review-paper-assistant-tool.md)
 - [Cognitive-structured Multimodal Agent for Multimodal Understanding, Generation, and Editing](artificial-intelligence/2026-07-09-cognitive-structured-multimodal-agent.md)
+- [Grounded Scaling: Why Agentic AI Needs Deterministic Environments](artificial-intelligence/2026-06-20-grounded-scaling-deterministic-environments-agentic-ai.md)
+- [Internalizing the Future: A Unified Agentic Training Paradigm for World Model Planning](artificial-intelligence/2026-06-25-internalizing-future-unified-agentic-training-paradigm-world-model-planning.md)
+- [Self-Evolving World Models for LLM Agent Planning](artificial-intelligence/2026-06-29-self-evolving-world-models-llm-agent-planning.md)
+- [Multi-Agent AI Control: Distributed Attacks Hamper Per-Instance Monitors](artificial-intelligence/2026-07-08-multi-agent-ai-control-distributed-attacks.md)
 
 ## Computer Vision
 
@@ -88,6 +92,12 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [PixWorld: Unifying 3D Scene Generation and Reconstruction in Pixel Space](computer-vision/2026-07-06-pixworld-unified-3d-generation-reconstruction.md)
 - [OrbitQuant: Data-Agnostic Quantization for Image and Video Diffusion Transformers](computer-vision/2026-07-08-orbitquant-quantization-diffusion-transformers.md)
 - [MambaVision: A Hybrid Mamba-Transformer Vision Backbone](computer-vision/2026-07-10-mambavision-hybrid-mamba-transformer.md)
+- [BabyVision: Visual Reasoning Beyond Language](computer-vision/2026-01-07-babyvision-visual-reasoning-benchmark.md)
+- [Vision-TTT: Efficient and Expressive Visual Representation Learning with Test-Time Training](computer-vision/2026-02-28-vision-ttt-efficient-visual-representation-learning.md)
+- [S1-Omni-Image: A Unified Model for Scientific Image Understanding, Generation, and Editing](computer-vision/2026-06-23-s1-omni-image-unified-scientific-image-model.md)
+- [Perceptual Flow Matching for Few-Step Generative Modeling](computer-vision/2026-07-03-perceptual-flow-matching.md)
+- [MAGiSt3R: Multi-Agent Feed-forward 3D Reconstruction from Monocular RGB Videos](computer-vision/2026-07-16-magist3r-multi-agent-3d-reconstruction.md)
+- [Video = World + Event Stream: Real-time Interactive Foundation Models for Embodied AI](computer-vision/2026-07-16-video-world-event-stream-embodied-ai.md)
 
 ## LLM Agents & Development
 
@@ -123,6 +133,22 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [Harness-MU: A Safe, Governed, and Effective Harness for Multi-User LLM Agents](llm-agents-dev/agent-orchestration/2026-06-20-harness-mu-safe-multi-user-llm-agents.md)
 - [AgentJet: A Flexible Swarm Training Framework for Agentic Reinforcement Learning](llm-agents-dev/agent-orchestration/2026-06-26-agentjet-swarm-training-reinforcement-learning.md)
 - [A Deterministic Control Plane for LLM Coding Agents](llm-agents-dev/agent-orchestration/2026-06-26-deterministic-control-plane-llm-coding-agents.md)
+- [Prometheus: Repository-Level Codebase Reasoning and Multilingual Code Intelligence](llm-agents-dev/agent-orchestration/2025-07-26-prometheus-repository-level-codebase-reasoning.md)
+- [Multi-Agent LLM Orchestration Achieves Deterministic, High-Quality Decision Support for Incident Response](llm-agents-dev/agent-orchestration/2026-01-07-multi-agent-llm-orchestration-deterministic-incident-response.md)
+- [LLM-Based Agentic Systems for Software Engineering: Challenges and Opportunities](llm-agents-dev/agent-orchestration/2026-01-14-llm-based-agentic-systems-software-engineering-challenges-opportunities.md)
+- [Agentic Design Patterns: A System-Theoretic Framework](llm-agents-dev/agent-orchestration/2026-01-27-agentic-design-patterns-system-theoretic-framework.md)
+- [Optimizing Agentic Workflows using Meta-tools](llm-agents-dev/agent-orchestration/2026-01-29-optimizing-agentic-workflows-meta-tools.md)
+- [Multi-Agent Collaboration via Evolving Orchestration](llm-agents-dev/agent-orchestration/2026-05-26-multi-agent-collaboration-evolving-orchestration.md)
+- [Retrieval-Conditioned Topology Selection with Provable Budget Conservation for Multi-Agent Code Generation](llm-agents-dev/agent-orchestration/2026-06-18-retrieval-conditioned-topology-selection-multi-agent-code.md)
+- [ClawArena-Team: Benchmarking Subagent Orchestration and Dynamic Workflows in Language-Model Agents](llm-agents-dev/agent-orchestration/2026-06-30-clawarena-team-subagent-orchestration-dynamic-workflows.md)
+- [Next-Generation Agentic Reinforcement Learning Systems Enable Self-Evolving Agents](llm-agents-dev/agent-orchestration/2026-07-01-next-generation-agentic-reinforcement-learning-systems-self-evolving-agents.md)
+- [AgentScope 1.0: A Developer-Centric Framework for Building Agentic Applications](llm-agents-dev/agent-orchestration/2026-08-25-agentscope-1-0-developer-centric-agentic-framework.md)
+- [Difficulty-Aware Agentic Orchestration for Query-Specific Multi-Agent Workflows](llm-agents-dev/agent-orchestration/2026-09-11-difficulty-aware-agentic-orchestration-query-workflows.md)
+
+### Code Reasoning
+
+- [CodeARC: Benchmarking Reasoning Capabilities of LLM Agents for Inductive Program Synthesis](llm-agents-dev/code-reasoning/2025-03-23-codearc-inductive-program-synthesis.md)
+- [From Laboratory to Real-World Applications: Benchmarking Agentic Code Reasoning at the Repository Level](llm-agents-dev/code-reasoning/2026-05-03-repo-reason-repository-level-code-reasoning.md)
 
 ### Multi Agent Topologies
 
@@ -130,6 +156,9 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [LLM-Based Multi-Agent Systems for Code Generation: A Multi-Vocal Literature Review](llm-agents-dev/multi-agent-topologies/2026-04-16-llm-based-multi-agent-code-generation-literature-review.md)
 - [AgentCo-op: Retrieval-Based Synthesis of Interoperable Multi-Agent Workflows](llm-agents-dev/multi-agent-topologies/2026-05-19-agentcoop-retrieval-synthesis-workflows.md)
 - [Evolve as a Team: Collaborative Self-Evolution for LLM-based Multi-Agent Systems](llm-agents-dev/multi-agent-topologies/2026-05-28-evolve-team-collaborative-self-evolution-multi-agent.md)
+- [MapCoder-Lite: Distilling Multi-Agent Coding into a Single Small LLM](llm-agents-dev/multi-agent-topologies/2025-09-20-mapcoder-lite-distilling-multi-agent-coding.md)
+- [AgentConductor: Topology Evolution for Multi-Agent Competition-Level Code Generation](llm-agents-dev/multi-agent-topologies/2026-02-21-agentconductor-topology-evolution-multi-agent-code.md)
+- [SPOQ: Specialist Orchestrated Queuing for Multi-Agent Software Engineering](llm-agents-dev/multi-agent-topologies/2026-06-02-spoq-specialist-orchestrated-queuing-multi-agent-software-engineering.md)
 
 ### Multi Agent Topologies
 
@@ -173,6 +202,8 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [Agent Laboratory: Using LLM Agents as Research Assistants](llm-agents-dev/software-development/2025-01-08-agent-laboratory-autonomous-research-assistant.md)
 - [Terminal Agents Suffice for Enterprise Automation: Simplifying Complexity Through Direct API Access](llm-agents-dev/software-development/2026-04-03-terminal-agents-enterprise-automation.md)
 - [Agentic Environment Engineering for Large Language Models: A Survey of Environment Modeling, Synthesis, Evaluation, and Application](llm-agents-dev/software-development/2026-06-10-agentic-environment-engineering-large-language-models-survey.md)
+- [GUI Agents with Reinforcement Learning: Toward Digital Inhabitants](llm-agents-dev/software-development/2026-04-30-gui-agents-with-reinforcement-learning-toward-digital-inhabitants.md)
+- [Agentic Software Engineering: Foundational Pillars and Paradigm Shift](llm-agents-dev/software-development/2026-06-24-agentic-software-engineering-foundational-pillars.md)
 
 ### Testing Debugging
 
@@ -183,6 +214,9 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [Empowering Autonomous Debugging Agents with Efficient Dynamic Analysis](llm-agents-dev/testing-debugging/2026-04-27-empowering-autonomous-debugging-agents-dynamic-analysis.md)
 - [TraceCoder: A Trace-Driven Multi-Agent Framework for Automated Debugging of LLM-Generated Code](llm-agents-dev/testing-debugging/2026-05-27-tracecoder-trace-driven-multi-agent-debugging.md)
 - [LLM-Based Automated Diagnosis Of Integration Test Failures At Google](llm-agents-dev/testing-debugging/2026-04-12-auto-diagnose-llm-test-failure-diagnosis.md)
+- [AgentStepper: Interactive Debugging of Software Development Agents](llm-agents-dev/testing-debugging/2026-02-06-agentstepper-interactive-debugging-software-development-agents.md)
+- [ABTest: Behavior-Driven Testing for AI Coding Agents](llm-agents-dev/testing-debugging/2026-04-03-abtest-behavior-driven-testing-ai-coding-agents.md)
+- [LogicHunter: Testing LLM Agent Frameworks with an Agentic Oracle](llm-agents-dev/testing-debugging/2026-07-06-logichunter-testing-agent-frameworks-agentic-oracle.md)
 
 ### Tool Use
 
@@ -204,6 +238,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [Self-Compacting Language Model Agents](llm-agents-dev/tool-use/2026-06-23-self-compacting-language-model-agents.md)
 - [Generative Skill Composition for LLM Agents](llm-agents-dev/tool-use/2026-07-01-generative-skill-composition-llm-agents.md)
 - [SkillCoach: Self-Evolving Rubrics for Evaluating and Enhancing Agentic Skill-Use](llm-agents-dev/tool-use/2026-07-01-skillcoach-self-evolving-rubrics-skill-evaluation.md)
+- [SEARL: Joint Optimization of Policy and Tool Graph Memory for Self-Evolving Agents](llm-agents-dev/tool-use/2026-04-09-searl-joint-optimization-policy-tool-graph-memory-self-evolving-agents.md)
 
 ### Software Engineering Design
 
@@ -213,6 +248,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 
 - [MIND-Skill: Quality-Guaranteed Skill Generation via Multi-Agent Induction and Deduction](llm-agents-dev/skill-based-agents/2026-05-26-mind-skill-quality-guaranteed-generation.md)
 - [SkillAxe: Sharpening LLM-Authored Agent Skills Through Evaluation-Guided Self-Refinement](llm-agents-dev/skill-based-agents/2026-06-10-skillaxe-evaluation-guided-agent-skills.md)
+- [EffiSkill: Agent Skill Based Automated Code Efficiency Optimization](llm-agents-dev/skill-based-agents/2026-06-18-effiskill-agent-skill-code-efficiency-optimization.md)
 
 ### Multi Modal Orchestration
 
@@ -301,6 +337,15 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [FourierQK: Spectral Preprocessing of Query-Key Projections Improves Transformer Attention](machine-learning/2026-07-08-fourier-qk-spectral-preprocessing-transformer-attention.md)
 - [Multimodal Unlearning Across Vision, Language, Video, and Audio: Survey of Methods, Datasets, and Benchmarks](machine-learning/2026-07-08-multimodal-unlearning-survey.md)
 - [Statistically Undetectable Backdoors in Deep Neural Networks](machine-learning/2026-07-18-statistically-undetectable-backdoors.md)
+- [Attention Sink in Transformers: A Survey on Utilization, Interpretation, and Mitigation](machine-learning/2026-04-10-attention-sink-transformers-survey.md)
+- [Efficient Pre-Training with Token Superposition](machine-learning/2026-05-07-efficient-pretraining-token-superposition.md)
+- [APPO: Agentic Procedural Policy Optimization](machine-learning/2026-06-10-appo-agentic-procedural-policy-optimization.md)
+- [Trajectory Geometry of Transformer Representations Across Layers](machine-learning/2026-06-10-trajectory-geometry-transformer-representations.md)
+- [The Illusion of Multi-Agent Advantage](machine-learning/2026-06-11-illusion-multi-agent-advantage.md)
+- [Induction Heads Interpolate N-Grams: Connecting Mechanistic Interpretability with Classical Statistical Smoothing](machine-learning/2026-07-01-induction-heads-interpolate-n-grams.md)
+- [Hierarchical Sparse Attention Done Right: Toward Infinite Context Modeling](machine-learning/2026-07-02-hierarchical-sparse-attention-context-extension.md)
+- [Linear Attention Architectures: Mechanisms, Trade-offs, and Cross-Layer Routing](machine-learning/2026-07-08-linear-attention-architectures-efficient-transformers.md)
+- [How Well Can Frontier Large Language Models Generate Structures? High Quality Prediction of Molecular Geometries with Help from Fine-Tuning](machine-learning/2026-07-15-molecular-geometry-prediction-llms.md)
 
 ## Natural Language Processing
 
@@ -351,6 +396,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [Continual Learning for Sequential Personalization of Small Language Models: A Stability Monitoring Analysis](natural-language-processing/2026-06-29-continual-learning-sequential-personalization-small-language-models.md)
 - [The Future of NLP may not be at NLP Conferences: Scholarly Migration Patterns in Natural Language Processing](natural-language-processing/2026-07-02-future-of-nlp-scholarly-migration-patterns.md)
 - [Nemotron-Labs-Diffusion: A Tri-Mode Language Model Unifying Autoregressive, Diffusion, and Self-Speculation Decoding](natural-language-processing/2026-07-07-nemotron-labs-diffusion-tri-mode-language-model.md)
+- [Understanding Large Language Models](natural-language-processing/2026-07-01-understanding-large-language-models.md)
 
 ## Robotics
 
@@ -386,12 +432,18 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [SAW-INT4: System-Aware 4-Bit KV-Cache Quantization for Real-World LLM Serving](systems/2026-04-03-saw-int4-kv-cache-quantization-real-world-llm-serving.md)
 - [AlignedServe: Orchestrating Prefix-Aware Batching to Build a High-Throughput and Computing-Efficient LLM Serving System](systems/2026-06-01-alignedserve-prefix-aware-batching-llm-serving.md)
 - [EnerInfer: Energy-Aware On-Device LLM Inference](systems/2026-06-06-enerinfer-energy-aware-on-device-llm-inference.md)
+- [Memory Scarcity, Open Models, and the Restructuring of the AI Industry, 2026-2030](systems/2026-07-08-memory-scarcity-ai-industry-restructuring.md)
 
 ## XAI
 
 ### Actionable Interpretability
 
 - [Interpretability Can Be Actionable: Shifting Evaluation Criteria in Explainable AI Research](xai/actionable-interpretability/2026-05-11-interpretability-can-be-actionable.md)
+- [Anatomy of Post-Training: Using Interpretability to Characterize Data and Shape the Learning Signal](xai/actionable-interpretability/2026-06-11-anatomy-post-training-interpretability-learning-signal.md)
+
+### Agentic Interpretability
+
+- [Agentic Explainable Artificial Intelligence (Agentic XAI): LLM-Driven Iterative Refinement for Enhanced Explanations](xai/agentic-interpretability/2025-12-24-agentic-xai-llm-driven-explanation-refinement.md)
 
 ### Causal Interpretability
 
@@ -417,6 +469,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [α-TCAV: A Unified Framework for Testing with Concept Activation Vectors](xai/concept-based-explanations/2026-05-15-alpha-tcav-unified-framework-concept-activation-vectors.md)
 - [Leakage and Interpretability in Concept-Based Models](xai/concept-based-explanations/2025-04-18-leakage-interpretability-concept-based-models.md)
 - [A Comprehensive Survey on the Risks and Limitations of Concept-based Models](xai/concept-based-explanations/2025-06-25-comprehensive-survey-risks-limitations-concept-based-models.md)
+- [Hierarchical Concept-based Interpretable Models](xai/concept-based-explanations/2025-02-24-hierarchical-concept-embedding-models.md)
 
 ### Fairness Interpretability
 
@@ -503,7 +556,14 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [Metonymy in Vision Models Undermines Attention-Based Interpretability](xai/mechanistic-interpretability/2026-05-07-metonymy-vision-models-attention-interpretability.md)
 - [Can Language Model Agents be Helpful Circuit Explainers in Mechanistic Interpretability?](xai/mechanistic-interpretability/2026-06-24-agent-circuit-explainers-mechanistic-interpretability.md)
 - [Mechanistic Interpretability for Neural Networks: Circuits, Sparse Features and Symbolic Reasoning](xai/mechanistic-interpretability/2026-07-14-mechanistic-interpretability-circuits-sparse-features-symbolic-reasoning.md)
+- [Linguistic Collapse: Neural Collapse in (Large) Language Models](xai/mechanistic-interpretability/2024-05-28-linguistic-collapse-neural-collapse-language-models.md)
+- [Aligning AI Through Internal Understanding: The Role of Interpretability](xai/mechanistic-interpretability/2025-09-10-aligning-ai-internal-understanding.md)
+- [Mechanistic Interpretability of LLM Jailbreaks via Internal Attribution Graphs](xai/mechanistic-interpretability/2026-07-08-mechanistic-interpretability-llm-jailbreaks-internal-attribution-graphs.md)
 
 ### Self Explaining Models
 
 - [Self-Interpretability: LLMs Can Describe Complex Internal Processes that Drive Their Decisions](xai/self-explaining-models/2025-05-21-self-interpretability-llms-internal-processes.md)
+
+### Theoretical Foundations
+
+- [The Limits of AI Explainability: An Algorithmic Information Theory Approach](xai/theoretical-foundations/2025-04-29-the-limits-of-ai-explainability-algorithmic-information-theory.md)
