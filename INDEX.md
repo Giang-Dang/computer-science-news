@@ -140,9 +140,11 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [Agentic Design Patterns: A System-Theoretic Framework](llm-agents-dev/agent-orchestration/2026-01-27-agentic-design-patterns-system-theoretic-framework.md)
 - [Optimizing Agentic Workflows using Meta-tools](llm-agents-dev/agent-orchestration/2026-01-29-optimizing-agentic-workflows-meta-tools.md)
 - [Multi-Agent Collaboration via Evolving Orchestration](llm-agents-dev/agent-orchestration/2026-05-26-multi-agent-collaboration-evolving-orchestration.md)
+- [Policy and World Modeling Co-Training for Language Agents](llm-agents-dev/agent-orchestration/2026-06-01-policy-world-modeling-co-training-language-agents.md)
 - [Retrieval-Conditioned Topology Selection with Provable Budget Conservation for Multi-Agent Code Generation](llm-agents-dev/agent-orchestration/2026-06-18-retrieval-conditioned-topology-selection-multi-agent-code.md)
 - [ClawArena-Team: Benchmarking Subagent Orchestration and Dynamic Workflows in Language-Model Agents](llm-agents-dev/agent-orchestration/2026-06-30-clawarena-team-subagent-orchestration-dynamic-workflows.md)
 - [Next-Generation Agentic Reinforcement Learning Systems Enable Self-Evolving Agents](llm-agents-dev/agent-orchestration/2026-07-01-next-generation-agentic-reinforcement-learning-systems-self-evolving-agents.md)
+- [Agent Reinforcement Learning via Pivotal-Aware Self-Feedback Retry](llm-agents-dev/agent-orchestration/2026-07-04-agent-reinforcement-learning-pivotal-aware-self-feedback.md)
 - [AgentScope 1.0: A Developer-Centric Framework for Building Agentic Applications](llm-agents-dev/agent-orchestration/2026-08-25-agentscope-1-0-developer-centric-agentic-framework.md)
 - [Difficulty-Aware Agentic Orchestration for Query-Specific Multi-Agent Workflows](llm-agents-dev/agent-orchestration/2026-09-11-difficulty-aware-agentic-orchestration-query-workflows.md)
 
@@ -347,6 +349,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [Hierarchical Sparse Attention Done Right: Toward Infinite Context Modeling](machine-learning/2026-07-02-hierarchical-sparse-attention-context-extension.md)
 - [Linear Attention Architectures: Mechanisms, Trade-offs, and Cross-Layer Routing](machine-learning/2026-07-08-linear-attention-architectures-efficient-transformers.md)
 - [How Well Can Frontier Large Language Models Generate Structures? High Quality Prediction of Molecular Geometries with Help from Fine-Tuning](machine-learning/2026-07-15-molecular-geometry-prediction-llms.md)
+- [A Controlled Study of Attention-Only Transformers](machine-learning/2026-07-20-controlled-study-attention-only-transformers.md)
 
 ## Natural Language Processing
 
