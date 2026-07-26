@@ -569,6 +569,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [Linguistic Collapse: Neural Collapse in (Large) Language Models](xai/mechanistic-interpretability/2024-05-28-linguistic-collapse-neural-collapse-language-models.md)
 - [Aligning AI Through Internal Understanding: The Role of Interpretability](xai/mechanistic-interpretability/2025-09-10-aligning-ai-internal-understanding.md)
 - [Mechanistic Interpretability of LLM Jailbreaks via Internal Attribution Graphs](xai/mechanistic-interpretability/2026-07-08-mechanistic-interpretability-llm-jailbreaks-internal-attribution-graphs.md)
+- [When Structured Sparse Autoencoders Learn Consistent Concepts Across Modalities](xai/mechanistic-interpretability/2026-07-09-structured-sparse-autoencoders-multimodal-concepts.md)
 
 ### Self Explaining Models
 
