@@ -141,6 +141,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [Multi-Agent Collaboration via Evolving Orchestration](llm-agents-dev/agent-orchestration/2026-05-26-multi-agent-collaboration-evolving-orchestration.md)
 - [Retrieval-Conditioned Topology Selection with Provable Budget Conservation for Multi-Agent Code Generation](llm-agents-dev/agent-orchestration/2026-06-18-retrieval-conditioned-topology-selection-multi-agent-code.md)
 - [ClawArena-Team: Benchmarking Subagent Orchestration and Dynamic Workflows in Language-Model Agents](llm-agents-dev/agent-orchestration/2026-06-30-clawarena-team-subagent-orchestration-dynamic-workflows.md)
+- [Design and Implementation of Agentic Orchestrations and Orchestration of Agents](llm-agents-dev/agent-orchestration/2026-06-30-design-implementation-agentic-orchestrations-process-technology.md)
 - [Next-Generation Agentic Reinforcement Learning Systems Enable Self-Evolving Agents](llm-agents-dev/agent-orchestration/2026-07-01-next-generation-agentic-reinforcement-learning-systems-self-evolving-agents.md)
 - [AgentScope 1.0: A Developer-Centric Framework for Building Agentic Applications](llm-agents-dev/agent-orchestration/2026-08-25-agentscope-1-0-developer-centric-agentic-framework.md)
 - [Difficulty-Aware Agentic Orchestration for Query-Specific Multi-Agent Workflows](llm-agents-dev/agent-orchestration/2026-09-11-difficulty-aware-agentic-orchestration-query-workflows.md)
@@ -209,6 +210,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 
 - [The Rise of Agentic Testing: Multi-Agent Systems for Robust Software Quality Assurance](llm-agents-dev/testing-debugging/2026-01-05-agentic-testing-multi-agent-quality-assurance.md)
 - [Beyond Resolution Rates: Behavioral Drivers of Coding Agent Success and Failure](llm-agents-dev/testing-debugging/2026-04-02-behavioral-drivers-coding-agent-success-failure.md)
+- [Act As a Real Researcher: A Suite of Benchmarks Evaluating Frontier LLMs and Agentic Harnesses in Research Lifecycle](llm-agents-dev/testing-debugging/2026-06-15-act-as-real-researcher-benchmarks-research-lifecycle.md)
 - [SWE-EVO: Benchmarking Coding Agents in Long-Horizon Software Evolution Scenarios](llm-agents-dev/testing-debugging/2026-06-25-swe-evo-benchmarking-long-horizon-software-evolution.md)
 - [Debugging the Debuggers: Failure-Anchored Structured Recovery for Software Engineering Agents](llm-agents-dev/testing-debugging/2026-05-09-debugging-debuggers-failure-recovery-software-agents.md)
 - [Empowering Autonomous Debugging Agents with Efficient Dynamic Analysis](llm-agents-dev/testing-debugging/2026-04-27-empowering-autonomous-debugging-agents-dynamic-analysis.md)
@@ -217,6 +219,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [AgentStepper: Interactive Debugging of Software Development Agents](llm-agents-dev/testing-debugging/2026-02-06-agentstepper-interactive-debugging-software-development-agents.md)
 - [ABTest: Behavior-Driven Testing for AI Coding Agents](llm-agents-dev/testing-debugging/2026-04-03-abtest-behavior-driven-testing-ai-coding-agents.md)
 - [LogicHunter: Testing LLM Agent Frameworks with an Agentic Oracle](llm-agents-dev/testing-debugging/2026-07-06-logichunter-testing-agent-frameworks-agentic-oracle.md)
+- [Long-Horizon-Terminal-Bench: Testing the Limits of Agents on Long-Horizon Terminal Tasks with Dense Reward-Based Grading](llm-agents-dev/testing-debugging/2026-07-09-long-horizon-terminal-bench-dense-reward-grading.md)
 
 ### Tool Use
 
