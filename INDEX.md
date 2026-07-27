@@ -21,6 +21,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [MOSS: Self-Evolution through Source-Level Rewriting in Autonomous Agent Systems](artificial-intelligence/2026-05-21-moss-self-evolution-through-source-level-rewriting-in-autonomous-agent-systems.md)
 - [Agentic Artificial Intelligence: Architectures, Taxonomies, and Evaluation of Large Language Model Agents](artificial-intelligence/2026-06-01-agentic-ai-architectures-taxonomies-evaluation.md)
 - [Towards Automating Scientific Review with Google's Paper Assistant Tool](artificial-intelligence/2026-06-28-automating-scientific-review-paper-assistant-tool.md)
+- [Relational Multi-Agent Reinforcement Learning for Dynamic Pricing in High-Speed Railway Markets](artificial-intelligence/2026-07-06-relational-multi-agent-rl-dynamic-pricing-railways.md)
 - [Cognitive-structured Multimodal Agent for Multimodal Understanding, Generation, and Editing](artificial-intelligence/2026-07-09-cognitive-structured-multimodal-agent.md)
 - [Grounded Scaling: Why Agentic AI Needs Deterministic Environments](artificial-intelligence/2026-06-20-grounded-scaling-deterministic-environments-agentic-ai.md)
 - [Internalizing the Future: A Unified Agentic Training Paradigm for World Model Planning](artificial-intelligence/2026-06-25-internalizing-future-unified-agentic-training-paradigm-world-model-planning.md)
@@ -95,6 +96,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [MambaVision: A Hybrid Mamba-Transformer Vision Backbone](computer-vision/2026-07-10-mambavision-hybrid-mamba-transformer.md)
 - [Video Generation Models are General-Purpose Vision Learners](computer-vision/2026-07-10-video-generation-models-general-purpose-vision-learners.md)
 - [Lumos-1: On Autoregressive Video Generation with Discrete Diffusion from a Unified Model Perspective](computer-vision/2026-07-08-lumos-1-autoregressive-video-generation-discrete-diffusion.md)
+- [SAM 3: Segment Anything with Concepts](computer-vision/2026-07-10-sam3-segment-anything-with-concepts.md)
 - [BabyVision: Visual Reasoning Beyond Language](computer-vision/2026-01-07-babyvision-visual-reasoning-benchmark.md)
 - [Vision-TTT: Efficient and Expressive Visual Representation Learning with Test-Time Training](computer-vision/2026-02-28-vision-ttt-efficient-visual-representation-learning.md)
 - [S1-Omni-Image: A Unified Model for Scientific Image Understanding, Generation, and Editing](computer-vision/2026-06-23-s1-omni-image-unified-scientific-image-model.md)
@@ -443,6 +445,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [SAW-INT4: System-Aware 4-Bit KV-Cache Quantization for Real-World LLM Serving](systems/2026-04-03-saw-int4-kv-cache-quantization-real-world-llm-serving.md)
 - [AlignedServe: Orchestrating Prefix-Aware Batching to Build a High-Throughput and Computing-Efficient LLM Serving System](systems/2026-06-01-alignedserve-prefix-aware-batching-llm-serving.md)
 - [EnerInfer: Energy-Aware On-Device LLM Inference](systems/2026-06-06-enerinfer-energy-aware-on-device-llm-inference.md)
+- [Sangam: Efficiently Serving Diffusion LLMs with the AR Stack](systems/2026-07-05-sangam-efficiently-serving-diffusion-llms.md)
 - [Memory Scarcity, Open Models, and the Restructuring of the AI Industry, 2026-2030](systems/2026-07-08-memory-scarcity-ai-industry-restructuring.md)
 
 ## XAI
