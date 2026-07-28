@@ -153,6 +153,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [Agent Reinforcement Learning via Pivotal-Aware Self-Feedback Retry](llm-agents-dev/agent-orchestration/2026-07-04-agent-reinforcement-learning-pivotal-aware-self-feedback.md)
 - [AgentScope 1.0: A Developer-Centric Framework for Building Agentic Applications](llm-agents-dev/agent-orchestration/2026-08-25-agentscope-1-0-developer-centric-agentic-framework.md)
 - [Difficulty-Aware Agentic Orchestration for Query-Specific Multi-Agent Workflows](llm-agents-dev/agent-orchestration/2026-09-11-difficulty-aware-agentic-orchestration-query-workflows.md)
+- [AAFLOW: Scalable Patterns for Agentic AI Workflows](llm-agents-dev/agent-orchestration/2026-05-04-aaflow-scalable-patterns-agentic-workflows.md)
 
 ### Code Reasoning
 
@@ -181,6 +182,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [Experience as a Compass: Multi-Agent RAG with Evolving Orchestration and Agent Prompts](llm-agents-dev/multi-agent-topologies/2026-04-01-experience-as-compass-multi-agent-rag.md)
 - [Understanding Multi-Agent LLM Frameworks: A Unified Benchmark and Experimental Analysis](llm-agents-dev/multi-agent-topologies/2026-06-15-understanding-multi-agent-llm-frameworks-benchmark.md)
 - [LLM Consortium for Software Design Refinement: A Controlled Experiment on Multi-Agent Collaboration Topologies](llm-agents-dev/multi-agent-topologies/2026-06-01-llm-consortium-software-design-collaboration-topologies.md)
+- [AgensFlow: A Coordination-Policy Substrate for Multi-Agent Systems](llm-agents-dev/multi-agent-topologies/2026-05-26-agensflow-coordination-policy-multi-agent.md)
 
 ### Program Synthesis
 
@@ -191,6 +193,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 
 ### Code Generation
 
+- [Semantic Caching and Intent-Driven Context Optimization for Multi-Agent Natural Language to Code Systems](llm-agents-dev/code-generation/2026-01-16-semantic-caching-intent-driven-multi-agent-nlcode.md)
 - [Code to Think, Think to Code: A Survey on Code-Enhanced Reasoning and Reasoning-Driven Code Intelligence in LLMs](llm-agents-dev/code-generation/2025-02-26-code-to-think-think-to-code-survey-reasoning-code-intelligence.md)
 - [AI Agentic Programming: A Survey of Techniques, Challenges, and Opportunities](llm-agents-dev/code-generation/2025-08-15-ai-agentic-programming-survey-techniques-opportunities.md)
 - [CODESIM: Multi-Agent Code Generation and Problem Solving through Simulation-Driven Planning and Debugging](llm-agents-dev/code-generation/2026-06-25-codesim-multi-agent-simulation-driven-planning-debugging.md)
