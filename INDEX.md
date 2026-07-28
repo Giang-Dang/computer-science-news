@@ -567,3 +567,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 ### Theoretical Foundations
 
 - [The Limits of AI Explainability: An Algorithmic Information Theory Approach](xai/theoretical-foundations/2025-04-29-the-limits-of-ai-explainability-algorithmic-information-theory.md)
+
+### XAI Surveys
+
+- [Explainable AI: The Latest Advancements and New Trends](xai/xai-surveys/2025-05-11-explainable-ai-latest-advancements-trends.md)
