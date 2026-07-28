@@ -29,6 +29,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 
 ## Computer Vision
 
+- [NTIRE 2026 Challenge on Video Saliency Prediction: Methods and Results](computer-vision/2026-04-28-ntire-2026-video-saliency-prediction-challenge.md)
 - [DynaTok: Token-Based 4D Reconstruction from Partial Point Clouds](computer-vision/2026-06-06-dynatoks-token-based-4d-reconstruction.md)
 - [Making Time Editable in Video Diffusion Transformers: Temporal Control without Architectural Redesign](computer-vision/2026-06-08-making-time-editable-video-diffusion-transformers.md)
 - [HAViT: Historical Attention Vision Transformer](computer-vision/2026-03-19-havit-historical-attention-vision-transformer.md)
@@ -256,6 +257,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 
 ## Machine Learning
 
+- [A Comparative Study of Machine Learning and Deep Learning for Out-of-Distribution Detection](machine-learning/2026-05-20-ml-vs-dl-ood-detection-medical-imaging.md)
 - [Neuro-Relational Programs: Unifying Queries and Neural Computation over Structured Data](machine-learning/2026-06-21-neuro-relational-programs-neural-structured-data.md)
 - [Reversal Q-Learning: Off-Policy RL via Flow Matching and Virtual Trajectory Generation](machine-learning/2026-06-16-reversal-q-learning.md)
 - [Protein Dynamics Beyond Structure Prediction](machine-learning/2026-06-08-protein-dynamics-beyond-structure-prediction.md)
@@ -349,6 +351,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 
 ## Natural Language Processing
 
+- [A Path to Natural Language Through Tokenisation and Transformers](natural-language-processing/2026-01-06-a-path-natural-language-tokenisation-transformers.md)
 - [Brain-Guided Language Models for Robust Reasoning](natural-language-processing/2026-06-10-brain-guided-language-models-robust-reasoning.md)
 - [FeynmanBench: Benchmarking Multimodal LLMs on Diagrammatic Physics Reasoning](natural-language-processing/2026-04-04-feynmanbench-multimodal-llms-physics-reasoning.md)
 - [Can RL Teach Long-Horizon Reasoning to LLMs? Expressiveness Is Key](natural-language-processing/2026-05-20-can-rl-teach-long-horizon-reasoning-scalelogic.md)
