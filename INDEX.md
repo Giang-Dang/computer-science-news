@@ -550,6 +550,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [Beyond Linear Superposition: Discovering Climate Features in AI Weather Models with KAN-SAE](xai/mechanistic-interpretability/2026-05-20-kan-sae-climate-features-weather-models.md)
 - [Transformer Field Theory: A Response-Theoretic Approach to Mechanistic Interpretability](xai/mechanistic-interpretability/2026-05-25-transformer-field-theory-response-theoretic-mechanistic-interpretability.md)
 - [MechRL: Reinforcement Learning Agents Perform Circuit Discovery for Mechanistic Interpretability](xai/mechanistic-interpretability/2026-05-26-mechrl-circuit-discovery-reinforcement-learning.md)
+- [Ablation-Reversible Heads Don't Transfer: A Stress Test for Mechanistic Role Claims in Transformers](xai/mechanistic-interpretability/2026-06-06-ablation-reversible-heads-transfer-mechanistic-role-claims.md)
 - [Subspace-Aware Sparse Autoencoders for Effective Mechanistic Interpretability](xai/mechanistic-interpretability/2026-06-06-subspace-aware-sparse-autoencoders-mechanistic-interpretability.md)
 - [Signal in the Noise: Polysemantic Interference Transfers and Predicts Cross-Model Influence](xai/mechanistic-interpretability/2025-05-01-signal-in-noise-polysemantic-interference.md)
 - [Beyond Components: Singular Vector-Based Interpretability of Transformer Circuits](xai/mechanistic-interpretability/2025-11-25-beyond-components-singular-vector-interpretability-transformer-circuits.md)
