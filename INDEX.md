@@ -30,6 +30,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 
 ## Computer Vision
 
+- [Vision Pretraining for Dense Spatial Perception](computer-vision/2026-07-06-vision-pretraining-dense-spatial-perception-lingbot.md)
 - [NTIRE 2026 Challenge on Video Saliency Prediction: Methods and Results](computer-vision/2026-04-28-ntire-2026-video-saliency-prediction-challenge.md)
 - [DynaTok: Token-Based 4D Reconstruction from Partial Point Clouds](computer-vision/2026-06-06-dynatoks-token-based-4d-reconstruction.md)
 - [Making Time Editable in Video Diffusion Transformers: Temporal Control without Architectural Redesign](computer-vision/2026-06-08-making-time-editable-video-diffusion-transformers.md)
@@ -364,10 +365,12 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [Hierarchical Sparse Attention Done Right: Toward Infinite Context Modeling](machine-learning/2026-07-02-hierarchical-sparse-attention-context-extension.md)
 - [Linear Attention Architectures: Mechanisms, Trade-offs, and Cross-Layer Routing](machine-learning/2026-07-08-linear-attention-architectures-efficient-transformers.md)
 - [How Well Can Frontier Large Language Models Generate Structures? High Quality Prediction of Molecular Geometries with Help from Fine-Tuning](machine-learning/2026-07-15-molecular-geometry-prediction-llms.md)
+- [Flow-Map GRPO: Reinforcement Learning for Few-Step Flow-Map Generators via Anchored Stochastic Composition](machine-learning/2026-07-01-flow-map-grpo-reinforcement-learning-few-step-flow-generators.md)
 - [A Controlled Study of Attention-Only Transformers](machine-learning/2026-07-20-controlled-study-attention-only-transformers.md)
 
 ## Natural Language Processing
 
+- [Scaling Laws Under the Microscope: Predicting Transformer Performance from Small Scale Experiments](natural-language-processing/2026-02-22-scaling-laws-under-microscope-predicting-transformer-performance.md)
 - [A Path to Natural Language Through Tokenisation and Transformers](natural-language-processing/2026-01-06-a-path-natural-language-tokenisation-transformers.md)
 - [Brain-Guided Language Models for Robust Reasoning](natural-language-processing/2026-06-10-brain-guided-language-models-robust-reasoning.md)
 - [FeynmanBench: Benchmarking Multimodal LLMs on Diagrammatic Physics Reasoning](natural-language-processing/2026-04-04-feynmanbench-multimodal-llms-physics-reasoning.md)
