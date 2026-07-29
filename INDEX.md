@@ -117,6 +117,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [Reinforcement Learning for LLM-based Multi-Agent Systems through Orchestration Traces](llm-agents-dev/agent-orchestration/2026-05-04-reinforcement-learning-multi-agent-orchestration-traces.md)
 - [Code as Agent Harness: Toward Executable, Verifiable, and Stateful Agent Systems](llm-agents-dev/agent-orchestration/2026-05-18-code-as-agent-harness.md)
 - [From Agent Loops to Structured Graphs: A Scheduler-Theoretic Framework for LLM Agent Execution](llm-agents-dev/agent-orchestration/2026-04-13-from-agent-loops-structured-graphs.md)
+- [Agentic Frameworks for Reasoning Tasks: An Empirical Study](llm-agents-dev/agent-orchestration/2026-04-16-agentic-frameworks-reasoning-empirical-study.md)
 - [TDD Governance for Multi-Agent Code Generation via Prompt Engineering](llm-agents-dev/agent-orchestration/2026-05-27-tdd-governance-multi-agent-code-generation.md)
 - [SkillFlow: Flow-Driven Recursive Skill Evolution for Agentic Orchestration](llm-agents-dev/agent-orchestration/2026-05-13-skillflow-recursive-skill-evolution.md)
 - [SEVerA: Verified Synthesis of Self-Evolving Agents](llm-agents-dev/agent-orchestration/2026-06-11-severa-verified-synthesis-self-evolving-agents.md)
@@ -238,6 +239,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [Self-Compacting Language Model Agents](llm-agents-dev/tool-use/2026-06-23-self-compacting-language-model-agents.md)
 - [Generative Skill Composition for LLM Agents](llm-agents-dev/tool-use/2026-07-01-generative-skill-composition-llm-agents.md)
 - [SkillCoach: Self-Evolving Rubrics for Evaluating and Enhancing Agentic Skill-Use](llm-agents-dev/tool-use/2026-07-01-skillcoach-self-evolving-rubrics-skill-evaluation.md)
+- [Task Decomposition-Guided Reranking for Adaptive Agent Skill Retrieval](llm-agents-dev/tool-use/2026-07-06-task-decomposition-guided-skill-retrieval.md)
 - [SEARL: Joint Optimization of Policy and Tool Graph Memory for Self-Evolving Agents](llm-agents-dev/tool-use/2026-04-09-searl-joint-optimization-policy-tool-graph-memory-self-evolving-agents.md)
 
 ### Software Engineering Design
@@ -249,6 +251,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [MIND-Skill: Quality-Guaranteed Skill Generation via Multi-Agent Induction and Deduction](llm-agents-dev/skill-based-agents/2026-05-26-mind-skill-quality-guaranteed-generation.md)
 - [SkillAxe: Sharpening LLM-Authored Agent Skills Through Evaluation-Guided Self-Refinement](llm-agents-dev/skill-based-agents/2026-06-10-skillaxe-evaluation-guided-agent-skills.md)
 - [EffiSkill: Agent Skill Based Automated Code Efficiency Optimization](llm-agents-dev/skill-based-agents/2026-06-18-effiskill-agent-skill-code-efficiency-optimization.md)
+- [Harnessing Agent Skills: Architectural Patterns and a Reference Architecture for Skill-Mediated LLM Agents](llm-agents-dev/skill-based-agents/2026-06-29-harnessing-agent-skills-architectural-patterns.md)
 
 ### Multi Modal Orchestration
 
