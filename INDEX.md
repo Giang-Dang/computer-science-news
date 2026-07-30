@@ -96,6 +96,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [PixWorld: Unifying 3D Scene Generation and Reconstruction in Pixel Space](computer-vision/2026-07-06-pixworld-unified-3d-generation-reconstruction.md)
 - [OrbitQuant: Data-Agnostic Quantization for Image and Video Diffusion Transformers](computer-vision/2026-07-08-orbitquant-quantization-diffusion-transformers.md)
 - [MambaVision: A Hybrid Mamba-Transformer Vision Backbone](computer-vision/2026-07-10-mambavision-hybrid-mamba-transformer.md)
+- [Vision as Unified Multimodal Generation](computer-vision/2026-07-20-vision-unified-multimodal-generation.md)
 - [Video Generation Models are General-Purpose Vision Learners](computer-vision/2026-07-10-video-generation-models-general-purpose-vision-learners.md)
 - [Lumos-1: On Autoregressive Video Generation with Discrete Diffusion from a Unified Model Perspective](computer-vision/2026-07-08-lumos-1-autoregressive-video-generation-discrete-diffusion.md)
 - [SAM 3: Segment Anything with Concepts](computer-vision/2026-07-10-sam3-segment-anything-with-concepts.md)
@@ -368,6 +369,8 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [Hierarchical Sparse Attention Done Right: Toward Infinite Context Modeling](machine-learning/2026-07-02-hierarchical-sparse-attention-context-extension.md)
 - [Linear Attention Architectures: Mechanisms, Trade-offs, and Cross-Layer Routing](machine-learning/2026-07-08-linear-attention-architectures-efficient-transformers.md)
 - [How Well Can Frontier Large Language Models Generate Structures? High Quality Prediction of Molecular Geometries with Help from Fine-Tuning](machine-learning/2026-07-15-molecular-geometry-prediction-llms.md)
+- [A Controlled Study of Attention-Only Transformers](machine-learning/2026-07-21-controlled-study-attention-only-transformers.md)
+- [On Transformer Dynamics](machine-learning/2026-07-22-transformer-dynamics-manifold-geometry.md)
 - [Flow-Map GRPO: Reinforcement Learning for Few-Step Flow-Map Generators via Anchored Stochastic Composition](machine-learning/2026-07-01-flow-map-grpo-reinforcement-learning-few-step-flow-generators.md)
 - [A Controlled Study of Attention-Only Transformers](machine-learning/2026-07-20-controlled-study-attention-only-transformers.md)
 
