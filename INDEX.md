@@ -155,6 +155,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [Next-Generation Agentic Reinforcement Learning Systems Enable Self-Evolving Agents](llm-agents-dev/agent-orchestration/2026-07-01-next-generation-agentic-reinforcement-learning-systems-self-evolving-agents.md)
 - [Agent Reinforcement Learning via Pivotal-Aware Self-Feedback Retry](llm-agents-dev/agent-orchestration/2026-07-04-agent-reinforcement-learning-pivotal-aware-self-feedback.md)
 - [AgentScope 1.0: A Developer-Centric Framework for Building Agentic Applications](llm-agents-dev/agent-orchestration/2026-08-25-agentscope-1-0-developer-centric-agentic-framework.md)
+- [Agents in the Wild: Where Research Meets Deployment](llm-agents-dev/agent-orchestration/2026-07-19-agents-in-wild-research-meets-deployment.md)
 - [Difficulty-Aware Agentic Orchestration for Query-Specific Multi-Agent Workflows](llm-agents-dev/agent-orchestration/2026-09-11-difficulty-aware-agentic-orchestration-query-workflows.md)
 - [AAFLOW: Scalable Patterns for Agentic AI Workflows](llm-agents-dev/agent-orchestration/2026-05-04-aaflow-scalable-patterns-agentic-workflows.md)
 
@@ -232,7 +233,9 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [LLM-Based Automated Diagnosis Of Integration Test Failures At Google](llm-agents-dev/testing-debugging/2026-04-12-auto-diagnose-llm-test-failure-diagnosis.md)
 - [AgentStepper: Interactive Debugging of Software Development Agents](llm-agents-dev/testing-debugging/2026-02-06-agentstepper-interactive-debugging-software-development-agents.md)
 - [ABTest: Behavior-Driven Testing for AI Coding Agents](llm-agents-dev/testing-debugging/2026-04-03-abtest-behavior-driven-testing-ai-coding-agents.md)
+- [Beyond Test Presence: Assessing the Quality and Robustness of Agent-Generated Tests in Open-Source Projects](llm-agents-dev/testing-debugging/2026-07-13-beyond-test-presence-quality-robustness-agent-generated-tests.md)
 - [LogicHunter: Testing LLM Agent Frameworks with an Agentic Oracle](llm-agents-dev/testing-debugging/2026-07-06-logichunter-testing-agent-frameworks-agentic-oracle.md)
+- [ChainSWE: Benchmarking Coding Agents on Multi-Bug Software Maintenance](llm-agents-dev/testing-debugging/2026-07-01-chainswe-benchmarking-multi-bug-software-maintenance.md)
 - [Long-Horizon-Terminal-Bench: Testing the Limits of Agents on Long-Horizon Terminal Tasks with Dense Reward-Based Grading](llm-agents-dev/testing-debugging/2026-07-09-long-horizon-terminal-bench-dense-reward-grading.md)
 
 ### Tool Use
