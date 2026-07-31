@@ -27,6 +27,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [Internalizing the Future: A Unified Agentic Training Paradigm for World Model Planning](artificial-intelligence/2026-06-25-internalizing-future-unified-agentic-training-paradigm-world-model-planning.md)
 - [Self-Evolving World Models for LLM Agent Planning](artificial-intelligence/2026-06-29-self-evolving-world-models-llm-agent-planning.md)
 - [Multi-Agent AI Control: Distributed Attacks Hamper Per-Instance Monitors](artificial-intelligence/2026-07-08-multi-agent-ai-control-distributed-attacks.md)
+- [Agent Reinforcement Learning via Pivotal-Aware Self-Feedback Retry](artificial-intelligence/2026-07-04-agent-rl-pivotal-self-feedback-retry.md)
 
 ## Computer Vision
 
@@ -41,6 +42,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [YOLO26: An Analysis of NMS-Free End-to-End Framework for Real-Time Object Detection](computer-vision/2026-01-19-yolo26-nms-free-object-detection.md)
 - [Efficient Training-Free Single-Image Diffusion Models](computer-vision/2026-06-03-efficient-training-free-single-image-diffusion.md)
 - [Vision Inference Former: Sustaining Visual Consistency in Multimodal Large Language Models](computer-vision/2026-05-28-vision-inference-former-visual-consistency-multimodal-llms.md)
+- [VLM3: Vision Language Models Are Native 3D Learners](computer-vision/2026-05-28-vlm3-vision-language-3d-learners.md)
 - [From Sight to Insight: Improving Visual Reasoning Capabilities of Multimodal Models via Reinforcement Learning](computer-vision/2026-01-01-from-sight-to-insight-visual-reasoning-rl.md)
 - [Large Language Models are Universal Reasoners for Visual Generation](computer-vision/2026-05-04-universal-reasoners-llm-visual-generation.md)
 - [Adversarial Evasion Attacks on Computer Vision using SHAP Values](computer-vision/2026-01-15-adversarial-evasion-attacks-shap.md)
@@ -372,6 +374,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [Hierarchical Sparse Attention Done Right: Toward Infinite Context Modeling](machine-learning/2026-07-02-hierarchical-sparse-attention-context-extension.md)
 - [Linear Attention Architectures: Mechanisms, Trade-offs, and Cross-Layer Routing](machine-learning/2026-07-08-linear-attention-architectures-efficient-transformers.md)
 - [How Well Can Frontier Large Language Models Generate Structures? High Quality Prediction of Molecular Geometries with Help from Fine-Tuning](machine-learning/2026-07-15-molecular-geometry-prediction-llms.md)
+- [Reinforcement Learning: From Algorithms To Foundation Models](machine-learning/2026-07-20-reinforcement-learning-algorithms-foundation-models.md)
 - [On Transformer Dynamics](machine-learning/2026-07-22-transformer-dynamics-manifold-geometry.md)
 - [Flow-Map GRPO: Reinforcement Learning for Few-Step Flow-Map Generators via Anchored Stochastic Composition](machine-learning/2026-07-01-flow-map-grpo-reinforcement-learning-few-step-flow-generators.md)
 - [A Controlled Study of Attention-Only Transformers](machine-learning/2026-07-20-controlled-study-attention-only-transformers.md)
