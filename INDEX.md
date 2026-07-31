@@ -478,6 +478,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 
 ### Agentic Interpretability
 
+- [Increasing AI Explainability by LLM Driven Standard Processes](xai/agentic-interpretability/2025-11-10-llm-driven-standard-processes-explainability.md)
 - [Agentic Explainable Artificial Intelligence (Agentic XAI): LLM-Driven Iterative Refinement for Enhanced Explanations](xai/agentic-interpretability/2025-12-24-agentic-xai-llm-driven-explanation-refinement.md)
 
 ### Causal Interpretability
