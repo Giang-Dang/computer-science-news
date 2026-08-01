@@ -271,7 +271,6 @@ A navigable index of paper summaries in this repository, organized by topic.
 
 ## Machine Learning
 
-- [A Comparative Study of Machine Learning and Deep Learning for Out-of-Distribution Detection](machine-learning/2026-05-20-ml-vs-dl-ood-detection-medical-imaging.md)
 - [Neuro-Relational Programs: Unifying Queries and Neural Computation over Structured Data](machine-learning/2026-06-21-neuro-relational-programs-neural-structured-data.md)
 - [Reversal Q-Learning: Off-Policy RL via Flow Matching and Virtual Trajectory Generation](machine-learning/2026-06-16-reversal-q-learning.md)
 - [Protein Dynamics Beyond Structure Prediction](machine-learning/2026-06-08-protein-dynamics-beyond-structure-prediction.md)
