@@ -177,9 +177,6 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [MapCoder-Lite: Distilling Multi-Agent Coding into a Single Small LLM](llm-agents-dev/multi-agent-topologies/2025-09-20-mapcoder-lite-distilling-multi-agent-coding.md)
 - [AgentConductor: Topology Evolution for Multi-Agent Competition-Level Code Generation](llm-agents-dev/multi-agent-topologies/2026-02-21-agentconductor-topology-evolution-multi-agent-code.md)
 - [SPOQ: Specialist Orchestrated Queuing for Multi-Agent Software Engineering](llm-agents-dev/multi-agent-topologies/2026-06-02-spoq-specialist-orchestrated-queuing-multi-agent-software-engineering.md)
-
-### Multi Agent Topologies
-
 - [Usable Agent Discovery for Decentralized AI Systems](llm-agents-dev/multi-agent-topologies/2026-04-25-usable-agent-discovery-decentralized-ai-systems.md)
 - [A Taxonomy of Hierarchical Multi-Agent Systems: Design Patterns, Coordination Mechanisms, and Industrial Applications](llm-agents-dev/multi-agent-topologies/2025-08-18-taxonomy-hierarchical-multi-agent-systems-design.md)
 - [GoAgent: Group-of-Agents Communication Topology Generation for LLM-based Multi-Agent Systems](llm-agents-dev/multi-agent-topologies/2026-03-17-goagent-group-of-agents-communication-topology.md)
@@ -313,7 +310,6 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [Shorthand for Thought: Compressing LLM Reasoning via Entropy-Guided Supertokens](machine-learning/2026-04-30-shorthand-for-thought-entropy-guided-supertokens.md)
 - [AgentFloor: How Far Up the Tool Use Ladder Can Small Open-Weight Models Go?](machine-learning/2026-05-01-agentfloor-tool-use-open-weight-models.md)
 - [Position: Agentic AI Orchestration Should Be Bayes-Consistent](machine-learning/2026-05-01-agentic-ai-orchestration-bayes-consistent.md)
-- [Characterizing the Expressivity of Local Attention in Transformers](machine-learning/2026-05-01-characterizing-expressivity-local-attention-transformers.md)
 - [Token Arena: A Continuous Benchmark Unifying Energy and Cognition in AI Inference](machine-learning/2026-05-01-token-arena-energy-cognition-ai-inference.md)
 - [A Theory of Generalization in Deep Learning](machine-learning/2026-05-02-a-theory-of-generalization-in-deep-learning.md)
 - [Less is More: Geometric Unlearning for LLMs with Minimal Data Disclosure](machine-learning/2026-05-03-geometric-unlearning-llms-minimal-data-disclosure.md)
@@ -566,7 +562,6 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [Sparse Attention Post-Training for Mechanistic Interpretability](xai/mechanistic-interpretability/2025-12-20-sparse-attention-post-training-mechanistic-interpretability.md)
 - [nnterp: A Standardized Interface for Mechanistic Interpretability of Transformers](xai/mechanistic-interpretability/2025-12-14-nnterp-standardized-interface-mechanistic-interpretability.md)
 - [Faithful and Stable Neuron Explanations for Trustworthy Mechanistic Interpretability](xai/mechanistic-interpretability/2025-12-19-faithful-stable-neuron-explanations-trustworthy-mi.md)
-- [Sparse Attention Post-Training for Mechanistic Interpretability](xai/mechanistic-interpretability/2025-12-20-sparse-attention-post-training-mechanistic-interpretability.md)
 - [Interpreting Transformers Through Attention Head Intervention](xai/mechanistic-interpretability/2026-01-07-interpreting-transformers-attention-head-intervention.md)
 - [Mechanistic Data Attribution: Tracing the Training Origins of Interpretable LLM Units](xai/mechanistic-interpretability/2026-01-29-mechanistic-data-attribution-training-origins.md)
 - [AudioSAE: Towards Understanding of Audio-Processing Models with Sparse AutoEncoders](xai/mechanistic-interpretability/2026-02-06-audiosae-sparse-autoencoders-audio-models.md)
