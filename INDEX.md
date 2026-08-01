@@ -369,7 +369,6 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [Hierarchical Sparse Attention Done Right: Toward Infinite Context Modeling](machine-learning/2026-07-02-hierarchical-sparse-attention-context-extension.md)
 - [Linear Attention Architectures: Mechanisms, Trade-offs, and Cross-Layer Routing](machine-learning/2026-07-08-linear-attention-architectures-efficient-transformers.md)
 - [How Well Can Frontier Large Language Models Generate Structures? High Quality Prediction of Molecular Geometries with Help from Fine-Tuning](machine-learning/2026-07-15-molecular-geometry-prediction-llms.md)
-- [A Controlled Study of Attention-Only Transformers](machine-learning/2026-07-21-controlled-study-attention-only-transformers.md)
 - [On Transformer Dynamics](machine-learning/2026-07-22-transformer-dynamics-manifold-geometry.md)
 - [Flow-Map GRPO: Reinforcement Learning for Few-Step Flow-Map Generators via Anchored Stochastic Composition](machine-learning/2026-07-01-flow-map-grpo-reinforcement-learning-few-step-flow-generators.md)
 - [A Controlled Study of Attention-Only Transformers](machine-learning/2026-07-20-controlled-study-attention-only-transformers.md)
