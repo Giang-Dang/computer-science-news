@@ -373,6 +373,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [On Transformer Dynamics](machine-learning/2026-07-22-transformer-dynamics-manifold-geometry.md)
 - [Flow-Map GRPO: Reinforcement Learning for Few-Step Flow-Map Generators via Anchored Stochastic Composition](machine-learning/2026-07-01-flow-map-grpo-reinforcement-learning-few-step-flow-generators.md)
 - [A Controlled Study of Attention-Only Transformers](machine-learning/2026-07-20-controlled-study-attention-only-transformers.md)
+- [CoCaRS: Correlation Calibration-Based Redundancy Suppression for Heterogeneous Knowledge Distillation](machine-learning/2026-07-15-cocars-knowledge-distillation-heterogeneous.md)
 
 ## Natural Language Processing
 
@@ -438,6 +439,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [Kairos: A Native World Model Stack for Physical AI](robotics/2026-06-15-kairos-native-world-model-stack-physical-ai.md)
 - [RoboVista: Evaluating Vision Language Models for Diverse Robot Applications](robotics/2026-07-06-robovista-evaluating-vision-language-models-robot-applications.md)
 - [Robotic Control via Embodied Chain-of-Thought Reasoning](robotics/2026-07-11-robotic-control-embodied-chain-of-thought.md)
+- [Embodied.cpp: A Portable Inference Runtime of Embodied AI Models on Heterogeneous Robots](robotics/2026-07-03-embodied-cpp-portable-inference-runtime.md)
 
 ## Systems
 
@@ -464,6 +466,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [EnerInfer: Energy-Aware On-Device LLM Inference](systems/2026-06-06-enerinfer-energy-aware-on-device-llm-inference.md)
 - [Sangam: Efficiently Serving Diffusion LLMs with the AR Stack](systems/2026-07-05-sangam-efficiently-serving-diffusion-llms.md)
 - [Memory Scarcity, Open Models, and the Restructuring of the AI Industry, 2026-2030](systems/2026-07-08-memory-scarcity-ai-industry-restructuring.md)
+- [Accelerating GPU Inference of Large Language Models with Moderately Unstructured Sparse Weight Matrices](systems/2026-07-09-accelerating-gpu-inference-sparse-weights.md)
 
 ## XAI
 
