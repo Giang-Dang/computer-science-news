@@ -550,6 +550,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 
 - [A Comparative Analysis of Interpretable Machine Learning Methods](xai/inherently-interpretable-models/2026-01-01-comparative-analysis-interpretable-ml-methods.md)
 - [Towards Intrinsic Interpretability of Large Language Models: A Survey of Design Principles and Architectures](xai/inherently-interpretable-models/2026-04-17-intrinsic-interpretability-llm-survey.md)
+- [KANEx: Translating Kolmogorov-Arnold Networks' Interpretability to Medical Explainability](xai/inherently-interpretable-models/2026-07-30-kanex-kolmogorov-arnold-networks-medical-explainability.md)
 
 ### Mechanistic Interpretability
 
