@@ -4,8 +4,7 @@ name: validate-index
 # to main. Blocking checks:
 #   1. Every .md link in INDEX.md resolves to a tracked file.
 #   2. Every paper .md file is linked in INDEX.md.
-# Non-blocking (warning only):
-#   3. Two papers sharing the same primary **ArXiv ID** (duplicate detection).
+#   3. No two papers share the same primary **ArXiv ID** (duplicate detection).
 
 on:
   pull_request:
@@ -52,13 +51,13 @@ jobs:
             [ -n "$id" ] && echo "$id" >> ids.txt
           done < files.txt
 
-          # Duplicate detection is reported as a warning (non-blocking) so the
-          # gate stays simple and does not retroactively fail on pre-existing
-          # duplicates. Flip to status=1 once the repo is duplicate-free.
+          # The repo is duplicate-free, so adding a paper that is already indexed
+          # under another filename now fails the gate instead of warning.
           dups=$(sort ids.txt | uniq -d)
           if [ -n "$dups" ]; then
-            echo "::warning::Duplicate primary ArXiv IDs (same paper added twice):"
+            echo "::error::Duplicate primary ArXiv IDs (same paper added twice):"
             echo "$dups"
+            status=1
           fi
 
           if [ "$status" -eq 0 ]; then
