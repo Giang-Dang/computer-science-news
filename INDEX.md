@@ -586,6 +586,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [MechRL: Reinforcement Learning Agents Perform Circuit Discovery for Mechanistic Interpretability](xai/mechanistic-interpretability/2026-05-26-mechrl-circuit-discovery-reinforcement-learning.md)
 - [Ablation-Reversible Heads Don't Transfer: A Stress Test for Mechanistic Role Claims in Transformers](xai/mechanistic-interpretability/2026-06-06-ablation-reversible-heads-transfer-mechanistic-role-claims.md)
 - [Subspace-Aware Sparse Autoencoders for Effective Mechanistic Interpretability](xai/mechanistic-interpretability/2026-06-06-subspace-aware-sparse-autoencoders-mechanistic-interpretability.md)
+- [The Standard Interpretable Model: A General Theory of Interpretable Machine Learning Using Lagrangian Mechanics](xai/mechanistic-interpretability/2026-06-10-standard-interpretable-model-lagrangian-mechanics.md)
 - [Signal in the Noise: Polysemantic Interference Transfers and Predicts Cross-Model Influence](xai/mechanistic-interpretability/2025-05-01-signal-in-noise-polysemantic-interference.md)
 - [Beyond Components: Singular Vector-Based Interpretability of Transformer Circuits](xai/mechanistic-interpretability/2025-11-25-beyond-components-singular-vector-interpretability-transformer-circuits.md)
 - [Metonymy in Vision Models Undermines Attention-Based Interpretability](xai/mechanistic-interpretability/2026-05-07-metonymy-vision-models-attention-interpretability.md)
