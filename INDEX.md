@@ -27,9 +27,11 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [Internalizing the Future: A Unified Agentic Training Paradigm for World Model Planning](artificial-intelligence/2026-06-25-internalizing-future-unified-agentic-training-paradigm-world-model-planning.md)
 - [Self-Evolving World Models for LLM Agent Planning](artificial-intelligence/2026-06-29-self-evolving-world-models-llm-agent-planning.md)
 - [Multi-Agent AI Control: Distributed Attacks Hamper Per-Instance Monitors](artificial-intelligence/2026-07-08-multi-agent-ai-control-distributed-attacks.md)
+- [Graph-Native Reinforcement Learning Enables Traceable Scientific Hypothesis Generation through Conceptual Recombination](artificial-intelligence/2026-07-01-graph-native-reinforcement-learning-scientific-hypothesis-generation.md)
 
 ## Computer Vision
 
+- [From RGB Generation to Dense Field Readout: Pixel-Space Dense Prediction with Text-to-Image Models](computer-vision/2026-07-09-from-rgb-generation-to-dense-field-readout-pixel-space-dense-prediction.md)
 - [Vision Pretraining for Dense Spatial Perception](computer-vision/2026-07-06-vision-pretraining-dense-spatial-perception-lingbot.md)
 - [NTIRE 2026 Challenge on Video Saliency Prediction: Methods and Results](computer-vision/2026-04-28-ntire-2026-video-saliency-prediction-challenge.md)
 - [DynaTok: Token-Based 4D Reconstruction from Partial Point Clouds](computer-vision/2026-06-06-dynatoks-token-based-4d-reconstruction.md)
@@ -372,6 +374,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [Reinforcement Learning: From Algorithms To Foundation Models](machine-learning/2026-07-20-reinforcement-learning-algorithms-foundation-models.md)
 - [On Transformer Dynamics](machine-learning/2026-07-22-transformer-dynamics-manifold-geometry.md)
 - [Flow-Map GRPO: Reinforcement Learning for Few-Step Flow-Map Generators via Anchored Stochastic Composition](machine-learning/2026-07-01-flow-map-grpo-reinforcement-learning-few-step-flow-generators.md)
+- [Single-Rollout Asynchronous Optimization for Agentic Reinforcement Learning](machine-learning/2026-07-08-single-rollout-asynchronous-optimization-agentic-rl.md)
 - [A Controlled Study of Attention-Only Transformers](machine-learning/2026-07-20-controlled-study-attention-only-transformers.md)
 
 ## Natural Language Processing
