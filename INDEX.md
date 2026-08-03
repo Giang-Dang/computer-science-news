@@ -311,6 +311,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [AgentFloor: How Far Up the Tool Use Ladder Can Small Open-Weight Models Go?](machine-learning/2026-05-01-agentfloor-tool-use-open-weight-models.md)
 - [Position: Agentic AI Orchestration Should Be Bayes-Consistent](machine-learning/2026-05-01-agentic-ai-orchestration-bayes-consistent.md)
 - [Token Arena: A Continuous Benchmark Unifying Energy and Cognition in AI Inference](machine-learning/2026-05-01-token-arena-energy-cognition-ai-inference.md)
+- [There Will Be a Scientific Theory of Deep Learning](machine-learning/2026-04-23-scientific-theory-deep-learning.md)
 - [A Theory of Generalization in Deep Learning](machine-learning/2026-05-02-a-theory-of-generalization-in-deep-learning.md)
 - [Less is More: Geometric Unlearning for LLMs with Minimal Data Disclosure](machine-learning/2026-05-03-geometric-unlearning-llms-minimal-data-disclosure.md)
 - [MIRA: A Score for Conditional Distribution Accuracy and Model Comparison](machine-learning/2026-05-03-mira-conditional-distribution-model-comparison.md)
@@ -348,6 +349,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [MLEvolve: A Self-Evolving Framework for Automated Machine Learning Algorithm Discovery](machine-learning/2026-06-04-mlevolve-automated-algorithm-discovery.md)
 - [Tapered Language Models](machine-learning/2026-06-22-tapered-language-models.md)
 - [Quantized Reasoning Models Think They Need to Think Longer, but They Do Not](machine-learning/2026-06-24-quantized-reasoning-overthinking-fix.md)
+- [Semantic Consistency Policy Optimization for Reinforcement Learning of LLM Agents](machine-learning/2026-06-24-semantic-consistency-policy-optimization.md)
 - [The Universal Weight Subspace Hypothesis](machine-learning/2025-12-03-the-universal-weight-subspace-hypothesis.md)
 - [Discovering Interpretable Algorithms by Decompiling Transformers to RASP](machine-learning/2026-02-04-discovering-interpretable-algorithms-decompiling-transformers-rasp.md)
 - [Looped Transformers with Layer Normalization Provably Learn the Power Method](machine-learning/2026-05-30-looped-transformers-layer-normalization-power-method.md)
@@ -424,8 +426,9 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [DeepSeek-V4: Towards Highly Efficient Million-Token Context Intelligence](natural-language-processing/2026-06-26-deepseek-v4-efficient-million-token-context.md)
 - [Continual Learning for Sequential Personalization of Small Language Models: A Stability Monitoring Analysis](natural-language-processing/2026-06-29-continual-learning-sequential-personalization-small-language-models.md)
 - [The Future of NLP may not be at NLP Conferences: Scholarly Migration Patterns in Natural Language Processing](natural-language-processing/2026-07-02-future-of-nlp-scholarly-migration-patterns.md)
-- [Nemotron-Labs-Diffusion: A Tri-Mode Language Model Unifying Autoregressive, Diffusion, and Self-Speculation Decoding](natural-language-processing/2026-07-07-nemotron-labs-diffusion-tri-mode-language-model.md)
 - [Understanding Large Language Models](natural-language-processing/2026-07-01-understanding-large-language-models.md)
+- [Nemotron-Labs-Diffusion: A Tri-Mode Language Model Unifying Autoregressive, Diffusion, and Self-Speculation Decoding](natural-language-processing/2026-07-07-nemotron-labs-diffusion-tri-mode-language-model.md)
+- [GLIDE: Guided Layerwise Hybrid Attention for Efficient LLM Inference](natural-language-processing/2026-06-26-glide-guided-layerwise-hybrid-attention.md)
 - [Benchmarking Multimodal Large Language Models for Scientific Visualization Literacy](natural-language-processing/2026-07-16-benchmarking-multimodal-llms-scientific-visualization.md)
 
 ## Robotics
