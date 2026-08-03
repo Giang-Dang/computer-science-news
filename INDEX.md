@@ -127,7 +127,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [AgentForge: Execution-Grounded Multi-Agent LLM Framework for Autonomous Software Engineering](llm-agents-dev/agent-orchestration/2026-04-06-agentforge-execution-grounded-multi-agent-framework.md)
 - [EvoAgent: An Evolvable Agent Framework with Skill Learning and Multi-Agent Delegation](llm-agents-dev/agent-orchestration/2026-04-22-evoagent-evolvable-agent-framework-skill-learning.md)
 - [Reinforcement Learning for LLM-based Multi-Agent Systems through Orchestration Traces](llm-agents-dev/agent-orchestration/2026-05-04-reinforcement-learning-multi-agent-orchestration-traces.md)
-- [Code as Agent Harness: Toward Executable, Verifiable, and Stateful Agent Systems](llm-agents-dev/agent-orchestration/2026-05-18-code-as-agent-harness.md)
+- [Code as Agent Harness: Toward Executable, Verifiable, and Stateful Agent Systems](llm-agents-dev/agent-orchestration/2026-05-18-code-as-agent-harness-executable-verifiable-stateful.md)
 - [From Agent Loops to Structured Graphs: A Scheduler-Theoretic Framework for LLM Agent Execution](llm-agents-dev/agent-orchestration/2026-04-13-from-agent-loops-structured-graphs.md)
 - [Agentic Frameworks for Reasoning Tasks: An Empirical Study](llm-agents-dev/agent-orchestration/2026-04-16-agentic-frameworks-reasoning-empirical-study.md)
 - [TDD Governance for Multi-Agent Code Generation via Prompt Engineering](llm-agents-dev/agent-orchestration/2026-05-27-tdd-governance-multi-agent-code-generation.md)
@@ -236,7 +236,8 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [AgentStepper: Interactive Debugging of Software Development Agents](llm-agents-dev/testing-debugging/2026-02-06-agentstepper-interactive-debugging-software-development-agents.md)
 - [ABTest: Behavior-Driven Testing for AI Coding Agents](llm-agents-dev/testing-debugging/2026-04-03-abtest-behavior-driven-testing-ai-coding-agents.md)
 - [Beyond Test Presence: Assessing the Quality and Robustness of Agent-Generated Tests in Open-Source Projects](llm-agents-dev/testing-debugging/2026-07-13-beyond-test-presence-quality-robustness-agent-generated-tests.md)
-- [LogicHunter: Testing LLM Agent Frameworks with an Agentic Oracle](llm-agents-dev/testing-debugging/2026-07-06-logichunter-testing-agent-frameworks-agentic-oracle.md)
+- [LogicHunter: Testing LLM Agent Frameworks with an Agentic Oracle](llm-agents-dev/testing-debugging/2026-07-07-logichunter-testing-agent-frameworks-agentic-oracle.md)
+- [AgentDebugX: An Open-Source Toolkit for Failure Observability, Attribution, and Recovery in LLM Agents](llm-agents-dev/testing-debugging/2026-07-21-agentdebugx-failure-observability-attribution-recovery.md)
 - [ChainSWE: Benchmarking Coding Agents on Multi-Bug Software Maintenance](llm-agents-dev/testing-debugging/2026-07-01-chainswe-benchmarking-multi-bug-software-maintenance.md)
 - [Long-Horizon-Terminal-Bench: Testing the Limits of Agents on Long-Horizon Terminal Tasks with Dense Reward-Based Grading](llm-agents-dev/testing-debugging/2026-07-09-long-horizon-terminal-bench-dense-reward-grading.md)
 
