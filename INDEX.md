@@ -31,6 +31,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 ## Computer Vision
 
 - [Vision Pretraining for Dense Spatial Perception](computer-vision/2026-07-06-vision-pretraining-dense-spatial-perception-lingbot.md)
+- [From RGB Generation to Dense Field Readout: Pixel-Space Dense Prediction with Text-to-Image Models](computer-vision/2026-07-06-from-rgb-generation-dense-field-readout.md)
 - [NTIRE 2026 Challenge on Video Saliency Prediction: Methods and Results](computer-vision/2026-04-28-ntire-2026-video-saliency-prediction-challenge.md)
 - [DynaTok: Token-Based 4D Reconstruction from Partial Point Clouds](computer-vision/2026-06-06-dynatoks-token-based-4d-reconstruction.md)
 - [Making Time Editable in Video Diffusion Transformers: Temporal Control without Architectural Redesign](computer-vision/2026-06-08-making-time-editable-video-diffusion-transformers.md)
@@ -45,6 +46,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [From Sight to Insight: Improving Visual Reasoning Capabilities of Multimodal Models via Reinforcement Learning](computer-vision/2026-01-01-from-sight-to-insight-visual-reasoning-rl.md)
 - [Large Language Models are Universal Reasoners for Visual Generation](computer-vision/2026-05-04-universal-reasoners-llm-visual-generation.md)
 - [Adversarial Evasion Attacks on Computer Vision using SHAP Values](computer-vision/2026-01-15-adversarial-evasion-attacks-shap.md)
+- [Depth-Synergized Mamba Meets Memory Experts for All-Day Image Reflection Separation](computer-vision/2026-01-15-depth-synergized-mamba-memory-experts-reflection.md)
 - [NeoVerse: Enhancing 4D World Model with in-the-Wild Monocular Videos](computer-vision/2026-01-15-neoverse-4d-world-model-monocular-video.md)
 - [GO-Renderer: Generative Object Rendering with 3D-aware Controllable Video Diffusion Models](computer-vision/2026-03-24-go-renderer-3d-aware-video-diffusion.md)
 - [Think, Act, Build: An Agentic Framework with Vision Language Models for Zero-Shot 3D Visual Grounding](computer-vision/2026-04-01-think-act-build-agentic-framework-3d-visual-grounding.md)
@@ -280,6 +282,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 
 ## Machine Learning
 
+- [Reliability Scaling Laws for Quantized Large Language Models](machine-learning/2026-07-12-reliability-scaling-laws-quantized-llms.md)
 - [Neuro-Relational Programs: Unifying Queries and Neural Computation over Structured Data](machine-learning/2026-06-21-neuro-relational-programs-neural-structured-data.md)
 - [Reversal Q-Learning: Off-Policy RL via Flow Matching and Virtual Trajectory Generation](machine-learning/2026-06-16-reversal-q-learning.md)
 - [Protein Dynamics Beyond Structure Prediction](machine-learning/2026-06-08-protein-dynamics-beyond-structure-prediction.md)
