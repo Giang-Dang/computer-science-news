@@ -138,6 +138,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [Learning and Reusing Policy Decompositions for Hierarchical Generalized Planning with LLM Agents](llm-agents-dev/agent-orchestration/2026-05-07-hierarchical-policy-decomposition-llm-agents.md)
 - [Bridging Requirements and Architecture: Multi-Agent Orchestration with External Knowledge and Hierarchical Memory](llm-agents-dev/agent-orchestration/2026-06-08-bridging-requirements-architecture-multi-agent-orchestration.md)
 - [What Should Agents Say? Action-state Communication for Efficient Multi-Agent Systems](llm-agents-dev/agent-orchestration/2026-06-03-action-state-communication-efficient-multi-agent.md)
+- [Coordination as an Architectural Layer for LLM-Based Multi-Agent Systems](llm-agents-dev/agent-orchestration/2026-05-23-coordination-architectural-layer-multi-agent-systems.md)
 - [Agents-K1: Towards Agent-Native Knowledge Orchestration](llm-agents-dev/agent-orchestration/2026-06-13-agents-k1-agent-native-knowledge-orchestration.md)
 - [OrchDAG: Complex Tool Orchestration in Multi-Turn Interactions with Plan DAGs](llm-agents-dev/agent-orchestration/2025-10-28-orchdag-complex-tool-orchestration.md)
 - [From Static Templates to Dynamic Runtime Graphs: A Survey of Workflow Optimization for LLM Agents](llm-agents-dev/agent-orchestration/2026-03-23-static-templates-dynamic-runtime-graphs-workflow-optimization.md)
@@ -170,6 +171,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 
 ### Multi Agent Topologies
 
+- [Effective Strategies for Asynchronous Software Engineering Agents](llm-agents-dev/multi-agent-topologies/2026-03-23-effective-strategies-asynchronous-software-engineering-agents.md)
 - [PerfOrch: Multi-LLM Orchestration for High-Quality Code Generation](llm-agents-dev/agent-orchestration/2026-05-28-perfororch-multi-llm-orchestration-code-generation.md)
 - [LLM-Based Multi-Agent Systems for Code Generation: A Multi-Vocal Literature Review](llm-agents-dev/multi-agent-topologies/2026-04-16-llm-based-multi-agent-code-generation-literature-review.md)
 - [AgentCo-op: Retrieval-Based Synthesis of Interoperable Multi-Agent Workflows](llm-agents-dev/multi-agent-topologies/2026-05-19-agentcoop-retrieval-synthesis-workflows.md)
@@ -250,6 +252,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [Agentic Tool Use in Large Language Models](llm-agents-dev/tool-use/2026-04-01-agentic-tool-use-large-language-models-comprehensive-survey.md)
 - [How Well Do Agentic Skills Work in the Wild: Benchmarking LLM Skill Usage in Realistic Settings](llm-agents-dev/tool-use/2026-04-06-how-well-agentic-skills-work-in-wild-benchmarking-realistic.md)
 - [AutoTool: Dynamic Tool Selection and Integration for Agentic Reasoning](llm-agents-dev/tool-use/2026-05-27-autotool-dynamic-tool-selection-agentic-reasoning.md)
+- [Declarative Skills for AI Agents in Knowledge-Grounded Tool-Use Workflows](llm-agents-dev/tool-use/2026-06-05-declarative-skills-agents-knowledge-grounded-workflows.md)
 - [Trace2Skill: Distill Trajectory-Local Lessons into Transferable Agent Skills](llm-agents-dev/tool-use/2026-03-26-trace2skill-distill-trajectory-lessons.md)
 - [CODESKILL: Learning Self-Evolving Skills for Coding Agents](llm-agents-dev/tool-use/2026-05-25-codeskill-learning-self-evolving-skills-coding-agents.md)
 - [Agent Skills for Large Language Models: Architecture, Acquisition, Security, and the Path Forward](llm-agents-dev/tool-use/2026-06-11-agent-skills-llm-architecture-acquisition-security.md)
