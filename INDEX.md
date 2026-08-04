@@ -471,6 +471,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 
 - [Interpretability Can Be Actionable: Shifting Evaluation Criteria in Explainable AI Research](xai/actionable-interpretability/2026-05-11-interpretability-can-be-actionable.md)
 - [Anatomy of Post-Training: Using Interpretability to Characterize Data and Shape the Learning Signal](xai/actionable-interpretability/2026-06-11-anatomy-post-training-interpretability-learning-signal.md)
+- [From Plausible to Actionable: A Position on LLM Self-Explanations](xai/actionable-interpretability/2026-07-23-plausible-actionable-llm-self-explanations.md)
 
 ### Agentic Interpretability
 
