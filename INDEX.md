@@ -112,6 +112,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [DeepCode: Open Agentic Coding](llm-agents-dev/agent-orchestration/2025-12-08-deepcode-open-agentic-coding.md)
 - [The Orchestration of Multi-Agent Systems: Architectures, Protocols, and Enterprise Adoption](llm-agents-dev/agent-orchestration/2026-01-20-orchestration-multi-agent-systems-architectures.md)
 - [ABSTRAL: Automated Multi-Agent System Design via Skill-Referenced Adaptive Search](llm-agents-dev/agent-orchestration/2026-03-24-abstral-automated-multi-agent-system-design.md)
+- [From Intent to Execution: Composing Agentic Workflows with Agent Recommendation](llm-agents-dev/agent-orchestration/2026-05-05-from-intent-to-execution-composing-agentic-workflows.md)
 - [AgentForge: Execution-Grounded Multi-Agent LLM Framework for Autonomous Software Engineering](llm-agents-dev/agent-orchestration/2026-04-06-agentforge-execution-grounded-multi-agent-framework.md)
 - [EvoAgent: An Evolvable Agent Framework with Skill Learning and Multi-Agent Delegation](llm-agents-dev/agent-orchestration/2026-04-22-evoagent-evolvable-agent-framework-skill-learning.md)
 - [Reinforcement Learning for LLM-based Multi-Agent Systems through Orchestration Traces](llm-agents-dev/agent-orchestration/2026-05-04-reinforcement-learning-multi-agent-orchestration-traces.md)
@@ -177,6 +178,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 
 - [ReaComp: Compiling LLM Reasoning into Symbolic Solvers for Efficient Program Synthesis](llm-agents-dev/program-synthesis/2026-05-05-reacomp-llm-reasoning-symbolic-solvers-program-synthesis.md)
 - [A-ProS: Towards Reliable Autonomous Programming Through Multi-Model Feedback](llm-agents-dev/program-synthesis/2026-05-18-apros-reliable-autonomous-programming-multi-model-feedback.md)
+- [Property-Guided LLM Program Synthesis for Planning](llm-agents-dev/program-synthesis/2026-05-15-property-guided-llm-program-synthesis-planning.md)
 - [QualityFlow: An Agentic Workflow for Program Synthesis Controlled by LLM Quality Checks](llm-agents-dev/program-synthesis/2026-05-27-qualityflow-agentic-workflow-program-synthesis.md)
 - [Structured Program Synthesis using LLMs: Results and Insights from the IPARC Challenge](llm-agents-dev/program-synthesis/2026-06-15-structured-program-synthesis-llm-iparc.md)
 
@@ -230,6 +232,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [AutoTool: Dynamic Tool Selection and Integration for Agentic Reasoning](llm-agents-dev/tool-use/2026-05-27-autotool-dynamic-tool-selection-agentic-reasoning.md)
 - [Trace2Skill: Distill Trajectory-Local Lessons into Transferable Agent Skills](llm-agents-dev/tool-use/2026-03-26-trace2skill-distill-trajectory-lessons.md)
 - [CODESKILL: Learning Self-Evolving Skills for Coding Agents](llm-agents-dev/tool-use/2026-05-25-codeskill-learning-self-evolving-skills-coding-agents.md)
+- [ToolSelf: Unifying Task Execution and Self-Reconfiguration via Tool-Driven Emergent Adaptation](llm-agents-dev/skill-based-agents/2026-02-02-toolself-task-execution-self-reconfiguration-tool-driven.md)
 - [Agent Skills for Large Language Models: Architecture, Acquisition, Security, and the Path Forward](llm-agents-dev/tool-use/2026-06-11-agent-skills-llm-architecture-acquisition-security.md)
 - [SkillCAT: Contrastive Assessment and Topology-Aware Skill Self-Evolution for LLM Agents](llm-agents-dev/tool-use/2026-06-11-skillcat-skill-self-evolution-topology-aware.md)
 - [State-Grounded Multi-Agent Synthetic Data Generation for Tool-Augmented LLMs](llm-agents-dev/tool-use/2026-06-16-state-grounded-synthetic-data-tool-augmented-llms.md)
