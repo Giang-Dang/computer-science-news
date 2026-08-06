@@ -151,6 +151,8 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [LLM-Based Agentic Systems for Software Engineering: Challenges and Opportunities](llm-agents-dev/agent-orchestration/2026-01-14-llm-based-agentic-systems-software-engineering-challenges-opportunities.md)
 - [Agentic Design Patterns: A System-Theoretic Framework](llm-agents-dev/agent-orchestration/2026-01-27-agentic-design-patterns-system-theoretic-framework.md)
 - [Optimizing Agentic Workflows using Meta-tools](llm-agents-dev/agent-orchestration/2026-01-29-optimizing-agentic-workflows-meta-tools.md)
+- [AOrchestra: Automating Sub-Agent Creation for Agentic Orchestration](llm-agents-dev/agent-orchestration/2026-02-03-aorchestra-automating-sub-agent-creation.md)
+- [Building Effective AI Coding Agents for the Terminal: Scaffolding, Harness, Context Engineering, and Lessons Learned](llm-agents-dev/agent-orchestration/2026-03-05-building-effective-ai-coding-agents-terminal.md)
 - [Multi-Agent Collaboration via Evolving Orchestration](llm-agents-dev/agent-orchestration/2026-05-26-multi-agent-collaboration-evolving-orchestration.md)
 - [Policy and World Modeling Co-Training for Language Agents](llm-agents-dev/agent-orchestration/2026-06-01-policy-world-modeling-co-training-language-agents.md)
 - [Retrieval-Conditioned Topology Selection with Provable Budget Conservation for Multi-Agent Code Generation](llm-agents-dev/agent-orchestration/2026-06-18-retrieval-conditioned-topology-selection-multi-agent-code.md)
@@ -167,6 +169,10 @@ A navigable index of paper summaries in this repository, organized by topic.
 
 - [CodeARC: Benchmarking Reasoning Capabilities of LLM Agents for Inductive Program Synthesis](llm-agents-dev/code-reasoning/2025-03-23-codearc-inductive-program-synthesis.md)
 - [From Laboratory to Real-World Applications: Benchmarking Agentic Code Reasoning at the Repository Level](llm-agents-dev/code-reasoning/2026-05-03-repo-reason-repository-level-code-reasoning.md)
+
+### Planning & Reasoning
+
+- [DOVA: Deliberation-First Multi-Agent Orchestration for Autonomous Research Automation](llm-agents-dev/planning-reasoning/2026-03-04-dova-deliberation-first-multi-agent-orchestration.md)
 
 ### Multi Agent Topologies
 
