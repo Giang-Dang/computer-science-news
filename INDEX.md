@@ -269,6 +269,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 
 ### Skill Based Agents
 
+- [ContinualSkillBench: Can LLM Agents Truly Evolve Their Capabilities?](llm-agents-dev/skill-based-agents/2026-08-04-continualskillbench-llm-agents-evolve-capabilities.md)
 - [MIND-Skill: Quality-Guaranteed Skill Generation via Multi-Agent Induction and Deduction](llm-agents-dev/skill-based-agents/2026-05-26-mind-skill-quality-guaranteed-generation.md)
 - [SkillAxe: Sharpening LLM-Authored Agent Skills Through Evaluation-Guided Self-Refinement](llm-agents-dev/skill-based-agents/2026-06-10-skillaxe-evaluation-guided-agent-skills.md)
 - [EffiSkill: Agent Skill Based Automated Code Efficiency Optimization](llm-agents-dev/skill-based-agents/2026-06-18-effiskill-agent-skill-code-efficiency-optimization.md)
@@ -280,6 +281,8 @@ A navigable index of paper summaries in this repository, organized by topic.
 
 ## Machine Learning
 
+- [Why Large Language Models Fail at Tabular Prediction](machine-learning/2026-08-03-why-large-language-models-fail-tabular-prediction.md)
+- [Deep Reinforcement Learning: From First Principles to Reasoning Models](machine-learning/2026-08-03-deep-reinforcement-learning-first-principles-reasoning-models.md)
 - [Neuro-Relational Programs: Unifying Queries and Neural Computation over Structured Data](machine-learning/2026-06-21-neuro-relational-programs-neural-structured-data.md)
 - [Reversal Q-Learning: Off-Policy RL via Flow Matching and Virtual Trajectory Generation](machine-learning/2026-06-16-reversal-q-learning.md)
 - [Protein Dynamics Beyond Structure Prediction](machine-learning/2026-06-08-protein-dynamics-beyond-structure-prediction.md)
