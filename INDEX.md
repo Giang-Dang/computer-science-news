@@ -162,6 +162,9 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [Agents in the Wild: Where Research Meets Deployment](llm-agents-dev/agent-orchestration/2026-07-19-agents-in-wild-research-meets-deployment.md)
 - [Difficulty-Aware Agentic Orchestration for Query-Specific Multi-Agent Workflows](llm-agents-dev/agent-orchestration/2026-09-11-difficulty-aware-agentic-orchestration-query-workflows.md)
 - [AAFLOW: Scalable Patterns for Agentic AI Workflows](llm-agents-dev/agent-orchestration/2026-05-04-aaflow-scalable-patterns-agentic-workflows.md)
+- [A Formal Hierarchical Architecture for Agentic Orchestration with Stack-Based Execution and Lazy Discovery](llm-agents-dev/agent-orchestration/2026-07-13-formal-hierarchical-architecture-agentic-orchestration.md)
+- [Autonomous Event-Driven Multi-Agent Orchestration for Enterprise AI at Scale](llm-agents-dev/agent-orchestration/2026-06-18-autonomous-event-driven-multi-agent-orchestration-enterprise-scale.md)
+- [Progressive Crystallization: Turning Agent Exploration into Deterministic, Lower-Cost Workflows in Production](llm-agents-dev/agent-orchestration/2026-07-09-progressive-crystallization-agent-workflows-production.md)
 
 ### Code Reasoning
 
