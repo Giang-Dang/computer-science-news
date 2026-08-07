@@ -79,7 +79,9 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [From Pixels to Words: Towards Native One-Vision Models at Scale](computer-vision/2026-05-27-from-pixels-to-words-native-one-vision-models.md)
 - [MetaPoint: Unlocking Precise Spatial Control in Agentic Visual Generation](computer-vision/2026-06-03-metapoint-spatial-control-agentic-visual-generation.md)
 - [Watch, Remember, Reason: Human-View Video Understanding with MLLMs](computer-vision/2026-06-05-watch-remember-reason-video-understanding-mlms.md)
+- [Visuals Lie, Consistency Speaks: Disentangling Spatial Attention from Reliability in Vision-Language Models](computer-vision/2026-06-16-visuals-lie-consistency-speaks-vision-language-models.md)
 - [Stream3D-VLM: Online 3D Spatial Understanding with Incremental Geometry Priors](computer-vision/2026-06-17-stream3d-vlm-online-3d-spatial-understanding.md)
+- [Extraction and Analysis of Multimodal Concepts in Vision Language Models through Sparse Autoencoders](computer-vision/2026-06-19-extraction-analysis-multimodal-concepts-vision-language-models-sparse-autoencoders.md)
 - [Wan-Streamer v0.1: End-to-end Real-time Interactive Foundation Models](computer-vision/2026-06-23-wan-streamer-interactive-foundation-models.md)
 - [OrbitForge: Text-to-3D Scene Generation via Reconstruction-Anchored Video Synthesis](computer-vision/2026-06-23-orbitforge-3d-scene-generation-video-synthesis.md)
 - [GeoT2V-Bench: Benchmarking 3D Consistency in Text-to-Video Models via 3D Reconstruction](computer-vision/2026-06-24-geot2v-bench-3d-consistency-video-generation.md)
@@ -427,6 +429,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [Nemotron-Labs-Diffusion: A Tri-Mode Language Model Unifying Autoregressive, Diffusion, and Self-Speculation Decoding](natural-language-processing/2026-07-07-nemotron-labs-diffusion-tri-mode-language-model.md)
 - [Understanding Large Language Models](natural-language-processing/2026-07-01-understanding-large-language-models.md)
 - [Benchmarking Multimodal Large Language Models for Scientific Visualization Literacy](natural-language-processing/2026-07-16-benchmarking-multimodal-llms-scientific-visualization.md)
+- [Attention is Case-Sensitive](natural-language-processing/2026-08-04-attention-is-case-sensitive.md)
 
 ## Robotics
 
