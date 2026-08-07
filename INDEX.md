@@ -508,6 +508,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 
 - [Analyzing Fairness of Neural Network Prediction via Counterfactual Dataset Generation](xai/fairness-interpretability/2026-02-11-fairness-counterfactual-dataset-generation.md)
 - [Toward Fair Speech Technologies: A Comprehensive Survey of Bias and Fairness in Speech AI](xai/fairness-interpretability/2026-05-02-fair-speech-technologies-comprehensive-survey.md)
+- [Fairness of Explanations in Artificial Intelligence: A Unifying Framework, Axioms, and Future Direction toward Responsible AI](xai/fairness-interpretability/2026-05-11-fairness-of-explanations-unifying-framework-axioms.md)
 - [Robustly Improving LLM Fairness in Realistic Settings via Interpretability](xai/fairness-interpretability/2026-06-10-robustly-improving-llm-fairness-via-interpretability.md)
 - [Detecting and Mitigating Bias by Treating Fairness as a Symmetry Operation](xai/fairness-interpretability/2026-06-02-fairness-as-symmetry-operation-bias-detection.md)
 
