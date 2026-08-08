@@ -373,6 +373,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [On Transformer Dynamics](machine-learning/2026-07-22-transformer-dynamics-manifold-geometry.md)
 - [Flow-Map GRPO: Reinforcement Learning for Few-Step Flow-Map Generators via Anchored Stochastic Composition](machine-learning/2026-07-01-flow-map-grpo-reinforcement-learning-few-step-flow-generators.md)
 - [A Controlled Study of Attention-Only Transformers](machine-learning/2026-07-20-controlled-study-attention-only-transformers.md)
+- [Why Large Language Models Fail at Tabular Prediction](machine-learning/2026-08-03-why-llms-fail-tabular-prediction.md)
 
 ## Natural Language Processing
 
@@ -427,6 +428,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [Nemotron-Labs-Diffusion: A Tri-Mode Language Model Unifying Autoregressive, Diffusion, and Self-Speculation Decoding](natural-language-processing/2026-07-07-nemotron-labs-diffusion-tri-mode-language-model.md)
 - [Understanding Large Language Models](natural-language-processing/2026-07-01-understanding-large-language-models.md)
 - [Benchmarking Multimodal Large Language Models for Scientific Visualization Literacy](natural-language-processing/2026-07-16-benchmarking-multimodal-llms-scientific-visualization.md)
+- [Reasoning Errors Have a Region and a Direction in the Residual-Stream Trajectory of LLMs](natural-language-processing/2026-08-06-reasoning-errors-residual-stream-trajectory.md)
 
 ## Robotics
 
@@ -438,6 +440,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [Kairos: A Native World Model Stack for Physical AI](robotics/2026-06-15-kairos-native-world-model-stack-physical-ai.md)
 - [RoboVista: Evaluating Vision Language Models for Diverse Robot Applications](robotics/2026-07-06-robovista-evaluating-vision-language-models-robot-applications.md)
 - [Robotic Control via Embodied Chain-of-Thought Reasoning](robotics/2026-07-11-robotic-control-embodied-chain-of-thought.md)
+- [Ego2Robot: Scalable Robot Data Synthesis from Egocentric Human Data](robotics/2026-08-05-ego2robot-scalable-data-synthesis.md)
 
 ## Systems
 
