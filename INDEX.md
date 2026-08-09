@@ -541,6 +541,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [Explainable AI for Blind and Low-Vision Users: Navigating Trust, Modality, and Interpretability in the Agentic Era](xai/human-centered-explainability/2026-04-02-explainable-ai-blind-low-vision-users.md)
 - [Assessing Model-Agnostic XAI Methods against EU AI Act Explainability Requirements](xai/human-centered-explainability/2026-04-18-xai-methods-eu-ai-act-requirements.md)
 - [Understanding Annotator Safety Policy with Interpretability](xai/human-centered-explainability/2026-05-06-understanding-annotator-safety-policy-interpretability.md)
+- [Capability ≠ Interpretability: Human Interpretability of Vision Foundation Models](xai/human-centered-explainability/2026-05-19-capability-interpretability-vision-foundation-models.md)
 - [Explainable AI Isn't Enough! Rethinking Algorithmic Contestability](xai/human-centered-explainability/2026-05-15-algorithmic-contestability-xai-beyond-recourse.md)
 - [VirtualXAI: A User-Centric Framework for Explainability Assessment Leveraging GPT-Generated Personas](xai/human-centered-explainability/2025-03-06-virtualxai-user-centric-explainability-assessment.md)
 - [Transparent AI: The Case for Interpretability and Explainability](xai/human-centered-explainability/2025-07-31-transparent-ai-practical-interpretability-implementation.md)
