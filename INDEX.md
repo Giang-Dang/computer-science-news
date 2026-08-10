@@ -158,6 +158,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [Design and Implementation of Agentic Orchestrations and Orchestration of Agents](llm-agents-dev/agent-orchestration/2026-06-30-design-implementation-agentic-orchestrations-process-technology.md)
 - [Next-Generation Agentic Reinforcement Learning Systems Enable Self-Evolving Agents](llm-agents-dev/agent-orchestration/2026-07-01-next-generation-agentic-reinforcement-learning-systems-self-evolving-agents.md)
 - [Agent Reinforcement Learning via Pivotal-Aware Self-Feedback Retry](llm-agents-dev/agent-orchestration/2026-07-04-agent-reinforcement-learning-pivotal-aware-self-feedback.md)
+- [DREAM: LLM-based Dynamic Role-playing via Event-Aware Memory Graph](llm-agents-dev/agent-orchestration/2026-08-09-dream-llm-dynamic-role-playing-event-aware-memory.md)
 - [AgentScope 1.0: A Developer-Centric Framework for Building Agentic Applications](llm-agents-dev/agent-orchestration/2026-08-25-agentscope-1-0-developer-centric-agentic-framework.md)
 - [Agents in the Wild: Where Research Meets Deployment](llm-agents-dev/agent-orchestration/2026-07-19-agents-in-wild-research-meets-deployment.md)
 - [Difficulty-Aware Agentic Orchestration for Query-Specific Multi-Agent Workflows](llm-agents-dev/agent-orchestration/2026-09-11-difficulty-aware-agentic-orchestration-query-workflows.md)
@@ -373,6 +374,8 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [On Transformer Dynamics](machine-learning/2026-07-22-transformer-dynamics-manifold-geometry.md)
 - [Flow-Map GRPO: Reinforcement Learning for Few-Step Flow-Map Generators via Anchored Stochastic Composition](machine-learning/2026-07-01-flow-map-grpo-reinforcement-learning-few-step-flow-generators.md)
 - [A Controlled Study of Attention-Only Transformers](machine-learning/2026-07-20-controlled-study-attention-only-transformers.md)
+- [Toward Plasticity-Preserving KL Regularization for Capability Retention in LLM Reinforcement Learning](machine-learning/2026-08-03-plasticity-preserving-kl-regularization-llm-reinforcement-learning.md)
+- [Agentic Reinforcement Learning with Self-Distilled Reward Shaping](machine-learning/2026-08-04-agentic-rl-self-distilled-reward-shaping.md)
 
 ## Natural Language Processing
 
