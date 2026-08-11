@@ -161,6 +161,9 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [AgentScope 1.0: A Developer-Centric Framework for Building Agentic Applications](llm-agents-dev/agent-orchestration/2026-08-25-agentscope-1-0-developer-centric-agentic-framework.md)
 - [Agents in the Wild: Where Research Meets Deployment](llm-agents-dev/agent-orchestration/2026-07-19-agents-in-wild-research-meets-deployment.md)
 - [Difficulty-Aware Agentic Orchestration for Query-Specific Multi-Agent Workflows](llm-agents-dev/agent-orchestration/2026-09-11-difficulty-aware-agentic-orchestration-query-workflows.md)
+- [ADIAS: Automated Design of Interactive Agentic Systems](llm-agents-dev/agent-orchestration/2026-08-03-adias-automated-design-interactive-agentic-systems.md)
+- [Inducing Reasoning Primitives from Agent Traces](llm-agents-dev/agent-orchestration/2026-06-04-inducing-reasoning-primitives-agent-traces.md)
+- [Agent Memory: Characterization and System Implications of Stateful Long-Horizon Workloads](llm-agents-dev/agent-orchestration/2026-06-04-agent-memory-characterization-long-horizon-workloads.md)
 - [AAFLOW: Scalable Patterns for Agentic AI Workflows](llm-agents-dev/agent-orchestration/2026-05-04-aaflow-scalable-patterns-agentic-workflows.md)
 
 ### Code Reasoning
