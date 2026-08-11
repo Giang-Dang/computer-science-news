@@ -30,6 +30,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 
 ## Computer Vision
 
+- [Where Does Vision Meet Language? Understanding and Refining Visual Fusion in MLLMs via Contrastive Attention](computer-vision/2026-08-11-where-vision-meets-language-mllm-fusion-attention.md)
 - [Vision Pretraining for Dense Spatial Perception](computer-vision/2026-07-06-vision-pretraining-dense-spatial-perception-lingbot.md)
 - [NTIRE 2026 Challenge on Video Saliency Prediction: Methods and Results](computer-vision/2026-04-28-ntire-2026-video-saliency-prediction-challenge.md)
 - [DynaTok: Token-Based 4D Reconstruction from Partial Point Clouds](computer-vision/2026-06-06-dynatoks-token-based-4d-reconstruction.md)
@@ -280,6 +281,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 
 ## Machine Learning
 
+- [OneDayAgent: Towards a Long-Horizon Harness for Autonomous Agents](machine-learning/2026-08-11-onedayagent-long-horizon-autonomous-agents.md)
 - [Neuro-Relational Programs: Unifying Queries and Neural Computation over Structured Data](machine-learning/2026-06-21-neuro-relational-programs-neural-structured-data.md)
 - [Reversal Q-Learning: Off-Policy RL via Flow Matching and Virtual Trajectory Generation](machine-learning/2026-06-16-reversal-q-learning.md)
 - [Protein Dynamics Beyond Structure Prediction](machine-learning/2026-06-08-protein-dynamics-beyond-structure-prediction.md)
@@ -376,6 +378,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 
 ## Natural Language Processing
 
+- [LaViDa: A Large Diffusion Language Model for Multimodal Understanding](natural-language-processing/2026-08-11-lavida-diffusion-language-model-multimodal.md)
 - [Scaling Laws Under the Microscope: Predicting Transformer Performance from Small Scale Experiments](natural-language-processing/2026-02-22-scaling-laws-under-microscope-predicting-transformer-performance.md)
 - [A Path to Natural Language Through Tokenisation and Transformers](natural-language-processing/2026-01-06-a-path-natural-language-tokenisation-transformers.md)
 - [Brain-Guided Language Models for Robust Reasoning](natural-language-processing/2026-06-10-brain-guided-language-models-robust-reasoning.md)
