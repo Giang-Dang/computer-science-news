@@ -529,6 +529,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [Faithfulness Metrics Don't Measure Faithfulness: A Meta-Evaluation with Ground Truth](xai/feature-attribution/2026-05-24-faithfulness-metrics-dont-measure-faithfulness.md)
 - [Feature Attribution from First Principles](xai/feature-attribution/2025-05-30-feature-attribution-first-principles.md)
 - [Feature-Function Curvature Analysis: A Geometric Framework for Explaining Differentiable Models](xai/feature-attribution/2025-10-31-feature-function-curvature-analysis-geometric-framework.md)
+- [Saliency-R1: Enforcing Interpretable and Faithful Vision-language Reasoning via Saliency-map Alignment Reward](xai/feature-attribution/2026-04-06-saliency-r1-vision-language-reasoning.md)
 
 ### Human Centered Explainability
 
