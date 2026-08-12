@@ -162,6 +162,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [Agents in the Wild: Where Research Meets Deployment](llm-agents-dev/agent-orchestration/2026-07-19-agents-in-wild-research-meets-deployment.md)
 - [Difficulty-Aware Agentic Orchestration for Query-Specific Multi-Agent Workflows](llm-agents-dev/agent-orchestration/2026-09-11-difficulty-aware-agentic-orchestration-query-workflows.md)
 - [AAFLOW: Scalable Patterns for Agentic AI Workflows](llm-agents-dev/agent-orchestration/2026-05-04-aaflow-scalable-patterns-agentic-workflows.md)
+- [Planner Matters! An Efficient and Unbalanced Multi-agent Collaboration Framework for Long-horizon Planning](llm-agents-dev/agent-orchestration/2026-05-04-planner-matters-long-horizon-multi-agent-planning.md)
 
 ### Code Reasoning
 
@@ -206,6 +207,8 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [Constraint Decay: The Fragility of LLM Agents in Backend Code Generation](llm-agents-dev/code-generation/2026-05-06-constraint-decay-fragility-backend-code-generation.md)
 - [SEW: Self-Evolving Agentic Workflows for Automated Code Generation](llm-agents-dev/code-generation/2025-05-18-sew-self-evolving-agentic-workflows.md)
 - [Think Anywhere in Code Generation: Interleaved Reasoning for Adaptive LLM Problem-Solving](llm-agents-dev/code-generation/2026-03-26-think-anywhere-interleaved-reasoning-code-generation.md)
+- [HDLFORGE: A Two-Stage Multi-Agent Framework for Efficient Verilog Code Generation with Adaptive Model Escalation](llm-agents-dev/code-generation/2026-03-04-hdlforge-multi-agent-verilog-code-generation.md)
+- [Execution Guided Line-by-Line Code Generation: Incorporating Real-Time Execution Signals into Neural Code Generation](llm-agents-dev/code-generation/2026-06-10-execution-guided-line-by-line-code-generation.md)
 
 ### Software Development
 
