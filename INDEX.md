@@ -113,6 +113,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 
 ### Agent Orchestration
 
+- [Beyond Self-Talk: A Communication-Centric Survey of LLM-Based Multi-Agent Systems](llm-agents-dev/agent-orchestration/2026-02-12-beyond-self-talk-communication-centric-multi-agent-systems.md)
 - [SAGE-32B: Agentic Reasoning via Iterative Distillation](llm-agents-dev/agent-orchestration/2026-01-04-sage-32b-agentic-reasoning-iterative-distillation.md)
 - [Efficient Agentic Reasoning Through Self-Regulated Simulative Planning](llm-agents-dev/agent-orchestration/2026-05-22-efficient-agentic-reasoning-self-regulated-planning.md)
 - [AI Harness Engineering: A Runtime Substrate for Foundation-Model Software Agents](llm-agents-dev/agent-orchestration/2026-05-13-ai-harness-engineering-runtime-substrate.md)
@@ -146,6 +147,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [Harness-MU: A Safe, Governed, and Effective Harness for Multi-User LLM Agents](llm-agents-dev/agent-orchestration/2026-06-20-harness-mu-safe-multi-user-llm-agents.md)
 - [AgentJet: A Flexible Swarm Training Framework for Agentic Reinforcement Learning](llm-agents-dev/agent-orchestration/2026-06-26-agentjet-swarm-training-reinforcement-learning.md)
 - [A Deterministic Control Plane for LLM Coding Agents](llm-agents-dev/agent-orchestration/2026-06-26-deterministic-control-plane-llm-coding-agents.md)
+- [A Formal Hierarchical Architecture for Agentic Orchestration with Stack-Based Execution and Lazy Discovery](llm-agents-dev/agent-orchestration/2026-07-13-formal-hierarchical-architecture-agentic-orchestration.md)
 - [Prometheus: Repository-Level Codebase Reasoning and Multilingual Code Intelligence](llm-agents-dev/agent-orchestration/2025-07-26-prometheus-repository-level-codebase-reasoning.md)
 - [Multi-Agent LLM Orchestration Achieves Deterministic, High-Quality Decision Support for Incident Response](llm-agents-dev/agent-orchestration/2026-01-07-multi-agent-llm-orchestration-deterministic-incident-response.md)
 - [LLM-Based Agentic Systems for Software Engineering: Challenges and Opportunities](llm-agents-dev/agent-orchestration/2026-01-14-llm-based-agentic-systems-software-engineering-challenges-opportunities.md)
@@ -188,6 +190,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [Understanding Multi-Agent LLM Frameworks: A Unified Benchmark and Experimental Analysis](llm-agents-dev/multi-agent-topologies/2026-06-15-understanding-multi-agent-llm-frameworks-benchmark.md)
 - [LLM Consortium for Software Design Refinement: A Controlled Experiment on Multi-Agent Collaboration Topologies](llm-agents-dev/multi-agent-topologies/2026-06-01-llm-consortium-software-design-collaboration-topologies.md)
 - [AgensFlow: A Coordination-Policy Substrate for Multi-Agent Systems](llm-agents-dev/multi-agent-topologies/2026-05-26-agensflow-coordination-policy-multi-agent.md)
+- [MANTA: Multi-Agent Network Topology Adaptation for Self-Evolving Multi-Agent Systems](llm-agents-dev/multi-agent-topologies/2026-07-30-manta-multi-agent-network-topology-adaptation.md)
 
 ### Program Synthesis
 
