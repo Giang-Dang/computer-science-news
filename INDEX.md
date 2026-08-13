@@ -511,6 +511,10 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [Robustly Improving LLM Fairness in Realistic Settings via Interpretability](xai/fairness-interpretability/2026-06-10-robustly-improving-llm-fairness-via-interpretability.md)
 - [Detecting and Mitigating Bias by Treating Fairness as a Symmetry Operation](xai/fairness-interpretability/2026-06-02-fairness-as-symmetry-operation-bias-detection.md)
 
+### XAI Foundations
+
+- [Position: Explainability Research Must Prioritize Foundations over Ad-hoc Methods](xai/xai-foundations/2026-08-13-explainability-foundations-position-paper.md)
+
 ### Feature Attribution
 
 - [Towards Unified Attribution in Explainable AI, Data-Centric AI, and Mechanistic Interpretability](xai/feature-attribution/2025-01-31-towards-unified-attribution-xai-dcai-mi.md)
