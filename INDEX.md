@@ -27,6 +27,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [Internalizing the Future: A Unified Agentic Training Paradigm for World Model Planning](artificial-intelligence/2026-06-25-internalizing-future-unified-agentic-training-paradigm-world-model-planning.md)
 - [Self-Evolving World Models for LLM Agent Planning](artificial-intelligence/2026-06-29-self-evolving-world-models-llm-agent-planning.md)
 - [Multi-Agent AI Control: Distributed Attacks Hamper Per-Instance Monitors](artificial-intelligence/2026-07-08-multi-agent-ai-control-distributed-attacks.md)
+- [OneDayAgent: Towards a Long-Horizon Harness for Autonomous Agents](artificial-intelligence/2026-08-05-onedayagent-long-horizon-harness-autonomous-agents.md)
 
 ## Computer Vision
 
@@ -35,6 +36,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [DynaTok: Token-Based 4D Reconstruction from Partial Point Clouds](computer-vision/2026-06-06-dynatoks-token-based-4d-reconstruction.md)
 - [Making Time Editable in Video Diffusion Transformers: Temporal Control without Architectural Redesign](computer-vision/2026-06-08-making-time-editable-video-diffusion-transformers.md)
 - [HAViT: Historical Attention Vision Transformer](computer-vision/2026-03-19-havit-historical-attention-vision-transformer.md)
+- [MambaHash: Visual State Space Deep Hashing Model for Large-Scale Image Retrieval](computer-vision/2026-06-19-mambahash-visual-state-space-deep-hashing.md)
 - [Video Analysis and Generation via a Semantic Progress Function](computer-vision/2026-04-24-video-analysis-generation-semantic-progress-function.md)
 - [UniCanvas: A Diffusion-based Unified Model for Text-in-Image Joint Generation](computer-vision/2026-06-02-unicanvas-unified-text-in-image-generation.md)
 - [YOLOv12: Attention-Centric Real-Time Object Detectors](computer-vision/2025-02-18-yolov12-attention-centric-object-detectors.md)
@@ -289,6 +291,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [Representation Learning Enables Scalable Multitask Deep Reinforcement Learning](machine-learning/2026-06-04-representation-learning-multitask-deep-rl.md)
 - [Agentic Monte Carlo: Simulating Reinforcement Learning for Black-Box Agents](machine-learning/2026-06-03-agentic-monte-carlo-black-box-agents-rl.md)
 - [Rethinking Agentic Reinforcement Learning In Large Language Models](machine-learning/2026-04-30-agentic-reinforcement-learning-llms.md)
+- [Emergence Transformer: Dynamical Temporal Attention Matters](machine-learning/2026-04-18-emergence-transformer-dynamical-temporal-attention.md)
 - [Harness-1: Reinforcement Learning for Search Agents with State-Externalizing Harnesses](machine-learning/2026-06-02-harness-1-rl-search-agents-state-externalizing.md)
 - [Unleash Graph Neural Networks from Heavy Tuning: GNN-Diff Framework](machine-learning/2024-05-13-gnn-diff-unleash-graph-neural-networks.md)
 - [Coding Agents with Multimodal Browsing are Generalist Problem Solvers](machine-learning/2025-06-03-openhands-versa-coding-agents-multimodal-browsing.md)
