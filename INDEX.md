@@ -549,6 +549,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 ### Inherently Interpretable Models
 
 - [A Comparative Analysis of Interpretable Machine Learning Methods](xai/inherently-interpretable-models/2026-01-01-comparative-analysis-interpretable-ml-methods.md)
+- [EviNAM: Intelligibility and Uncertainty via Evidential Neural Additive Models](xai/inherently-interpretable-models/2026-01-14-evinam-intelligibility-uncertainty-neural-additive-models.md)
 - [Towards Intrinsic Interpretability of Large Language Models: A Survey of Design Principles and Architectures](xai/inherently-interpretable-models/2026-04-17-intrinsic-interpretability-llm-survey.md)
 
 ### Mechanistic Interpretability
