@@ -168,6 +168,10 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [CodeARC: Benchmarking Reasoning Capabilities of LLM Agents for Inductive Program Synthesis](llm-agents-dev/code-reasoning/2025-03-23-codearc-inductive-program-synthesis.md)
 - [From Laboratory to Real-World Applications: Benchmarking Agentic Code Reasoning at the Repository Level](llm-agents-dev/code-reasoning/2026-05-03-repo-reason-repository-level-code-reasoning.md)
 
+### Planning & Reasoning
+
+- [Agent Planning Benchmark: A Diagnostic Framework for Planning Capabilities in LLM Agents](llm-agents-dev/planning-reasoning/2026-06-05-agent-planning-benchmark-diagnostic-framework.md)
+
 ### Multi Agent Topologies
 
 - [PerfOrch: Multi-LLM Orchestration for High-Quality Code Generation](llm-agents-dev/agent-orchestration/2026-05-28-perfororch-multi-llm-orchestration-code-generation.md)
@@ -198,9 +202,11 @@ A navigable index of paper summaries in this repository, organized by topic.
 
 ### Code Generation
 
+- [Agentic Requirement Compilation: Test-Driven Multi-Agent Development from Large Multi-Modal Specifications](llm-agents-dev/code-generation/2026-02-13-agentic-requirement-compilation-test-driven.md)
 - [Semantic Caching and Intent-Driven Context Optimization for Multi-Agent Natural Language to Code Systems](llm-agents-dev/code-generation/2026-01-16-semantic-caching-intent-driven-multi-agent-nlcode.md)
 - [Code to Think, Think to Code: A Survey on Code-Enhanced Reasoning and Reasoning-Driven Code Intelligence in LLMs](llm-agents-dev/code-generation/2025-02-26-code-to-think-think-to-code-survey-reasoning-code-intelligence.md)
 - [AI Agentic Programming: A Survey of Techniques, Challenges, and Opportunities](llm-agents-dev/code-generation/2025-08-15-ai-agentic-programming-survey-techniques-opportunities.md)
+- [HDLFORGE: A Two-Stage Multi-Agent Framework for Efficient Verilog Code Generation with Adaptive Model Escalation](llm-agents-dev/code-generation/2026-03-04-hdlforge-two-stage-verilog-generation.md)
 - [CODESIM: Multi-Agent Code Generation and Problem Solving through Simulation-Driven Planning and Debugging](llm-agents-dev/code-generation/2026-06-25-codesim-multi-agent-simulation-driven-planning-debugging.md)
 - [Understanding and Bridging the Planner-Coder Gap: A Systematic Study on the Robustness of Multi-Agent Systems for Code Generation](llm-agents-dev/code-generation/2026-06-16-planner-coder-gap-robust-multi-agent-code.md)
 - [Constraint Decay: The Fragility of LLM Agents in Backend Code Generation](llm-agents-dev/code-generation/2026-05-06-constraint-decay-fragility-backend-code-generation.md)
