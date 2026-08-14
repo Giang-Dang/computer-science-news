@@ -30,6 +30,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 
 ## Computer Vision
 
+- [SpatioLM: Towards General Physical Spatial Intelligence in Vision-Language Models](computer-vision/2026-08-03-spatiolm-spatial-intelligence-vision-language-models.md)
 - [Vision Pretraining for Dense Spatial Perception](computer-vision/2026-07-06-vision-pretraining-dense-spatial-perception-lingbot.md)
 - [NTIRE 2026 Challenge on Video Saliency Prediction: Methods and Results](computer-vision/2026-04-28-ntire-2026-video-saliency-prediction-challenge.md)
 - [DynaTok: Token-Based 4D Reconstruction from Partial Point Clouds](computer-vision/2026-06-06-dynatoks-token-based-4d-reconstruction.md)
@@ -280,6 +281,8 @@ A navigable index of paper summaries in this repository, organized by topic.
 
 ## Machine Learning
 
+- [EEG-PRIME: Prototype-Aligned Representation Learning with Multi-Level Conditioning for EEG Decoding](machine-learning/2026-08-12-eeg-prime-prototype-aligned-representation-eeg-decoding.md)
+- [Advancing Relevance Measurement with Vision-Language Models for Web-Scale Search](machine-learning/2026-08-03-advancing-relevance-measurement-vision-language-models-web-search.md)
 - [Neuro-Relational Programs: Unifying Queries and Neural Computation over Structured Data](machine-learning/2026-06-21-neuro-relational-programs-neural-structured-data.md)
 - [Reversal Q-Learning: Off-Policy RL via Flow Matching and Virtual Trajectory Generation](machine-learning/2026-06-16-reversal-q-learning.md)
 - [Protein Dynamics Beyond Structure Prediction](machine-learning/2026-06-08-protein-dynamics-beyond-structure-prediction.md)
