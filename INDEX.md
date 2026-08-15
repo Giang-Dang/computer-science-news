@@ -564,7 +564,6 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [Faithful and Stable Neuron Explanations for Trustworthy Mechanistic Interpretability](xai/mechanistic-interpretability/2025-12-19-faithful-stable-neuron-explanations-trustworthy-mi.md)
 - [Interpreting Transformers Through Attention Head Intervention](xai/mechanistic-interpretability/2026-01-07-interpreting-transformers-attention-head-intervention.md)
 - [Mechanistic Data Attribution: Tracing the Training Origins of Interpretable LLM Units](xai/mechanistic-interpretability/2026-01-29-mechanistic-data-attribution-training-origins.md)
-- [Discovering Interpretable Algorithms by Decompiling Transformers to RASP](xai/mechanistic-interpretability/2026-02-05-discovering-interpretable-algorithms-decompiling-transformers-rasp.md)
 - [AudioSAE: Towards Understanding of Audio-Processing Models with Sparse AutoEncoders](xai/mechanistic-interpretability/2026-02-06-audiosae-sparse-autoencoders-audio-models.md)
 - [Finding Highly Interpretable Prompt-Specific Circuits in Language Models](xai/mechanistic-interpretability/2026-02-13-prompt-specific-circuits-language-models.md)
 - [Formal Mechanistic Interpretability: Automated Circuit Discovery with Provable Guarantees](xai/mechanistic-interpretability/2026-02-18-formal-mechanistic-interpretability-circuit-discovery.md)
