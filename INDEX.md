@@ -27,8 +27,11 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [Internalizing the Future: A Unified Agentic Training Paradigm for World Model Planning](artificial-intelligence/2026-06-25-internalizing-future-unified-agentic-training-paradigm-world-model-planning.md)
 - [Self-Evolving World Models for LLM Agent Planning](artificial-intelligence/2026-06-29-self-evolving-world-models-llm-agent-planning.md)
 - [Multi-Agent AI Control: Distributed Attacks Hamper Per-Instance Monitors](artificial-intelligence/2026-07-08-multi-agent-ai-control-distributed-attacks.md)
+- [AutoDesign: Meta-Harness Optimization for Long-Horizon Agentic Design](artificial-intelligence/2026-08-13-autodesign-meta-harness-optimization-agentic-design.md)
 
 ## Computer Vision
+
+- [How Do VLMs Behave When Blind or Misled? Behavioral Evaluation of VLMs on Scientific Figures](computer-vision/2026-08-13-scifigbench-behavioral-evaluation-vlms-scientific-figures.md)
 
 - [Vision Pretraining for Dense Spatial Perception](computer-vision/2026-07-06-vision-pretraining-dense-spatial-perception-lingbot.md)
 - [NTIRE 2026 Challenge on Video Saliency Prediction: Methods and Results](computer-vision/2026-04-28-ntire-2026-video-saliency-prediction-challenge.md)
@@ -280,6 +283,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 
 ## Machine Learning
 
+- [MLReplicate: Benchmarking Autonomous Research Systems for Machine Learning Reproducibility](machine-learning/2026-05-15-mlreplicate-autonomous-research-systems-reproducibility.md)
 - [Neuro-Relational Programs: Unifying Queries and Neural Computation over Structured Data](machine-learning/2026-06-21-neuro-relational-programs-neural-structured-data.md)
 - [Reversal Q-Learning: Off-Policy RL via Flow Matching and Virtual Trajectory Generation](machine-learning/2026-06-16-reversal-q-learning.md)
 - [Protein Dynamics Beyond Structure Prediction](machine-learning/2026-06-08-protein-dynamics-beyond-structure-prediction.md)
