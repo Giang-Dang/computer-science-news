@@ -528,6 +528,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [Attributions All the Way Down? The Metagame of Interpretability](xai/feature-attribution/2026-05-23-attributions-all-the-way-down-metagame.md)
 - [Faithfulness Metrics Don't Measure Faithfulness: A Meta-Evaluation with Ground Truth](xai/feature-attribution/2026-05-24-faithfulness-metrics-dont-measure-faithfulness.md)
 - [Feature Attribution from First Principles](xai/feature-attribution/2025-05-30-feature-attribution-first-principles.md)
+- [Why Uncertainty Calibration Matters for Reliable Perturbation-based Explanations](xai/feature-attribution/2025-06-15-uncertainty-calibration-perturbation-based-explanations.md)
 - [Feature-Function Curvature Analysis: A Geometric Framework for Explaining Differentiable Models](xai/feature-attribution/2025-10-31-feature-function-curvature-analysis-geometric-framework.md)
 
 ### Human Centered Explainability
