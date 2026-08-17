@@ -77,6 +77,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [Generative 3D Gaussians with Learned Density Control](computer-vision/2026-05-25-generative-3d-gaussians-density-control.md)
 - [Adaptive Multimodal Compression: Efficient Vision-Language Models with Dynamic Token Pruning](computer-vision/2026-05-26-adaptive-multimodal-compression-vision-language-models.md)
 - [From Pixels to Words: Towards Native One-Vision Models at Scale](computer-vision/2026-05-27-from-pixels-to-words-native-one-vision-models.md)
+- [Instance Data Condensation for Image Super-Resolution](computer-vision/2026-05-28-instance-data-condensation-image-super-resolution.md)
 - [MetaPoint: Unlocking Precise Spatial Control in Agentic Visual Generation](computer-vision/2026-06-03-metapoint-spatial-control-agentic-visual-generation.md)
 - [Watch, Remember, Reason: Human-View Video Understanding with MLLMs](computer-vision/2026-06-05-watch-remember-reason-video-understanding-mlms.md)
 - [Stream3D-VLM: Online 3D Spatial Understanding with Incremental Geometry Priors](computer-vision/2026-06-17-stream3d-vlm-online-3d-spatial-understanding.md)
@@ -338,6 +339,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [Tokenisation via Convex Relaxations: ConvexTok](machine-learning/2026-05-25-tokenisation-convex-relaxations.md)
 - [Kernel-Based Attention: Achieving Linear Complexity Transformers with Feature Maps](machine-learning/2026-05-26-kernel-attention-efficient-transformers.md)
 - [ARISE: Agent Reasoning with Intrinsic Skill Evolution in Hierarchical Reinforcement Learning](machine-learning/2026-03-17-arise-agent-reasoning-intrinsic-skill-evolution.md)
+- [Sparse Growing Transformer: Training-Time Sparse Depth Allocation via Progressive Attention Looping](machine-learning/2026-03-15-sparse-growing-transformer-training-time-sparse-depth.md)
 - [T²PO: Uncertainty-Guided Exploration Control for Stable Multi-Turn Agentic Reinforcement Learning](machine-learning/2026-05-19-t2po-uncertainty-guided-exploration-stable-multi-turn-agentic-rl.md)
 - [LongTraceRL: Learning Long-Context Reasoning from Search Agent Trajectories with Rubric Rewards](machine-learning/2026-05-29-longtrace-rl-long-context-reasoning-search-agent-trajectories.md)
 - [Energy-Gated Attention and Wavelet Positional Encoding: Complementary Inductive Biases for Transformer Attention](machine-learning/2026-05-25-energy-gated-attention-wavelet-positional-encoding.md)
@@ -376,6 +378,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 
 ## Natural Language Processing
 
+- [Bringing Emerging Architectures to Sequence Labeling in NLP](natural-language-processing/2026-09-25-bringing-emerging-architectures-sequence-labeling-nlp.md)
 - [Scaling Laws Under the Microscope: Predicting Transformer Performance from Small Scale Experiments](natural-language-processing/2026-02-22-scaling-laws-under-microscope-predicting-transformer-performance.md)
 - [A Path to Natural Language Through Tokenisation and Transformers](natural-language-processing/2026-01-06-a-path-natural-language-tokenisation-transformers.md)
 - [Brain-Guided Language Models for Robust Reasoning](natural-language-processing/2026-06-10-brain-guided-language-models-robust-reasoning.md)
