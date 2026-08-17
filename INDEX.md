@@ -212,6 +212,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [AgentMesh: A Cooperative Multi-Agent Generative AI Framework for Software Development Automation](llm-agents-dev/software-development/2025-07-29-agentmesh-cooperative-multi-agent-dev-automation.md)
 - [A Practical Guide for Designing, Developing, and Deploying Production-Grade Agentic AI Workflows](llm-agents-dev/software-development/2025-12-09-practical-guide-production-grade-agentic-workflows.md)
 - [Agyn: A Multi-Agent System for Team-Based Autonomous Software Engineering](llm-agents-dev/software-development/2026-02-01-agyn-team-based-autonomous-software-engineering.md)
+- [Knowledge Activation: AI Skills as the Institutional Knowledge Primitive for Agentic Software Development](llm-agents-dev/software-development/2026-03-16-knowledge-activation-ai-skills-institutional-knowledge.md)
 - [Cheap Code, Costly Judgment: A Case Study on Governable Agentic Software Engineering](llm-agents-dev/software-development/2026-07-01-cheap-code-costly-judgment-governable-agentic-se.md)
 - [Agentic AI in the Software Development Lifecycle: Architecture, Empirical Evidence, and the Reshaping of Software Engineering](llm-agents-dev/software-development/2026-04-29-agentic-ai-sdlc.md)
 - [Confucius Code Agent: Scalable Agent Scaffolding for Real-World Codebases](llm-agents-dev/software-development/2026-05-27-confucius-code-agent-scalable-real-world-codebases.md)
@@ -242,10 +243,8 @@ A navigable index of paper summaries in this repository, organized by topic.
 
 ### Tool Use
 
-- [SoK: Agentic Skills -- Beyond Tool Use in LLM Agents](llm-agents-dev/tool-use/2026-02-24-sok-agentic-skills-beyond-tool-use.md)
 - [AutoSkill: Experience-Driven Lifelong Learning via Skill Self-Evolution](llm-agents-dev/tool-use/2026-03-01-autoskill-experience-driven-lifelong-learning-skill-self-evolution.md)
 - [SkillCraft: Can LLM Agents Learn to Use Tools Skillfully?](llm-agents-dev/tool-use/2026-03-10-skillcraft-llm-agents-learn-tools-skillfully.md)
-- [Knowledge Activation: AI Skills as the Institutional Knowledge Primitive for Agentic Software Development](llm-agents-dev/tool-use/2026-03-16-knowledge-activation-ai-skills-institutional-knowledge.md)
 - [The Evolution of Tool Use in LLM Agents: From Single-Tool Call to Multi-Tool Orchestration](llm-agents-dev/tool-use/2026-03-24-evolution-tool-use-multi-tool-orchestration.md)
 - [Agentic Tool Use in Large Language Models](llm-agents-dev/tool-use/2026-04-01-agentic-tool-use-large-language-models-comprehensive-survey.md)
 - [How Well Do Agentic Skills Work in the Wild: Benchmarking LLM Skill Usage in Realistic Settings](llm-agents-dev/tool-use/2026-04-06-how-well-agentic-skills-work-in-wild-benchmarking-realistic.md)
@@ -266,13 +265,14 @@ A navigable index of paper summaries in this repository, organized by topic.
 ### Software Engineering Design
 
 - [Designing LLM-based Multi-Agent Systems for Software Engineering Tasks: Quality Attributes, Design Patterns and Rationale](llm-agents-dev/software-engineering-design/2025-11-02-designing-llm-multi-agent-systems-se-tasks.md)
+- [Harnessing Agent Skills: Architectural Patterns and a Reference Architecture for Skill-Mediated LLM Agents](llm-agents-dev/software-engineering-design/2026-05-29-harnessing-agent-skills-architectural-patterns.md)
 
 ### Skill Based Agents
 
+- [SoK: Agentic Skills -- Beyond Tool Use in LLM Agents](llm-agents-dev/skill-based-agents/2026-02-24-sok-agentic-skills-beyond-tool-use.md)
 - [MIND-Skill: Quality-Guaranteed Skill Generation via Multi-Agent Induction and Deduction](llm-agents-dev/skill-based-agents/2026-05-26-mind-skill-quality-guaranteed-generation.md)
 - [SkillAxe: Sharpening LLM-Authored Agent Skills Through Evaluation-Guided Self-Refinement](llm-agents-dev/skill-based-agents/2026-06-10-skillaxe-evaluation-guided-agent-skills.md)
 - [EffiSkill: Agent Skill Based Automated Code Efficiency Optimization](llm-agents-dev/skill-based-agents/2026-06-18-effiskill-agent-skill-code-efficiency-optimization.md)
-- [Harnessing Agent Skills: Architectural Patterns and a Reference Architecture for Skill-Mediated LLM Agents](llm-agents-dev/skill-based-agents/2026-06-29-harnessing-agent-skills-architectural-patterns.md)
 
 ### Multi Modal Orchestration
 
