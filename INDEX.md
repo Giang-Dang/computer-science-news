@@ -114,6 +114,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 ### Agent Orchestration
 
 - [SAGE-32B: Agentic Reasoning via Iterative Distillation](llm-agents-dev/agent-orchestration/2026-01-04-sage-32b-agentic-reasoning-iterative-distillation.md)
+- [CoRe-Code: Collaborative Reinforcement Learning for Code Generation](llm-agents-dev/agent-orchestration/2026-05-24-core-code-collaborative-reinforcement-learning.md)
 - [Efficient Agentic Reasoning Through Self-Regulated Simulative Planning](llm-agents-dev/agent-orchestration/2026-05-22-efficient-agentic-reasoning-self-regulated-planning.md)
 - [AI Harness Engineering: A Runtime Substrate for Foundation-Model Software Agents](llm-agents-dev/agent-orchestration/2026-05-13-ai-harness-engineering-runtime-substrate.md)
 - [A Technical Taxonomy of LLM Agent Communication Protocols](llm-agents-dev/agent-orchestration/2026-06-17-technical-taxonomy-llm-agent-communication-protocols.md)
@@ -166,6 +167,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 ### Code Reasoning
 
 - [CodeARC: Benchmarking Reasoning Capabilities of LLM Agents for Inductive Program Synthesis](llm-agents-dev/code-reasoning/2025-03-23-codearc-inductive-program-synthesis.md)
+- [Agentic Code Reasoning: Semi-Formal Reasoning for Code Analysis Without Execution](llm-agents-dev/code-reasoning/2026-03-02-agentic-code-reasoning-semi-formal-methods.md)
 - [From Laboratory to Real-World Applications: Benchmarking Agentic Code Reasoning at the Repository Level](llm-agents-dev/code-reasoning/2026-05-03-repo-reason-repository-level-code-reasoning.md)
 
 ### Multi Agent Topologies
@@ -213,6 +215,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [A Practical Guide for Designing, Developing, and Deploying Production-Grade Agentic AI Workflows](llm-agents-dev/software-development/2025-12-09-practical-guide-production-grade-agentic-workflows.md)
 - [Agyn: A Multi-Agent System for Team-Based Autonomous Software Engineering](llm-agents-dev/software-development/2026-02-01-agyn-team-based-autonomous-software-engineering.md)
 - [Cheap Code, Costly Judgment: A Case Study on Governable Agentic Software Engineering](llm-agents-dev/software-development/2026-07-01-cheap-code-costly-judgment-governable-agentic-se.md)
+- [Reasoning Effort, Not Tool Access, Buys First-Try Reliability in Agentic Code Generation](llm-agents-dev/software-development/2026-07-02-reasoning-effort-first-try-reliability-agentic-code.md)
 - [Agentic AI in the Software Development Lifecycle: Architecture, Empirical Evidence, and the Reshaping of Software Engineering](llm-agents-dev/software-development/2026-04-29-agentic-ai-sdlc.md)
 - [Confucius Code Agent: Scalable Agent Scaffolding for Real-World Codebases](llm-agents-dev/software-development/2026-05-27-confucius-code-agent-scalable-real-world-codebases.md)
 - [ALMAS: An Autonomous LLM-based Multi-Agent Software Engineering Framework](llm-agents-dev/software-development/2026-06-11-almas-autonomous-multi-agent-software-engineering.md)
