@@ -563,6 +563,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [nnterp: A Standardized Interface for Mechanistic Interpretability of Transformers](xai/mechanistic-interpretability/2025-12-14-nnterp-standardized-interface-mechanistic-interpretability.md)
 - [Faithful and Stable Neuron Explanations for Trustworthy Mechanistic Interpretability](xai/mechanistic-interpretability/2025-12-19-faithful-stable-neuron-explanations-trustworthy-mi.md)
 - [Interpreting Transformers Through Attention Head Intervention](xai/mechanistic-interpretability/2026-01-07-interpreting-transformers-attention-head-intervention.md)
+- [TensorLens: End-to-End Transformer Analysis via High-Order Attention Tensors](xai/mechanistic-interpretability/2026-01-25-tensorlens-end-to-end-transformer-analysis.md)
 - [Mechanistic Data Attribution: Tracing the Training Origins of Interpretable LLM Units](xai/mechanistic-interpretability/2026-01-29-mechanistic-data-attribution-training-origins.md)
 - [AudioSAE: Towards Understanding of Audio-Processing Models with Sparse AutoEncoders](xai/mechanistic-interpretability/2026-02-06-audiosae-sparse-autoencoders-audio-models.md)
 - [Finding Highly Interpretable Prompt-Specific Circuits in Language Models](xai/mechanistic-interpretability/2026-02-13-prompt-specific-circuits-language-models.md)
