@@ -280,6 +280,8 @@ A navigable index of paper summaries in this repository, organized by topic.
 
 ## Machine Learning
 
+- [Mamba with Hierarchical Memory: Solving Representation Bottleneck in Long Sequence Modeling](machine-learning/2026-08-03-mamba-hierarchical-memory-long-sequence-modeling.md)
+- [Efficient Knowledge Distillation for LLMs: Offline Top-K Logits and a Fused Chunked KL Loss](machine-learning/2026-08-04-efficient-knowledge-distillation-llms-top-k-logits.md)
 - [Neuro-Relational Programs: Unifying Queries and Neural Computation over Structured Data](machine-learning/2026-06-21-neuro-relational-programs-neural-structured-data.md)
 - [Reversal Q-Learning: Off-Policy RL via Flow Matching and Virtual Trajectory Generation](machine-learning/2026-06-16-reversal-q-learning.md)
 - [Protein Dynamics Beyond Structure Prediction](machine-learning/2026-06-08-protein-dynamics-beyond-structure-prediction.md)
@@ -376,6 +378,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 
 ## Natural Language Processing
 
+- [Thinking vs. NoThinking: Towards Interpreting Reasoning Mechanisms of Large Language Models via Sparse Autoencoders](natural-language-processing/2026-08-08-thinking-vs-nothinking-llm-reasoning-sparse-autoencoders.md)
 - [Scaling Laws Under the Microscope: Predicting Transformer Performance from Small Scale Experiments](natural-language-processing/2026-02-22-scaling-laws-under-microscope-predicting-transformer-performance.md)
 - [A Path to Natural Language Through Tokenisation and Transformers](natural-language-processing/2026-01-06-a-path-natural-language-tokenisation-transformers.md)
 - [Brain-Guided Language Models for Robust Reasoning](natural-language-processing/2026-06-10-brain-guided-language-models-robust-reasoning.md)
