@@ -108,6 +108,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [MAGiSt3R: Multi-Agent Feed-forward 3D Reconstruction from Monocular RGB Videos](computer-vision/2026-07-16-magist3r-multi-agent-3d-reconstruction.md)
 - [Video = World + Event Stream: Real-time Interactive Foundation Models for Embodied AI](computer-vision/2026-07-16-video-world-event-stream-embodied-ai.md)
 - [Opto-ViT-v2: Noise-Resilient On-Chip Fine-Tuning for Photonic Near-Sensor Vision Transformer Accelerators](computer-vision/2026-07-20-opto-vit-v2-photonic-vision-transformer.md)
+- [From RGB Generation to Dense Field Readout: Pixel-Space Dense Prediction with Text-to-Image Models](computer-vision/2026-07-09-rgb-dense-prediction-text-image-models.md)
 
 ## LLM Agents & Development
 
@@ -373,6 +374,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [On Transformer Dynamics](machine-learning/2026-07-22-transformer-dynamics-manifold-geometry.md)
 - [Flow-Map GRPO: Reinforcement Learning for Few-Step Flow-Map Generators via Anchored Stochastic Composition](machine-learning/2026-07-01-flow-map-grpo-reinforcement-learning-few-step-flow-generators.md)
 - [A Controlled Study of Attention-Only Transformers](machine-learning/2026-07-20-controlled-study-attention-only-transformers.md)
+- [p-Spin Glass Network: Efficient Single-Batch Continual Learning](machine-learning/2026-08-14-p-spin-glass-network-efficient-continual-learning.md)
 
 ## Natural Language Processing
 
@@ -427,6 +429,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [Nemotron-Labs-Diffusion: A Tri-Mode Language Model Unifying Autoregressive, Diffusion, and Self-Speculation Decoding](natural-language-processing/2026-07-07-nemotron-labs-diffusion-tri-mode-language-model.md)
 - [Understanding Large Language Models](natural-language-processing/2026-07-01-understanding-large-language-models.md)
 - [Benchmarking Multimodal Large Language Models for Scientific Visualization Literacy](natural-language-processing/2026-07-16-benchmarking-multimodal-llms-scientific-visualization.md)
+- [Palmyra x6 Technical Report: An Agentic, Tool-Use Model Post-Trained via Anchored Supervised Fine-Tuning](natural-language-processing/2026-08-18-palmyra-x6-agentic-tool-use-llm.md)
 
 ## Robotics
 
