@@ -162,6 +162,8 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [Agents in the Wild: Where Research Meets Deployment](llm-agents-dev/agent-orchestration/2026-07-19-agents-in-wild-research-meets-deployment.md)
 - [Difficulty-Aware Agentic Orchestration for Query-Specific Multi-Agent Workflows](llm-agents-dev/agent-orchestration/2026-09-11-difficulty-aware-agentic-orchestration-query-workflows.md)
 - [AAFLOW: Scalable Patterns for Agentic AI Workflows](llm-agents-dev/agent-orchestration/2026-05-04-aaflow-scalable-patterns-agentic-workflows.md)
+- [A Comprehensive Survey on Agent Skills: Taxonomy, Techniques, and Applications](llm-agents-dev/agent-orchestration/2026-08-20-comprehensive-survey-agent-skills-taxonomy-techniques.md)
+- [Inside the Scaffold: A Source-Code Taxonomy of Coding Agent Architectures](llm-agents-dev/agent-orchestration/2026-08-20-inside-scaffold-taxonomy-coding-agent-architectures.md)
 
 ### Code Reasoning
 
@@ -222,6 +224,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [Agentic Environment Engineering for Large Language Models: A Survey of Environment Modeling, Synthesis, Evaluation, and Application](llm-agents-dev/software-development/2026-06-10-agentic-environment-engineering-large-language-models-survey.md)
 - [GUI Agents with Reinforcement Learning: Toward Digital Inhabitants](llm-agents-dev/software-development/2026-04-30-gui-agents-with-reinforcement-learning-toward-digital-inhabitants.md)
 - [Agentic Software Engineering: Foundational Pillars and Paradigm Shift](llm-agents-dev/software-development/2026-06-24-agentic-software-engineering-foundational-pillars.md)
+- [Towards Iterative End-to-End Software Development: A Feature-Driven Multi-Agent Framework](llm-agents-dev/software-development/2026-08-20-iterative-end-to-end-software-development-feature-driven-multi-agent.md)
 
 ### Testing Debugging
 
