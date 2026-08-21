@@ -553,6 +553,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 
 ### Mechanistic Interpretability
 
+- [CircuitProbe: Predicting Reasoning Circuits in Transformers via Stability Zone Detection](xai/mechanistic-interpretability/2026-04-01-circuitprobe-reasoning-circuits-stability-detection.md)
 - [A Survey on Sparse Autoencoders: Interpreting the Internal Mechanisms of Large Language Models](xai/mechanistic-interpretability/2025-03-07-survey-sparse-autoencoders-llm-mechanisms.md)
 - [Mechanistic Interpretability of Fine-Tuned Vision Transformers on Distorted Images: Decoding Attention Head Behavior for Transparent and Trustworthy AI](xai/mechanistic-interpretability/2025-03-24-mechanistic-interpretability-vision-transformers-distorted-images.md)
 - [Mechanistic Interpretability of Code Correctness in LLMs via Sparse Autoencoders](xai/mechanistic-interpretability/2025-10-09-mechanistic-interp-code-correctness-llm-saes.md)
