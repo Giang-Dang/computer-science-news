@@ -72,6 +72,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [Few-Shot Synthetic Data Generation with Diffusion Models for Downstream Vision Tasks](computer-vision/2026-05-12-few-shot-synthetic-data-diffusion.md)
 - [SceneGraphVLM: Dynamic Scene Graph Generation from Video with Vision-Language Models](computer-vision/2026-05-13-scenegraphvlm-dynamic-scene-graph-generation.md)
 - [Spectral Progressive Diffusion for Efficient Image and Video Generation](computer-vision/2026-05-18-spectral-progressive-diffusion-efficient-generation.md)
+- [VLM-3R: Vision-Language Models Augmented with Instruction-Aligned 3D Reconstruction](computer-vision/2505-20-vlm-3r-vision-language-3d-reconstruction.md)
 - [PiG-Avatar: Hierarchical Neural-Field-Guided Gaussian Avatars](computer-vision/2026-05-21-pig-avatar-neural-field-gaussian.md)
 - [Colorful-Noise: Training-Free Low-Frequency Noise Manipulation for Color-Based Conditional Image Generation](computer-vision/2026-05-22-colorful-noise-training-free-color-conditional-image-generation.md)
 - [Generative 3D Gaussians with Learned Density Control](computer-vision/2026-05-25-generative-3d-gaussians-density-control.md)
@@ -335,6 +336,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [What Do Agents Communicate? Characterizing Information Exchange in Multi-Agent Systems](machine-learning/2026-05-19-what-do-agents-communicate-multi-agent-systems.md)
 - [LT2: Linear-Time Looped Transformers](machine-learning/2026-05-20-lt2-linear-time-looped-transformers.md)
 - [Retrieval-Augmented Reasoning for Chartered Accountancy](machine-learning/2026-05-20-retrieval-augmented-reasoning-chartered-accountancy.md)
+- [R1-Code-Interpreter: LLMs Reason with Code via Supervised and Multi-stage Reinforcement Learning](machine-learning/2505-21-r1-code-interpreter-llms-reasoning-code.md)
 - [Tokenisation via Convex Relaxations: ConvexTok](machine-learning/2026-05-25-tokenisation-convex-relaxations.md)
 - [Kernel-Based Attention: Achieving Linear Complexity Transformers with Feature Maps](machine-learning/2026-05-26-kernel-attention-efficient-transformers.md)
 - [ARISE: Agent Reasoning with Intrinsic Skill Evolution in Hierarchical Reinforcement Learning](machine-learning/2026-03-17-arise-agent-reasoning-intrinsic-skill-evolution.md)
@@ -464,6 +466,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [EnerInfer: Energy-Aware On-Device LLM Inference](systems/2026-06-06-enerinfer-energy-aware-on-device-llm-inference.md)
 - [Sangam: Efficiently Serving Diffusion LLMs with the AR Stack](systems/2026-07-05-sangam-efficiently-serving-diffusion-llms.md)
 - [Memory Scarcity, Open Models, and the Restructuring of the AI Industry, 2026-2030](systems/2026-07-08-memory-scarcity-ai-industry-restructuring.md)
+- [PRISM: Distributed Inference for Foundation Models at Edge](systems/2507-12-prism-distributed-inference-edge.md)
 
 ## XAI
 
