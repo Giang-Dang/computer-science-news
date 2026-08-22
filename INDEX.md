@@ -27,6 +27,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [Internalizing the Future: A Unified Agentic Training Paradigm for World Model Planning](artificial-intelligence/2026-06-25-internalizing-future-unified-agentic-training-paradigm-world-model-planning.md)
 - [Self-Evolving World Models for LLM Agent Planning](artificial-intelligence/2026-06-29-self-evolving-world-models-llm-agent-planning.md)
 - [Multi-Agent AI Control: Distributed Attacks Hamper Per-Instance Monitors](artificial-intelligence/2026-07-08-multi-agent-ai-control-distributed-attacks.md)
+- [Science Done on a Machine by a Machine: AI Agents in Computational Chemistry](artificial-intelligence/2026-08-19-science-done-machine-ai-agents-computational-chemistry.md)
 
 ## Computer Vision
 
@@ -373,6 +374,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [On Transformer Dynamics](machine-learning/2026-07-22-transformer-dynamics-manifold-geometry.md)
 - [Flow-Map GRPO: Reinforcement Learning for Few-Step Flow-Map Generators via Anchored Stochastic Composition](machine-learning/2026-07-01-flow-map-grpo-reinforcement-learning-few-step-flow-generators.md)
 - [A Controlled Study of Attention-Only Transformers](machine-learning/2026-07-20-controlled-study-attention-only-transformers.md)
+- [Pandora's AI Model Routing Box: Efficient Allocation with Costly Value Estimation](machine-learning/2026-08-20-pandoras-ai-model-routing-box-efficient-allocation.md)
 
 ## Natural Language Processing
 
@@ -464,6 +466,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [EnerInfer: Energy-Aware On-Device LLM Inference](systems/2026-06-06-enerinfer-energy-aware-on-device-llm-inference.md)
 - [Sangam: Efficiently Serving Diffusion LLMs with the AR Stack](systems/2026-07-05-sangam-efficiently-serving-diffusion-llms.md)
 - [Memory Scarcity, Open Models, and the Restructuring of the AI Industry, 2026-2030](systems/2026-07-08-memory-scarcity-ai-industry-restructuring.md)
+- [EdgeXpert: An Edge Device for Memory-Efficient LLM Inference with Mixture-of-Experts and Speculative Decoding](systems/2026-08-05-edgexpert-memory-efficient-llm-inference-edge-devices.md)
 
 ## XAI
 
