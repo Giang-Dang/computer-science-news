@@ -548,8 +548,9 @@ A navigable index of paper summaries in this repository, organized by topic.
 
 ### Inherently Interpretable Models
 
-- [A Comparative Analysis of Interpretable Machine Learning Methods](xai/inherently-interpretable-models/2026-01-01-comparative-analysis-interpretable-ml-methods.md)
+- [Spatial Attention Noise Masking for Causally Sufficient Interpretability](xai/inherently-interpretable-models/2026-08-22-spatial-attention-noise-masking-causally-sufficient-interpretability.md)
 - [Towards Intrinsic Interpretability of Large Language Models: A Survey of Design Principles and Architectures](xai/inherently-interpretable-models/2026-04-17-intrinsic-interpretability-llm-survey.md)
+- [A Comparative Analysis of Interpretable Machine Learning Methods](xai/inherently-interpretable-models/2026-01-01-comparative-analysis-interpretable-ml-methods.md)
 
 ### Mechanistic Interpretability
 
