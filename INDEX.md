@@ -488,6 +488,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [A Causal Argumentation Method for Explainability of Machine Learning Models](xai/causal-interpretability/2026-05-20-causal-argumentation-explainability-machine-learning.md)
 - [Tagged for Direction: Pinning Down Causal Edge Directions with Precision](xai/causal-interpretability/2025-06-24-tagged-for-direction-causal-edge-directions.md)
 - [LLM Explainability with Counterfactual Chains and Causal Graphs](xai/causal-interpretability/2026-06-04-llm-explainability-counterfactual-chains-causal-graphs.md)
+- [Computing Actual Causes for Neural Network Predictions under Structured Causal Inputs](xai/causal-interpretability/2026-08-04-computing-actual-causes-neural-networks-structured-causal-inputs.md)
 
 ### Concept Based Explanations
 
