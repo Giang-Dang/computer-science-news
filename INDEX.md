@@ -108,6 +108,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [MAGiSt3R: Multi-Agent Feed-forward 3D Reconstruction from Monocular RGB Videos](computer-vision/2026-07-16-magist3r-multi-agent-3d-reconstruction.md)
 - [Video = World + Event Stream: Real-time Interactive Foundation Models for Embodied AI](computer-vision/2026-07-16-video-world-event-stream-embodied-ai.md)
 - [Opto-ViT-v2: Noise-Resilient On-Chip Fine-Tuning for Photonic Near-Sensor Vision Transformer Accelerators](computer-vision/2026-07-20-opto-vit-v2-photonic-vision-transformer.md)
+- [SIGNPOST-Bench: Benchmarking Text-Vision Conflict Resolution in Multimodal Large Language Models](computer-vision/2026-08-23-signpost-bench-text-vision-conflict-multimodal-llms.md)
 
 ## LLM Agents & Development
 
@@ -158,6 +159,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [Design and Implementation of Agentic Orchestrations and Orchestration of Agents](llm-agents-dev/agent-orchestration/2026-06-30-design-implementation-agentic-orchestrations-process-technology.md)
 - [Next-Generation Agentic Reinforcement Learning Systems Enable Self-Evolving Agents](llm-agents-dev/agent-orchestration/2026-07-01-next-generation-agentic-reinforcement-learning-systems-self-evolving-agents.md)
 - [Agent Reinforcement Learning via Pivotal-Aware Self-Feedback Retry](llm-agents-dev/agent-orchestration/2026-07-04-agent-reinforcement-learning-pivotal-aware-self-feedback.md)
+- [Learning Compositional Meta-Routing for Agentic Workflows: An Executable Benchmark](llm-agents-dev/agent-orchestration/2026-08-23-learning-compositional-meta-routing-agentic-workflows.md)
 - [AgentScope 1.0: A Developer-Centric Framework for Building Agentic Applications](llm-agents-dev/agent-orchestration/2026-08-25-agentscope-1-0-developer-centric-agentic-framework.md)
 - [Agents in the Wild: Where Research Meets Deployment](llm-agents-dev/agent-orchestration/2026-07-19-agents-in-wild-research-meets-deployment.md)
 - [Difficulty-Aware Agentic Orchestration for Query-Specific Multi-Agent Workflows](llm-agents-dev/agent-orchestration/2026-09-11-difficulty-aware-agentic-orchestration-query-workflows.md)
@@ -464,6 +466,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [EnerInfer: Energy-Aware On-Device LLM Inference](systems/2026-06-06-enerinfer-energy-aware-on-device-llm-inference.md)
 - [Sangam: Efficiently Serving Diffusion LLMs with the AR Stack](systems/2026-07-05-sangam-efficiently-serving-diffusion-llms.md)
 - [Memory Scarcity, Open Models, and the Restructuring of the AI Industry, 2026-2030](systems/2026-07-08-memory-scarcity-ai-industry-restructuring.md)
+- [Fewer Tokens, Smaller Cache: Reward-Coordinated Efficient Reasoning](systems/2026-08-23-fewer-tokens-smaller-cache-efficient-reasoning.md)
 
 ## XAI
 
