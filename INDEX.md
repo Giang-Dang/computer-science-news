@@ -373,6 +373,9 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [On Transformer Dynamics](machine-learning/2026-07-22-transformer-dynamics-manifold-geometry.md)
 - [Flow-Map GRPO: Reinforcement Learning for Few-Step Flow-Map Generators via Anchored Stochastic Composition](machine-learning/2026-07-01-flow-map-grpo-reinforcement-learning-few-step-flow-generators.md)
 - [A Controlled Study of Attention-Only Transformers](machine-learning/2026-07-20-controlled-study-attention-only-transformers.md)
+- [Your Privacy My Cloak: Backdoor Attacks on Differentially Private Federated Learning](machine-learning/2026-06-17-privacy-cloak-backdoor-attacks-differentially-private-federated-learning.md)
+- [Improved Quantum Algorithms for Reinforcement Learning Under a Generative Model](machine-learning/2026-08-03-improved-quantum-algorithms-reinforcement-learning.md)
+- [Practical Error Suppression and Mitigation for Reliable Quantum Computing](machine-learning/2026-08-20-practical-error-suppression-mitigation-reliable-quantum-computing.md)
 
 ## Natural Language Processing
 
