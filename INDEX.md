@@ -113,6 +113,8 @@ A navigable index of paper summaries in this repository, organized by topic.
 
 ### Agent Orchestration
 
+- [Towards a Science of Scaling Agent Systems](llm-agents-dev/agent-orchestration/2025-12-09-towards-science-scaling-agent-systems.md)
+- [An Empirical Study of Agent Developer Practices in AI Agent Frameworks](llm-agents-dev/agent-orchestration/2025-12-09-empirical-study-agent-developer-practices-frameworks.md)
 - [SAGE-32B: Agentic Reasoning via Iterative Distillation](llm-agents-dev/agent-orchestration/2026-01-04-sage-32b-agentic-reasoning-iterative-distillation.md)
 - [Efficient Agentic Reasoning Through Self-Regulated Simulative Planning](llm-agents-dev/agent-orchestration/2026-05-22-efficient-agentic-reasoning-self-regulated-planning.md)
 - [AI Harness Engineering: A Runtime Substrate for Foundation-Model Software Agents](llm-agents-dev/agent-orchestration/2026-05-13-ai-harness-engineering-runtime-substrate.md)
@@ -165,6 +167,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 
 ### Code Reasoning
 
+- [ReMind: Understanding Deductive Code Reasoning in LLMs](llm-agents-dev/code-reasoning/2025-11-01-remind-understanding-deductive-code-reasoning-llms.md)
 - [CodeARC: Benchmarking Reasoning Capabilities of LLM Agents for Inductive Program Synthesis](llm-agents-dev/code-reasoning/2025-03-23-codearc-inductive-program-synthesis.md)
 - [From Laboratory to Real-World Applications: Benchmarking Agentic Code Reasoning at the Repository Level](llm-agents-dev/code-reasoning/2026-05-03-repo-reason-repository-level-code-reasoning.md)
 
