@@ -373,6 +373,8 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [On Transformer Dynamics](machine-learning/2026-07-22-transformer-dynamics-manifold-geometry.md)
 - [Flow-Map GRPO: Reinforcement Learning for Few-Step Flow-Map Generators via Anchored Stochastic Composition](machine-learning/2026-07-01-flow-map-grpo-reinforcement-learning-few-step-flow-generators.md)
 - [A Controlled Study of Attention-Only Transformers](machine-learning/2026-07-20-controlled-study-attention-only-transformers.md)
+- [An Embedded RISC-V Evaluation of Kolmogorov–Arnold Networks in Hard-Constrained Recurrent Physics-Informed Models](machine-learning/2026-08-01-embedded-risc-v-evaluation-kolmogorov-arnold-networks.md)
+- [Generic Vision and Cross-Attention for Reaction Yield Prediction](machine-learning/2026-08-01-generic-vision-cross-attention-reaction-yield-prediction.md)
 
 ## Natural Language Processing
 
@@ -427,6 +429,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [Nemotron-Labs-Diffusion: A Tri-Mode Language Model Unifying Autoregressive, Diffusion, and Self-Speculation Decoding](natural-language-processing/2026-07-07-nemotron-labs-diffusion-tri-mode-language-model.md)
 - [Understanding Large Language Models](natural-language-processing/2026-07-01-understanding-large-language-models.md)
 - [Benchmarking Multimodal Large Language Models for Scientific Visualization Literacy](natural-language-processing/2026-07-16-benchmarking-multimodal-llms-scientific-visualization.md)
+- [Fusion Training for Mathematical Generalization in Large Language Models](natural-language-processing/2026-08-10-fusion-training-mathematical-generalization-large-language-models.md)
 
 ## Robotics
 
