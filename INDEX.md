@@ -373,6 +373,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [On Transformer Dynamics](machine-learning/2026-07-22-transformer-dynamics-manifold-geometry.md)
 - [Flow-Map GRPO: Reinforcement Learning for Few-Step Flow-Map Generators via Anchored Stochastic Composition](machine-learning/2026-07-01-flow-map-grpo-reinforcement-learning-few-step-flow-generators.md)
 - [A Controlled Study of Attention-Only Transformers](machine-learning/2026-07-20-controlled-study-attention-only-transformers.md)
+- [Mamba with Hierarchical Memory: Solving Representation Bottleneck in Long Sequence Modeling](machine-learning/2026-08-15-mamba-hierarchical-memory-sequence-modeling.md)
 
 ## Natural Language Processing
 
@@ -427,6 +428,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [Nemotron-Labs-Diffusion: A Tri-Mode Language Model Unifying Autoregressive, Diffusion, and Self-Speculation Decoding](natural-language-processing/2026-07-07-nemotron-labs-diffusion-tri-mode-language-model.md)
 - [Understanding Large Language Models](natural-language-processing/2026-07-01-understanding-large-language-models.md)
 - [Benchmarking Multimodal Large Language Models for Scientific Visualization Literacy](natural-language-processing/2026-07-16-benchmarking-multimodal-llms-scientific-visualization.md)
+- [RING: Retrieval-Internalized Generation for Continual Large-Scale Knowledge Injection](natural-language-processing/2026-08-03-ring-retrieval-internalized-generation.md)
 
 ## Robotics
 
@@ -595,6 +597,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [Aligning AI Through Internal Understanding: The Role of Interpretability](xai/mechanistic-interpretability/2025-09-10-aligning-ai-internal-understanding.md)
 - [Mechanistic Interpretability of LLM Jailbreaks via Internal Attribution Graphs](xai/mechanistic-interpretability/2026-07-08-mechanistic-interpretability-llm-jailbreaks-internal-attribution-graphs.md)
 - [When Structured Sparse Autoencoders Learn Consistent Concepts Across Modalities](xai/mechanistic-interpretability/2026-07-09-structured-sparse-autoencoders-multimodal-concepts.md)
+- [Spectral Outliers Reveal Dominant Learned Structure in Transformer Attention](xai/mechanistic-interpretability/2026-08-08-spectral-outliers-transformer-attention.md)
 
 ### Self Explaining Models
 
