@@ -170,6 +170,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 
 ### Multi Agent Topologies
 
+- [Agent4cs: A Multi-Agent System for Code Summarization in Large Hierarchical Codebases](llm-agents-dev/multi-agent-topologies/2026-07-01-agent4cs-multi-agent-code-summarization.md)
 - [PerfOrch: Multi-LLM Orchestration for High-Quality Code Generation](llm-agents-dev/agent-orchestration/2026-05-28-perfororch-multi-llm-orchestration-code-generation.md)
 - [LLM-Based Multi-Agent Systems for Code Generation: A Multi-Vocal Literature Review](llm-agents-dev/multi-agent-topologies/2026-04-16-llm-based-multi-agent-code-generation-literature-review.md)
 - [AgentCo-op: Retrieval-Based Synthesis of Interoperable Multi-Agent Workflows](llm-agents-dev/multi-agent-topologies/2026-05-19-agentcoop-retrieval-synthesis-workflows.md)
@@ -198,6 +199,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 
 ### Code Generation
 
+- [Specification Portability Across LLM Development Agents: Cross-Agent Compatibility in Specification-Driven Software Migration](llm-agents-dev/code-generation/2026-08-21-specification-portability-cross-agent-compatibility.md)
 - [Semantic Caching and Intent-Driven Context Optimization for Multi-Agent Natural Language to Code Systems](llm-agents-dev/code-generation/2026-01-16-semantic-caching-intent-driven-multi-agent-nlcode.md)
 - [Code to Think, Think to Code: A Survey on Code-Enhanced Reasoning and Reasoning-Driven Code Intelligence in LLMs](llm-agents-dev/code-generation/2025-02-26-code-to-think-think-to-code-survey-reasoning-code-intelligence.md)
 - [AI Agentic Programming: A Survey of Techniques, Challenges, and Opportunities](llm-agents-dev/code-generation/2025-08-15-ai-agentic-programming-survey-techniques-opportunities.md)
@@ -269,6 +271,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 
 ### Skill Based Agents
 
+- [Evaluating Skills, Not Just Agents: Agentic Continuous Evaluation of Skills](llm-agents-dev/skill-based-agents/2026-08-20-evaluating-skills-agentic-continuous-evaluation.md)
 - [MIND-Skill: Quality-Guaranteed Skill Generation via Multi-Agent Induction and Deduction](llm-agents-dev/skill-based-agents/2026-05-26-mind-skill-quality-guaranteed-generation.md)
 - [SkillAxe: Sharpening LLM-Authored Agent Skills Through Evaluation-Guided Self-Refinement](llm-agents-dev/skill-based-agents/2026-06-10-skillaxe-evaluation-guided-agent-skills.md)
 - [EffiSkill: Agent Skill Based Automated Code Efficiency Optimization](llm-agents-dev/skill-based-agents/2026-06-18-effiskill-agent-skill-code-efficiency-optimization.md)
