@@ -192,6 +192,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 ### Program Synthesis
 
 - [ReaComp: Compiling LLM Reasoning into Symbolic Solvers for Efficient Program Synthesis](llm-agents-dev/program-synthesis/2026-05-05-reacomp-llm-reasoning-symbolic-solvers-program-synthesis.md)
+- [Solvita: Enhancing Large Language Models for Competitive Programming via Agentic Evolution](llm-agents-dev/program-synthesis/2026-05-14-solvita-agentic-evolution-competitive-programming.md)
 - [A-ProS: Towards Reliable Autonomous Programming Through Multi-Model Feedback](llm-agents-dev/program-synthesis/2026-05-18-apros-reliable-autonomous-programming-multi-model-feedback.md)
 - [QualityFlow: An Agentic Workflow for Program Synthesis Controlled by LLM Quality Checks](llm-agents-dev/program-synthesis/2026-05-27-qualityflow-agentic-workflow-program-synthesis.md)
 - [Structured Program Synthesis using LLMs: Results and Insights from the IPARC Challenge](llm-agents-dev/program-synthesis/2026-06-15-structured-program-synthesis-llm-iparc.md)
@@ -226,9 +227,11 @@ A navigable index of paper summaries in this repository, organized by topic.
 ### Testing Debugging
 
 - [The Rise of Agentic Testing: Multi-Agent Systems for Robust Software Quality Assurance](llm-agents-dev/testing-debugging/2026-01-05-agentic-testing-multi-agent-quality-assurance.md)
+- [AgentSZZ: Teaching the LLM Agent to Play Detective with Bug-Inducing Commits](llm-agents-dev/testing-debugging/2026-04-02-agentszz-bug-inducing-commits.md)
 - [Beyond Resolution Rates: Behavioral Drivers of Coding Agent Success and Failure](llm-agents-dev/testing-debugging/2026-04-02-behavioral-drivers-coding-agent-success-failure.md)
 - [Act As a Real Researcher: A Suite of Benchmarks Evaluating Frontier LLMs and Agentic Harnesses in Research Lifecycle](llm-agents-dev/testing-debugging/2026-06-15-act-as-real-researcher-benchmarks-research-lifecycle.md)
 - [SWE-EVO: Benchmarking Coding Agents in Long-Horizon Software Evolution Scenarios](llm-agents-dev/testing-debugging/2026-06-25-swe-evo-benchmarking-long-horizon-software-evolution.md)
+- [Dockerless: Environment-Free Program Verifier for Coding Agents](llm-agents-dev/testing-debugging/2026-06-26-dockerless-environment-free-program-verifier.md)
 - [Debugging the Debuggers: Failure-Anchored Structured Recovery for Software Engineering Agents](llm-agents-dev/testing-debugging/2026-05-09-debugging-debuggers-failure-recovery-software-agents.md)
 - [Empowering Autonomous Debugging Agents with Efficient Dynamic Analysis](llm-agents-dev/testing-debugging/2026-04-27-empowering-autonomous-debugging-agents-dynamic-analysis.md)
 - [TraceCoder: A Trace-Driven Multi-Agent Framework for Automated Debugging of LLM-Generated Code](llm-agents-dev/testing-debugging/2026-05-27-tracecoder-trace-driven-multi-agent-debugging.md)
