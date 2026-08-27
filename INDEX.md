@@ -27,6 +27,8 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [Internalizing the Future: A Unified Agentic Training Paradigm for World Model Planning](artificial-intelligence/2026-06-25-internalizing-future-unified-agentic-training-paradigm-world-model-planning.md)
 - [Self-Evolving World Models for LLM Agent Planning](artificial-intelligence/2026-06-29-self-evolving-world-models-llm-agent-planning.md)
 - [Multi-Agent AI Control: Distributed Attacks Hamper Per-Instance Monitors](artificial-intelligence/2026-07-08-multi-agent-ai-control-distributed-attacks.md)
+- [Apodex 1.1: Scaling Agentic Intelligence for Complex Work](artificial-intelligence/2026-08-23-apodex-1-1-scaling-agentic-intelligence-complex-work.md)
+- [FrontierChallenge: Evaluating Scientific Workflow Completion](artificial-intelligence/2026-08-25-frontiercchallenge-evaluating-scientific-workflow-completion.md)
 
 ## Computer Vision
 
@@ -373,6 +375,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [On Transformer Dynamics](machine-learning/2026-07-22-transformer-dynamics-manifold-geometry.md)
 - [Flow-Map GRPO: Reinforcement Learning for Few-Step Flow-Map Generators via Anchored Stochastic Composition](machine-learning/2026-07-01-flow-map-grpo-reinforcement-learning-few-step-flow-generators.md)
 - [A Controlled Study of Attention-Only Transformers](machine-learning/2026-07-20-controlled-study-attention-only-transformers.md)
+- [Cracks in the Foundation: Seemingly Minor Architectural Choices Impact Long Context Extension](machine-learning/2026-08-10-cracks-foundation-architectural-choices-long-context.md)
 
 ## Natural Language Processing
 
