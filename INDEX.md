@@ -123,6 +123,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [Towards Adaptive, Scalable, and Robust Coordination of LLM Agents: A Dynamic Ad-Hoc Networking Perspective](llm-agents-dev/agent-orchestration/2026-02-08-raps-adaptive-coordination-llm-agents.md)
 - [DeepCode: Open Agentic Coding](llm-agents-dev/agent-orchestration/2025-12-08-deepcode-open-agentic-coding.md)
 - [The Orchestration of Multi-Agent Systems: Architectures, Protocols, and Enterprise Adoption](llm-agents-dev/agent-orchestration/2026-01-20-orchestration-multi-agent-systems-architectures.md)
+- [Effective Strategies for Asynchronous Software Engineering Agents](llm-agents-dev/agent-orchestration/2026-03-23-effective-strategies-asynchronous-software-engineering-agents.md)
 - [ABSTRAL: Automated Multi-Agent System Design via Skill-Referenced Adaptive Search](llm-agents-dev/agent-orchestration/2026-03-24-abstral-automated-multi-agent-system-design.md)
 - [AgentForge: Execution-Grounded Multi-Agent LLM Framework for Autonomous Software Engineering](llm-agents-dev/agent-orchestration/2026-04-06-agentforge-execution-grounded-multi-agent-framework.md)
 - [EvoAgent: An Evolvable Agent Framework with Skill Learning and Multi-Agent Delegation](llm-agents-dev/agent-orchestration/2026-04-22-evoagent-evolvable-agent-framework-skill-learning.md)
@@ -188,6 +189,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [Understanding Multi-Agent LLM Frameworks: A Unified Benchmark and Experimental Analysis](llm-agents-dev/multi-agent-topologies/2026-06-15-understanding-multi-agent-llm-frameworks-benchmark.md)
 - [LLM Consortium for Software Design Refinement: A Controlled Experiment on Multi-Agent Collaboration Topologies](llm-agents-dev/multi-agent-topologies/2026-06-01-llm-consortium-software-design-collaboration-topologies.md)
 - [AgensFlow: A Coordination-Policy Substrate for Multi-Agent Systems](llm-agents-dev/multi-agent-topologies/2026-05-26-agensflow-coordination-policy-multi-agent.md)
+- [Developing LLM-based Multi-Agent Systems in Software Engineering: A Mixed-Method Experience Report](llm-agents-dev/multi-agent-topologies/2026-08-28-developing-llm-multi-agent-systems-se-experience-report.md)
 
 ### Program Synthesis
 
@@ -269,6 +271,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 
 ### Skill Based Agents
 
+- [SkillMaster: Toward Autonomous Skill Mastery in LLM Agents](llm-agents-dev/skill-based-agents/2026-05-09-skillmaster-autonomous-skill-mastery-llm-agents.md)
 - [MIND-Skill: Quality-Guaranteed Skill Generation via Multi-Agent Induction and Deduction](llm-agents-dev/skill-based-agents/2026-05-26-mind-skill-quality-guaranteed-generation.md)
 - [SkillAxe: Sharpening LLM-Authored Agent Skills Through Evaluation-Guided Self-Refinement](llm-agents-dev/skill-based-agents/2026-06-10-skillaxe-evaluation-guided-agent-skills.md)
 - [EffiSkill: Agent Skill Based Automated Code Efficiency Optimization](llm-agents-dev/skill-based-agents/2026-06-18-effiskill-agent-skill-code-efficiency-optimization.md)
