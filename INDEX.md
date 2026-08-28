@@ -551,6 +551,10 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [A Comparative Analysis of Interpretable Machine Learning Methods](xai/inherently-interpretable-models/2026-01-01-comparative-analysis-interpretable-ml-methods.md)
 - [Towards Intrinsic Interpretability of Large Language Models: A Survey of Design Principles and Architectures](xai/inherently-interpretable-models/2026-04-17-intrinsic-interpretability-llm-survey.md)
 
+### Local Interpretability
+
+- [Interpretable AI with Local Distillation](xai/local-interpretability/2026-08-24-interpretable-ai-local-distillation.md)
+
 ### Mechanistic Interpretability
 
 - [A Survey on Sparse Autoencoders: Interpreting the Internal Mechanisms of Large Language Models](xai/mechanistic-interpretability/2025-03-07-survey-sparse-autoencoders-llm-mechanisms.md)
