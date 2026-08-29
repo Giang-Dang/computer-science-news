@@ -17,6 +17,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 
 - [AI Co-Mathematician: Accelerating Mathematicians with Agentic AI](artificial-intelligence/2026-05-07-ai-co-mathematician-accelerating-mathematicians-with-agentic-ai.md)
 - [From AGI to ASI: Pathways to Artificial Superintelligence](artificial-intelligence/2026-06-10-from-agi-to-asi-pathways-superintelligence.md)
+- [InternVideo3: Agentify Foundation Models with Multimodal Contextual Reasoning](artificial-intelligence/2026-06-12-internvideo3-agentify-foundation-models-multimodal-reasoning.md)
 - [AI Index Report 2026: Governance, Evaluation, and Safety in the Age of Rapid AI Progress](artificial-intelligence/2026-06-14-ai-index-report-2026-governance-evaluation-safety.md)
 - [MOSS: Self-Evolution through Source-Level Rewriting in Autonomous Agent Systems](artificial-intelligence/2026-05-21-moss-self-evolution-through-source-level-rewriting-in-autonomous-agent-systems.md)
 - [Agentic Artificial Intelligence: Architectures, Taxonomies, and Evaluation of Large Language Model Agents](artificial-intelligence/2026-06-01-agentic-ai-architectures-taxonomies-evaluation.md)
@@ -280,6 +281,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 
 ## Machine Learning
 
+- [Improving the Matrix Multiplication Exponent with Modern Optimization and AlphaEvolve](machine-learning/2026-08-17-improving-matrix-multiplication-exponent-alphaevolve.md)
 - [Neuro-Relational Programs: Unifying Queries and Neural Computation over Structured Data](machine-learning/2026-06-21-neuro-relational-programs-neural-structured-data.md)
 - [Reversal Q-Learning: Off-Policy RL via Flow Matching and Virtual Trajectory Generation](machine-learning/2026-06-16-reversal-q-learning.md)
 - [Protein Dynamics Beyond Structure Prediction](machine-learning/2026-06-08-protein-dynamics-beyond-structure-prediction.md)
@@ -464,6 +466,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [EnerInfer: Energy-Aware On-Device LLM Inference](systems/2026-06-06-enerinfer-energy-aware-on-device-llm-inference.md)
 - [Sangam: Efficiently Serving Diffusion LLMs with the AR Stack](systems/2026-07-05-sangam-efficiently-serving-diffusion-llms.md)
 - [Memory Scarcity, Open Models, and the Restructuring of the AI Industry, 2026-2030](systems/2026-07-08-memory-scarcity-ai-industry-restructuring.md)
+- [Distributed Training using an Intelligent Network](systems/2026-08-24-distributed-training-intelligent-network.md)
 
 ## XAI
 
