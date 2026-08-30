@@ -603,6 +603,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 ### Theoretical Foundations
 
 - [The Limits of AI Explainability: An Algorithmic Information Theory Approach](xai/theoretical-foundations/2025-04-29-the-limits-of-ai-explainability-algorithmic-information-theory.md)
+- [Interpreting "Interpretability" and Explaining "Explainability" in Machine Learning in Physics](xai/theoretical-foundations/2026-06-24-interpreting-interpretability-explainability-physics.md)
 
 ### XAI Surveys
 
