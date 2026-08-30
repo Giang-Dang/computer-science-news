@@ -15,6 +15,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 
 ## Artificial Intelligence
 
+- [Mathematics in the Age of AI](artificial-intelligence/2026-08-17-mathematics-in-the-age-of-ai-terence-tao.md)
 - [AI Co-Mathematician: Accelerating Mathematicians with Agentic AI](artificial-intelligence/2026-05-07-ai-co-mathematician-accelerating-mathematicians-with-agentic-ai.md)
 - [From AGI to ASI: Pathways to Artificial Superintelligence](artificial-intelligence/2026-06-10-from-agi-to-asi-pathways-superintelligence.md)
 - [AI Index Report 2026: Governance, Evaluation, and Safety in the Age of Rapid AI Progress](artificial-intelligence/2026-06-14-ai-index-report-2026-governance-evaluation-safety.md)
@@ -30,6 +31,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 
 ## Computer Vision
 
+- [GRNEdit: Efficient General Video Editing from a New Binary-Evidence Perspective in Generative Refinement Networks](computer-vision/2026-08-20-grnedit-general-video-editing-binary-evidence.md)
 - [Vision Pretraining for Dense Spatial Perception](computer-vision/2026-07-06-vision-pretraining-dense-spatial-perception-lingbot.md)
 - [NTIRE 2026 Challenge on Video Saliency Prediction: Methods and Results](computer-vision/2026-04-28-ntire-2026-video-saliency-prediction-challenge.md)
 - [DynaTok: Token-Based 4D Reconstruction from Partial Point Clouds](computer-vision/2026-06-06-dynatoks-token-based-4d-reconstruction.md)
@@ -430,6 +432,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 
 ## Robotics
 
+- [Co-design of Neural and Muscle Network Based on Embodied Perceptron Representation](robotics/2026-08-17-co-design-neural-muscle-network-embodied-perceptron.md)
 - [V2V-LLM: Vehicle-to-Vehicle Cooperative Autonomous Driving with Multimodal Large Language Models](robotics/2025-02-16-v2v-llm-cooperative-autonomous-driving-multimodal.md)
 - [UniVLA: Unified Vision-Language-Action Model](robotics/2025-06-24-univla-unified-vision-language-action-model.md)
 - [UniDriveVLA: Unifying Understanding, Perception, and Action Planning for Autonomous Driving](robotics/2026-04-02-unidrivevla-unified-autonomous-driving-perception-action.md)
