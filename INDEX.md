@@ -373,6 +373,8 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [On Transformer Dynamics](machine-learning/2026-07-22-transformer-dynamics-manifold-geometry.md)
 - [Flow-Map GRPO: Reinforcement Learning for Few-Step Flow-Map Generators via Anchored Stochastic Composition](machine-learning/2026-07-01-flow-map-grpo-reinforcement-learning-few-step-flow-generators.md)
 - [A Controlled Study of Attention-Only Transformers](machine-learning/2026-07-20-controlled-study-attention-only-transformers.md)
+- [Agentic Reinforcement Learning with Observation-Calibrated Self-Distillation](machine-learning/2026-08-05-agentic-rl-observation-calibrated-self-distillation.md)
+- [Designing Reinforcement Learning for Diffusion Models: A Unified Path-Space View](machine-learning/2026-08-14-designing-rl-diffusion-unified-path-space-view.md)
 
 ## Natural Language Processing
 
@@ -457,6 +459,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [Post-Deterministic Distributed Systems: A New Foundation for Trustworthy Autonomous Infrastructure](systems/2026-06-06-post-deterministic-distributed-systems-autonomous-infrastructure.md)
 - [SparDA: Sparse Decoupled Attention for Efficient Long-Context LLM Inference](systems/2026-06-04-sparda-sparse-attention-efficient-inference.md)
 - [End-to-End Context Compression at Scale](systems/2026-06-09-context-compression-scale.md)
+- [INFRAMIND: Infrastructure-Aware Multi-Agent Orchestration](systems/2026-06-09-inframind-infrastructure-aware-multi-agent-orchestration.md)
 - [JetSpec: Breaking the Scaling Ceiling of Speculative Decoding with Parallel Tree Drafting](systems/2026-06-16-jetspec-speculative-decoding-tree-drafting.md)
 - [Towards Effective Orchestration of AI x DB Workloads](systems/2026-03-04-ai-db-workload-orchestration.md)
 - [SAW-INT4: System-Aware 4-Bit KV-Cache Quantization for Real-World LLM Serving](systems/2026-04-03-saw-int4-kv-cache-quantization-real-world-llm-serving.md)
