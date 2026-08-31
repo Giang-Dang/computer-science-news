@@ -188,6 +188,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [Understanding Multi-Agent LLM Frameworks: A Unified Benchmark and Experimental Analysis](llm-agents-dev/multi-agent-topologies/2026-06-15-understanding-multi-agent-llm-frameworks-benchmark.md)
 - [LLM Consortium for Software Design Refinement: A Controlled Experiment on Multi-Agent Collaboration Topologies](llm-agents-dev/multi-agent-topologies/2026-06-01-llm-consortium-software-design-collaboration-topologies.md)
 - [AgensFlow: A Coordination-Policy Substrate for Multi-Agent Systems](llm-agents-dev/multi-agent-topologies/2026-05-26-agensflow-coordination-policy-multi-agent.md)
+- [When Evidence Shapes Collaboration: Knowledge-Conditioned Topology Generation for Multi-Agent Systems](llm-agents-dev/multi-agent-topologies/2026-08-28-knowledge-conditioned-topology-generation.md)
 
 ### Program Synthesis
 
@@ -273,6 +274,8 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [SkillAxe: Sharpening LLM-Authored Agent Skills Through Evaluation-Guided Self-Refinement](llm-agents-dev/skill-based-agents/2026-06-10-skillaxe-evaluation-guided-agent-skills.md)
 - [EffiSkill: Agent Skill Based Automated Code Efficiency Optimization](llm-agents-dev/skill-based-agents/2026-06-18-effiskill-agent-skill-code-efficiency-optimization.md)
 - [Harnessing Agent Skills: Architectural Patterns and a Reference Architecture for Skill-Mediated LLM Agents](llm-agents-dev/skill-based-agents/2026-06-29-harnessing-agent-skills-architectural-patterns.md)
+- [Progressive Agent Skill Generation via Reinforcement Learning](llm-agents-dev/skill-based-agents/2026-08-03-progressive-agent-skill-generation-reinforcement-learning.md)
+- [Self-Evolving Coding Agents](llm-agents-dev/skill-based-agents/2026-08-04-self-evolving-coding-agents.md)
 
 ### Multi Modal Orchestration
 
