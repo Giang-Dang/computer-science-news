@@ -493,6 +493,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 
 - [Concept-Based Mechanistic Interpretability Using Structured Knowledge Graphs](xai/concept-based-explanations/2025-07-08-concept-based-mechanistic-interpretability-knowledge-graphs.md)
 - [GCAV: A Global Concept Activation Vector Framework for Cross-Layer Consistency in Interpretability](xai/concept-based-explanations/2025-08-28-gcav-global-concept-activation-vectors-cross-layer-consistency.md)
+- [ConceptFlow: Hierarchical and Fine-grained Concept-Based Explanation for Convolutional Neural Networks](xai/concept-based-explanations/2025-09-16-conceptflow-hierarchical-fine-grained-concepts.md)
 - [Atlas-Alignment: Making Interpretability Transferable Across Language Models](xai/concept-based-explanations/2025-10-27-atlas-alignment-interpretability-transfer-language-models.md)
 - [Interpretable and Steerable Concept Bottleneck Sparse Autoencoders](xai/concept-based-explanations/2025-12-13-concept-bottleneck-sparse-autoencoders.md)
 - [Causal Neural Probabilistic Circuits: Causally-Faithful Interventions in Concept Bottleneck Models](xai/concept-based-explanations/2026-03-02-causal-neural-probabilistic-circuits-concept-bottleneck-models.md)
