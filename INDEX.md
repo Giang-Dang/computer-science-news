@@ -108,6 +108,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [MAGiSt3R: Multi-Agent Feed-forward 3D Reconstruction from Monocular RGB Videos](computer-vision/2026-07-16-magist3r-multi-agent-3d-reconstruction.md)
 - [Video = World + Event Stream: Real-time Interactive Foundation Models for Embodied AI](computer-vision/2026-07-16-video-world-event-stream-embodied-ai.md)
 - [Opto-ViT-v2: Noise-Resilient On-Chip Fine-Tuning for Photonic Near-Sensor Vision Transformer Accelerators](computer-vision/2026-07-20-opto-vit-v2-photonic-vision-transformer.md)
+- [On the Resilience of Text-to-Video Diffusion Models to Hardware Faults](computer-vision/2026-08-30-text-to-video-diffusion-hardware-faults.md)
 
 ## LLM Agents & Development
 
@@ -373,6 +374,8 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [On Transformer Dynamics](machine-learning/2026-07-22-transformer-dynamics-manifold-geometry.md)
 - [Flow-Map GRPO: Reinforcement Learning for Few-Step Flow-Map Generators via Anchored Stochastic Composition](machine-learning/2026-07-01-flow-map-grpo-reinforcement-learning-few-step-flow-generators.md)
 - [A Controlled Study of Attention-Only Transformers](machine-learning/2026-07-20-controlled-study-attention-only-transformers.md)
+- [Full-Bandwidth Transformer](machine-learning/2026-08-09-full-bandwidth-transformer.md)
+- [Deep Reinforcement Learning: From First Principles to Reasoning Models](machine-learning/2026-08-01-deep-reinforcement-learning-first-principles-reasoning.md)
 
 ## Natural Language Processing
 
