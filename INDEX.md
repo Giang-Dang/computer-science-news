@@ -162,6 +162,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [Agents in the Wild: Where Research Meets Deployment](llm-agents-dev/agent-orchestration/2026-07-19-agents-in-wild-research-meets-deployment.md)
 - [Difficulty-Aware Agentic Orchestration for Query-Specific Multi-Agent Workflows](llm-agents-dev/agent-orchestration/2026-09-11-difficulty-aware-agentic-orchestration-query-workflows.md)
 - [AAFLOW: Scalable Patterns for Agentic AI Workflows](llm-agents-dev/agent-orchestration/2026-05-04-aaflow-scalable-patterns-agentic-workflows.md)
+- [Coordination as an Architectural Layer for LLM-Based Multi-Agent Systems](llm-agents-dev/agent-orchestration/2026-05-12-coordination-architectural-layer-multi-agent-llm.md)
 
 ### Code Reasoning
 
@@ -206,6 +207,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [Constraint Decay: The Fragility of LLM Agents in Backend Code Generation](llm-agents-dev/code-generation/2026-05-06-constraint-decay-fragility-backend-code-generation.md)
 - [SEW: Self-Evolving Agentic Workflows for Automated Code Generation](llm-agents-dev/code-generation/2025-05-18-sew-self-evolving-agentic-workflows.md)
 - [Think Anywhere in Code Generation: Interleaved Reasoning for Adaptive LLM Problem-Solving](llm-agents-dev/code-generation/2026-03-26-think-anywhere-interleaved-reasoning-code-generation.md)
+- [A Survey on Code Generation with LLM-based Agents](llm-agents-dev/code-generation/2026-08-10-survey-code-generation-llm-agents.md)
 
 ### Software Development
 
@@ -239,6 +241,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [LogicHunter: Testing LLM Agent Frameworks with an Agentic Oracle](llm-agents-dev/testing-debugging/2026-07-06-logichunter-testing-agent-frameworks-agentic-oracle.md)
 - [ChainSWE: Benchmarking Coding Agents on Multi-Bug Software Maintenance](llm-agents-dev/testing-debugging/2026-07-01-chainswe-benchmarking-multi-bug-software-maintenance.md)
 - [Long-Horizon-Terminal-Bench: Testing the Limits of Agents on Long-Horizon Terminal Tasks with Dense Reward-Based Grading](llm-agents-dev/testing-debugging/2026-07-09-long-horizon-terminal-bench-dense-reward-grading.md)
+- [Sherlock: Reliable and Efficient Agentic Workflow Execution](llm-agents-dev/testing-debugging/2026-08-15-sherlock-reliable-efficient-agentic-workflow-execution.md)
 
 ### Tool Use
 
