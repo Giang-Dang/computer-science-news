@@ -500,6 +500,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [Learning Concept Bottleneck Models from Mechanistic Explanations (M-CBM)](xai/concept-based-explanations/2026-03-07-mechanistic-cbm-concept-bottleneck-sparse-autoencoders.md)
 - [Hyperbolic Concept Bottleneck Models](xai/concept-based-explanations/2026-05-07-hyperbolic-concept-bottleneck-models.md)
 - [α-TCAV: A Unified Framework for Testing with Concept Activation Vectors](xai/concept-based-explanations/2026-05-15-alpha-tcav-unified-framework-concept-activation-vectors.md)
+- [Concept-Based Abductive and Contrastive Explanations for Behaviors of Vision Models](xai/concept-based-explanations/2026-06-05-concept-based-abductive-contrastive-explanations-vision-models.md)
 - [Leakage and Interpretability in Concept-Based Models](xai/concept-based-explanations/2025-04-18-leakage-interpretability-concept-based-models.md)
 - [A Comprehensive Survey on the Risks and Limitations of Concept-based Models](xai/concept-based-explanations/2025-06-25-comprehensive-survey-risks-limitations-concept-based-models.md)
 - [Hierarchical Concept-based Interpretable Models](xai/concept-based-explanations/2025-02-24-hierarchical-concept-embedding-models.md)
