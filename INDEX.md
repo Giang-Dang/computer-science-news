@@ -160,6 +160,8 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [Agent Reinforcement Learning via Pivotal-Aware Self-Feedback Retry](llm-agents-dev/agent-orchestration/2026-07-04-agent-reinforcement-learning-pivotal-aware-self-feedback.md)
 - [AgentScope 1.0: A Developer-Centric Framework for Building Agentic Applications](llm-agents-dev/agent-orchestration/2026-08-25-agentscope-1-0-developer-centric-agentic-framework.md)
 - [Agents in the Wild: Where Research Meets Deployment](llm-agents-dev/agent-orchestration/2026-07-19-agents-in-wild-research-meets-deployment.md)
+- [ProgRouter: Online Progress-Guided Orchestration for Multi-Agent LLM Workflows under Quality-Cost Tradeoffs](llm-agents-dev/agent-orchestration/2026-08-25-progrouter-online-progress-guided-orchestration-workflows.md)
+- [Zero-Shot Self-Orchestration with Ledger-Based Control for Improved LLM Coding Performance](llm-agents-dev/agent-orchestration/2026-08-26-zero-shot-self-orchestration-ledger-based-control.md)
 - [Difficulty-Aware Agentic Orchestration for Query-Specific Multi-Agent Workflows](llm-agents-dev/agent-orchestration/2026-09-11-difficulty-aware-agentic-orchestration-query-workflows.md)
 - [AAFLOW: Scalable Patterns for Agentic AI Workflows](llm-agents-dev/agent-orchestration/2026-05-04-aaflow-scalable-patterns-agentic-workflows.md)
 
@@ -239,6 +241,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [LogicHunter: Testing LLM Agent Frameworks with an Agentic Oracle](llm-agents-dev/testing-debugging/2026-07-06-logichunter-testing-agent-frameworks-agentic-oracle.md)
 - [ChainSWE: Benchmarking Coding Agents on Multi-Bug Software Maintenance](llm-agents-dev/testing-debugging/2026-07-01-chainswe-benchmarking-multi-bug-software-maintenance.md)
 - [Long-Horizon-Terminal-Bench: Testing the Limits of Agents on Long-Horizon Terminal Tasks with Dense Reward-Based Grading](llm-agents-dev/testing-debugging/2026-07-09-long-horizon-terminal-bench-dense-reward-grading.md)
+- [TDD-Agent: Test-Driven Reasoning for Code Generation](llm-agents-dev/testing-debugging/2026-08-26-tdd-agent-test-driven-reasoning-code-generation.md)
 
 ### Tool Use
 
