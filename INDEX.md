@@ -602,6 +602,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 
 ### Theoretical Foundations
 
+- [The Standard Interpretable Model: A General Theory of Interpretable Machine Learning Using Lagrangian Mechanics](xai/theoretical-foundations/2026-06-10-standard-interpretable-model-lagrangian-mechanics.md)
 - [The Limits of AI Explainability: An Algorithmic Information Theory Approach](xai/theoretical-foundations/2025-04-29-the-limits-of-ai-explainability-algorithmic-information-theory.md)
 
 ### XAI Surveys
