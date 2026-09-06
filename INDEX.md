@@ -525,6 +525,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [Why AI-Generated Text Detection Fails: Evidence from Explainable AI Beyond Benchmark Accuracy](xai/feature-attribution/2026-03-24-why-ai-text-detection-fails-explainable-ai-beyond-benchmark.md)
 - [GRAFT: Auditing Graph Neural Networks via Global Feature Attribution](xai/feature-attribution/2026-05-05-graft-gnn-global-feature-attribution.md)
 - [FAMeX: A New Technique for AI Explainability using Feature Association Map](xai/feature-attribution/2026-05-12-famex-feature-association-map-explainability.md)
+- [RoSHAP: A Distributional Framework and Robust Metric for Stable Feature Attribution](xai/feature-attribution/2026-05-14-roshap-robust-stable-feature-attribution.md)
 - [Attributions All the Way Down? The Metagame of Interpretability](xai/feature-attribution/2026-05-23-attributions-all-the-way-down-metagame.md)
 - [Faithfulness Metrics Don't Measure Faithfulness: A Meta-Evaluation with Ground Truth](xai/feature-attribution/2026-05-24-faithfulness-metrics-dont-measure-faithfulness.md)
 - [Feature Attribution from First Principles](xai/feature-attribution/2025-05-30-feature-attribution-first-principles.md)
