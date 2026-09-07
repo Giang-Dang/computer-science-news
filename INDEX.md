@@ -602,6 +602,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 
 ### Theoretical Foundations
 
+- [Investigating the Duality of Interpretability and Explainability in Machine Learning](xai/theoretical-foundations/2025-03-27-duality-interpretability-explainability-integration-framework.md)
 - [The Limits of AI Explainability: An Algorithmic Information Theory Approach](xai/theoretical-foundations/2025-04-29-the-limits-of-ai-explainability-algorithmic-information-theory.md)
 
 ### XAI Surveys
