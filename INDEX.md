@@ -539,6 +539,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [Do Metrics for Counterfactual Explanations Align with User Perception?](xai/human-centered-explainability/2026-03-16-do-metrics-align-user-perception.md)
 - [DEX-AR: A Dynamic Explainability Method for Autoregressive Vision-Language Models](xai/human-centered-explainability/2026-03-06-dex-ar-dynamic-explainability-autoregressive-vision-language-models.md)
 - [Explainable AI for Blind and Low-Vision Users: Navigating Trust, Modality, and Interpretability in the Agentic Era](xai/human-centered-explainability/2026-04-02-explainable-ai-blind-low-vision-users.md)
+- [A Two-Stage LLM Framework for Accessible and Verified XAI Explanations](xai/human-centered-explainability/2026-04-12-two-stage-llm-framework-accessible-verified-xai-explanations.md)
 - [Assessing Model-Agnostic XAI Methods against EU AI Act Explainability Requirements](xai/human-centered-explainability/2026-04-18-xai-methods-eu-ai-act-requirements.md)
 - [Understanding Annotator Safety Policy with Interpretability](xai/human-centered-explainability/2026-05-06-understanding-annotator-safety-policy-interpretability.md)
 - [Explainable AI Isn't Enough! Rethinking Algorithmic Contestability](xai/human-centered-explainability/2026-05-15-algorithmic-contestability-xai-beyond-recourse.md)
