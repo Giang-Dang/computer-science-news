@@ -545,6 +545,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [VirtualXAI: A User-Centric Framework for Explainability Assessment Leveraging GPT-Generated Personas](xai/human-centered-explainability/2025-03-06-virtualxai-user-centric-explainability-assessment.md)
 - [Transparent AI: The Case for Interpretability and Explainability](xai/human-centered-explainability/2025-07-31-transparent-ai-practical-interpretability-implementation.md)
 - [Radical AI Interpretability: A Philosophical Framework for Understanding AI Agents](xai/human-centered-explainability/2026-06-25-radical-ai-interpretability.md)
+- [From Interpretability Methods to Interpretable Models](xai/human-centered-explainability/2026-09-04-from-interpretability-methods-to-interpretable-models.md)
 
 ### Inherently Interpretable Models
 
