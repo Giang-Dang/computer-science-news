@@ -686,6 +686,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [Interpreto: An Explainability Library for Transformers](xai/feature-attribution/2025-12-17-interpreto-explainability-library-transformers.md)
 - [Explainability of Complex AI Models with Correlation Impact Ratio (ExCIR)](xai/feature-attribution/2026-01-10-excir-correlation-impact-ratio.md)
 - [FreqLens: Interpretable Frequency Attribution for Time Series Forecasting](xai/feature-attribution/2026-02-09-freqlens-interpretable-frequency-attribution-time-series.md)
+- [Feature Salience – Not Task-Informativeness – Drives Machine Learning Model Explanations](xai/feature-attribution/2026-02-09-feature-salience-not-task-informativeness-xai.md)
 - [Statistical Inference and Learning for Shapley Additive Explanations (SHAP)](xai/feature-attribution/2026-02-11-statistical-inference-learning-shap.md)
 - [Explainable AI: Context-Aware Layer-Wise Integrated Gradients for Explaining Transformer Models](xai/feature-attribution/2026-02-18-context-aware-layer-wise-ig-transformers.md)
 - [Why AI-Generated Text Detection Fails: Evidence from Explainable AI Beyond Benchmark Accuracy](xai/feature-attribution/2026-03-24-why-ai-text-detection-fails-explainable-ai-beyond-benchmark.md)
