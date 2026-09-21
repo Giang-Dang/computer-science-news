@@ -725,6 +725,10 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [Trustworthy AI in Digital Health: A Comprehensive Review of Robustness and Explainability](xai/human-centered-explainability/2026-08-03-trustworthy-ai-digital-health.md)
 - [From Interpretability Methods to Interpretable Models](xai/human-centered-explainability/2026-09-04-from-interpretability-methods-to-interpretable-models.md)
 
+### Conversational Explainability
+
+- [Explainability Assistant: A Conversational XAI Interface for Interpreting Energy Consumption Models](xai/conversational-explainability/2026-09-10-explainability-assistant-conversational-xai.md)
+
 ### Inherently Interpretable Models
 
 - [A Comparative Analysis of Interpretable Machine Learning Methods](xai/inherently-interpretable-models/2026-01-01-comparative-analysis-interpretable-ml-methods.md)
