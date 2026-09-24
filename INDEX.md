@@ -789,6 +789,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [When Structured Sparse Autoencoders Learn Consistent Concepts Across Modalities](xai/mechanistic-interpretability/2026-07-09-structured-sparse-autoencoders-multimodal-concepts.md)
 - [Intrinsic Structure: Spectral Identifiability for Mechanistic Interpretability](xai/mechanistic-interpretability/2026-08-10-intrinsic-structure-spectral-identifiability-mechanistic-interpretability.md)
 - [Spectral Outliers Reveal Dominant Learned Structure in Transformer Attention](xai/mechanistic-interpretability/2026-08-08-spectral-outliers-transformer-attention.md)
+- [The Misery of Mechanistic Interpretability: A Formal Perspective](xai/mechanistic-interpretability/2026-09-18-misery-mechanistic-interpretability-formal-perspective.md)
 
 ### Self Explaining Models
 
