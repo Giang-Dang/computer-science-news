@@ -739,6 +739,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 
 ### Mechanistic Interpretability
 
+- [PhysSAE: Mechanistic Interpretability with Sparse Autoencoders](xai/mechanistic-interpretability/2026-09-07-physsae-mechanistic-interpretability-sparse-autoencoders.md)
 - [Open Problems in Mechanistic Interpretability](xai/mechanistic-interpretability/2025-01-27-open-problems-mechanistic-interpretability.md)
 - [CircuitProbe: Predicting Reasoning Circuits in Transformers via Stability Zone Detection](xai/mechanistic-interpretability/2026-04-01-circuitprobe-reasoning-circuits-stability-detection.md)
 - [Efficient Auto-Interpretability of AI Models in Biology](xai/mechanistic-interpretability/2026-08-27-efficient-auto-interpretability-ai-biology.md)
