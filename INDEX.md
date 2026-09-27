@@ -792,6 +792,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 
 ### Self Explaining Models
 
+- [Explain Yourself, Briefly! Self-Explaining Neural Networks with Concise Sufficient Reasons](xai/self-explaining-models/2025-02-03-explain-yourself-briefly-sufficient-reasons.md)
 - [Self-Interpretability: LLMs Can Describe Complex Internal Processes that Drive Their Decisions](xai/self-explaining-models/2025-05-21-self-interpretability-llms-internal-processes.md)
 
 ### Theoretical Foundations
