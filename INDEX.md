@@ -711,6 +711,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [From Interpretability to Control: Insights from Six Years of the TrustNLP Workshop](xai/human-centered-explainability/2026-08-11-from-interpretability-control-trustnlp-workshop-insights.md)
 - [Beyond Explainable AI (XAI): An Overdue Paradigm Shift and Post-XAI Research Directions](xai/human-centered-explainability/2026-02-27-beyond-xai-paradigm-shift-post-xai-research-directions.md)
 - [Do Metrics for Counterfactual Explanations Align with User Perception?](xai/human-centered-explainability/2026-03-16-do-metrics-align-user-perception.md)
+- [Does Explanation Correctness Matter? Linking Computational XAI Evaluation to Human Understanding](xai/human-centered-explainability/2026-03-26-explanation-correctness-human-understanding.md)
 - [DEX-AR: A Dynamic Explainability Method for Autoregressive Vision-Language Models](xai/human-centered-explainability/2026-03-06-dex-ar-dynamic-explainability-autoregressive-vision-language-models.md)
 - [Explainable AI for Blind and Low-Vision Users: Navigating Trust, Modality, and Interpretability in the Agentic Era](xai/human-centered-explainability/2026-04-02-explainable-ai-blind-low-vision-users.md)
 - [A Two-Stage LLM Framework for Accessible and Verified XAI Explanations](xai/human-centered-explainability/2026-04-12-two-stage-llm-framework-accessible-verified-xai-explanations.md)
