@@ -652,6 +652,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [Causal Neural Probabilistic Circuits: Causally-Faithful Interventions in Concept Bottleneck Models](xai/concept-based-explanations/2026-03-02-causal-neural-probabilistic-circuits-concept-bottleneck-models.md)
 - [Mitigating Bias in Concept Bottleneck Models for Fair and Interpretable Image Classification](xai/concept-based-explanations/2026-03-06-mitigating-bias-concept-bottleneck-models.md)
 - [Learning Concept Bottleneck Models from Mechanistic Explanations (M-CBM)](xai/concept-based-explanations/2026-03-07-mechanistic-cbm-concept-bottleneck-sparse-autoencoders.md)
+- [Prototype-Grounded Concept Models for Verifiable Concept Alignment](xai/concept-based-explanations/2026-04-17-prototype-grounded-concept-models-verifiable-alignment.md)
 - [Hyperbolic Concept Bottleneck Models](xai/concept-based-explanations/2026-05-07-hyperbolic-concept-bottleneck-models.md)
 - [α-TCAV: A Unified Framework for Testing with Concept Activation Vectors](xai/concept-based-explanations/2026-05-15-alpha-tcav-unified-framework-concept-activation-vectors.md)
 - [Concept-Based Abductive and Contrastive Explanations for Behaviors of Vision Models](xai/concept-based-explanations/2026-06-05-concept-based-abductive-contrastive-explanations-vision-models.md)
