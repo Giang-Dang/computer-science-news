@@ -89,6 +89,10 @@ The framework supports **layer-by-layer analysis of semantic reasoning chains**,
 
 ConceptFlow's conceptual pathways mirror human reasoning chains—understanding how we progressively build complex concepts from simpler building blocks. This alignment improves both interpretability and trust.
 
+## Conceptual pathway construction
+
+The companion summary emphasizes how filter-level concept associations become pathways between adjacent layers. ConceptFlow uses Spearman rank relationships to identify candidate transitions and row-normalizes the resulting matrix, with a small numerical-stability term. Clustering transition matrices makes recurring inter-layer patterns easier to inspect without examining every filter pair. These pathways describe the model's learned conceptual associations; a pathway alone is not a causal intervention test.
+
 ## Methodology & Implementation
 
 ### Experimental Setup
