@@ -700,6 +700,9 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [Why Uncertainty Calibration Matters for Reliable Perturbation-based Explanations](xai/feature-attribution/2025-06-15-uncertainty-calibration-perturbation-based-explanations.md)
 - [Feature-Function Curvature Analysis: A Geometric Framework for Explaining Differentiable Models](xai/feature-attribution/2025-10-31-feature-function-curvature-analysis-geometric-framework.md)
 - [Saliency-R1: Enforcing Interpretable and Faithful Vision-language Reasoning via Saliency-map Alignment Reward](xai/feature-attribution/2026-04-06-saliency-r1-vision-language-reasoning.md)
+- [Feature salience - not task-informativeness - drives machine learning model explanations](xai/feature-attribution/2026-02-09-feature-salience-not-task-informativeness-xai.md)
+- [Which Modality Decides? Counterfactual Modality Attribution for Multimodal LLMs](xai/feature-attribution/2026-08-04-which-modality-decides-counterfactual-modality-attribution.md)
+- [Towards Rigorous Explainability by Feature Attribution](xai/feature-attribution/2026-04-17-towards-rigorous-explainability-feature-attribution.md)
 
 ### Human Centered Explainability
 
