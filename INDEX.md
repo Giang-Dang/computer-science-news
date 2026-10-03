@@ -660,6 +660,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [A Comprehensive Survey on the Risks and Limitations of Concept-based Models](xai/concept-based-explanations/2025-06-25-comprehensive-survey-risks-limitations-concept-based-models.md)
 - [Hierarchical Concept-based Interpretable Models](xai/concept-based-explanations/2025-02-24-hierarchical-concept-embedding-models.md)
 - [ConceptFlow: Hierarchical and Fine-grained Concept-Based Explanation for Convolutional Neural Networks](xai/concept-based-explanations/2025-09-16-conceptflow-hierarchical-concept-based-explanation.md)
+- [Prototype-Grounded Concept Models for Verifiable Concept Alignment](xai/concept-based-explanations/2026-04-17-prototype-grounded-concept-models-verifiable-alignment.md)
 
 ### Fairness Interpretability
 
