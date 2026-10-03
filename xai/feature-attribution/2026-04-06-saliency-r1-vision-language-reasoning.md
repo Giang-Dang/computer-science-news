@@ -1,5 +1,9 @@
 # Saliency-R1: Enforcing Interpretable and Faithful Vision-language Reasoning via Saliency-map Alignment Reward
 
+**ArXiv ID:** [2604.04500](https://arxiv.org/abs/2604.04500)  
+**Authors:** Shizhan Gong, Minda Hu, Qiyuan Zhang, Chen Ma, Qi Dou  
+**Submitted:** April 6, 2026
+
 ## Executive Summary
 
 Saliency-R1 introduces a novel framework for enhancing the interpretability and faithfulness of vision-language models (VLMs) by aligning saliency maps—visual attention regions—with human annotations through reinforcement learning. By tracing how visual information flows through the reasoning process to model outputs, this approach addresses critical trustworthiness concerns in VLMs while improving task performance.

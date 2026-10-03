@@ -1,5 +1,9 @@
 # AlignedServe: Orchestrating Prefix-Aware Batching to Build a High-Throughput and Computing-Efficient LLM Serving System
 
+**ArXiv ID:** [2605.23389](https://arxiv.org/abs/2605.23389)  
+**Authors:** Fengyao Bai, Hongbin Zhang, Zhitao Chen, Jiangsu Du, Zhiguang Chen, Yutong Lu  
+**Submitted:** May 22, 2026
+
 ## Executive Summary
 
 AlignedServe addresses a fundamental inefficiency in large language model serving systems: iteration-level GPU bubbles caused by heterogeneous request lengths within batches. The paper proposes a novel prefix-aware batching strategy that groups requests with similar prefix lengths, eliminating wasted GPU compute cycles where some requests complete early while others continue. Through intelligent batch scheduling and a disaggregated system architecture, AlignedServe achieves superior throughput and P99 latency compared to state-of-the-art systems (vLLM, DistServe, DeepServe-FastGen). This work demonstrates that simple yet effective alignment of batch composition to request characteristics can unlock significant performance gains in LLM inference infrastructure.

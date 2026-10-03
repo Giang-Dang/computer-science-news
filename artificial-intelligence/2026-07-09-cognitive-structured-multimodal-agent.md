@@ -1,5 +1,9 @@
 # Cognitive-structured Multimodal Agent for Multimodal Understanding, Generation, and Editing
 
+**ArXiv ID:** [2607.08497](https://arxiv.org/abs/2607.08497)  
+**Authors:** Feng Wang, Canmiao Fu, Zhipeng Huang, Chen Li, Jing Lyu, Ge Li  
+**Submitted:** July 9, 2026
+
 ## Executive Summary
 
 This paper introduces a cognitive-structured multimodal agent that leverages episodic visual memory to enhance multimodal understanding, generation, and editing tasks. The approach achieves 91.4% retrieval accuracy while reducing inference time from 23.1s to 12.7s per turn, representing significant advances in efficient multimodal reasoning for long-horizon dialogue tasks.

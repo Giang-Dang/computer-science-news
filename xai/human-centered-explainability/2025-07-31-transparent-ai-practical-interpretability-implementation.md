@@ -1,5 +1,9 @@
 # Transparent AI: The Case for Interpretability and Explainability
 
+**ArXiv ID:** [2507.23535](https://arxiv.org/abs/2507.23535)  
+**Authors:** Dhanesh Ramachandram, Himanshu Joshi, Judy Zhu, Dhari Gandhi, Lucas Hartman, Ananya Raval  
+**Submitted:** July 31, 2025
+
 ## Executive Summary
 
 This paper articulates why transparency has become foundational to responsible AI deployment, presenting practical insights from real-world interpretability implementations across healthcare, finance, and public administration. Rather than introducing new xAI methods, the paper bridges the critical gap between interpretability research and organizational practice, offering implementation strategies for institutions at various AI maturity levels and emphasizing interpretability as a core design principle—not an afterthought.

@@ -1,5 +1,9 @@
 # Fewer Tokens, Smaller Cache: Reward-Coordinated Efficient Reasoning
 
+**ArXiv ID:** [2608.04771](https://arxiv.org/abs/2608.04771)  
+**Authors:** Qiyuan Zhu, Dezhi Li, Pengyu Cheng, Tianle Chen, Jiacheng Wang, Ruijie Shen, Hao Gu, Sida Lin, et al.  
+**Submitted:** August 5, 2026
+
 ## Executive Summary
 
 This paper addresses a critical efficiency challenge in deploying large reasoning models: they generate unnecessarily long intermediate steps in chain-of-thought reasoning, significantly increasing inference costs through token generation and KV cache expansion. The authors propose a reward-coordinated token deletion mechanism that identifies and removes redundant tokens without sacrificing reasoning quality. By maintaining 60-70% of the original token count while preserving accuracy, this work enables economically viable deployment of large reasoning models in production systems, potentially reducing inference costs by up to 40% while maintaining equivalent reasoning performance.

@@ -1,5 +1,9 @@
 # Brain-Guided Language Models for Robust Reasoning
 
+**ArXiv ID:** [2606.11893](https://arxiv.org/abs/2606.11893)  
+**Authors:** Mingqing Xiao, Kai Du, Zhouchen Lin  
+**Submitted:** June 10, 2026
+
 ## Executive Summary
 
 This paper investigates whether large language models (LLMs) align with neural signals from reasoning-related brain regions and demonstrates that task-evoked brain signals can directly enhance model reasoning capabilities. By bridging neuroscience and AI, the work reveals that LLMs contain internal representations that partially align with human brain activity during reasoning tasks, and this alignment can be leveraged to improve reasoning performance across diverse model sizes (1.5B-72B parameters). This represents a groundbreaking interdisciplinary approach to understanding and improving LLM reasoning, opening new directions for biologically-informed optimization of language models.

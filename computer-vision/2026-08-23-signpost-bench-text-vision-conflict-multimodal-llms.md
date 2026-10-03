@@ -1,5 +1,9 @@
 # SIGNPOST-Bench: Benchmarking Text-Vision Conflict Resolution in Multimodal Large Language Models
 
+**ArXiv ID:** [2608.04244](https://arxiv.org/abs/2608.04244)  
+**Authors:** Sirun Li, Minghao Liu, Ling Dai, Yong Li, Haoxin Lyu, Junting Zhou, Fan Zhang  
+**Submitted:** August 4, 2026
+
 ## Executive Summary
 
 This paper introduces SIGNPOST-Bench, a controlled counterfactual benchmark designed to systematically evaluate how multimodal large language models (MLLMs) resolve conflicts between textual and visual information. Through carefully constructed scenarios where text and images deliberately contradict each other, the authors reveal systematic biases in how current MLLMs prioritize modalities and make decisions. This work is significant for improving the robustness and reliability of multimodal models in real-world applications where information conflicts are common, and for understanding fundamental mechanisms of multimodal reasoning.

@@ -1,5 +1,9 @@
 # When Interpretability Is Unequally Distributed: Fairness in Hybrid Interpretable Models
 
+**ArXiv ID:** [2605.28626](https://arxiv.org/abs/2605.28626)  
+**Authors:** Ziba Jabbar Zare, Ulrich Aïvodji, Julien Ferry, Thibaut Vidal  
+**Submitted:** May 27, 2026
+
 ## Executive Summary
 
 This paper exposes a critical yet overlooked fairness vulnerability in hybrid interpretable models: "Interpretability Coverage Disparity" (ICD). While hybrid models—which combine transparent decision-making with black-box fallback components—offer flexible accuracy-interpretability tradeoffs, demographic groups may systematically receive unequal access to interpretability. Some individuals consistently receive explainable decisions while others are disproportionately routed to opaque black-box components. This work formalizes ICD as a procedural fairness metric and demonstrates that simple coverage-disparity constraints can eliminate these disparities while maintaining model accuracy and performance.

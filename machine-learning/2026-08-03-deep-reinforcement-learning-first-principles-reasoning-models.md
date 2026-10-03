@@ -1,5 +1,9 @@
 # Deep Reinforcement Learning: From First Principles to Reasoning Models
 
+**ArXiv ID:** [2608.00133](https://arxiv.org/abs/2608.00133)  
+**Authors:** Ghoshana Bista  
+**Submitted:** July 31, 2026
+
 ## Executive Summary
 
 This comprehensive treatment traces the evolution of reinforcement learning from foundational dynamic programming and temporal difference learning through modern deep RL systems and reasoning models. By connecting classical algorithmic principles to contemporary applications like AlphaGo and reasoning-enhanced language models, the paper provides a unified framework for understanding why RL algorithms were developed, how they solve problems in practice, and how they integrate into modern AI systems for complex decision-making.

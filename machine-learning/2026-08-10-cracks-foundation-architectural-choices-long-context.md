@@ -1,5 +1,9 @@
 # Cracks in the Foundation: Seemingly Minor Architectural Choices Impact Long Context Extension
 
+**ArXiv ID:** [2608.10296](https://arxiv.org/abs/2608.10296)  
+**Authors:** Amanda Bertsch, Luca Soldaini, Matthew R. Gormley, Graham Neubig, Hannaneh Hajishirzi, Kyle Lo, Dirk Groeneveld  
+**Submitted:** August 10, 2026
+
 ## Executive Summary
 
 This paper reveals that seemingly minor architectural decisions in transformer models have compounding effects on long-context performance, with combined architectural choices reducing long-context accuracy by up to 47%. Through controlled ablations across major model families (Olmo, Llama, Qwen), the researchers identify four critical architectural variations that fundamentally impact how well models can extend beyond their pretraining context length, with implications for deploying LLMs requiring extended context windows.

@@ -1,5 +1,9 @@
 # InternVideo3: Agentify Foundation Models with Multimodal Contextual Reasoning
 
+**ArXiv ID:** [2606.12195](https://arxiv.org/abs/2606.12195)  
+**Authors:** Ziang Yan, Sheng Xia, Jiashuo Yu, Yue Wu, Tianxiang Jiang, Songze Li, Kanghui Tian, Yicheng Xu, et al.  
+**Submitted:** June 10, 2026
+
 ## Executive Summary
 
 InternVideo3 represents a significant advancement in agentic video understanding by introducing Multimodal Contextual Reasoning (MCR)—a closed-loop framework that treats video comprehension as continuous evidence accumulation and verification. Unlike traditional approaches that process videos frame-by-frame or with limited temporal context, MCR maintains an evolving context containing observations, reasoning, tool actions, and memory, enabling long-horizon video understanding and complex multi-step reasoning. This bridges a critical gap between text-dominant agentic systems and the challenges of sustained temporal understanding in video analysis.

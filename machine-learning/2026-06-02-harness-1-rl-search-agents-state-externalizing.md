@@ -1,5 +1,9 @@
 # Harness-1: Reinforcement Learning for Search Agents with State-Externalizing Harnesses
 
+**ArXiv ID:** [2606.02373](https://arxiv.org/abs/2606.02373)  
+**Authors:** Pengcheng Jiang, Zhiyi Shi, Kelly Hong, Xueqiang Xu, Jiashuo Sun, Jimeng Sun, Hammad Bashir, Jiawei Han  
+**Submitted:** June 1, 2026
+
 ## Executive Summary
 
 Harness-1 introduces a novel architecture for training search agents that externalizes state management to the environment rather than forcing the policy to handle both semantic decisions and routine bookkeeping. This 20B parameter model demonstrates that separating state concerns from decision-making significantly improves search agent training efficiency and reliability through reinforcement learning. The key innovation addresses a fundamental inefficiency in how RL agents are typically formulated—reducing wasted cognitive capacity on environment state tracking.

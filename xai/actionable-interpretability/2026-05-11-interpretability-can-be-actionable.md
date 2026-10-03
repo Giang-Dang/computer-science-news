@@ -1,8 +1,10 @@
 # Interpretability Can Be Actionable: Shifting Evaluation Criteria in Explainable AI Research
 
+**ArXiv ID:** [2605.11161](https://arxiv.org/abs/2605.11161)  
+**Authors:** Hadas Orgad, Fazl Barez, Tal Haklay, Isabelle Lee, Marius Mosbach, Anja Reusch, Naomi Saphra, Byron Wallace, et al.  
+**Submitted:** May 11, 2026
+
 **[ArXiv ID](https://arxiv.org/abs/2605.11161):** 2605.11161  
-**Authors:** Hadas Orgad, Fazl Barez, Tal Haklay, Isabelle Lee, Marius Mosbach, Anja Reusch, Naomi Saphra, Byron Wallace, Sarah Wiegreffe, Eric Wong, Ian Tenney, Mor Geva  
-**Submitted:** May 11, 2026  
 **Subfield:** Actionable Interpretability  
 **Keywords:** Evaluation Criteria for Explainable AI, Real-World Impact
 

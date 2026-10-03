@@ -1,10 +1,12 @@
 # End-to-End Context Compression at Scale
 
+**ArXiv ID:** [2606.09659](https://arxiv.org/abs/2606.09659)  
+**Authors:** Ang Li, Sean McLeish, Haozhe Chen, Nimit Kalra, Zaiqian Chen, Artem Gazizov, Venkata Anoop Suhas Kumar Morisetty, Bhavya Kailkhura, et al.  
+**Submitted:** June 8, 2026
+
 **Paper**: [2606.09659] End-to-End Context Compression at Scale
 
-**Authors**: Ang Li, Sean McLeish, Haozhe Chen, Nimit Kalra, Zaiqian Chen, Artem Gazizov, Venkata Anoop Suhas Kumar Morisetty, Bhavya Kailkhura, Harshitha Menon, Zhuang Liu, Brian R. Bartoldson, Tom Goldstein, Sanae Lotfi, Micah Goldblum, Pavel Izmailov
 
-**Submitted**: June 9, 2026
 
 **ArXiv Link**: https://arxiv.org/abs/2606.09659
 

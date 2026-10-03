@@ -1,5 +1,9 @@
 # Opto-ViT-v2: Noise-Resilient On-Chip Fine-Tuning for Photonic Near-Sensor Vision Transformer Accelerators
 
+**ArXiv ID:** [2607.19421](https://arxiv.org/abs/2607.19421)  
+**Authors:** Xuming Chen, Deniz Najafi, Mehrdad Morsali, Chengwei Zhou, Zahra Ghanaatianjobzari, Mahdi Nikdast, Shaahin Angizi, Gourav Datta  
+**Submitted:** July 20, 2026
+
 ## Executive Summary
 
 Opto-ViT-v2 presents the first parameter-efficient fine-tuning (PEFT) framework for silicon-photonic (SiPh) Vision Transformer accelerators, addressing the challenge of on-chip training with photonic hardware constraints. By combining tensorized low-rank decomposition with noise-resilient techniques, the system achieves energy-efficient adaptation of pre-trained models directly on photonic accelerators with minimal parameters (as few as 8K for ViT-Base), demonstrating practical on-chip learning while maintaining accuracy under photonic noise at over 100 KFPS/W performance.

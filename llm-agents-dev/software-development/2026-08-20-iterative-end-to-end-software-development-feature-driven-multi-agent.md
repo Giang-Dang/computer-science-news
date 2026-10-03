@@ -1,5 +1,9 @@
 # Towards Iterative End-to-End Software Development: A Feature-Driven Multi-Agent Framework
 
+**ArXiv ID:** [2511.02399](https://arxiv.org/abs/2511.02399)  
+**Authors:** Junwei Liu, Chen Xu, Chong Wang, Tong Bai, Weitong Chen, Kaseng Wong, Yiling Lou, Xin Peng  
+**Submitted:** November 4, 2025
+
 ## Executive Summary
 
 This paper introduces **EvoDev**, an iterative software development framework that decomposes complex user requirements into user-valued features with explicit dependency modeling, enabling multi-agent systems to handle large-scale, real-world software projects. EvoDev outperforms single-agent systems (including Claude Code) by 57.3%, demonstrating the power of feature-driven decomposition and multi-agent orchestration for autonomous software engineering.

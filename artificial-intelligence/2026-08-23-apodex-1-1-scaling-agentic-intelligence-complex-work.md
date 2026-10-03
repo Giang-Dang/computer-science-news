@@ -1,5 +1,9 @@
 # Apodex 1.1: Scaling Agentic Intelligence for Complex Work
 
+**ArXiv ID:** [2608.23283](https://arxiv.org/abs/2608.23283)  
+**Authors:** B. An, B. Li, B. Wang, B. Zhang, B. L. Wang, C. Feng, C. Wei, C. Xue, et al.  
+**Submitted:** August 24, 2026
+
 ## Executive Summary
 
 Apodex 1.1 introduces a framework for scaling agentic AI capabilities through two complementary dimensions: Environment Scaling, which expands the diversity and verifiability of executable file, search, and code environments, and Agentic Coordination Scaling, which enables agents to decompose complex tasks, delegate parallel work, and replan dynamically. The system achieves competitive performance with frontier models while using smaller 35B-parameter models, demonstrating that sustained, verifiable progress on real-world complex work requires both environmental capability and sophisticated coordination mechanisms.

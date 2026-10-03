@@ -1,5 +1,9 @@
 # Lumos-1: On Autoregressive Video Generation with Discrete Diffusion from a Unified Model Perspective
 
+**ArXiv ID:** [2507.08801](https://arxiv.org/abs/2507.08801)  
+**Authors:** Hangjie Yuan, Weihua Chen, Jun Cen, Hu Yu, Jingyun Liang, Shuning Chang, Zhihui Lin, Tao Feng, et al.  
+**Submitted:** July 11, 2025
+
 ## Executive Summary
 
 Lumos-1 presents a purely LLM-based unified architecture for autoregressive video generation that combines discrete diffusion with novel techniques for efficient training and inference. Introducing MM-RoPE (Multimodal Rotary Position Embedding) for proper spatiotemporal modeling and AR-DF (Autoregressive Discrete Diffusion Forcing) for frame-wise loss balancing, the model achieves competitive performance comparable to state-of-the-art systems like EMU3, COSMOS, and OpenSoraPlan while training on only 48 GPUs. This work establishes an efficient pathway for scaling unified autoregressive video generation without massive computational infrastructure.

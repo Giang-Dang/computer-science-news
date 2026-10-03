@@ -1,5 +1,9 @@
 # AgentJet: A Flexible Swarm Training Framework for Agentic Reinforcement Learning
 
+**ArXiv ID:** [2606.04484](https://arxiv.org/abs/2606.04484)  
+**Authors:** Qingxu Fu, Boyin Liu, Shuchang Tao, Zhaoyang Liu, Cheng Chen, Xuanfa Jin, Rong Zhu, Bolin Ding  
+**Submitted:** June 3, 2026
+
 ## Executive Summary
 
 AgentJet introduces a distributed swarm training framework that decouples agent rollout generation from model optimization, enabling scalable reinforcement learning for LLM agents across multi-node GPU clusters. By separating agent execution (on arbitrary devices with arbitrary models) from model training (on GPU clusters), AgentJet enables heterogeneous multi-agent team training, live code iteration during training, fault tolerance, and flexible deployment—solving critical practical challenges in training agentic AI systems at scale.

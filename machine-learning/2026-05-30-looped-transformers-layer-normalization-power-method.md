@@ -1,5 +1,9 @@
 # Looped Transformers with Layer Normalization Provably Learn the Power Method
 
+**ArXiv ID:** [2606.00605](https://arxiv.org/abs/2606.00605)  
+**Authors:** Lyumin Wu, Chenyang Zhang, Yuan Cao  
+**Submitted:** May 30, 2026
+
 ## Executive Summary
 
 This paper provides theoretical grounding for understanding how transformer architectures with layer normalization implicitly learn iterative algorithms. Through rigorous analysis, the authors prove that looped (recurrent) linear transformers trained by gradient descent can provably converge to implementations of the power method—a fundamental algorithm for principal component analysis. The key innovation is demonstrating that layer normalization plays a critical role in enabling this algorithmic learning, enabling each self-attention layer to perform one power iteration. This theoretical analysis bridges the gap between transformer training dynamics and explicit algorithm learning.

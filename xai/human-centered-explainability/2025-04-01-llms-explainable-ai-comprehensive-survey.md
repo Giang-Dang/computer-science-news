@@ -1,5 +1,9 @@
 # LLMs for Explainable AI: A Comprehensive Survey
 
+**ArXiv ID:** [2504.00125](https://arxiv.org/abs/2504.00125)  
+**Authors:** Ahsan Bilal, David Ebert, Beiyu Lin  
+**Submitted:** March 31, 2025
+
 ## Executive Summary
 
 This comprehensive survey examines how Large Language Models (LLMs) can be leveraged to enhance Explainable AI (XAI) by transforming complex machine learning outputs into human-understandable narratives. The work synthesizes three main approaches—post-hoc explanations, intrinsic interpretability, and human-centered narratives—establishing LLMs as crucial mediators that bridge the gap between sophisticated model behavior and human comprehension, with significant implications for trustworthy AI in regulated domains.

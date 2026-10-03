@@ -1,5 +1,9 @@
 # Efficient Training-Free Single-Image Diffusion Models
 
+**ArXiv ID:** [2606.04299](https://arxiv.org/abs/2606.04299)  
+**Authors:** Haojun Qiu, Kiriakos N. Kutulakos, David B. Lindell  
+**Submitted:** June 3, 2026
+
 ## Executive Summary
 
 This paper presents a breakthrough approach to single-image synthesis that eliminates the need for neural network training entirely. By leveraging patch-based image models and closed-form optimal denoisers, the method achieves state-of-the-art generation quality without any computational training overhead. The approach enables megapixel image generation in approximately one second, representing a dramatic efficiency improvement over existing single-image diffusion methods that require hours of training per image. This work fundamentally reimagines how diffusion models can be applied to single-image tasks, with immediate practical implications for real-time image synthesis applications.

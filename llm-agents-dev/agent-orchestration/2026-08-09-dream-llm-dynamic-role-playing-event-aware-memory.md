@@ -1,5 +1,9 @@
 # DREAM: LLM-based Dynamic Role-playing via Event-Aware Memory Graph
 
+**ArXiv ID:** [2608.05170](https://arxiv.org/abs/2608.05170)  
+**Authors:** Zhihao Xiao, Mengting Li, Xintao Wang, Linfeng Li, Limin Shui, Mengqi Ji, Borui Cai  
+**Submitted:** May 27, 2026
+
 ## Executive Summary
 
 DREAM is a structured memory framework for role-playing agents that transforms unstructured character narratives into Event-aware Memory Graphs (EMGs). Published at KDD 2026, the paper demonstrates that capturing character experiences as temporally ordered and causally linked event graphs enables LLMs to generate contextually accurate, emotionally resonant interactions while maintaining long-term narrative and personality coherence. This approach significantly advances conversational AI by grounding character behavior in temporal context and causal relationships.

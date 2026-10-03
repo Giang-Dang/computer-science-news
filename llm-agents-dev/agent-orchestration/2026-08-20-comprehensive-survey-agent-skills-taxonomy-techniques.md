@@ -1,5 +1,9 @@
 # A Comprehensive Survey on Agent Skills: Taxonomy, Techniques, and Applications
 
+**ArXiv ID:** [2605.07358](https://arxiv.org/abs/2605.07358)  
+**Authors:** Yingli Zhou, Wang Shu, Yaodong Su, Wenchuan Du, Yixiang Fang, Xuemin Lin  
+**Submitted:** May 8, 2026
+
 ## Executive Summary
 
 This survey provides the first comprehensive examination of **agent skills** — reusable procedural artifacts that coordinate tools, memory, and runtime context under task-specific constraints — as a critical component of scalable LLM-based agent systems. The paper organizes the agent skill lifecycle into four stages (representation, acquisition, retrieval, evolution) and reveals that skills have emerged as the foundational abstraction for building robust, maintainable, and composable autonomous systems that go beyond individual tool calling.

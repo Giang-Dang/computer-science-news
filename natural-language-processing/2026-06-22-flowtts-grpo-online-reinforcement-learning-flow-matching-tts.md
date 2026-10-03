@@ -1,5 +1,9 @@
 # FlowTTS-GRPO: Online Reinforcement Learning with Multi-Objective Reward Optimization for Flow-Matching Based Text-to-Speech
 
+**ArXiv ID:** [2606.23190](https://arxiv.org/abs/2606.23190)  
+**Authors:** Haoxu Wang, Biao Tian, Weiqin Li, Xiang Lv, Han Zhao, Xiangang Li  
+**Submitted:** June 22, 2026
+
 ## Executive Summary
 
 FlowTTS-GRPO presents the first online reinforcement learning framework specifically designed for flow-matching based text-to-speech systems. By converting ODE trajectories into SDE paths and leveraging multi-objective reward optimization, the paper demonstrates that direct fine-tuning of flow-matching TTS models without auxiliary models significantly improves speech quality metrics. This work bridges the gap between modern RL techniques and the emerging flow-matching TTS paradigm, achieving substantial improvements in speaker similarity and perceptual quality on real-world TTS models.

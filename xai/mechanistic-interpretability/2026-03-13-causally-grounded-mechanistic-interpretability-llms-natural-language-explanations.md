@@ -1,8 +1,10 @@
 # Causally Grounded Mechanistic Interpretability for LLMs with Faithful Natural-Language Explanations
 
+**ArXiv ID:** [2603.09988](https://arxiv.org/abs/2603.09988)  
+**Authors:** Ajay Pravin Mahale  
+**Submitted:** February 13, 2026
+
 **Paper**: arXiv:2603.09988  
-**Authors**: Ajay Pravin Mahale (and collaborators)  
-**Submitted**: February 13, 2026  
 **URL**: https://arxiv.org/abs/2603.09988
 
 ---

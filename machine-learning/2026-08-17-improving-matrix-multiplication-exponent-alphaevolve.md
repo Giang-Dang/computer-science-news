@@ -1,5 +1,9 @@
 # Improving the Matrix Multiplication Exponent with Modern Optimization and AlphaEvolve
 
+**ArXiv ID:** [2608.16884](https://arxiv.org/abs/2608.16884)  
+**Authors:** Emilien Dupont, Marvin Eisenberger, Borislav Kozlovskii, Abbas Mehrabian, Francisco J. R. Ruiz, Abigail See, Renfei Zhou, Josh Alman, et al.  
+**Submitted:** August 17, 2026
+
 ## Executive Summary
 
 This paper presents a significant advance in one of computer science's fundamental problems: the computational complexity of matrix multiplication. By reformulating the classical optimization problem and applying modern machine learning techniques—specifically AlphaEvolve—the authors improve the theoretical upper bound on the matrix multiplication exponent ω from 2.371339 to 2.371177. This breakthrough demonstrates how machine learning can accelerate progress in classical algorithmic theory and has implications for computational complexity, numerical computing, and high-performance systems where matrix operations are ubiquitous.

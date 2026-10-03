@@ -1,5 +1,9 @@
 # Scaling Generative Foundation Models for Chest Radiography with Rectified Flow Transformers
 
+**ArXiv ID:** [2606.19460](https://arxiv.org/abs/2606.19460)  
+**Authors:** Fabio De Sousa Ribeiro, Emma A. M. Stanley, Charles Jones, Tian Xia, Dominic C. Marshall, Laurent Renard Triché, Christopher V. Cosgriff, Panagiotis Dimitrakopoulos, et al.  
+**Submitted:** June 17, 2026
+
 ## Executive Summary
 
 This paper introduces RadiT (Radiography Transformer), the first billion-parameter generative foundation model trained from scratch for high-fidelity chest radiograph synthesis. By combining rectified flow transformers with 1.2 million clinical radiographs and 1.6 trillion training tokens, the work achieves 4-10x improvements in generation quality metrics over prior methods. This advancement enables controlled, diverse synthetic medical imaging data generation that addresses critical generalization failures in diagnostic AI systems across different patient populations and clinical institutions.

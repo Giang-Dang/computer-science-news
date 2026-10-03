@@ -1,5 +1,9 @@
 # Agentic Reinforcement Learning with Self-Distilled Reward Shaping
 
+**ArXiv ID:** [2608.03223](https://arxiv.org/abs/2608.03223)  
+**Authors:** Ranxu Zhang, Guinan Chen, Chenshaodong, Jinghao Lin, Xiaozhou Xu, Sunzhe, Yanyong Zhang, Chao Wang  
+**Submitted:** August 4, 2026
+
 ## Executive Summary
 
 This paper presents Agentic Dynamic Reward Shaping (ADRS), a novel framework for multi-turn language agent reinforcement learning that addresses the critical credit assignment problem. The work demonstrates that sparse, trajectory-level rewards are insufficient for guiding agent learning, and proposes using privileged self-distilled knowledge to assign dense, token-level credit signals. ADRS achieves a favorable balance between target-task improvement and retention of existing capabilities, advancing the state-of-the-art in agentic reinforcement learning for large language models.

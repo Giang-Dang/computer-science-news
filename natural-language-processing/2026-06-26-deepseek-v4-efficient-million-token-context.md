@@ -1,5 +1,9 @@
 # DeepSeek-V4: Towards Highly Efficient Million-Token Context Intelligence
 
+**ArXiv ID:** [2606.19348](https://arxiv.org/abs/2606.19348)  
+**Authors:** DeepSeek-AI, Anyi Xu, Bangcai Lin, Bing Xue, Bingxuan Wang, Bingzheng Xu, Bochao Wu, Bowei Zhang, et al.  
+**Submitted:** April 26, 2026
+
 ## Executive Summary
 
 DeepSeek-V4 introduces powerful Mixture-of-Experts (MoE) language models supporting one million token context windows with exceptional efficiency. The two variants—DeepSeek-V4-Pro (1.6T parameters, 49B activated) and DeepSeek-V4-Flash (284B parameters, 13B activated)—achieve comparable performance to leading models while reducing inference costs by 73% and KV cache requirements by 90% compared to previous generations, making ultra-long context processing practical at scale.

@@ -1,5 +1,9 @@
 # Representation Learning Enables Scalable Multitask Deep Reinforcement Learning
 
+**ArXiv ID:** [2606.05555](https://arxiv.org/abs/2606.05555)  
+**Authors:** Johan Obando-Ceron, Lu Li, Scott Fujimoto, Pierre-Luc Bacon, Aaron Courville, Pablo Samuel Castro  
+**Submitted:** June 4, 2026
+
 ## Executive Summary
 
 This paper challenges conventional wisdom in reinforcement learning by demonstrating that representation learning—not world models or planning—is the primary driver of scalability in multitask settings. Through comprehensive empirical evaluation, the authors show that a simple model-free algorithm (MR.Q) enhanced with auxiliary predictive objectives and high-capacity value function approximation substantially outperforms sophisticated model-based approaches while maintaining computational efficiency. The work reveals that predictive representations combined with good value function parameterization are sufficient for strong multitask performance, suggesting the field has been overcomplicating multitask RL through excessive emphasis on world models. This represents an important course correction for RL research priorities and provides practical guidance for practitioners scaling RL to diverse tasks.

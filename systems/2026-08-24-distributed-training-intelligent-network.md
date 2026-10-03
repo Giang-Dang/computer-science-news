@@ -1,5 +1,9 @@
 # Distributed Training using an Intelligent Network
 
+**ArXiv ID:** [2608.26453](https://arxiv.org/abs/2608.26453)  
+**Authors:** Nihar Shah, Ben Blier  
+**Submitted:** August 26, 2026
+
 ## Executive Summary
 
 This paper presents a novel approach to distributed training across wide-area networks (WANs) by making the network itself an active participant in the training process. Rather than treating the network as a passive conduit, the authors propose leveraging network infrastructure (multicast, in-line FPGAs) and developing optimization algorithms that generate rich synchronization schedules to maximize information exchange across distributed compute islands. This addresses a critical bottleneck in large-scale distributed training: limited bandwidth and uneven network topologies that constrain continuous parameter exchange.
