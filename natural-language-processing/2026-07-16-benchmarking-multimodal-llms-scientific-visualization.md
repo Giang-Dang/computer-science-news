@@ -1,5 +1,9 @@
 # Benchmarking Multimodal Large Language Models for Scientific Visualization Literacy
 
+**ArXiv ID:** [2607.15176](https://arxiv.org/abs/2607.15176)  
+**Authors:** Patrick Phuoc Do, Chau M. Ta, Chaoli Wang  
+**Submitted:** July 16, 2026
+
 ## Executive Summary
 
 This work introduces a standardized scientific visualization (SciVis) literacy assessment benchmark to evaluate multimodal large language models' (MLLMs) ability to understand and reason about scientific visualizations. Evaluating six state-of-the-art MLLMs (three closed-source and three open-source) on 49 items spanning 8 visualization techniques and 11 task types across 18 scientific visualizations, the benchmark reveals that current MLLMs do not exhibit uniform SciVis literacy, with significant disparities between closed-source (Gemini exceeding human performance) and open-source models (remaining below human baseline). Error analysis identifies recurring failures in quantitative estimation, flow-direction interpretation, and grounded encoding, establishing SciVis literacy as a critical, previously unmeasured dimension of multimodal AI system evaluation.

@@ -1,9 +1,11 @@
 # Recursive Multi-Agent Systems (RecursiveMAS)
 
+**ArXiv ID:** [2604.25917](https://arxiv.org/abs/2604.25917)  
+**Authors:** Jiaru Zou, Rui Pan, Ruizhong Qiu, Pan Lu, Shizhe Diao, Jindong Jiang, Hanghang Tong, Tong Zhang, et al.  
+**Submitted:** April 28, 2026
+
 **Paper**: [arXiv:2604.25917](https://arxiv.org/abs/2604.25917)  
-**Authors**: Xiyuan Yang, Jiaru Zou, Rui Pan, Ruizhong Qiu, Pan Lu, Shizhe Diao, Jindong Jiang, Hanghang Tong, Tong Zhang, Markus J. Buehler, Jingrui He, James Zou  
 **Project Page**: [https://recursivemas.github.io/](https://recursivemas.github.io/)  
-**Submitted**: April 2026  
 **Field**: Machine Learning / Multi-Agent Systems  
 
 ---

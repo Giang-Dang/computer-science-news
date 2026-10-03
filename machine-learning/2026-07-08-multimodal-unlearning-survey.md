@@ -1,5 +1,9 @@
 # Multimodal Unlearning Across Vision, Language, Video, and Audio: Survey of Methods, Datasets, and Benchmarks
 
+**ArXiv ID:** [2607.07907](https://arxiv.org/abs/2607.07907)  
+**Authors:** Nobin Sarwar, Shubhashis Roy Dipta, Zheyuan Liu, Vaidehi Patil  
+**Submitted:** July 8, 2026
+
 ## Executive Summary
 
 This comprehensive survey addresses multimodal unlearning — the selective removal of unwanted information (sensitive data, copyrighted content, biased associations) from foundation models across multiple modalities (vision, language, video, audio). The paper provides a unified framework organizing methods, datasets, and benchmarks across modalities, establishing this as a critical research area for responsible AI deployment. Accepted to ACL Findings 2026.

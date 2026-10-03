@@ -1,5 +1,9 @@
 # MIMFlow: Integrating Masked Image Modeling with Normalizing Flows for End-to-End Image Generation
 
+**ArXiv ID:** [2606.26016](https://arxiv.org/abs/2606.26016)  
+**Authors:** Yang Chen, Xiaowei Xu, Shuai Wang, Xinwen Zhang, Qiushi Guo, Tiezheng Ge, Limin Wang  
+**Submitted:** June 24, 2026
+
 ## Executive Summary
 
 MIMFlow presents a unified end-to-end framework that resolves a fundamental capacity bottleneck in normalizing flow (NF) based generative models by integrating masked image modeling (MIM). By employing a VAE encoder to infer semantic latents from masked images and decoupling the generative task—where the normalizing flow models low-frequency semantic manifolds while a specialized decoder handles high-frequency synthesis—MIMFlow achieves strong results on ImageNet 256×256 with an FID of 2.50 and 71.3% linear probing accuracy using 32.8% fewer parameters than comparable baselines. This work establishes a principled path toward more efficient and expressive flow-based generative models.

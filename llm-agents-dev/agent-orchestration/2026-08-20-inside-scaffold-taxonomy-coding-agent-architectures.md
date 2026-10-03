@@ -1,5 +1,9 @@
 # Inside the Scaffold: A Source-Code Taxonomy of Coding Agent Architectures
 
+**ArXiv ID:** [2604.03515](https://arxiv.org/abs/2604.03515)  
+**Authors:** Benjamin Rombaut  
+**Submitted:** April 3, 2026
+
 ## Executive Summary
 
 This paper presents the first systematic, source-code-level architectural taxonomy of LLM-based coding agents, analyzing 13 open-source agent scaffolds to reveal that agent architectures are better characterized as **compositions of loop primitives along continuous spectra** rather than discrete architectural types. The work provides practical guidance on control strategies, tool interfaces, and resource management for building effective coding agents, moving beyond abstract design patterns to concrete implementation patterns.

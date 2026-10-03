@@ -1,5 +1,9 @@
 # The Future of NLP may not be at NLP Conferences: Scholarly Migration Patterns in Natural Language Processing
 
+**ArXiv ID:** [2607.02416](https://arxiv.org/abs/2607.02416)  
+**Authors:** David Jurgens  
+**Submitted:** July 2, 2026
+
 ## Executive Summary
 
 This paper analyzes a significant transformation in the Natural Language Processing research landscape, revealing that established and emerging researchers are increasingly publishing NLP-adjacent work at general Machine Learning venues rather than traditional NLP-specific conferences. The study documents a scholarly migration away from flagship ACL (Association for Computational Linguistics) venues, driven by the rise of Large Language Models and the blurring of disciplinary boundaries between NLP and general ML. This shift has profound implications for the future trajectory of NLP research and the role of specialized conference venues in an era dominated by LLMs.

@@ -1,5 +1,9 @@
 # When Structured Sparse Autoencoders Learn Consistent Concepts Across Modalities
 
+**ArXiv ID:** [2607.08605](https://arxiv.org/abs/2607.08605)  
+**Authors:** Weiduo Liao, Yunqiao Yang, Ying Wei  
+**Submitted:** July 9, 2026
+
 ## Executive Summary
 
 This paper addresses a critical challenge in mechanistic interpretability of vision-language models (VLMs): sparse autoencoders (SAEs) often fail to learn modality-consistent concepts, with fragmented visual coverage. The authors propose Structured Sparse AutoEncoders (S²AE), which enforces concept consistency through spatial and semantic grouping of image patches combined with structured sparsity regularization. When evaluated on Qwen2.5-VL-7B-Instruct, S²AE achieves 6.06% improvement in semantic alignment and enhances neuronal monosemanticity across both visual and textual modalities.

@@ -1,5 +1,9 @@
 # Learning Compositional Meta-Routing for Agentic Workflows: An Executable Benchmark
 
+**ArXiv ID:** [2608.00106](https://arxiv.org/abs/2608.00106)  
+**Authors:** Natan Vidra, Alina Kapanova, Arun Kanhai, Spurthi Setty  
+**Submitted:** July 31, 2026
+
 ## Executive Summary
 
 This paper addresses a critical challenge in agentic AI systems: how to automatically decide which reasoning and execution operations should be composed to solve complex tasks. The authors introduce a principled meta-routing framework and an executable benchmark that enables agentic systems to dynamically select and compose heterogeneous operations based on task requirements, significantly improving performance on multi-step reasoning tasks. This work is highly impactful for the field of agentic AI orchestration, establishing new standards for systematic operation routing and composition.

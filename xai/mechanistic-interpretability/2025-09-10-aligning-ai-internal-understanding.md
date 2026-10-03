@@ -1,5 +1,9 @@
 # Aligning AI Through Internal Understanding: The Role of Interpretability
 
+**ArXiv ID:** [2509.08592](https://arxiv.org/abs/2509.08592)  
+**Authors:** Aadit Sengupta, Pratinav Seth, Vinay Kumar Sankarapu  
+**Submitted:** September 10, 2025
+
 ## Executive Summary
 
 This paper argues that mechanistic interpretability should be treated as a foundational design principle for building aligned AI systems, not merely a post-hoc diagnostic tool. By embedding interpretability constraints directly into model architectures through sparse representations, modular designs, and causal analysis capabilities, frontier AI systems can enable verifiable internal alignment that behavioral methods alone cannot guarantee. This represents a paradigm shift: moving from opaque optimization systems toward cognitively structured, auditable artifacts essential for transparent AI governance and trustworthiness.

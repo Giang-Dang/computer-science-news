@@ -1,5 +1,9 @@
 # Video Generation Models are General-Purpose Vision Learners
 
+**ArXiv ID:** [2607.09024](https://arxiv.org/abs/2607.09024)  
+**Authors:** Letian Wang, Chuhan Zhang, Rishabh Kabra, Jasper Uijlings, Steven Waslander, Andrew Zisserman, Joao Carreira, Kaiming He, et al.  
+**Submitted:** July 10, 2026
+
 ## Executive Summary
 
 This paper challenges the traditional paradigm of task-specific vision models by demonstrating that large-scale text-to-video generation models can serve as effective pre-training for a diverse array of computer vision tasks. Through GenCeption, a feed-forward perception model built on pre-trained video generative diffusion backbones, the authors achieve state-of-the-art performance across depth estimation, surface normal prediction, camera pose estimation, 3D keypoint prediction, and expression-referring segmentation—often matching or exceeding specialized models while requiring 7-500× less training data. This work establishes video generation as a unified learning paradigm for general visual intelligence.

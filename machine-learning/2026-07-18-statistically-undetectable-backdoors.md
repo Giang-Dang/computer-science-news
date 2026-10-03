@@ -1,5 +1,9 @@
 # Statistically Undetectable Backdoors in Deep Neural Networks
 
+**ArXiv ID:** [2607.09532](https://arxiv.org/abs/2607.09532)  
+**Authors:** Andrej Bogdanov, Alon Rosen, Neekon Vafa  
+**Submitted:** July 10, 2026
+
 ## Executive Summary
 
 This paper introduces a theoretical framework for creating backdoors in deep neural networks that are provably undetectable through statistical methods. By leveraging cryptographic obfuscation techniques, the authors demonstrate how to embed hidden triggers that compromise model behavior while remaining indistinguishable from clean models. Accepted to ICML 2026, this work has significant implications for neural network security and trustworthiness.

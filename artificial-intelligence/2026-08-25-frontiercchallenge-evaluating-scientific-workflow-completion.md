@@ -1,5 +1,9 @@
 # FrontierChallenge: Evaluating Scientific Workflow Completion
 
+**ArXiv ID:** [2608.24979](https://arxiv.org/abs/2608.24979)  
+**Authors:** Liangcai Su, Zhaopeng Feng, Zhuo Chen, Zhen Zhang, Xiang Lin, Ruilin Li, Handuo Zhang, Ning Wang, et al.  
+**Submitted:** August 25, 2026
+
 ## Executive Summary
 
 FrontierChallenge introduces a cross-domain benchmark comprising 300 end-to-end scientific workflows, with 97 tasks released for evaluation spanning quantum chemistry, molecular dynamics, materials characterization, analytical chemistry, life science, and electrochemistry/environment. Evaluation of twelve frontier language models with three agent scaffolds reveals that even the best-performing configurations complete only 20% of tasks, highlighting a significant gap in current frontier intelligence for handling complete scientific work. The benchmark reveals that intelligence sufficient for isolated technical subtasks does not translate to sustained scientific investigation.

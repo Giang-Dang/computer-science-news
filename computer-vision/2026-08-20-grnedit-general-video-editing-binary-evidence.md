@@ -1,8 +1,10 @@
 # GRNEdit: Efficient General Video Editing from a New Binary-Evidence Perspective in Generative Refinement Networks
 
+**ArXiv ID:** [2608.16328](https://arxiv.org/abs/2608.16328)  
 **Authors:** Feng Xie, Jiagao Hu, Fuhao Li, Zepeng Wang, Yuxuan Chen, Dahua Gao, Fei Wang, Daiguo Zhou  
+**Submitted:** August 17, 2026
+
 **Category:** Computer Vision and Pattern Recognition (cs.CV)  
-**Submitted:** August 2026  
 **Venue:** Expected at major 2026 CV conference (ECCV, ICCV, or CVPR)
 
 ## Executive Summary
@@ -330,7 +332,7 @@ Where:
 ## Code & Resources
 
 **Publication:**
-- arXiv: (To be confirmed upon publication)
+**ArXiv ID:** [2608.16328](https://arxiv.org/abs/2608.16328)
 - Expected venue: Top-tier 2026 computer vision conference (ECCV, ICCV, or CVPR)
 
 **Code and Models:**

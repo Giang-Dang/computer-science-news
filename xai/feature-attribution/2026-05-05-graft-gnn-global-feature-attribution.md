@@ -1,5 +1,9 @@
 # GRAFT: Auditing Graph Neural Networks via Global Feature Attribution
 
+**ArXiv ID:** [2605.03377](https://arxiv.org/abs/2605.03377)  
+**Authors:** Rishi Raj Sahoo, Subhankar Mishra  
+**Submitted:** May 5, 2026
+
 ## Executive Summary
 
 GRAFT introduces a novel post-hoc global explanation framework that identifies class-level feature importance profiles for Graph Neural Networks (GNNs), addressing a critical gap in GNN interpretability. By combining diversity-guided exemplar selection, Integrated Gradients-based attribution, and natural language rule generation via LLMs, GRAFT enables auditing of GNN behavior at the input feature level—the first method to systematically explain which node attributes drive GNN predictions at a global scale, bridging quantitative attribution with human-understandable explanations.

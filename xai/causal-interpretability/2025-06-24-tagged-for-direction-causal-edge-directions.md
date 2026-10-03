@@ -1,8 +1,10 @@
 # Tagged for Direction: Pinning Down Causal Edge Directions with Precision
 
-**Paper:** [arXiv:2506.19459](https://arxiv.org/abs/2506.19459)  
+**ArXiv ID:** [2506.19459](https://arxiv.org/abs/2506.19459)  
 **Authors:** Florian Peter Busch, Moritz Willig, Florian Guldan, Kristian Kersting, Devendra Singh Dhami  
-**Submitted:** June 24, 2025  
+**Submitted:** June 24, 2025
+
+**Paper:** [arXiv:2506.19459](https://arxiv.org/abs/2506.19459)  
 **Subject Areas:** Machine Learning (cs.LG), Artificial Intelligence (cs.AI)  
 **Institutions:** Technical University of Darmstadt, Eindhoven University of Technology
 

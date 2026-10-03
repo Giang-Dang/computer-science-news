@@ -1,9 +1,11 @@
 # Tuna-2: Pixel Embeddings Beat Vision Encoders for Multimodal Understanding and Generation
 
+**ArXiv ID:** [2604.24763](https://arxiv.org/abs/2604.24763)  
+**Authors:** Zhiheng Liu, Weiming Ren, Xiaoke Huang, Shoufa Chen, Tianhong Li, Mengzhao Chen, Yatai Ji, Sen He, et al.  
+**Submitted:** April 27, 2026
+
 **Paper**: [arXiv:2604.24763](https://arxiv.org/abs/2604.24763)  
-**Authors**: Zhiheng Liu, Weiming Ren, Xiaoke Huang, Shoufa Chen, Tianhong Li, Mengzhao Chen, Yatai Ji, Sen He, Jonas Schult, Belinda Zeng, Tao Xiang, Wenhu Chen, Ping Luo, Luke Zettlemoyer, Yuren Cong  
 **Institution**: Meta AI (FAIR) and collaborating institutions  
-**Submitted**: April 27, 2026  
 **Field**: Computer Vision / Multimodal Learning  
 
 ---

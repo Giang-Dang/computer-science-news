@@ -1,10 +1,12 @@
 # SparDA: Sparse Decoupled Attention for Efficient Long-Context LLM Inference
 
+**ArXiv ID:** [2606.04511](https://arxiv.org/abs/2606.04511)  
+**Authors:** Yaosheng Fu, Guangxuan Xiao, Xin Dong, Song Han, Oreste Villa  
+**Submitted:** June 3, 2026
+
 **Paper**: [2606.04511] SparDA: Sparse Decoupled Attention for Efficient Long-Context LLM Inference
 
-**Authors**: Yaosheng Fu, Guangxuan Xiao, Xin Dong, Song Han, Oreste Villa
 
-**Submitted**: June 4, 2026
 
 **ArXiv Link**: https://arxiv.org/abs/2606.04511
 

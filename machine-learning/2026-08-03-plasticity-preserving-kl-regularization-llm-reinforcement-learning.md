@@ -1,5 +1,9 @@
 # Toward Plasticity-Preserving KL Regularization for Capability Retention in LLM Reinforcement Learning
 
+**ArXiv ID:** [2608.01743](https://arxiv.org/abs/2608.01743)  
+**Authors:** Li Wang, Xiaodong Lu, Xiaohan Wang, Jiajun Chai, Wei Lin, Tianhao Peng, Guojun Yin  
+**Submitted:** August 3, 2026
+
 ## Executive Summary
 
 This paper presents Correctness-Conditioned KL Regularization (CoKL), a novel approach to mitigating capability degradation during reinforcement learning fine-tuning of large language models. Rather than constraining the entire output distribution, CoKL narrows regularization to correctness-conditioned objectives, allowing models to explore new behaviors while preserving existing capabilities. The work demonstrates a more favorable balance between target-task improvement and prior-capability retention than existing regularization methods, making it a crucial advancement for practical deployment of RL-tuned LLMs.

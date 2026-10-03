@@ -1,9 +1,11 @@
 # AutoResearchBench: Benchmarking AI Agents on Complex Scientific Literature Discovery
 
+**ArXiv ID:** [2604.25256](https://arxiv.org/abs/2604.25256)  
+**Authors:** Lei Xiong, Kun Luo, Ziyi Xia, Wenbo Zhang, Jin-Ge Yao, Zheng Liu, Jingying Shao, Jianlyu Chen, et al.  
+**Submitted:** April 28, 2026
+
 **Paper**: [arXiv:2604.25256](https://arxiv.org/abs/2604.25256)  
-**Authors**: Lei Xiong and 16 co-authors  
 **GitHub**: [https://github.com/CherYou/AutoResearchBench](https://github.com/CherYou/AutoResearchBench)  
-**Submitted**: April 28, 2026  
 **Field**: Natural Language Processing / AI Agents / Benchmarking  
 
 ---

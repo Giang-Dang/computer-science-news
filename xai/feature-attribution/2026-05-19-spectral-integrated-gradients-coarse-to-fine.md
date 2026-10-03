@@ -1,5 +1,9 @@
 # Spectral Integrated Gradients for Coarse-to-Fine Feature Attribution
 
+**ArXiv ID:** [2605.19607](https://arxiv.org/abs/2605.19607)  
+**Authors:** Soyeon Kim, Seongwoo Lim, Kyowoon Lee, Jaesik Choi  
+**Submitted:** May 19, 2026
+
 ## Executive Summary
 
 This paper proposes Spectral Integrated Gradients (SIG), a novel feature attribution method that enhances the classical Integrated Gradients approach by constructing integration paths based on singular value decomposition (SVD). By progressively activating global structure before fine-grained details, SIG produces cleaner attribution maps with significantly reduced noise and improved quantitative performance across diverse image classification tasks.
@@ -298,4 +302,3 @@ While distinct from circuit analysis and network dissection work, SIG shares the
 - **Authors**: Soyeon Kim, Seongwoo Lim, Kyowoon Lee, Jaesik Choi
 - **Submission Date**: May 19, 2026
 - **Pages**: 21 pages, 13 figures, 9 tables
-

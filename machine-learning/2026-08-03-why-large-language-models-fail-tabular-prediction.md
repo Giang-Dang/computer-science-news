@@ -1,5 +1,9 @@
 # Why Large Language Models Fail at Tabular Prediction
 
+**ArXiv ID:** [2608.02412](https://arxiv.org/abs/2608.02412)  
+**Authors:** Marta Garnelo, Wojciech M. Czarnecki  
+**Submitted:** August 3, 2026
+
 ## Executive Summary
 
 Large language models demonstrate remarkable performance across text, code, and reasoning tasks, yet they catastrophically underperform on tabular (structured) data prediction—losing to algorithms from the 1970s by wide margins. This paper systematically investigates five core hypotheses explaining why frontier LLMs fail at tabular prediction tasks, revealing that LLMs treat structured numerical data as local distance-based patterns in low dimensions but fail to scale these insights to high-dimensional feature spaces where classical ML algorithms excel.

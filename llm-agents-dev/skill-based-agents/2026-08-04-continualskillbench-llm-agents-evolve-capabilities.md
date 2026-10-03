@@ -1,5 +1,9 @@
 # ContinualSkillBench: Can LLM Agents Truly Evolve Their Capabilities?
 
+**ArXiv ID:** [2608.03874](https://arxiv.org/abs/2608.03874)  
+**Authors:** Tianyi Guan, Yiding Wang, Haotong Yang, Siyuan Cao, Shirui Liu, Yi Hu, Jiaqi Li, Muhan Zhang  
+**Submitted:** August 4, 2026
+
 ## Executive Summary
 
 As agentic frameworks grow more sophisticated, a critical question emerges: can LLM-based agents genuinely learn and consolidate new skills over time, or do they merely retrieve pre-built external skill libraries? ContinualSkillBench introduces a dynamic evaluation framework spanning 5 domains with 100 interconnected subtasks ordered by difficulty, revealing surprising findings: sequential execution variably improves performance, but in-context learning performs comparably to explicit skill maintenance, suggesting adaptation through context rather than true abstract skill consolidation.

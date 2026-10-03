@@ -1,5 +1,9 @@
 # Toward Fair Speech Technologies: A Comprehensive Survey of Bias and Fairness in Speech AI
 
+**ArXiv ID:** [2605.01597](https://arxiv.org/abs/2605.01597)  
+**Authors:** Yi-Cheng Lin, Yun-Shao Tsai, Kuan-Yu Chen, Hsiao-Ying Huang, Huang-Cheng Chou, Shrikanth Narayanan, Yu Tsao, Jian-Jiun Ding, et al.  
+**Submitted:** May 2, 2026
+
 ## Executive Summary
 
 This comprehensive survey synthesizes over 400 studies on bias and fairness in speech technologies, presenting a unified framework that connects formal fairness definitions to evaluation, diagnosis, and mitigation strategies. Unlike generic ML fairness surveys, this work addresses speech-specific challenges where sensitive attributes are acoustically and temporally entangled rather than discretely separable, providing actionable guidance for practitioners building equitable speech AI systems.

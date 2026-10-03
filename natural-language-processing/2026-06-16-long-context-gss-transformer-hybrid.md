@@ -1,10 +1,12 @@
 # Long-Context Modeling via GSS-Transformer Hybrid Architecture with Learnable Mixing
 
+**ArXiv ID:** [2606.16093](https://arxiv.org/abs/2606.16093)  
+**Authors:** Kuzey Torlak, Hüseyin Arda Arslan, Anıl Dervişoğlu, Beyza Nur Deniz, Onur Boyar  
+**Submitted:** June 15, 2026
+
 **Paper**: [2606.16093] Long-Context Modeling via GSS-Transformer Hybrid Architecture with Learnable Mixing
 
-**Authors**: Kuzey Torlak, Hüseyin Arda Arslan, Anıl Dervişoğlu, Beyza Nur Deniz, Onur Boyar
 
-**Submitted**: June 15, 2026
 
 **ArXiv Link**: https://arxiv.org/abs/2606.16093
 
