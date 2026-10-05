@@ -801,6 +801,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [Certified Interventional Fidelity: Anytime-Valid, Adaptive Evaluation of Causal Claims in Mechanistic Interpretability](xai/mechanistic-interpretability/2026-07-09-certified-interventional-fidelity-causal-claims.md)
 - [The Misery of Mechanistic Interpretability: A Formal Perspective](xai/mechanistic-interpretability/2026-09-18-misery-mechanistic-interpretability-formal-perspective.md)
 - [PhysSAE: Mechanistic Interpretability of PINNs with Sparse Autoencoders](xai/mechanistic-interpretability/2026-09-07-physsae-mechanistic-interpretability-pinns.md)
+- [Towards Verifiable Transformers: Solver-Checkable Circuit Explanations](xai/mechanistic-interpretability/2026-05-21-verifiable-transformers-solver-checkable-circuits.md)
 
 ### Self Explaining Models
 
