@@ -711,6 +711,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 
 - [Fewer Than 1% of Explainable AI Papers Validate Explainability with Humans: Addressing the Critical Gap in XAI Research](xai/human-centered-explainability/2025-03-13-human-validation-gap-explainable-ai.md)
 - [LLMs for Explainable AI: A Comprehensive Survey](xai/human-centered-explainability/2025-04-01-llms-explainable-ai-comprehensive-survey.md)
+- [NeuroFaith: Evaluating LLM Self-Explanation Faithfulness via Internal Representation Alignment](xai/human-centered-explainability/2025-06-12-neurofaith-llm-self-explanation-faithfulness.md)
 - [Explaining AI Without Code: A User Study on Explainable AI in No-Code ML Platforms](xai/human-centered-explainability/2026-02-01-explaining-ai-without-code-user-study-xai.md)
 - [Editable XAI: Toward Bidirectional Human-AI Alignment with Co-Editable Explanations of Interpretable Attributes](xai/human-centered-explainability/2026-02-13-editable-xai-bidirectional-human-ai-alignment.md)
 - [From Interpretability to Control: Insights from Six Years of the TrustNLP Workshop](xai/human-centered-explainability/2026-08-11-from-interpretability-control-trustnlp-workshop-insights.md)
