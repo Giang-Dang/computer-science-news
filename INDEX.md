@@ -646,6 +646,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 
 ### Concept Based Explanations
 
+- [DictXAI: Revisiting Explainable AI Through Model-Independent Concept Dictionaries](xai/concept-based-explanations/2026-10-07-dictxai-model-independent-concept-dictionaries.md)
 - [Concept-Based Mechanistic Interpretability Using Structured Knowledge Graphs](xai/concept-based-explanations/2025-07-08-concept-based-mechanistic-interpretability-knowledge-graphs.md)
 - [GCAV: A Global Concept Activation Vector Framework for Cross-Layer Consistency in Interpretability](xai/concept-based-explanations/2025-08-28-gcav-global-concept-activation-vectors-cross-layer-consistency.md)
 - [Atlas-Alignment: Making Interpretability Transferable Across Language Models](xai/concept-based-explanations/2025-10-27-atlas-alignment-interpretability-transfer-language-models.md)
@@ -779,7 +780,6 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [From Mechanistic to Compositional Interpretability: A Category-Theoretic Framework](xai/mechanistic-interpretability/2026-05-07-compositional-interpretability-category-theoretic.md)
 - [Mechanistic Interpretability of EEG Foundation Models via Sparse Autoencoders](xai/mechanistic-interpretability/2026-05-13-mechanistic-interpretability-eeg-foundation-models-sparse-autoencoders.md)
 - [Beyond Linear Superposition: Discovering Climate Features in AI Weather Models with KAN-SAE](xai/mechanistic-interpretability/2026-05-20-kan-sae-climate-features-weather-models.md)
-- [Towards Verifiable Transformers: Solver-Checkable Circuit Explanations](xai/mechanistic-interpretability/2026-05-24-verifiable-transformers-circuit-explanations.md)
 - [Transformer Field Theory: A Response-Theoretic Approach to Mechanistic Interpretability](xai/mechanistic-interpretability/2026-05-25-transformer-field-theory-response-theoretic-mechanistic-interpretability.md)
 - [Towards Verifiable Transformers: Solver-Checkable Circuit Explanations](xai/mechanistic-interpretability/2026-05-26-verifiable-transformers-solver-checkable-circuit-explanations.md)
 - [MechRL: Reinforcement Learning Agents Perform Circuit Discovery for Mechanistic Interpretability](xai/mechanistic-interpretability/2026-05-26-mechrl-circuit-discovery-reinforcement-learning.md)
@@ -801,7 +801,6 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [Certified Interventional Fidelity: Anytime-Valid, Adaptive Evaluation of Causal Claims in Mechanistic Interpretability](xai/mechanistic-interpretability/2026-07-09-certified-interventional-fidelity-causal-claims.md)
 - [The Misery of Mechanistic Interpretability: A Formal Perspective](xai/mechanistic-interpretability/2026-09-18-misery-mechanistic-interpretability-formal-perspective.md)
 - [PhysSAE: Mechanistic Interpretability of PINNs with Sparse Autoencoders](xai/mechanistic-interpretability/2026-09-07-physsae-mechanistic-interpretability-pinns.md)
-- [Towards Verifiable Transformers: Solver-Checkable Circuit Explanations](xai/mechanistic-interpretability/2026-05-21-verifiable-transformers-solver-checkable-circuits.md)
 
 ### Self Explaining Models
 
