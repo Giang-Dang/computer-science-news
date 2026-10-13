@@ -731,6 +731,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [From Interpretability Methods to Interpretable Models](xai/human-centered-explainability/2026-09-04-from-interpretability-methods-to-interpretable-models.md)
 - [Explainability Assistant: A Conversational XAI Interface for Interpreting Energy Consumption Models](xai/human-centered-explainability/2026-09-10-explainability-assistant-conversational-xai-energy.md)
 - [Does Explanation Correctness Matter? Linking Computational XAI Evaluation to Human Understanding](xai/human-centered-explainability/2026-03-26-explanation-correctness-human-understanding-gap.md)
+- [Seeing through the Eyes of AI: Situated Explainability in Augmented Reality](xai/human-centered-explainability/2026-10-02-situated-explainability-augmented-reality.md)
 
 ### Inherently Interpretable Models
 
