@@ -779,7 +779,6 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [From Mechanistic to Compositional Interpretability: A Category-Theoretic Framework](xai/mechanistic-interpretability/2026-05-07-compositional-interpretability-category-theoretic.md)
 - [Mechanistic Interpretability of EEG Foundation Models via Sparse Autoencoders](xai/mechanistic-interpretability/2026-05-13-mechanistic-interpretability-eeg-foundation-models-sparse-autoencoders.md)
 - [Beyond Linear Superposition: Discovering Climate Features in AI Weather Models with KAN-SAE](xai/mechanistic-interpretability/2026-05-20-kan-sae-climate-features-weather-models.md)
-- [Towards Verifiable Transformers: Solver-Checkable Circuit Explanations](xai/mechanistic-interpretability/2026-05-24-verifiable-transformers-circuit-explanations.md)
 - [Transformer Field Theory: A Response-Theoretic Approach to Mechanistic Interpretability](xai/mechanistic-interpretability/2026-05-25-transformer-field-theory-response-theoretic-mechanistic-interpretability.md)
 - [Towards Verifiable Transformers: Solver-Checkable Circuit Explanations](xai/mechanistic-interpretability/2026-05-26-verifiable-transformers-solver-checkable-circuit-explanations.md)
 - [MechRL: Reinforcement Learning Agents Perform Circuit Discovery for Mechanistic Interpretability](xai/mechanistic-interpretability/2026-05-26-mechrl-circuit-discovery-reinforcement-learning.md)
@@ -792,6 +791,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [Metonymy in Vision Models Undermines Attention-Based Interpretability](xai/mechanistic-interpretability/2026-05-07-metonymy-vision-models-attention-interpretability.md)
 - [Can Language Model Agents be Helpful Circuit Explainers in Mechanistic Interpretability?](xai/mechanistic-interpretability/2026-06-24-agent-circuit-explainers-mechanistic-interpretability.md)
 - [Mechanistic Interpretability for Neural Networks: Circuits, Sparse Features and Symbolic Reasoning](xai/mechanistic-interpretability/2026-07-14-mechanistic-interpretability-circuits-sparse-features-symbolic-reasoning.md)
+- [CircuitKIT: Circuit Discovery, Evaluation, and Application Toolkit for Mechanistic Interpretability](xai/mechanistic-interpretability/2026-07-21-circuitkit-circuit-discovery-evaluation-toolkit.md)
 - [Linguistic Collapse: Neural Collapse in (Large) Language Models](xai/mechanistic-interpretability/2024-05-28-linguistic-collapse-neural-collapse-language-models.md)
 - [Aligning AI Through Internal Understanding: The Role of Interpretability](xai/mechanistic-interpretability/2025-09-10-aligning-ai-internal-understanding.md)
 - [Mechanistic Interpretability of LLM Jailbreaks via Internal Attribution Graphs](xai/mechanistic-interpretability/2026-07-08-mechanistic-interpretability-llm-jailbreaks-internal-attribution-graphs.md)
@@ -801,7 +801,6 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [Certified Interventional Fidelity: Anytime-Valid, Adaptive Evaluation of Causal Claims in Mechanistic Interpretability](xai/mechanistic-interpretability/2026-07-09-certified-interventional-fidelity-causal-claims.md)
 - [The Misery of Mechanistic Interpretability: A Formal Perspective](xai/mechanistic-interpretability/2026-09-18-misery-mechanistic-interpretability-formal-perspective.md)
 - [PhysSAE: Mechanistic Interpretability of PINNs with Sparse Autoencoders](xai/mechanistic-interpretability/2026-09-07-physsae-mechanistic-interpretability-pinns.md)
-- [Towards Verifiable Transformers: Solver-Checkable Circuit Explanations](xai/mechanistic-interpretability/2026-05-21-verifiable-transformers-solver-checkable-circuits.md)
 
 ### Self Explaining Models
 
