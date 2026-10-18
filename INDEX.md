@@ -804,6 +804,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [Can Language Model Agents be Helpful Circuit Explainers in Mechanistic Interpretability?](xai/mechanistic-interpretability/2026-06-24-agent-circuit-explainers-mechanistic-interpretability.md)
 - [Mechanistic Interpretability for Neural Networks: Circuits, Sparse Features and Symbolic Reasoning](xai/mechanistic-interpretability/2026-07-14-mechanistic-interpretability-circuits-sparse-features-symbolic-reasoning.md)
 - [CircuitKIT: Circuit Discovery, Evaluation, and Application Toolkit for Mechanistic Interpretability](xai/mechanistic-interpretability/2026-07-21-circuitkit-circuit-discovery-evaluation-toolkit.md)
+- [CircuitSteer: Geometrically Aligned Multi-Layer Steering via Sparse Autoencoder Circuits](xai/mechanistic-interpretability/2026-08-06-circuitsteer-multi-layer-steering-sparse-autoencoders.md)
 - [Linguistic Collapse: Neural Collapse in (Large) Language Models](xai/mechanistic-interpretability/2024-05-28-linguistic-collapse-neural-collapse-language-models.md)
 - [Aligning AI Through Internal Understanding: The Role of Interpretability](xai/mechanistic-interpretability/2025-09-10-aligning-ai-internal-understanding.md)
 - [Mechanistic Interpretability of LLM Jailbreaks via Internal Attribution Graphs](xai/mechanistic-interpretability/2026-07-08-mechanistic-interpretability-llm-jailbreaks-internal-attribution-graphs.md)
