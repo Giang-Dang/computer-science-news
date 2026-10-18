@@ -641,14 +641,18 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [A Causal Argumentation Method for Explainability of Machine Learning Models](xai/causal-interpretability/2026-05-20-causal-argumentation-explainability-machine-learning.md)
 - [Tagged for Direction: Pinning Down Causal Edge Directions with Precision](xai/causal-interpretability/2025-06-24-tagged-for-direction-causal-edge-directions.md)
 - [LLM Explainability with Counterfactual Chains and Causal Graphs](xai/causal-interpretability/2026-06-04-llm-explainability-counterfactual-chains-causal-graphs.md)
-- [Computing Actual Causes for Neural Network Predictions under Structured Causal Inputs](xai/causal-interpretability/2026-08-04-computing-actual-causes-neural-networks-structured-causal-inputs.md)
 - [Feature Attribution in Directed Acyclic Graphs Using Edge Intervention](xai/causal-interpretability/2026-06-13-dag-shap-feature-attribution-edge-intervention.md)
+- [Computing Actual Causes for Neural Network Predictions under Structured Causal Inputs](xai/causal-interpretability/2026-08-04-computing-actual-causes-neural-networks-structured-causal-inputs.md)
+- [Regional Explanations via Causal Sufficiency and Necessity](xai/causal-interpretability/2026-09-16-regional-explanations-causal-sufficiency-necessity.md)
 
 ### Concept Based Explanations
 
+- [DictXAI: Revisiting Explainable AI Through Model-Independent Concept Dictionaries](xai/concept-based-explanations/2026-10-07-dictxai-model-independent-concept-dictionaries.md)
+- [ConEx: Human-Interpretable Saliency Maps via Concept-Aware Attribution](xai/concept-based-explanations/2026-10-03-conex-human-interpretable-saliency-maps.md)
 - [Concept-Based Mechanistic Interpretability Using Structured Knowledge Graphs](xai/concept-based-explanations/2025-07-08-concept-based-mechanistic-interpretability-knowledge-graphs.md)
 - [GCAV: A Global Concept Activation Vector Framework for Cross-Layer Consistency in Interpretability](xai/concept-based-explanations/2025-08-28-gcav-global-concept-activation-vectors-cross-layer-consistency.md)
 - [Atlas-Alignment: Making Interpretability Transferable Across Language Models](xai/concept-based-explanations/2025-10-27-atlas-alignment-interpretability-transfer-language-models.md)
+- [FaCT: Faithful Concept Traces for Explaining Neural Network Decisions](xai/concept-based-explanations/2025-10-29-fact-faithful-concept-traces.md)
 - [Interpretable and Steerable Concept Bottleneck Sparse Autoencoders](xai/concept-based-explanations/2025-12-13-concept-bottleneck-sparse-autoencoders.md)
 - [Causal Neural Probabilistic Circuits: Causally-Faithful Interventions in Concept Bottleneck Models](xai/concept-based-explanations/2026-03-02-causal-neural-probabilistic-circuits-concept-bottleneck-models.md)
 - [Mitigating Bias in Concept Bottleneck Models for Fair and Interpretable Image Classification](xai/concept-based-explanations/2026-03-06-mitigating-bias-concept-bottleneck-models.md)
@@ -659,6 +663,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [Leakage and Interpretability in Concept-Based Models](xai/concept-based-explanations/2025-04-18-leakage-interpretability-concept-based-models.md)
 - [A Comprehensive Survey on the Risks and Limitations of Concept-based Models](xai/concept-based-explanations/2025-06-25-comprehensive-survey-risks-limitations-concept-based-models.md)
 - [Hierarchical Concept-based Interpretable Models](xai/concept-based-explanations/2025-02-24-hierarchical-concept-embedding-models.md)
+- [Enhancing Performance of Explainable AI Models with Constrained Concept Refinement](xai/concept-based-explanations/2025-02-27-constrained-concept-refinement-ccr.md)
 - [ConceptFlow: Hierarchical and Fine-grained Concept-Based Explanation for Convolutional Neural Networks](xai/concept-based-explanations/2025-09-16-conceptflow-hierarchical-concept-based-explanation.md)
 - [Prototype-Grounded Concept Models for Verifiable Concept Alignment](xai/concept-based-explanations/2026-04-17-prototype-grounded-concept-models-verifiable-alignment.md)
 
@@ -711,6 +716,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 
 - [Fewer Than 1% of Explainable AI Papers Validate Explainability with Humans: Addressing the Critical Gap in XAI Research](xai/human-centered-explainability/2025-03-13-human-validation-gap-explainable-ai.md)
 - [LLMs for Explainable AI: A Comprehensive Survey](xai/human-centered-explainability/2025-04-01-llms-explainable-ai-comprehensive-survey.md)
+- [NeuroFaith: Evaluating LLM Self-Explanation Faithfulness via Internal Representation Alignment](xai/human-centered-explainability/2025-06-12-neurofaith-llm-self-explanation-faithfulness.md)
 - [Explaining AI Without Code: A User Study on Explainable AI in No-Code ML Platforms](xai/human-centered-explainability/2026-02-01-explaining-ai-without-code-user-study-xai.md)
 - [Editable XAI: Toward Bidirectional Human-AI Alignment with Co-Editable Explanations of Interpretable Attributes](xai/human-centered-explainability/2026-02-13-editable-xai-bidirectional-human-ai-alignment.md)
 - [From Interpretability to Control: Insights from Six Years of the TrustNLP Workshop](xai/human-centered-explainability/2026-08-11-from-interpretability-control-trustnlp-workshop-insights.md)
@@ -731,6 +737,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [From Interpretability Methods to Interpretable Models](xai/human-centered-explainability/2026-09-04-from-interpretability-methods-to-interpretable-models.md)
 - [Explainability Assistant: A Conversational XAI Interface for Interpreting Energy Consumption Models](xai/human-centered-explainability/2026-09-10-explainability-assistant-conversational-xai-energy.md)
 - [Does Explanation Correctness Matter? Linking Computational XAI Evaluation to Human Understanding](xai/human-centered-explainability/2026-03-26-explanation-correctness-human-understanding-gap.md)
+- [Seeing through the Eyes of AI: Situated Explainability in Augmented Reality](xai/human-centered-explainability/2026-10-02-situated-explainability-augmented-reality.md)
 
 ### Inherently Interpretable Models
 
@@ -740,6 +747,10 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [KANEx: Translating Kolmogorov-Arnold Networks' Interpretability to Medical Explainability](xai/inherently-interpretable-models/2026-07-30-kanex-kolmogorov-arnold-networks-medical-explainability.md)
 - [Spatial Attention Noise Masking for Causally Sufficient Interpretability](xai/inherently-interpretable-models/2026-08-22-spatial-attention-noise-masking-causally-sufficient-interpretability.md)
 
+### Interpretability Frameworks
+
+- [GFGE: Unifying Explainable AI Methods Through an Interpretation Framework](xai/interpretability-frameworks/2026-10-04-gfge-unifying-explainable-ai-methods.md)
+
 ### Local Interpretability
 
 - [Interpretable AI with Local Distillation](xai/local-interpretability/2026-08-24-interpretable-ai-local-distillation.md)
@@ -747,6 +758,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 ### Mechanistic Interpretability
 
 - [Open Problems in Mechanistic Interpretability](xai/mechanistic-interpretability/2025-01-27-open-problems-mechanistic-interpretability.md)
+- [Mechanistic Unveiling of Transformer Circuits: Self-Influence as a Key to Model Reasoning](xai/mechanistic-interpretability/2025-02-28-mechanistic-unveiling-transformer-circuits-self-influence.md)
 - [CircuitProbe: Predicting Reasoning Circuits in Transformers via Stability Zone Detection](xai/mechanistic-interpretability/2026-04-01-circuitprobe-reasoning-circuits-stability-detection.md)
 - [Efficient Auto-Interpretability of AI Models in Biology](xai/mechanistic-interpretability/2026-08-27-efficient-auto-interpretability-ai-biology.md)
 - [A Survey on Sparse Autoencoders: Interpreting the Internal Mechanisms of Large Language Models](xai/mechanistic-interpretability/2025-03-07-survey-sparse-autoencoders-llm-mechanisms.md)
@@ -779,9 +791,8 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [From Mechanistic to Compositional Interpretability: A Category-Theoretic Framework](xai/mechanistic-interpretability/2026-05-07-compositional-interpretability-category-theoretic.md)
 - [Mechanistic Interpretability of EEG Foundation Models via Sparse Autoencoders](xai/mechanistic-interpretability/2026-05-13-mechanistic-interpretability-eeg-foundation-models-sparse-autoencoders.md)
 - [Beyond Linear Superposition: Discovering Climate Features in AI Weather Models with KAN-SAE](xai/mechanistic-interpretability/2026-05-20-kan-sae-climate-features-weather-models.md)
-- [Towards Verifiable Transformers: Solver-Checkable Circuit Explanations](xai/mechanistic-interpretability/2026-05-24-verifiable-transformers-circuit-explanations.md)
-- [Transformer Field Theory: A Response-Theoretic Approach to Mechanistic Interpretability](xai/mechanistic-interpretability/2026-05-25-transformer-field-theory-response-theoretic-mechanistic-interpretability.md)
 - [Towards Verifiable Transformers: Solver-Checkable Circuit Explanations](xai/mechanistic-interpretability/2026-05-26-verifiable-transformers-solver-checkable-circuit-explanations.md)
+- [Transformer Field Theory: A Response-Theoretic Approach to Mechanistic Interpretability](xai/mechanistic-interpretability/2026-05-25-transformer-field-theory-response-theoretic-mechanistic-interpretability.md)
 - [MechRL: Reinforcement Learning Agents Perform Circuit Discovery for Mechanistic Interpretability](xai/mechanistic-interpretability/2026-05-26-mechrl-circuit-discovery-reinforcement-learning.md)
 - [Ablation-Reversible Heads Don't Transfer: A Stress Test for Mechanistic Role Claims in Transformers](xai/mechanistic-interpretability/2026-06-06-ablation-reversible-heads-transfer-mechanistic-role-claims.md)
 - [Subspace-Aware Sparse Autoencoders for Effective Mechanistic Interpretability](xai/mechanistic-interpretability/2026-06-06-subspace-aware-sparse-autoencoders-mechanistic-interpretability.md)
@@ -792,6 +803,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [Metonymy in Vision Models Undermines Attention-Based Interpretability](xai/mechanistic-interpretability/2026-05-07-metonymy-vision-models-attention-interpretability.md)
 - [Can Language Model Agents be Helpful Circuit Explainers in Mechanistic Interpretability?](xai/mechanistic-interpretability/2026-06-24-agent-circuit-explainers-mechanistic-interpretability.md)
 - [Mechanistic Interpretability for Neural Networks: Circuits, Sparse Features and Symbolic Reasoning](xai/mechanistic-interpretability/2026-07-14-mechanistic-interpretability-circuits-sparse-features-symbolic-reasoning.md)
+- [CircuitKIT: Circuit Discovery, Evaluation, and Application Toolkit for Mechanistic Interpretability](xai/mechanistic-interpretability/2026-07-21-circuitkit-circuit-discovery-evaluation-toolkit.md)
 - [Linguistic Collapse: Neural Collapse in (Large) Language Models](xai/mechanistic-interpretability/2024-05-28-linguistic-collapse-neural-collapse-language-models.md)
 - [Aligning AI Through Internal Understanding: The Role of Interpretability](xai/mechanistic-interpretability/2025-09-10-aligning-ai-internal-understanding.md)
 - [Mechanistic Interpretability of LLM Jailbreaks via Internal Attribution Graphs](xai/mechanistic-interpretability/2026-07-08-mechanistic-interpretability-llm-jailbreaks-internal-attribution-graphs.md)
@@ -801,7 +813,6 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [Certified Interventional Fidelity: Anytime-Valid, Adaptive Evaluation of Causal Claims in Mechanistic Interpretability](xai/mechanistic-interpretability/2026-07-09-certified-interventional-fidelity-causal-claims.md)
 - [The Misery of Mechanistic Interpretability: A Formal Perspective](xai/mechanistic-interpretability/2026-09-18-misery-mechanistic-interpretability-formal-perspective.md)
 - [PhysSAE: Mechanistic Interpretability of PINNs with Sparse Autoencoders](xai/mechanistic-interpretability/2026-09-07-physsae-mechanistic-interpretability-pinns.md)
-- [Towards Verifiable Transformers: Solver-Checkable Circuit Explanations](xai/mechanistic-interpretability/2026-05-21-verifiable-transformers-solver-checkable-circuits.md)
 
 ### Self Explaining Models
 
