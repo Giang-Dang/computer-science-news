@@ -758,6 +758,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 ### Mechanistic Interpretability
 
 - [Open Problems in Mechanistic Interpretability](xai/mechanistic-interpretability/2025-01-27-open-problems-mechanistic-interpretability.md)
+- [An Explainable Transformer Circuit for Compositional Generalization](xai/mechanistic-interpretability/2025-02-19-explainable-transformer-circuit-compositional-generalization.md)
 - [Mechanistic Unveiling of Transformer Circuits: Self-Influence as a Key to Model Reasoning](xai/mechanistic-interpretability/2025-02-28-mechanistic-unveiling-transformer-circuits-self-influence.md)
 - [CircuitProbe: Predicting Reasoning Circuits in Transformers via Stability Zone Detection](xai/mechanistic-interpretability/2026-04-01-circuitprobe-reasoning-circuits-stability-detection.md)
 - [Efficient Auto-Interpretability of AI Models in Biology](xai/mechanistic-interpretability/2026-08-27-efficient-auto-interpretability-ai-biology.md)
