@@ -731,6 +731,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [Explainable AI Isn't Enough! Rethinking Algorithmic Contestability](xai/human-centered-explainability/2026-05-15-algorithmic-contestability-xai-beyond-recourse.md)
 - [VirtualXAI: A User-Centric Framework for Explainability Assessment Leveraging GPT-Generated Personas](xai/human-centered-explainability/2025-03-06-virtualxai-user-centric-explainability-assessment.md)
 - [Transparent AI: The Case for Interpretability and Explainability](xai/human-centered-explainability/2025-07-31-transparent-ai-practical-interpretability-implementation.md)
+- [Who Benefits from AI Explanations? Towards Accessible and Interpretable Systems](xai/human-centered-explainability/2025-08-14-who-benefits-ai-explanations-accessible-interpretable-systems.md)
 - [ContextualSHAP: Enhancing SHAP Explanations Through Contextual Language Generation](xai/human-centered-explainability/2025-12-08-contextualsap-shap-contextual-language.md)
 - [Radical AI Interpretability: A Philosophical Framework for Understanding AI Agents](xai/human-centered-explainability/2026-06-25-radical-ai-interpretability.md)
 - [Trustworthy AI in Digital Health: A Comprehensive Review of Robustness and Explainability](xai/human-centered-explainability/2026-08-03-trustworthy-ai-digital-health.md)
