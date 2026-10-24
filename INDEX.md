@@ -818,6 +818,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [The Misery of Mechanistic Interpretability: A Formal Perspective](xai/mechanistic-interpretability/2026-09-18-misery-mechanistic-interpretability-formal-perspective.md)
 - [PhysSAE: Mechanistic Interpretability of PINNs with Sparse Autoencoders](xai/mechanistic-interpretability/2026-09-07-physsae-mechanistic-interpretability-pinns.md)
 - [Feature Superposition in Neural Networks: From Theory to Practice](xai/mechanistic-interpretability/2026-10-20-feature-superposition-neural-networks.md)
+- [Sparse Autoencoders for Mechanistic Interpretability in NLP: A Critical Survey of Recoverability, Interpretability, and Utility](xai/mechanistic-interpretability/2026-10-14-sparse-autoencoders-mechanistic-interpretability-nlp-critical-survey.md)
 
 ### Self Explaining Models
 
