@@ -649,6 +649,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 
 - [DictXAI: Revisiting Explainable AI Through Model-Independent Concept Dictionaries](xai/concept-based-explanations/2026-10-07-dictxai-model-independent-concept-dictionaries.md)
 - [ConEx: Human-Interpretable Saliency Maps via Concept-Aware Attribution](xai/concept-based-explanations/2026-10-03-conex-human-interpretable-saliency-maps.md)
+- [ConceptSMILE: Auditing the Trustworthiness of Concept-Based Explainable AI](xai/concept-based-explanations/2026-07-10-conceptsmile-auditing-trustworthiness-concept-based-xai.md)
 - [Concept-Based Mechanistic Interpretability Using Structured Knowledge Graphs](xai/concept-based-explanations/2025-07-08-concept-based-mechanistic-interpretability-knowledge-graphs.md)
 - [GCAV: A Global Concept Activation Vector Framework for Cross-Layer Consistency in Interpretability](xai/concept-based-explanations/2025-08-28-gcav-global-concept-activation-vectors-cross-layer-consistency.md)
 - [Atlas-Alignment: Making Interpretability Transferable Across Language Models](xai/concept-based-explanations/2025-10-27-atlas-alignment-interpretability-transfer-language-models.md)
