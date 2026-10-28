@@ -819,6 +819,10 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [Self-Interpretability: LLMs Can Describe Complex Internal Processes that Drive Their Decisions](xai/self-explaining-models/2025-05-21-self-interpretability-llms-internal-processes.md)
 - [Explain Yourself, Briefly! Self-Explaining Neural Networks with Concise Sufficient Reasons](xai/self-explaining-models/2025-02-03-explain-yourself-briefly-sufficient-reasons.md)
 
+### Robustness and Stability
+
+- [Beyond Gradient-Based Attacks: Adversarial Robustness and Explainability Stability in Cybersecurity Classifiers](xai/robustness-stability/2026-07-02-adversarial-robustness-explainability-stability-cybersecurity.md)
+
 ### Theoretical Foundations
 
 - [Investigating the Duality of Interpretability and Explainability in Machine Learning](xai/theoretical-foundations/2025-03-27-duality-interpretability-explainability-integration-framework.md)
