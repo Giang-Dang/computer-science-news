@@ -711,6 +711,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [Feature salience - not task-informativeness - drives machine learning model explanations](xai/feature-attribution/2026-02-09-feature-salience-not-task-informativeness-xai.md)
 - [Which Modality Decides? Counterfactual Modality Attribution for Multimodal LLMs](xai/feature-attribution/2026-08-04-which-modality-decides-counterfactual-modality-attribution.md)
 - [Towards Rigorous Explainability by Feature Attribution](xai/feature-attribution/2026-04-17-towards-rigorous-explainability-feature-attribution.md)
+- [SaliencyDecor: Enhancing Neural Network Interpretability through Feature Decorrelation](xai/feature-attribution/2026-04-25-saliencydecor-feature-decorrelation-interpretability.md)
 
 ### Human Centered Explainability
 
