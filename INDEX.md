@@ -661,6 +661,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [α-TCAV: A Unified Framework for Testing with Concept Activation Vectors](xai/concept-based-explanations/2026-05-15-alpha-tcav-unified-framework-concept-activation-vectors.md)
 - [Concept-Based Abductive and Contrastive Explanations for Behaviors of Vision Models](xai/concept-based-explanations/2026-06-05-concept-based-abductive-contrastive-explanations-vision-models.md)
 - [Leakage and Interpretability in Concept-Based Models](xai/concept-based-explanations/2025-04-18-leakage-interpretability-concept-based-models.md)
+- [ConceptX: Concept-Level Explainability for Auditing & Steering LLM Responses](xai/concept-based-explanations/2025-05-12-conceptx-concept-level-explainability-auditing-steering-llm.md)
 - [A Comprehensive Survey on the Risks and Limitations of Concept-based Models](xai/concept-based-explanations/2025-06-25-comprehensive-survey-risks-limitations-concept-based-models.md)
 - [Hierarchical Concept-based Interpretable Models](xai/concept-based-explanations/2025-02-24-hierarchical-concept-embedding-models.md)
 - [Enhancing Performance of Explainable AI Models with Constrained Concept Refinement](xai/concept-based-explanations/2025-02-27-constrained-concept-refinement-ccr.md)
