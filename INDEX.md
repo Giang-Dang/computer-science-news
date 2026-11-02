@@ -754,6 +754,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [KANEx: Translating Kolmogorov-Arnold Networks' Interpretability to Medical Explainability](xai/inherently-interpretable-models/2026-07-30-kanex-kolmogorov-arnold-networks-medical-explainability.md)
 - [Spatial Attention Noise Masking for Causally Sufficient Interpretability](xai/inherently-interpretable-models/2026-08-22-spatial-attention-noise-masking-causally-sufficient-interpretability.md)
 - [Specific Algorithmic Interpretability of Neural Networks: A Case Study on Textures](xai/inherently-interpretable-models/2026-10-03-algorithmic-interpretability-neural-networks-textures.md)
+- [Interpretable Meta-Policies for Neural Decision Making](xai/inherently-interpretable-models/2026-10-29-nexus-interpretable-meta-policies-neural-decision-making.md)
 
 ### Interpretability Frameworks
 
