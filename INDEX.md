@@ -710,6 +710,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [Saliency-R1: Enforcing Interpretable and Faithful Vision-language Reasoning via Saliency-map Alignment Reward](xai/feature-attribution/2026-04-06-saliency-r1-vision-language-reasoning.md)
 - [Feature salience - not task-informativeness - drives machine learning model explanations](xai/feature-attribution/2026-02-09-feature-salience-not-task-informativeness-xai.md)
 - [Which Modality Decides? Counterfactual Modality Attribution for Multimodal LLMs](xai/feature-attribution/2026-08-04-which-modality-decides-counterfactual-modality-attribution.md)
+- [Attention-Guided Saliency Maps for Interpreting Visualization Literacy in Vision-Language Models](xai/feature-attribution/2026-07-17-attention-guided-saliency-visualization-literacy-vlms.md)
 - [Towards Rigorous Explainability by Feature Attribution](xai/feature-attribution/2026-04-17-towards-rigorous-explainability-feature-attribution.md)
 
 ### Human Centered Explainability
