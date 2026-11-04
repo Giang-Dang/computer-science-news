@@ -689,6 +689,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [Time Series Saliency Maps: Explaining Models Across Multiple Domains](xai/feature-attribution/2025-05-20-time-series-saliency-maps-cross-domain-integrated-gradients.md)
 - [SHLIME: Foiling Adversarial Attacks Fooling SHAP and LIME](xai/feature-attribution/2025-08-14-shlime-adversarial-robustness-shap-lime.md)
 - [Informative Post-Hoc Explanations Only Exist for Simple Functions](xai/feature-attribution/2025-08-15-informative-post-hoc-explanations-simple-functions.md)
+- [llmSHAP: A Principled Approach to LLM Explainability](xai/feature-attribution/2025-11-03-llmshap-principled-llm-explainability.md)
 - [Distribution-Based Feature Attribution for Explaining the Predictions of Any Classifier](xai/feature-attribution/2025-11-09-distribution-based-feature-attribution-dfax.md)
 - [Interpreto: An Explainability Library for Transformers](xai/feature-attribution/2025-12-17-interpreto-explainability-library-transformers.md)
 - [Explainability of Complex AI Models with Correlation Impact Ratio (ExCIR)](xai/feature-attribution/2026-01-10-excir-correlation-impact-ratio.md)
