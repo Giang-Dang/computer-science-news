@@ -797,6 +797,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [Sparse Autoencoders Reveal Interpretable and Steerable Features in VLA Models](xai/mechanistic-interpretability/2026-03-19-saes-vla-models-steerable-features.md)
 - [Automated Attention Pattern Discovery at Scale in Large Language Models](xai/mechanistic-interpretability/2026-04-04-automated-attention-pattern-discovery-llms.md)
 - [AIPsy-Affect: A Keyword-Free Clinical Stimulus Battery for Mechanistic Interpretability of Emotion in Language Models](xai/mechanistic-interpretability/2026-04-09-aipsy-affect-keyword-free-clinical-stimulus-emotion.md)
+- [LINE: LLM-Based Iterative Neuron Explanations for Vision Models](xai/mechanistic-interpretability/2026-04-09-line-llm-based-neuron-explanations-vision-models.md)
 - [Seeing Through Circuits: Faithful Mechanistic Interpretability for Vision Transformers](xai/mechanistic-interpretability/2026-04-14-seeing-through-circuits-vision-transformers.md)
 - [Are LLM Uncertainty and Correctness Encoded by the Same Features? A Functional Dissociation via Sparse Autoencoders](xai/mechanistic-interpretability/2026-04-21-llm-uncertainty-correctness-saes.md)
 - [Why Does Reinforcement Learning Generalize? A Feature-Level Mechanistic Study of Post-Training in Large Language Models](xai/mechanistic-interpretability/2026-04-27-rl-generalization-feature-level-mechanistic-study-llms.md)
