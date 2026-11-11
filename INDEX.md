@@ -646,6 +646,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [Computing Actual Causes for Neural Network Predictions under Structured Causal Inputs](xai/causal-interpretability/2026-08-04-computing-actual-causes-neural-networks-structured-causal-inputs.md)
 - [Regional Explanations via Causal Sufficiency and Necessity](xai/causal-interpretability/2026-09-16-regional-explanations-causal-sufficiency-necessity.md)
 - [Causal Integrated Gradients: Scalable Feature Attribution Along Causal Paths](xai/causal-interpretability/2026-10-31-causal-integrated-gradients-scalable-feature-attribution.md)
+- [Causal Concept Explanations for Deep Neural Models](xai/causal-interpretability/2026-11-10-causal-concept-explanations-deep-neural-models.md)
 
 ### Concept Based Explanations
 
