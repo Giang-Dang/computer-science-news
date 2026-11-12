@@ -712,6 +712,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [Feature Attribution from First Principles](xai/feature-attribution/2025-05-30-feature-attribution-first-principles.md)
 - [Revisiting LRP: Positional Attribution as the Missing Ingredient for Transformer Explainability](xai/feature-attribution/2025-06-02-revisiting-lrp-positional-attribution-transformer-explainability.md)
 - [Why Uncertainty Calibration Matters for Reliable Perturbation-based Explanations](xai/feature-attribution/2025-06-15-uncertainty-calibration-perturbation-based-explanations.md)
+- [Beyond Shapley Values: Cooperative Games for the Interpretation of Machine Learning Models](xai/feature-attribution/2025-06-16-beyond-shapley-values-cooperative-games.md)
 - [Feature-Function Curvature Analysis: A Geometric Framework for Explaining Differentiable Models](xai/feature-attribution/2025-10-31-feature-function-curvature-analysis-geometric-framework.md)
 - [Saliency-R1: Enforcing Interpretable and Faithful Vision-language Reasoning via Saliency-map Alignment Reward](xai/feature-attribution/2026-04-06-saliency-r1-vision-language-reasoning.md)
 - [Feature salience - not task-informativeness - drives machine learning model explanations](xai/feature-attribution/2026-02-09-feature-salience-not-task-informativeness-xai.md)
