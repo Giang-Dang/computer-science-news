@@ -764,6 +764,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 
 ### Interpretability Frameworks
 
+- [Unifying VXAI: A Systematic Review and Framework for the Evaluation of Explainable AI](xai/interpretability-frameworks/2025-06-18-unifying-vxai-systematic-review-xai-evaluation.md)
 - [GFGE: Unifying Explainable AI Methods Through an Interpretation Framework](xai/interpretability-frameworks/2026-10-04-gfge-unifying-explainable-ai-methods.md)
 
 ### Local Interpretability
