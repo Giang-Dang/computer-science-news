@@ -818,6 +818,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [Subspace-Aware Sparse Autoencoders for Effective Mechanistic Interpretability](xai/mechanistic-interpretability/2026-06-06-subspace-aware-sparse-autoencoders-mechanistic-interpretability.md)
 - [The Standard Interpretable Model: A General Theory of Interpretable Machine Learning Using Lagrangian Mechanics](xai/mechanistic-interpretability/2026-06-10-standard-interpretable-model-lagrangian-mechanics.md)
 - [Signal in the Noise: Polysemantic Interference Transfers and Predicts Cross-Model Influence](xai/mechanistic-interpretability/2025-05-01-signal-in-noise-polysemantic-interference.md)
+- [Causal Head Gating: A Framework for Interpreting Roles of Attention Heads in Transformers](xai/mechanistic-interpretability/2025-05-21-causal-head-gating-attention-heads.md)
 - [Beyond Components: Singular Vector-Based Interpretability of Transformer Circuits](xai/mechanistic-interpretability/2025-11-25-beyond-components-singular-vector-interpretability-transformer-circuits.md)
 - [Start Making Sense(s): A Developmental Probe of Attention Specialization Using Lexical Ambiguity](xai/mechanistic-interpretability/2025-11-26-developmental-probe-attention-specialization-lexical-ambiguity.md)
 - [Metonymy in Vision Models Undermines Attention-Based Interpretability](xai/mechanistic-interpretability/2026-05-07-metonymy-vision-models-attention-interpretability.md)
