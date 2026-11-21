@@ -844,6 +844,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [Sparse Autoencoders for Mechanistic Interpretability in NLP: A Critical Survey of Recoverability, Interpretability, and Utility](xai/mechanistic-interpretability/2026-10-14-sparse-autoencoders-mechanistic-interpretability-nlp-critical-survey.md)
 - [Understanding AI from the Inside: The State of Mechanistic Interpretability for AI Safety](xai/mechanistic-interpretability/2026-11-05-understanding-ai-from-inside-mechanistic-interpretability-ai-safety.md)
 - [A Mechanistic Interpretability Study of an Astronomy Foundation Model](xai/mechanistic-interpretability/2026-11-11-mechanistic-interpretability-astronomy-foundation-model.md)
+- [Separating Interpretability and Reconstruction in Sparse Autoencoders (DualSAE)](xai/mechanistic-interpretability/2026-11-18-dualsae-separating-interpretability-reconstruction.md)
 
 ### Self Explaining Models
 
