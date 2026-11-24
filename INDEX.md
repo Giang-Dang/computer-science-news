@@ -684,6 +684,10 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [Detecting and Mitigating Bias by Treating Fairness as a Symmetry Operation](xai/fairness-interpretability/2026-06-02-fairness-as-symmetry-operation-bias-detection.md)
 - [Interpretable and Fair Generalized Additive Neural Networks via Multi-objective Learning](xai/fairness-interpretability/2026-09-05-interpretable-fair-gam-neural-networks.md)
 
+### Explanation Evaluation
+
+- [XAI-Arena: Can LLMs Assess the Quality of XAI Explanations?](xai/explanation-evaluation/2026-09-24-xai-arena-llm-judge-xai-explanations.md)
+
 ### XAI Foundations
 
 - [Position: Explainability Research Must Prioritize Foundations over Ad-hoc Methods](xai/xai-foundations/2026-08-13-explainability-foundations-position-paper.md)
