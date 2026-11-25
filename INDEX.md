@@ -688,6 +688,10 @@ A navigable index of paper summaries in this repository, organized by topic.
 
 - [XAI-Arena: Can LLMs Assess the Quality of XAI Explanations?](xai/explanation-evaluation/2026-09-24-xai-arena-llm-judge-xai-explanations.md)
 
+### Visual Interpretability
+
+- [Counterfactual Contrastive Analysis: Visual Explanations through Disentangled Generative Models](xai/visual-interpretability/2026-08-19-counterfactual-contrastive-analysis.md)
+
 ### XAI Foundations
 
 - [Position: Explainability Research Must Prioritize Foundations over Ad-hoc Methods](xai/xai-foundations/2026-08-13-explainability-foundations-position-paper.md)
