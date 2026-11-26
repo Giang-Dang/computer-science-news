@@ -732,6 +732,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [Towards Rigorous Explainability by Feature Attribution](xai/feature-attribution/2026-04-17-towards-rigorous-explainability-feature-attribution.md)
 - [SaliencyDecor: Enhancing Neural Network Interpretability through Feature Decorrelation](xai/feature-attribution/2026-04-25-saliencydecor-feature-decorrelation-interpretability.md)
 - [Beyond Feature Attribution: Recovering Latent Interaction Structures in Machine Learning Models via Localized CBFI](xai/feature-attribution/2026-10-26-beyond-feature-attribution-latent-interaction-structures-cbfi.md)
+- [VARSHAP: Addressing Global Dependency Problems in Explainable AI with Variance-Based Local Feature Attribution](xai/feature-attribution/2025-06-08-varshap-local-feature-attribution.md)
 
 ### Human Centered Explainability
 
