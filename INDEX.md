@@ -701,6 +701,7 @@ A navigable index of paper summaries in this repository, organized by topic.
 - [Towards Unified Attribution in Explainable AI, Data-Centric AI, and Mechanistic Interpretability](xai/feature-attribution/2025-01-31-towards-unified-attribution-xai-dcai-mi.md)
 - [Which LIME should I trust? Concepts, Challenges, and Solutions](xai/feature-attribution/2025-03-31-which-lime-should-i-trust-survey.md)
 - [Explainable Embeddings with Distance Explainer](xai/feature-attribution/2025-05-15-explainable-embeddings-distance-explainer.md)
+- [PatternLocal: Minimizing False-Positive Attributions in Explanations of Non-Linear Models](xai/feature-attribution/2025-05-16-patternlocal-false-positive-attributions.md)
 - [Time Series Saliency Maps: Explaining Models Across Multiple Domains](xai/feature-attribution/2025-05-20-time-series-saliency-maps-cross-domain-integrated-gradients.md)
 - [SHLIME: Foiling Adversarial Attacks Fooling SHAP and LIME](xai/feature-attribution/2025-08-14-shlime-adversarial-robustness-shap-lime.md)
 - [Informative Post-Hoc Explanations Only Exist for Simple Functions](xai/feature-attribution/2025-08-15-informative-post-hoc-explanations-simple-functions.md)
